@@ -45,3 +45,8 @@
 ![unclenox](https://static-cdn.jtvnw.net/emoticons/v1/3666/1.0) `:unclenox:`|![unsane](https://static-cdn.jtvnw.net/emoticons/v1/71/1.0) `:unsane:`|![vaultboy](https://static-cdn.jtvnw.net/emoticons/v1/54090/1.0) `:vaultboy:`|![volcania](https://static-cdn.jtvnw.net/emoticons/v1/166/1.0) `:volcania:`
 ![wholewheat](https://static-cdn.jtvnw.net/emoticons/v1/1896/1.0) `:wholewheat:`|![winwaker](https://static-cdn.jtvnw.net/emoticons/v1/167/1.0) `:winwaker:`|![wtruck](https://static-cdn.jtvnw.net/emoticons/v1/1897/1.0) `:wtruck:`|![wutface](https://static-cdn.jtvnw.net/emoticons/v1/28087/1.0) `:wutface:`
 ![youwhy](https://static-cdn.jtvnw.net/emoticons/v1/4337/1.0) `:youwhy:`|||
+
+## Legal
+Emote and badge images are property of Twitch Interactive and their respective owners.
+
+Api provided by https://twitchemotes.com
