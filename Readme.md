@@ -4,8 +4,8 @@
 ## Global Emotes
 `https://raw.githubusercontent.com/nickgal/emojipacks-twitch/master/twitch-global.yml`
 
-||||
-:-|:-|:-|:-
+ | | | | 
+:---|:---|:---|:---
 ![4head](https://static-cdn.jtvnw.net/emoticons/v1/354/1.0) `:4head:`|![anele](https://static-cdn.jtvnw.net/emoticons/v1/3792/1.0) `:anele:`|![argieb8](https://static-cdn.jtvnw.net/emoticons/v1/51838/1.0) `:argieb8:`|![arsonnosexy](https://static-cdn.jtvnw.net/emoticons/v1/50/1.0) `:arsonnosexy:`
 ![asianglow](https://static-cdn.jtvnw.net/emoticons/v1/74/1.0) `:asianglow:`|![atgl](https://static-cdn.jtvnw.net/emoticons/v1/9809/1.0) `:atgl:`|![athenapms](https://static-cdn.jtvnw.net/emoticons/v1/32035/1.0) `:athenapms:`|![ativy](https://static-cdn.jtvnw.net/emoticons/v1/9800/1.0) `:ativy:`
 ![atww](https://static-cdn.jtvnw.net/emoticons/v1/9801/1.0) `:atww:`|![babyrage](https://static-cdn.jtvnw.net/emoticons/v1/22639/1.0) `:babyrage:`|![batchest](https://static-cdn.jtvnw.net/emoticons/v1/1905/1.0) `:batchest:`|![bcwarrior](https://static-cdn.jtvnw.net/emoticons/v1/30/1.0) `:bcwarrior:`
