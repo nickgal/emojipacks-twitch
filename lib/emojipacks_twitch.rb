@@ -22,4 +22,23 @@ class EmojipacksTwitch
       f.write output_hash.to_yaml
     end
   end
+
+  def self.build_global
+    url = 'http://twitchemotes.com/api_cache/v2/global.json'
+    global_json = JSON.parse open(url).read
+    image_template = "https:#{global_json['template']['small']}"
+    output_hash = {
+      'title' => 'Twitch Global Emotes'
+    }
+    output_hash['emojis'] = global_json['emotes'].map do |code, obj|
+      src = image_template.sub('{image_id}', obj['image_id'].to_s)
+      {
+        'name' => code.downcase,
+        'src' => src
+      }
+    end
+    File.open('twitch-global.yml', 'w') do |f|
+      f.write output_hash.to_yaml
+    end
+  end
 end
