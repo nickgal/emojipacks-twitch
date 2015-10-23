@@ -1,5 +1,6 @@
 require 'bundler'
 require 'yaml'
+require 'open-uri'
 Bundler.require
 
 class EmojipacksTwitch
