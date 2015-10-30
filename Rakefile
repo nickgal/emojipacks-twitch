@@ -10,8 +10,8 @@ end
 
 task :create_readme do
   emotes = YAML.load_file 'twitch-global.yml'
-  puts '||||'
-  puts ':-|:-|:-|:-'
+  puts ' | | | | '
+  puts ':---|:---|:---|:---'
   emotes['emojis'].each_slice(4) do |row|
     items = row.map do |m|
       "![#{m['name']}](#{m['src']}) `:#{m['name']}:`"
