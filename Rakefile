@@ -8,6 +8,10 @@ task :build_global do
   EmojipacksTwitch.build_global
 end
 
+task :build_subscriber do
+  EmojipacksTwitch.build_subscriber
+end
+
 task :create_readme do
   emotes = YAML.load_file 'twitch-global.yml'
   puts ' | | | | '

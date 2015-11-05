@@ -46,6 +46,12 @@
 ![volcania](https://static-cdn.jtvnw.net/emoticons/v1/166/1.0) `:volcania:`|![wholewheat](https://static-cdn.jtvnw.net/emoticons/v1/1896/1.0) `:wholewheat:`|![winwaker](https://static-cdn.jtvnw.net/emoticons/v1/167/1.0) `:winwaker:`|![wtruck](https://static-cdn.jtvnw.net/emoticons/v1/1897/1.0) `:wtruck:`
 ![wutface](https://static-cdn.jtvnw.net/emoticons/v1/28087/1.0) `:wutface:`|![youwhy](https://static-cdn.jtvnw.net/emoticons/v1/4337/1.0) `:youwhy:`||
 
+## Building
+Global emotes `rake build_global`
+
+Subscriber Emotes
+`CHANNELS="arteezy beyondthesummit" rake build_subscriber`
+
 ## Legal
 Emote and badge images are property of Twitch Interactive and their respective owners.
 
