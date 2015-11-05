@@ -26,18 +26,39 @@ class EmojipacksTwitch
   def self.build_global
     url = 'http://twitchemotes.com/api_cache/v2/global.json'
     global_json = JSON.parse open(url).read
-    image_template = "https:#{global_json['template']['small']}"
+
+    build_hash global_json, 'Twitch Global Emotes', 'global'
+  end
+
+  def self.build_subscriber
+    channels = (ENV['CHANNELS'] || '').split(' ')
+    url = "http://twitchemotes.com/api_cache/v2/subscriber.json"
+    subscriber_json = JSON.parse open(url).read
+    subscriber_json['channels']
+    channel_json = subscriber_json['channels'].select{ |key,val| channels.include?(key) }
+
+    channel_json.map do |channel_name, json|
+      build_hash json, "Twitch Subscriber Emotes - #{channel_name}", channel_name
+    end
+  end
+
+  def self.build_hash(json, title, filename)
+    image_template = 'https://static-cdn.jtvnw.net/emoticons/v1/{image_id}/1.0'
     output_hash = {
-      'title' => 'Twitch Global Emotes'
+      'title' => title
     }
-    output_hash['emojis'] = global_json['emotes'].map do |code, obj|
+    output_hash['emojis'] = json['emotes'].map do |code, obj|
+      unless filename == 'global'
+        obj = code
+        code = obj['code']
+      end
       src = image_template.sub('{image_id}', obj['image_id'].to_s)
       {
         'name' => code.downcase,
         'src' => src
       }
     end
-    File.open('twitch-global.yml', 'w') do |f|
+    File.open("twitch-#{filename}.yml", 'w') do |f|
       f.write output_hash.to_yaml
     end
   end
