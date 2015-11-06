@@ -1,0 +1,13 @@
+---
+title: Twitch Subscriber Emotes - exserv
+emojis:
+- name: exspraise
+  src: https://static-cdn.jtvnw.net/emoticons/v1/21803/1.0
+- name: exsapproved
+  src: https://static-cdn.jtvnw.net/emoticons/v1/21843/1.0
+- name: exs1hp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/22182/1.0
+- name: exsozis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/22183/1.0
+- name: exsfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/22503/1.0

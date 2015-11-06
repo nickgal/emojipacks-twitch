@@ -1,0 +1,15 @@
+---
+title: Twitch Subscriber Emotes - saltydotabot
+emojis:
+- name: saltyquest
+  src: https://static-cdn.jtvnw.net/emoticons/v1/3584/1.0
+- name: saltymike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/3720/1.0
+- name: saltygold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/5477/1.0
+- name: saltykappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/5478/1.0
+- name: saltysilence
+  src: https://static-cdn.jtvnw.net/emoticons/v1/7742/1.0
+- name: saltytrashtalk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/7743/1.0

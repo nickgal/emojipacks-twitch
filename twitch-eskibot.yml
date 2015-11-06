@@ -1,0 +1,11 @@
+---
+title: Twitch Subscriber Emotes - eskibot
+emojis:
+- name: eskibotloot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/25457/1.0
+- name: eskibotbarch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/29579/1.0
+- name: eskibotcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/29601/1.0
+- name: eskibotbot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/29638/1.0

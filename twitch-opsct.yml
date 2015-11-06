@@ -1,0 +1,33 @@
+---
+title: Twitch Subscriber Emotes - opsct
+emojis:
+- name: opsoutplay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/56420/1.0
+- name: opsrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/47518/1.0
+- name: opshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/47517/1.0
+- name: opsclench
+  src: https://static-cdn.jtvnw.net/emoticons/v1/56422/1.0
+- name: opsheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/56421/1.0
+- name: opshome
+  src: https://static-cdn.jtvnw.net/emoticons/v1/45273/1.0
+- name: opsshane
+  src: https://static-cdn.jtvnw.net/emoticons/v1/45271/1.0
+- name: opswinner
+  src: https://static-cdn.jtvnw.net/emoticons/v1/45396/1.0
+- name: opssalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/47730/1.0
+- name: opsrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/47728/1.0
+- name: opsop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/47729/1.0
+- name: opsserious
+  src: https://static-cdn.jtvnw.net/emoticons/v1/51465/1.0
+- name: opsban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/50759/1.0
+- name: opscreeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/56193/1.0
+- name: opswoah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/56194/1.0

@@ -1,0 +1,33 @@
+---
+title: Twitch Subscriber Emotes - adr1v3
+emojis:
+- name: adrshiny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/22106/1.0
+- name: adrguitar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/22107/1.0
+- name: adrcheese
+  src: https://static-cdn.jtvnw.net/emoticons/v1/22938/1.0
+- name: adrzip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/25761/1.0
+- name: adrsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/28970/1.0
+- name: adrgomy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/50923/1.0
+- name: adrarmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/50916/1.0
+- name: adrchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/53610/1.0
+- name: adrturnup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/53602/1.0
+- name: adrdonate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/49963/1.0
+- name: adrluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/51334/1.0
+- name: adrlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/50124/1.0
+- name: adrking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/54169/1.0
+- name: adrdeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/53464/1.0
+- name: adrlarry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/62469/1.0
