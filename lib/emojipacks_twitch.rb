@@ -34,8 +34,11 @@ class EmojipacksTwitch
     channels = (ENV['CHANNELS'] || '').split(' ')
     url = "http://twitchemotes.com/api_cache/v2/subscriber.json"
     subscriber_json = JSON.parse open(url).read
-    subscriber_json['channels']
-    channel_json = subscriber_json['channels'].select{ |key,val| channels.include?(key) }
+    channel_json = if channels.empty?
+      subscriber_json['channels']
+    else
+      subscriber_json['channels'].select{ |key,val| channels.include?(key) }
+    end
 
     channel_json.map do |channel_name, json|
       build_hash json, "Twitch Subscriber Emotes - #{channel_name}", channel_name
