@@ -1,18 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - nnaderade
 emojis:
-- name: laheyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65542/1.0
-- name: laheypickle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71048/1.0
 - name: laheyneck
   src: https://static-cdn.jtvnw.net/emoticons/v1/70957/1.0
 - name: laheyross
   src: https://static-cdn.jtvnw.net/emoticons/v1/70956/1.0
-- name: laheylove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62459/1.0
-- name: laheycheers
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62460/1.0
 - name: laheyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/62525/1.0
 - name: laheyaim

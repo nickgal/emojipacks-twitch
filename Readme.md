@@ -2,7 +2,7 @@
 > Bringing kappa to your Slack.
 
 ## Global Emotes
-`https://raw.githubusercontent.com/nickgal/emojipacks-twitch/master/twitch-global.yml`
+`https://raw.githubusercontent.com/nickgal/emojipacks-twitch/master/output/twitch-global.yml`
 
  | | | |
 :---|:---|:---|:---

@@ -31,8 +31,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71374/1.0
 - name: bobrossmini
   src: https://static-cdn.jtvnw.net/emoticons/v1/71375/1.0
+- name: bobrosscanvasb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71548/1.0
 - name: bobrosscabin
   src: https://static-cdn.jtvnw.net/emoticons/v1/71102/1.0
+- name: bobrossmeta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71549/1.0
+- name: bobrosskappar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71550/1.0
 - name: bobrosscloud
   src: https://static-cdn.jtvnw.net/emoticons/v1/71377/1.0
 - name: bobrosscool

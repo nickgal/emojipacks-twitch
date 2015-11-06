@@ -18,7 +18,7 @@ class EmojipacksTwitch
         'src' => "https://static-cdn.jtvnw.net/emoticons/v1/#{image_id}/1.0"
       }
     end
-    File.open('twitch.yml', 'w') do |f|
+    File.open('output/twitch.yml', 'w') do |f|
       f.write output_hash.to_yaml
     end
   end
@@ -61,7 +61,7 @@ class EmojipacksTwitch
         'src' => src
       }
     end
-    File.open("twitch-#{filename}.yml", 'w') do |f|
+    File.open("output/twitch-#{filename}.yml", 'w') do |f|
       f.write output_hash.to_yaml
     end
   end
