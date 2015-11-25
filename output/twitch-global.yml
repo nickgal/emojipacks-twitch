@@ -3,6 +3,8 @@ title: Twitch Global Emotes
 emojis:
 - name: 4head
   src: https://static-cdn.jtvnw.net/emoticons/v1/354/1.0
+- name: ackbar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72752/1.0
 - name: anele
   src: https://static-cdn.jtvnw.net/emoticons/v1/3792/1.0
 - name: argieb8
@@ -107,6 +109,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/357/1.0
 - name: humblelife
   src: https://static-cdn.jtvnw.net/emoticons/v1/46881/1.0
+- name: itsatrap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72753/1.0
 - name: itsboshytime
   src: https://static-cdn.jtvnw.net/emoticons/v1/169/1.0
 - name: jebaited
@@ -187,6 +191,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3412/1.0
 - name: permasmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/27509/1.0
+- name: petezaroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72748/1.0
+- name: petezarolltie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72749/1.0
 - name: picomause
   src: https://static-cdn.jtvnw.net/emoticons/v1/27/1.0
 - name: pipehype
@@ -249,8 +257,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46/1.0
 - name: stonelightning
   src: https://static-cdn.jtvnw.net/emoticons/v1/17/1.0
+- name: stormtrooper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72750/1.0
 - name: strawbeary
   src: https://static-cdn.jtvnw.net/emoticons/v1/37/1.0
+- name: sullustan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72751/1.0
 - name: supervinlin
   src: https://static-cdn.jtvnw.net/emoticons/v1/31/1.0
 - name: swiftrage
