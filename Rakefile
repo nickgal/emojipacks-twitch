@@ -13,7 +13,7 @@ task :build_subscriber do
 end
 
 task :create_readme do
-  emotes = YAML.load_file 'twitch-global.yml'
+  emotes = YAML.load_file 'output/twitch-global.yml'
   puts ' | | | | '
   puts ':---|:---|:---|:---'
   emotes['emojis'].each_slice(4) do |row|
