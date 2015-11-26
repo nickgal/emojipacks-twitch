@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - howtochel
 emojis:
-- name: htcrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69532/1.0
 - name: htchype
   src: https://static-cdn.jtvnw.net/emoticons/v1/69531/1.0
 - name: htcpee
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44322/1.0
 - name: htcthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/69526/1.0
+- name: htcbaby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71816/1.0

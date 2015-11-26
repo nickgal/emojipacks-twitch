@@ -1,9 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - careyfrozt
 emojis:
+- name: froztstroke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71764/1.0
 - name: froztpixel
   src: https://static-cdn.jtvnw.net/emoticons/v1/44259/1.0
 - name: froztrawr
   src: https://static-cdn.jtvnw.net/emoticons/v1/71488/1.0
 - name: froztzap
   src: https://static-cdn.jtvnw.net/emoticons/v1/71489/1.0
+- name: froztgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73562/1.0

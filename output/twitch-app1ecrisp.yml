@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64956/1.0
 - name: gubswift
   src: https://static-cdn.jtvnw.net/emoticons/v1/64909/1.0
+- name: gubkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71947/1.0
 - name: gublove
   src: https://static-cdn.jtvnw.net/emoticons/v1/64268/1.0
 - name: gubger
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66696/1.0
 - name: gubwheel
   src: https://static-cdn.jtvnw.net/emoticons/v1/66697/1.0
+- name: gubgerk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71946/1.0

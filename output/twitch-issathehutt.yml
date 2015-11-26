@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - issathehutt
 emojis:
+- name: issariki
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73581/1.0
+- name: issahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73035/1.0
+- name: issaninja
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71670/1.0
 - name: issagasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64936/1.0
-- name: issatroops
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69415/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73036/1.0

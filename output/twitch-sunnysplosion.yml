@@ -9,6 +9,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58416/1.0
 - name: splodechin
   src: https://static-cdn.jtvnw.net/emoticons/v1/58415/1.0
+- name: splodedenied
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72082/1.0
+- name: sploded
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72080/1.0
 - name: splodepum
   src: https://static-cdn.jtvnw.net/emoticons/v1/70405/1.0
 - name: splodedead

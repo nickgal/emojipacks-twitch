@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - cdv_nesblog
 emojis:
+- name: cdvrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72806/1.0
 - name: cdvraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/56643/1.0
 - name: cdvpizza
   src: https://static-cdn.jtvnw.net/emoticons/v1/55177/1.0
 - name: cdvmarx
   src: https://static-cdn.jtvnw.net/emoticons/v1/56039/1.0
-- name: cdvrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70870/1.0

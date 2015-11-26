@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - sco
 emojis:
-- name: scoscomosexual
-  src: https://static-cdn.jtvnw.net/emoticons/v1/246/1.0
 - name: scobro
   src: https://static-cdn.jtvnw.net/emoticons/v1/6957/1.0
 - name: scocreep
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65201/1.0
 - name: scomethod
   src: https://static-cdn.jtvnw.net/emoticons/v1/68692/1.0
+- name: scohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72361/1.0

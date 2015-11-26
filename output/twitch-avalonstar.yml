@@ -5,35 +5,39 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62330/1.0
 - name: avaloneyes
   src: https://static-cdn.jtvnw.net/emoticons/v1/62332/1.0
-- name: avalonlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65127/1.0
-- name: avalonban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55352/1.0
 - name: avaloncry
   src: https://static-cdn.jtvnw.net/emoticons/v1/59875/1.0
 - name: avalonrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/59880/1.0
-- name: avalonhug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41912/1.0
-- name: avalonpower
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55265/1.0
 - name: avalonsleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/55266/1.0
 - name: avalonwoah
   src: https://static-cdn.jtvnw.net/emoticons/v1/55268/1.0
 - name: avalonkawaii
   src: https://static-cdn.jtvnw.net/emoticons/v1/55270/1.0
-- name: avalonlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55275/1.0
 - name: avalonstar
   src: https://static-cdn.jtvnw.net/emoticons/v1/62327/1.0
 - name: avalonhai
   src: https://static-cdn.jtvnw.net/emoticons/v1/62328/1.0
 - name: avalonawk
   src: https://static-cdn.jtvnw.net/emoticons/v1/62329/1.0
-- name: avalonhead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65125/1.0
 - name: avalondesk
   src: https://static-cdn.jtvnw.net/emoticons/v1/65126/1.0
 - name: avalonw
   src: https://static-cdn.jtvnw.net/emoticons/v1/69191/1.0
+- name: avalonhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72260/1.0
+- name: avalonpower
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72261/1.0
+- name: avalonlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72262/1.0
+- name: avalonban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72263/1.0
+- name: avalonlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72264/1.0
+- name: avalon7
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72265/1.0
+- name: avalonevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72266/1.0
+- name: avalonomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72267/1.0

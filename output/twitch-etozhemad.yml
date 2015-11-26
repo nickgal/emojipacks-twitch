@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47203/1.0
 - name: etmmlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/47204/1.0
-- name: etmnice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47205/1.0
 - name: etmbeer
   src: https://static-cdn.jtvnw.net/emoticons/v1/47742/1.0
 - name: etmjew
@@ -39,5 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58877/1.0
 - name: etmrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/58875/1.0
+- name: etmfeelsgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71803/1.0
 - name: etmsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/69104/1.0

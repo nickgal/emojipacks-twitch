@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - nairomk
 emojis:
+- name: nairostun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71751/1.0
+- name: nairoarrow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71750/1.0
 - name: nairoapex
   src: https://static-cdn.jtvnw.net/emoticons/v1/41074/1.0
 - name: nairotip

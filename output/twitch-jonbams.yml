@@ -15,18 +15,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/19606/1.0
 - name: bamrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/23211/1.0
-- name: bamhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23674/1.0
 - name: bamgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/25115/1.0
 - name: bamrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/26578/1.0
 - name: bamsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/26921/1.0
-- name: bambuff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33282/1.0
-- name: bamqurt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38110/1.0
 - name: bamsick
   src: https://static-cdn.jtvnw.net/emoticons/v1/38108/1.0
 - name: bamdead
@@ -39,5 +33,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41186/1.0
 - name: bamheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/41430/1.0
+- name: bamderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73238/1.0
+- name: bamblind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73239/1.0
 - name: bamsellout
   src: https://static-cdn.jtvnw.net/emoticons/v1/50699/1.0

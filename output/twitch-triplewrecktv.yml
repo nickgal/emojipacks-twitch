@@ -17,6 +17,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54458/1.0
 - name: triplelag
   src: https://static-cdn.jtvnw.net/emoticons/v1/41884/1.0
+- name: triplem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71948/1.0
 - name: triplelol
   src: https://static-cdn.jtvnw.net/emoticons/v1/49367/1.0
 - name: triplewtf
@@ -27,8 +29,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49373/1.0
 - name: tripleiam
   src: https://static-cdn.jtvnw.net/emoticons/v1/49362/1.0
+- name: tripleomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71949/1.0
 - name: triplepray
   src: https://static-cdn.jtvnw.net/emoticons/v1/53140/1.0
+- name: tripletrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71950/1.0
 - name: triplegw
   src: https://static-cdn.jtvnw.net/emoticons/v1/54459/1.0
 - name: triplelove
@@ -39,16 +45,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54656/1.0
 - name: triplegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/62379/1.0
-- name: triplejust
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62612/1.0
 - name: tripleok
   src: https://static-cdn.jtvnw.net/emoticons/v1/62613/1.0
 - name: triplegud
   src: https://static-cdn.jtvnw.net/emoticons/v1/62614/1.0
 - name: triplec
   src: https://static-cdn.jtvnw.net/emoticons/v1/62615/1.0
-- name: tripletrig
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62616/1.0
 - name: tripledn
   src: https://static-cdn.jtvnw.net/emoticons/v1/62617/1.0
 - name: tripleopie
@@ -59,5 +61,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68822/1.0
 - name: triple808
   src: https://static-cdn.jtvnw.net/emoticons/v1/68689/1.0
-- name: triple404
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69624/1.0

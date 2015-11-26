@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - jenn_cupcakee
 emojis:
+- name: cupcakehonda
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72826/1.0
 - name: cupcakehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/69756/1.0
 - name: cupcakerage

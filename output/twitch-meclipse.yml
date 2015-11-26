@@ -25,8 +25,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35558/1.0
 - name: shroudafk
   src: https://static-cdn.jtvnw.net/emoticons/v1/35590/1.0
-- name: shroudinsane
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69047/1.0
 - name: shroudthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/69043/1.0
 - name: shroudhype
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60364/1.0
 - name: shroudkobe
   src: https://static-cdn.jtvnw.net/emoticons/v1/68713/1.0
+- name: shroudinsane
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71654/1.0

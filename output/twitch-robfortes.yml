@@ -1,9 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - robfortes
 emojis:
-- name: robfpizza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25181/1.0
-- name: robfbomba
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52393/1.0
 - name: robfrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/59073/1.0
+- name: robffodase
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73449/1.0

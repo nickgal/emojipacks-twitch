@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10832/1.0
 - name: slawwinny
   src: https://static-cdn.jtvnw.net/emoticons/v1/10833/1.0
-- name: slawdrink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17000/1.0
 - name: slawbailey
   src: https://static-cdn.jtvnw.net/emoticons/v1/25992/1.0
 - name: slawfedorable
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67875/1.0
 - name: slawface
   src: https://static-cdn.jtvnw.net/emoticons/v1/68859/1.0
+- name: slawwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73162/1.0

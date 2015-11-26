@@ -1,6 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - stevolive
 emojis:
+- name: stevobuzzin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71838/1.0
+- name: stevosad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72621/1.0
+- name: stevofroth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71642/1.0
 - name: stevomate
   src: https://static-cdn.jtvnw.net/emoticons/v1/71031/1.0
 - name: stevonuts
@@ -13,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71255/1.0
 - name: stevowow
   src: https://static-cdn.jtvnw.net/emoticons/v1/71119/1.0
+- name: stevolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72763/1.0

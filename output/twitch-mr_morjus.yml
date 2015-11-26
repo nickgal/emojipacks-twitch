@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mr_morjus
 emojis:
+- name: morjrak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72797/1.0
 - name: morjfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/48347/1.0
 - name: morjpapka
@@ -11,5 +13,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63830/1.0
 - name: morjson
   src: https://static-cdn.jtvnw.net/emoticons/v1/71140/1.0
-- name: morjrak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71142/1.0

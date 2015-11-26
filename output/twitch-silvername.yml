@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - silvername
 emojis:
 - name: s1lverhouse
   src: https://static-cdn.jtvnw.net/emoticons/v1/70891/1.0
+- name: s1lversub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72572/1.0
+- name: s1lverbatya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72829/1.0
 - name: s1lverlee
   src: https://static-cdn.jtvnw.net/emoticons/v1/70422/1.0
 - name: s1lvereasy

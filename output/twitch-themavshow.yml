@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - themavshow
 emojis:
-- name: mavsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66636/1.0
-- name: mavpink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57188/1.0
 - name: mavlurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/57186/1.0
-- name: mavhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57206/1.0
 - name: mavlily
   src: https://static-cdn.jtvnw.net/emoticons/v1/56745/1.0
-- name: mavcorn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56567/1.0
 - name: mavwolf
   src: https://static-cdn.jtvnw.net/emoticons/v1/56570/1.0
-- name: mavdeltia
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59159/1.0
 - name: mavlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/58795/1.0
 - name: mavfeelsbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/62561/1.0
+- name: mavpink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72322/1.0
+- name: mavbunz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72323/1.0
+- name: mavrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72385/1.0
+- name: mavnerd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73401/1.0
+- name: mavhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73399/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - heyimbee
 emojis:
-- name: honeybee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21746/1.0
 - name: honeytella
   src: https://static-cdn.jtvnw.net/emoticons/v1/34265/1.0
 - name: honeybomb
@@ -15,6 +13,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34181/1.0
 - name: honeyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/34180/1.0
+- name: honeyswarm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71865/1.0
 - name: honeypalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/50880/1.0
 - name: honeyrage

@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68955/1.0
 - name: scufpray
   src: https://static-cdn.jtvnw.net/emoticons/v1/68752/1.0
-- name: scufgrill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68742/1.0
 - name: scufpack
   src: https://static-cdn.jtvnw.net/emoticons/v1/67624/1.0
 - name: scufhype
@@ -19,5 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69747/1.0
 - name: scufrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/69778/1.0
+- name: scufd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72491/1.0
 - name: scufrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/70006/1.0

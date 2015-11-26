@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - deadbones5
 emojis:
 - name: dbonemute
   src: https://static-cdn.jtvnw.net/emoticons/v1/28331/1.0
+- name: dbonehoi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72411/1.0
 - name: dbonegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/66757/1.0
 - name: dbonecolin

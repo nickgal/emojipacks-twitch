@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - yuuie
 emojis:
+- name: yuuiec
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72465/1.0
 - name: yuuies
   src: https://static-cdn.jtvnw.net/emoticons/v1/64612/1.0
 - name: yuuiel
@@ -17,17 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/21983/1.0
 - name: yuuiesenpai
   src: https://static-cdn.jtvnw.net/emoticons/v1/66031/1.0
-- name: yuuiec
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49759/1.0
 - name: yuuiebilly
   src: https://static-cdn.jtvnw.net/emoticons/v1/49890/1.0
 - name: yuuiew
   src: https://static-cdn.jtvnw.net/emoticons/v1/49784/1.0
 - name: yuuieb
   src: https://static-cdn.jtvnw.net/emoticons/v1/61477/1.0
-- name: yuuiepolice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61546/1.0
 - name: yuuiehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/69709/1.0
 - name: yuuiep
   src: https://static-cdn.jtvnw.net/emoticons/v1/69730/1.0
+- name: yuuiepoopy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71936/1.0

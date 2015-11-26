@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - aquah2o
 emojis:
-- name: h2obottle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12986/1.0
-- name: h2orekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71113/1.0
+- name: h2oh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71874/1.0
+- name: h2opeek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71879/1.0
+- name: h2opout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71875/1.0
+- name: h2omoola
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71873/1.0

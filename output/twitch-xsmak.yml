@@ -1,41 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - xsmak
 emojis:
-- name: smakattack
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2085/1.0
-- name: smakwd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2086/1.0
 - name: smakrepresent
   src: https://static-cdn.jtvnw.net/emoticons/v1/2088/1.0
-- name: smaks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2089/1.0
 - name: smakhatsoff
   src: https://static-cdn.jtvnw.net/emoticons/v1/5138/1.0
-- name: smaktrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14290/1.0
 - name: smakross
   src: https://static-cdn.jtvnw.net/emoticons/v1/16736/1.0
-- name: smakbear
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17597/1.0
-- name: smaktc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17965/1.0
-- name: smakp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23085/1.0
-- name: smakb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23947/1.0
 - name: smakm
   src: https://static-cdn.jtvnw.net/emoticons/v1/27319/1.0
 - name: smakn
   src: https://static-cdn.jtvnw.net/emoticons/v1/33655/1.0
-- name: smakv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33654/1.0
-- name: smakld
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33656/1.0
 - name: smakr
   src: https://static-cdn.jtvnw.net/emoticons/v1/33657/1.0
-- name: smakf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33717/1.0
-- name: smakc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33650/1.0
 - name: smakh
   src: https://static-cdn.jtvnw.net/emoticons/v1/33653/1.0
+- name: smakattack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73538/1.0
+- name: smaktrain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73540/1.0
+- name: smakwd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73539/1.0

@@ -47,6 +47,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40500/1.0
 - name: lirikclench
   src: https://static-cdn.jtvnw.net/emoticons/v1/45322/1.0
+- name: lirikhold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72445/1.0
 - name: lirikw
   src: https://static-cdn.jtvnw.net/emoticons/v1/48739/1.0
 - name: lirikwc
@@ -73,3 +75,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58560/1.0
 - name: lirikgood
   src: https://static-cdn.jtvnw.net/emoticons/v1/65389/1.0
+- name: lirikscared
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73240/1.0

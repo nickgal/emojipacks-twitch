@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - sleepcycles
 emojis:
+- name: tamlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72803/1.0
 - name: tamsolid
   src: https://static-cdn.jtvnw.net/emoticons/v1/47291/1.0
 - name: tamlaser

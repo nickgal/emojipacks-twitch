@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - angelskimi
 emojis:
 - name: kimiangel
   src: https://static-cdn.jtvnw.net/emoticons/v1/55954/1.0
-- name: kimiface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66831/1.0
 - name: kimihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/55710/1.0
 - name: kimirage
@@ -13,11 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59167/1.0
 - name: kimichair
   src: https://static-cdn.jtvnw.net/emoticons/v1/58669/1.0
-- name: kimimelody
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58668/1.0
 - name: kimiluna
   src: https://static-cdn.jtvnw.net/emoticons/v1/58782/1.0
 - name: kimibagel
   src: https://static-cdn.jtvnw.net/emoticons/v1/69557/1.0
 - name: kimiflip
   src: https://static-cdn.jtvnw.net/emoticons/v1/69558/1.0
+- name: kimiotl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72002/1.0
+- name: kimiclaus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72269/1.0

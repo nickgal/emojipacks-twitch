@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - babamdaoyuncu
 emojis:
+- name: bdohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72439/1.0
+- name: bdorip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72433/1.0
 - name: bdopil
   src: https://static-cdn.jtvnw.net/emoticons/v1/69085/1.0
 - name: bdomlg

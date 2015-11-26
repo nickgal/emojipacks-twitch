@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - phantomsfx
 emojis:
 - name: sfxdl
   src: https://static-cdn.jtvnw.net/emoticons/v1/56529/1.0
-- name: sfxdrama
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59817/1.0
 - name: sfxfight
   src: https://static-cdn.jtvnw.net/emoticons/v1/65861/1.0
 - name: sfxgasm

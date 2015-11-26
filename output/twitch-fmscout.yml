@@ -1,12 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - fmscout
 emojis:
+- name: scoutin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72459/1.0
 - name: scouthype
   src: https://static-cdn.jtvnw.net/emoticons/v1/49931/1.0
 - name: scoutrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/50215/1.0
-- name: scoutbanter
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50445/1.0
 - name: scoutfmd
   src: https://static-cdn.jtvnw.net/emoticons/v1/53349/1.0
 - name: scoutrage

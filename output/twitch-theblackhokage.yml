@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - theblackhokage
 emojis:
-- name: mwnhappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30212/1.0
-- name: mwnohsnap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30213/1.0
-- name: mwnhokage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32876/1.0
-- name: mwnmad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32875/1.0
-- name: mwnpalmrub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34060/1.0
-- name: mwnexposed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35570/1.0
-- name: mwnl
+- name: tbhsilly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72967/1.0
+- name: tbhdisappointed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72965/1.0
+- name: tbhflirty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72963/1.0
+- name: tbhshocked
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72959/1.0
+- name: tbhbirdman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72956/1.0
+- name: tbhl
   src: https://static-cdn.jtvnw.net/emoticons/v1/35569/1.0
-- name: mwnjc
+- name: tbhjc
   src: https://static-cdn.jtvnw.net/emoticons/v1/36078/1.0
+- name: tbhsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72958/1.0

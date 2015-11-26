@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - cut_throatta561
 emojis:
 - name: cuttaidgaf
   src: https://static-cdn.jtvnw.net/emoticons/v1/63547/1.0
-- name: cuttadeadeye
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70323/1.0
 - name: cuttawelp
   src: https://static-cdn.jtvnw.net/emoticons/v1/60640/1.0
 - name: cuttahype
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70193/1.0
 - name: cuttastoopid
   src: https://static-cdn.jtvnw.net/emoticons/v1/61265/1.0
+- name: cuttasavage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72986/1.0

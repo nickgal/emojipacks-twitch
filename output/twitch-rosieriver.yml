@@ -9,12 +9,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63305/1.0
 - name: rosiegasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/71208/1.0
-- name: rosiegg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71239/1.0
 - name: rosierip
   src: https://static-cdn.jtvnw.net/emoticons/v1/71242/1.0
-- name: rosiegl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71241/1.0
 - name: rosiecry
   src: https://static-cdn.jtvnw.net/emoticons/v1/61656/1.0
 - name: rosieexcited
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68647/1.0
 - name: rosiecare
   src: https://static-cdn.jtvnw.net/emoticons/v1/71344/1.0
+- name: rosiegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72981/1.0
+- name: rosiemuumi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72960/1.0

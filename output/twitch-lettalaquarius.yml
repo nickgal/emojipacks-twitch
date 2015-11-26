@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - lettalaquarius
 emojis:
 - name: lettalqq
   src: https://static-cdn.jtvnw.net/emoticons/v1/54825/1.0
-- name: lettalkriko
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33279/1.0
 - name: lettalchibi
   src: https://static-cdn.jtvnw.net/emoticons/v1/33002/1.0
-- name: lettalpudi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35228/1.0
 - name: lettalrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/37183/1.0
 - name: lettalgasm
@@ -17,7 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49436/1.0
 - name: lettaldeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/57482/1.0
+- name: lettalkriko
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72049/1.0
 - name: lettalh
   src: https://static-cdn.jtvnw.net/emoticons/v1/63530/1.0
 - name: lettalrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/63529/1.0
+- name: lettaldown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73263/1.0

@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33132/1.0
 - name: teeveegoat
   src: https://static-cdn.jtvnw.net/emoticons/v1/33130/1.0
-- name: teeveesub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41386/1.0
 - name: teeveelag
   src: https://static-cdn.jtvnw.net/emoticons/v1/47017/1.0
 - name: teeveew
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58253/1.0
 - name: teeveefeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/68396/1.0
+- name: teeveesub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72277/1.0

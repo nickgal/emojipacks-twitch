@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - mrwaynz
 emojis:
+- name: waynzgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72734/1.0
+- name: waynzbulin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72733/1.0
 - name: waynzteamfragile
   src: https://static-cdn.jtvnw.net/emoticons/v1/52332/1.0
 - name: waynztopneyney

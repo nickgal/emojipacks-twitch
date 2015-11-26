@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/23291/1.0
 - name: sentrythump
   src: https://static-cdn.jtvnw.net/emoticons/v1/59194/1.0
-- name: sentrylatte
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59193/1.0
 - name: sentryheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/33286/1.0
 - name: sentrykappa
@@ -29,5 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59361/1.0
 - name: sentryhorse
   src: https://static-cdn.jtvnw.net/emoticons/v1/55103/1.0
+- name: sentrycharlie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72608/1.0
 - name: sentryhs
   src: https://static-cdn.jtvnw.net/emoticons/v1/58797/1.0

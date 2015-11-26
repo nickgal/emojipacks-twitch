@@ -1,25 +1,25 @@
 ---
 title: Twitch Subscriber Emotes - esl_csgo_pl
 emojis:
-- name: 3rax
+- name: esl3rax
   src: https://static-cdn.jtvnw.net/emoticons/v1/71440/1.0
-- name: 4gate
+- name: esl4gate
   src: https://static-cdn.jtvnw.net/emoticons/v1/71441/1.0
-- name: carryonly
+- name: eslcarryonly
   src: https://static-cdn.jtvnw.net/emoticons/v1/71442/1.0
-- name: heart
+- name: eslheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/71443/1.0
-- name: one
+- name: eslone
   src: https://static-cdn.jtvnw.net/emoticons/v1/71444/1.0
-- name: ggwp
+- name: eslggwp
   src: https://static-cdn.jtvnw.net/emoticons/v1/71445/1.0
-- name: iemawesome
+- name: esliemawesome
   src: https://static-cdn.jtvnw.net/emoticons/v1/71446/1.0
-- name: jungleonly
+- name: esljungleonly
   src: https://static-cdn.jtvnw.net/emoticons/v1/71469/1.0
-- name: keepcalm
+- name: eslkeepcalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/71470/1.0
-- name: supportonly
+- name: eslsupportonly
   src: https://static-cdn.jtvnw.net/emoticons/v1/71471/1.0
-- name: tankonly
+- name: esltankonly
   src: https://static-cdn.jtvnw.net/emoticons/v1/71472/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - bigsully
 emojis:
+- name: sullyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72456/1.0
+- name: sullyyeehaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72455/1.0
 - name: sullyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/36201/1.0
-- name: sullylogo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50136/1.0
+- name: sullyrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71702/1.0

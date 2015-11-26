@@ -1,10 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - tolariancommunitycollege
 emojis:
+- name: snaphugs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72036/1.0
+- name: snappunt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71805/1.0
 - name: snapoldman
   src: https://static-cdn.jtvnw.net/emoticons/v1/62865/1.0
-- name: snapscarf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63065/1.0
 - name: snapcool
   src: https://static-cdn.jtvnw.net/emoticons/v1/62864/1.0
 - name: snaptcc

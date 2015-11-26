@@ -3,9 +3,9 @@ title: Twitch Subscriber Emotes - apg
 emojis:
 - name: apgrc
   src: https://static-cdn.jtvnw.net/emoticons/v1/43757/1.0
-- name: apghype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44957/1.0
 - name: apgfire
   src: https://static-cdn.jtvnw.net/emoticons/v1/52668/1.0
 - name: apgtj
   src: https://static-cdn.jtvnw.net/emoticons/v1/61266/1.0
+- name: apgnv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72094/1.0

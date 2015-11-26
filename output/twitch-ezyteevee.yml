@@ -1,28 +1,26 @@
 ---
 title: Twitch Subscriber Emotes - ezyteevee
 emojis:
-- name: ezymvp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71330/1.0
 - name: ezywut
   src: https://static-cdn.jtvnw.net/emoticons/v1/58533/1.0
 - name: ezys
   src: https://static-cdn.jtvnw.net/emoticons/v1/55478/1.0
+- name: ezyblush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71570/1.0
 - name: ezygrin
   src: https://static-cdn.jtvnw.net/emoticons/v1/71185/1.0
-- name: ezyb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71184/1.0
 - name: ezyskins
   src: https://static-cdn.jtvnw.net/emoticons/v1/37228/1.0
 - name: ezyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/40921/1.0
-- name: ezydunk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55318/1.0
 - name: ezysweg
   src: https://static-cdn.jtvnw.net/emoticons/v1/43809/1.0
 - name: ezycreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/55139/1.0
 - name: ezyh
   src: https://static-cdn.jtvnw.net/emoticons/v1/55852/1.0
+- name: ezyfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71882/1.0
 - name: ezyr
   src: https://static-cdn.jtvnw.net/emoticons/v1/70752/1.0
 - name: ezyf
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70586/1.0
 - name: ezym8
   src: https://static-cdn.jtvnw.net/emoticons/v1/71447/1.0
+- name: ezyw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71793/1.0

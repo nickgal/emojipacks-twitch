@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - gl_terracid
 emojis:
+- name: terraswagchat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71909/1.0
+- name: terraswagdollar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71908/1.0
 - name: terraswaglol
   src: https://static-cdn.jtvnw.net/emoticons/v1/57266/1.0
 - name: terraswagbob

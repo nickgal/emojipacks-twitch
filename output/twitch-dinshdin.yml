@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - dinshdin
 emojis:
+- name: shoksrsly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72811/1.0
 - name: shokfspalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/63790/1.0
-- name: shokshype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66247/1.0
+- name: shokkalinka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72736/1.0
+- name: shokbrofest
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72726/1.0

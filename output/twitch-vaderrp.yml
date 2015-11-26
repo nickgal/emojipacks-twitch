@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - vaderrp
 emojis:
+- name: vaderrplurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71767/1.0
 - name: vaderrpthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/47940/1.0
 - name: vaderrpgrump
@@ -21,5 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63719/1.0
 - name: vaderrpham
   src: https://static-cdn.jtvnw.net/emoticons/v1/67431/1.0
+- name: vaderrphype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71595/1.0
+- name: vaderrppalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71596/1.0
 - name: vaderrpross
   src: https://static-cdn.jtvnw.net/emoticons/v1/71492/1.0
+- name: vaderrprip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71766/1.0

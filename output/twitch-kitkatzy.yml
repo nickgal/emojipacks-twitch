@@ -3,13 +3,11 @@ title: Twitch Subscriber Emotes - kitkatzy
 emojis:
 - name: kitkatzheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/10243/1.0
-- name: kitkatzcroc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11160/1.0
 - name: kitkatzgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/70053/1.0
-- name: kitkatzboom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32074/1.0
-- name: kitkatzlied
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31192/1.0
-- name: kitkatzsheep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32087/1.0
+- name: kitkatzh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72053/1.0
+- name: kitkatzomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72052/1.0
+- name: kitkatzfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72050/1.0

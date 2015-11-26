@@ -7,8 +7,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33250/1.0
 - name: bowspoopy
   src: https://static-cdn.jtvnw.net/emoticons/v1/33253/1.0
-- name: bowplz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61406/1.0
+- name: bowpep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72035/1.0
+- name: bowhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72034/1.0
 - name: bowsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/66541/1.0
 - name: bowhype
@@ -35,8 +37,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52685/1.0
 - name: bowdeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/52686/1.0
-- name: bowhappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59255/1.0
 - name: bowlogan
   src: https://static-cdn.jtvnw.net/emoticons/v1/59254/1.0
 - name: bowyeah

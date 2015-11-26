@@ -5,10 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51932/1.0
 - name: m1ndrlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/51049/1.0
-- name: m1ndrgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50637/1.0
-- name: m1ndrhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54017/1.0
 - name: m1ndrrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/54018/1.0
 - name: m1ndrsalute
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65713/1.0
 - name: m1ndrkk
   src: https://static-cdn.jtvnw.net/emoticons/v1/65214/1.0
+- name: m1ndrgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72169/1.0
+- name: m1ndrrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72170/1.0

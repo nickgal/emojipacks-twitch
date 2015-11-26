@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - michirage
 emojis:
 - name: michigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/20156/1.0
+- name: michifeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72850/1.0
 - name: michihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/69762/1.0
 - name: michisweat
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69759/1.0
 - name: michilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/69758/1.0
+- name: michiw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72676/1.0

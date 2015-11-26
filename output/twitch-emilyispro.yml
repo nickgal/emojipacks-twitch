@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - emilyispro
 emojis:
 - name: emilyddsgo
   src: https://static-cdn.jtvnw.net/emoticons/v1/2916/1.0
-- name: emilygabbypls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1918/1.0
 - name: emilywut
   src: https://static-cdn.jtvnw.net/emoticons/v1/14556/1.0
 - name: emilydoge
@@ -15,6 +13,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/6868/1.0
 - name: emilyc
   src: https://static-cdn.jtvnw.net/emoticons/v1/52690/1.0
+- name: emilyfish
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73003/1.0
 - name: emilyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/36376/1.0
 - name: emilyh

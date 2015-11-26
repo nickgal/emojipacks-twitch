@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/23619/1.0
 - name: punwaifu
   src: https://static-cdn.jtvnw.net/emoticons/v1/13663/1.0
-- name: punrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13641/1.0
 - name: punthrow
   src: https://static-cdn.jtvnw.net/emoticons/v1/15604/1.0
 - name: punpeach
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/25807/1.0
 - name: puncirno
   src: https://static-cdn.jtvnw.net/emoticons/v1/28410/1.0
+- name: pungasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72934/1.0

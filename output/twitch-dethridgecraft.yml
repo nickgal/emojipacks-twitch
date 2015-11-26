@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - dethridgecraft
 emojis:
 - name: dethza
   src: https://static-cdn.jtvnw.net/emoticons/v1/63605/1.0
+- name: dethballs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73478/1.0
 - name: dethmlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/63606/1.0
 - name: dethtato

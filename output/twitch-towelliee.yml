@@ -15,24 +15,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3519/1.0
 - name: towbolvar
   src: https://static-cdn.jtvnw.net/emoticons/v1/3434/1.0
-- name: towpalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3887/1.0
 - name: towhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/61897/1.0
-- name: towkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5726/1.0
 - name: towbyah
   src: https://static-cdn.jtvnw.net/emoticons/v1/10133/1.0
 - name: towpoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/9781/1.0
-- name: towrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9782/1.0
 - name: towshots
   src: https://static-cdn.jtvnw.net/emoticons/v1/10015/1.0
 - name: towwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/15605/1.0
-- name: towthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15606/1.0
 - name: towtrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/15650/1.0
 - name: towderp
@@ -59,3 +51,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60434/1.0
 - name: towlegion
   src: https://static-cdn.jtvnw.net/emoticons/v1/61811/1.0
+- name: towcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73274/1.0
+- name: towrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73275/1.0
+- name: towpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73276/1.0

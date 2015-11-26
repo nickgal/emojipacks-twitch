@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - tkbreezy
 emojis:
-- name: tkshype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24012/1.0
 - name: tksboyz
   src: https://static-cdn.jtvnw.net/emoticons/v1/25781/1.0
-- name: tksconey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26559/1.0
-- name: tkspfresh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27026/1.0
 - name: tksfire
   src: https://static-cdn.jtvnw.net/emoticons/v1/65555/1.0
 - name: tkssniped
@@ -21,3 +15,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52419/1.0
 - name: tksygi
   src: https://static-cdn.jtvnw.net/emoticons/v1/52418/1.0
+- name: tkspolicia
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72623/1.0
+- name: tkscasual
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72329/1.0

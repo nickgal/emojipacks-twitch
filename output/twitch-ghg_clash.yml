@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - ghg_clash
 emojis:
+- name: ghgking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71756/1.0
 - name: ghgcoco
   src: https://static-cdn.jtvnw.net/emoticons/v1/68755/1.0
 - name: ghg4e

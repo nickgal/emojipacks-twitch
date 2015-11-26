@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ashwinitv
 emojis:
-- name: datashda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19537/1.0
 - name: datashblaze
   src: https://static-cdn.jtvnw.net/emoticons/v1/19513/1.0
 - name: datashhype
@@ -11,9 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/19538/1.0
 - name: datashdoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/41223/1.0
-- name: datashw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44818/1.0
 - name: datashcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/53136/1.0
 - name: datashderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/63054/1.0
+- name: datashw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71610/1.0
+- name: datashross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71611/1.0

@@ -9,15 +9,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/15366/1.0
 - name: vinbump
   src: https://static-cdn.jtvnw.net/emoticons/v1/26177/1.0
-- name: vinrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36668/1.0
 - name: vinno
   src: https://static-cdn.jtvnw.net/emoticons/v1/48449/1.0
-- name: vinbow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48448/1.0
 - name: vinlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/56252/1.0
 - name: vinhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/56253/1.0
 - name: vinmad
   src: https://static-cdn.jtvnw.net/emoticons/v1/56254/1.0
+- name: vinrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73169/1.0

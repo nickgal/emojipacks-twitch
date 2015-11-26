@@ -9,6 +9,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39257/1.0
 - name: eogcoy
   src: https://static-cdn.jtvnw.net/emoticons/v1/71260/1.0
+- name: eogyawn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71759/1.0
 - name: eogbwuh
   src: https://static-cdn.jtvnw.net/emoticons/v1/60612/1.0
 - name: eogwelp
@@ -25,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/15383/1.0
 - name: eogstahp
   src: https://static-cdn.jtvnw.net/emoticons/v1/36578/1.0
-- name: eoghubris
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47719/1.0
 - name: eogcard
   src: https://static-cdn.jtvnw.net/emoticons/v1/48840/1.0
 - name: eogalas

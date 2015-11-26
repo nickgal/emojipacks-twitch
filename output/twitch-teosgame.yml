@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - teosgame
 emojis:
+- name: teosthings
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72461/1.0
 - name: teosnotbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/70090/1.0
 - name: teosquid

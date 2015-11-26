@@ -1,12 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - cyclonespin
 emojis:
+- name: cycsleepy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72399/1.0
 - name: cychype
   src: https://static-cdn.jtvnw.net/emoticons/v1/58408/1.0
 - name: cyctrigger
   src: https://static-cdn.jtvnw.net/emoticons/v1/59474/1.0
-- name: cycvolcania
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58409/1.0
 - name: cyccommit
   src: https://static-cdn.jtvnw.net/emoticons/v1/60392/1.0
 - name: cycismael

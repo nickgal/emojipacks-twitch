@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - rampageishuman
 emojis:
+- name: howlchain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72440/1.0
 - name: howlhowl
   src: https://static-cdn.jtvnw.net/emoticons/v1/70114/1.0
 - name: howlpunch
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70119/1.0
 - name: howlluv
   src: https://static-cdn.jtvnw.net/emoticons/v1/70839/1.0
+- name: howlt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73481/1.0

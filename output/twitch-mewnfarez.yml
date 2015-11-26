@@ -1,10 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - mewnfarez
 emojis:
+- name: mewns
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72467/1.0
 - name: mewnw
   src: https://static-cdn.jtvnw.net/emoticons/v1/67812/1.0
 - name: mewnf
   src: https://static-cdn.jtvnw.net/emoticons/v1/69050/1.0
+- name: mewnsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72097/1.0
 - name: mewnsuffer
   src: https://static-cdn.jtvnw.net/emoticons/v1/67473/1.0
 - name: mewnbaby

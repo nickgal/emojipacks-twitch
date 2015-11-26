@@ -1,12 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - ashleeeeean
 emojis:
+- name: a5hmoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72535/1.0
 - name: a5ht
   src: https://static-cdn.jtvnw.net/emoticons/v1/70235/1.0
 - name: a5hthirsty
   src: https://static-cdn.jtvnw.net/emoticons/v1/69411/1.0
 - name: a5hlee
   src: https://static-cdn.jtvnw.net/emoticons/v1/69535/1.0
+- name: a5hheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72478/1.0
 - name: a5hw
   src: https://static-cdn.jtvnw.net/emoticons/v1/69868/1.0
 - name: a5hhype

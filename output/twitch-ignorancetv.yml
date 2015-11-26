@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - ignorancetv
 emojis:
+- name: noratatas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71913/1.0
 - name: norathump
   src: https://static-cdn.jtvnw.net/emoticons/v1/60664/1.0
 - name: noragasm
@@ -11,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60665/1.0
 - name: noraw
   src: https://static-cdn.jtvnw.net/emoticons/v1/58352/1.0
-- name: norasub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58625/1.0
 - name: norahey
   src: https://static-cdn.jtvnw.net/emoticons/v1/58623/1.0
 - name: norayee

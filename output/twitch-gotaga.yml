@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - gotaga
 emojis:
+- name: gotaganewsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73212/1.0
 - name: gotagawhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/58998/1.0
 - name: gotagaface2
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59395/1.0
 - name: gotagatnul
   src: https://static-cdn.jtvnw.net/emoticons/v1/59485/1.0
+- name: gotagagg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73207/1.0

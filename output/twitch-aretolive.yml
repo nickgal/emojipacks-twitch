@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - aretolive
 emojis:
-- name: aretofacepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52958/1.0
 - name: aretosprint
   src: https://static-cdn.jtvnw.net/emoticons/v1/52963/1.0
 - name: aretoface
   src: https://static-cdn.jtvnw.net/emoticons/v1/30175/1.0
-- name: aretocash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32638/1.0
-- name: aretofail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48698/1.0
-- name: aretogeld
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48918/1.0
+- name: aretowas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72923/1.0
+- name: aretobus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72350/1.0

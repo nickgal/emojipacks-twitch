@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - xdarcy1
 emojis:
+- name: darcylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71547/1.0
 - name: darcybag
   src: https://static-cdn.jtvnw.net/emoticons/v1/64757/1.0
 - name: darcyhype

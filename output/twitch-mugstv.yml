@@ -1,15 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - mugstv
 emojis:
-- name: mugstvpotato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18222/1.0
-- name: mugstvrage
+- name: mugsrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/18340/1.0
-- name: mugstvflirt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18602/1.0
-- name: mugstvdoge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18604/1.0
-- name: mugstvhappy
+- name: mugshappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/18888/1.0
-- name: mugstvcheese
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19558/1.0
+- name: mugslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72100/1.0
+- name: mugsfeel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72099/1.0
+- name: mugshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71971/1.0
+- name: mugsfist
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71970/1.0
+- name: mugsb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73532/1.0

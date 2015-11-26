@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3370/1.0
 - name: spoonlick
   src: https://static-cdn.jtvnw.net/emoticons/v1/4181/1.0
-- name: spoontrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16251/1.0
 - name: spoonfine
   src: https://static-cdn.jtvnw.net/emoticons/v1/18050/1.0
 - name: spoonhoy
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50353/1.0
 - name: spoonw
   src: https://static-cdn.jtvnw.net/emoticons/v1/55200/1.0
+- name: spoongold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72332/1.0

@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - ekolimits
 emojis:
-- name: ekolag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49123/1.0
 - name: ekokappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/47400/1.0
 - name: ekoban
   src: https://static-cdn.jtvnw.net/emoticons/v1/49386/1.0
 - name: ekogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/63119/1.0
+- name: ekowow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72054/1.0

@@ -3,7 +3,9 @@ title: Twitch Subscriber Emotes - balancerexxar
 emojis:
 - name: balchill
   src: https://static-cdn.jtvnw.net/emoticons/v1/65930/1.0
-- name: balmelman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64806/1.0
 - name: balw
   src: https://static-cdn.jtvnw.net/emoticons/v1/67895/1.0
+- name: balpumpkin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73273/1.0
+- name: balmonk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73271/1.0

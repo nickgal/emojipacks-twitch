@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - navegga
 emojis:
-- name: navrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68571/1.0
-- name: navfeelsbadman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68572/1.0
+- name: navhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73423/1.0
+- name: navbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73409/1.0
+- name: navlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73416/1.0
+- name: navdez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73480/1.0

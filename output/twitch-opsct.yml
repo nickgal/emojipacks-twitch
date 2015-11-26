@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47517/1.0
 - name: opsclench
   src: https://static-cdn.jtvnw.net/emoticons/v1/56422/1.0
-- name: opsheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56421/1.0
 - name: opshome
   src: https://static-cdn.jtvnw.net/emoticons/v1/45273/1.0
 - name: opsshane
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56193/1.0
 - name: opswoah
   src: https://static-cdn.jtvnw.net/emoticons/v1/56194/1.0
+- name: opsheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72299/1.0

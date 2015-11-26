@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - smokaloke
 emojis:
 - name: smokebomb
   src: https://static-cdn.jtvnw.net/emoticons/v1/17229/1.0
-- name: smokefabs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17330/1.0
-- name: smokegg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18540/1.0
 - name: smokegas
   src: https://static-cdn.jtvnw.net/emoticons/v1/18715/1.0
 - name: smokeshot
@@ -29,5 +25,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45092/1.0
 - name: smoketears
   src: https://static-cdn.jtvnw.net/emoticons/v1/45218/1.0
-- name: smoked
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58629/1.0
+- name: smokerage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71791/1.0
+- name: smokesmo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71731/1.0
+- name: smokeked
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71732/1.0

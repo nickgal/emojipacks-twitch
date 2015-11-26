@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - twitchplayspokemon
 emojis:
+- name: tpppokeball
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73516/1.0
 - name: tpphelix
   src: https://static-cdn.jtvnw.net/emoticons/v1/38009/1.0
 - name: tpprng

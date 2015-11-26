@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/13543/1.0
 - name: mastersnakou
   src: https://static-cdn.jtvnw.net/emoticons/v1/13453/1.0
-- name: master2rima
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13455/1.0
 - name: mastergifle
   src: https://static-cdn.jtvnw.net/emoticons/v1/52358/1.0
 - name: masterresub
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65089/1.0
 - name: mastersalut
   src: https://static-cdn.jtvnw.net/emoticons/v1/65397/1.0
+- name: master5pil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73050/1.0

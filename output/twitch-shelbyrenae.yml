@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63653/1.0
 - name: shelhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/63652/1.0
-- name: shelhacks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63650/1.0
 - name: shelsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/63655/1.0
 - name: shelnose
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64052/1.0
 - name: shelgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/63787/1.0
+- name: shelmom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73172/1.0

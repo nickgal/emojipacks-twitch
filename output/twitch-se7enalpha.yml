@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - se7enalpha
 emojis:
+- name: ikagg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71574/1.0
 - name: ikacry
   src: https://static-cdn.jtvnw.net/emoticons/v1/70397/1.0
 - name: ikahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71117/1.0
+- name: ikalove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71651/1.0

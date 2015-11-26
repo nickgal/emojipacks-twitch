@@ -23,14 +23,30 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/13218/1.0
 - name: dyrusraka
   src: https://static-cdn.jtvnw.net/emoticons/v1/13046/1.0
+- name: dyrusred
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72400/1.0
+- name: dyrushype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72401/1.0
+- name: dyrussell
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72402/1.0
+- name: dyrusball
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72403/1.0
+- name: dyrusvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72404/1.0
 - name: dyrusgive
   src: https://static-cdn.jtvnw.net/emoticons/v1/20773/1.0
 - name: dyrusw
   src: https://static-cdn.jtvnw.net/emoticons/v1/69407/1.0
+- name: dyrussenpai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72830/1.0
+- name: dyrusdark
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72831/1.0
 - name: dyrusdu
   src: https://static-cdn.jtvnw.net/emoticons/v1/29428/1.0
 - name: dyruswm
   src: https://static-cdn.jtvnw.net/emoticons/v1/29429/1.0
+- name: dyruslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72832/1.0
 - name: dyrustrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/69418/1.0
 - name: dyrus2can
@@ -45,8 +61,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69412/1.0
 - name: dyrusgaren
   src: https://static-cdn.jtvnw.net/emoticons/v1/69416/1.0
-- name: dyrusross
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71088/1.0
 - name: dyrusfp
   src: https://static-cdn.jtvnw.net/emoticons/v1/69622/1.0
 - name: dyrusafk
@@ -55,5 +69,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69711/1.0
 - name: dyrusretire
   src: https://static-cdn.jtvnw.net/emoticons/v1/69712/1.0
+- name: dyrusross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72139/1.0
 - name: dyrusfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/69943/1.0

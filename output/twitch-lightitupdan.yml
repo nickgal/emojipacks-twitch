@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - lightitupdan
 emojis:
-- name: liuboom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47137/1.0
-- name: liuo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47136/1.0
 - name: liudoish
   src: https://static-cdn.jtvnw.net/emoticons/v1/48164/1.0
 - name: liugry
@@ -15,5 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47371/1.0
 - name: liu2ez
   src: https://static-cdn.jtvnw.net/emoticons/v1/49633/1.0
-- name: liuwip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49721/1.0
+- name: liuo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72466/1.0
+- name: liuboom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73020/1.0
+- name: liuree
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71742/1.0

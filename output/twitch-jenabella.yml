@@ -3,12 +3,6 @@ title: Twitch Subscriber Emotes - jenabella
 emojis:
 - name: jenalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/2120/1.0
-- name: jenalily
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1941/1.0
-- name: jenarussell
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2258/1.0
-- name: jenaporo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4027/1.0
 - name: jenalol
   src: https://static-cdn.jtvnw.net/emoticons/v1/46265/1.0
 - name: jenacry
@@ -17,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47474/1.0
 - name: jenayass
   src: https://static-cdn.jtvnw.net/emoticons/v1/47473/1.0
+- name: jenabae
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72997/1.0

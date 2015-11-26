@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - theladymea
 emojis:
+- name: meadrool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71979/1.0
 - name: meabod
   src: https://static-cdn.jtvnw.net/emoticons/v1/68500/1.0
 - name: meal
@@ -9,6 +11,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65435/1.0
 - name: meahug
   src: https://static-cdn.jtvnw.net/emoticons/v1/65436/1.0
+- name: meaow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71978/1.0
 - name: meahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/65438/1.0
 - name: meablush

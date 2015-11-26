@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/2675/1.0
 - name: bisfrog
   src: https://static-cdn.jtvnw.net/emoticons/v1/4359/1.0
-- name: bisgold
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6910/1.0
 - name: bisness
   src: https://static-cdn.jtvnw.net/emoticons/v1/66015/1.0
 - name: bissnaps
@@ -29,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62282/1.0
 - name: bisp
   src: https://static-cdn.jtvnw.net/emoticons/v1/62285/1.0
+- name: bisg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72738/1.0
+- name: bissack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72739/1.0

@@ -1,9 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - the_stoned_smurf
 emojis:
+- name: truckergravey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71569/1.0
+- name: truckerrave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72553/1.0
 - name: truckergasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/71311/1.0
+- name: truckerlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71996/1.0
+- name: truckerfeelsbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71997/1.0
+- name: truckerten
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72248/1.0
 - name: truckerhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71338/1.0
-- name: truckerbill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71327/1.0
+- name: truckersupersalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73149/1.0

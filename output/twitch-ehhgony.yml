@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - ehhgony
 emojis:
-- name: premowot
+- name: agonywot
   src: https://static-cdn.jtvnw.net/emoticons/v1/50876/1.0
-- name: premoyes
+- name: agonyyes
   src: https://static-cdn.jtvnw.net/emoticons/v1/50875/1.0
-- name: premoboom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50874/1.0
-- name: premolegend
+- name: agonylegend
   src: https://static-cdn.jtvnw.net/emoticons/v1/50873/1.0
-- name: premopremium
+- name: agonypremium
   src: https://static-cdn.jtvnw.net/emoticons/v1/50872/1.0
-- name: premoomg
+- name: agonyomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/50871/1.0
+- name: agonyclip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73408/1.0
+- name: agonysub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73412/1.0
+- name: agonychoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73425/1.0

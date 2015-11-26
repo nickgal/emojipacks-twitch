@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - keepwishing3
 emojis:
-- name: kwishgeorge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28529/1.0
 - name: kwishhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/28531/1.0
 - name: kwishcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/29366/1.0
 - name: kwishglasses
   src: https://static-cdn.jtvnw.net/emoticons/v1/29410/1.0
-- name: kwishnugg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29443/1.0
 - name: kwishtrivia
   src: https://static-cdn.jtvnw.net/emoticons/v1/29548/1.0
-- name: kwish1v1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62919/1.0
 - name: kwishhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/65432/1.0
+- name: kwishget
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72821/1.0
+- name: kwishup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72819/1.0
+- name: kwishdang
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72976/1.0

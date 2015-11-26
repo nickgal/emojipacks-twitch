@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - therealstr8sick
 emojis:
-- name: str8logo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60989/1.0
+- name: str8feels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71938/1.0
 - name: str8shot
   src: https://static-cdn.jtvnw.net/emoticons/v1/59133/1.0
 - name: str8baby
   src: https://static-cdn.jtvnw.net/emoticons/v1/56978/1.0
-- name: str8love
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59470/1.0
 - name: str8face
   src: https://static-cdn.jtvnw.net/emoticons/v1/58898/1.0
 - name: str8hype
   src: https://static-cdn.jtvnw.net/emoticons/v1/58927/1.0
 - name: str8kappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/62889/1.0
+- name: str8love
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71878/1.0
 - name: str8give
   src: https://static-cdn.jtvnw.net/emoticons/v1/70607/1.0

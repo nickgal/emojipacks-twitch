@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - hopewithinchaos
 emojis:
+- name: hopedespair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72879/1.0
 - name: hopefail
   src: https://static-cdn.jtvnw.net/emoticons/v1/66781/1.0
 - name: hopewhoa

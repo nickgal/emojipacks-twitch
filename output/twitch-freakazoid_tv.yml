@@ -7,9 +7,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47179/1.0
 - name: freakoh
   src: https://static-cdn.jtvnw.net/emoticons/v1/47854/1.0
-- name: freakface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47737/1.0
 - name: freakkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/48587/1.0
 - name: freakbrick
   src: https://static-cdn.jtvnw.net/emoticons/v1/48654/1.0
+- name: freakwhistle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72196/1.0
+- name: freaksellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72198/1.0

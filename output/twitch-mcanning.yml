@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - mcanning
 emojis:
 - name: mcanhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/44034/1.0
+- name: mcanking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72041/1.0
 - name: mcanfist
   src: https://static-cdn.jtvnw.net/emoticons/v1/43891/1.0
 - name: mcangg

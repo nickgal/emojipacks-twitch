@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - lythero
 emojis:
 - name: lytstumble
   src: https://static-cdn.jtvnw.net/emoticons/v1/32148/1.0
-- name: lytholdthat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32152/1.0
 - name: lytknee
   src: https://static-cdn.jtvnw.net/emoticons/v1/34125/1.0
 - name: lythyah
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35852/1.0
 - name: lytpw
   src: https://static-cdn.jtvnw.net/emoticons/v1/36807/1.0
+- name: lytdorf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71932/1.0

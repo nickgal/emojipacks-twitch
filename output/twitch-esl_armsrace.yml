@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - esl_armsrace
 emojis:
-- name: armsnuke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63625/1.0
-- name: armsskill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63626/1.0
+- name: armsplay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71980/1.0
+- name: armsht
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71930/1.0

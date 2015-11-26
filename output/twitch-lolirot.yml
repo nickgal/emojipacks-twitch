@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - lolirot
 emojis:
 - name: loliderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/47554/1.0
-- name: lolipatria
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47628/1.0
 - name: lolihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/66069/1.0
 - name: lolifeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/66070/1.0
+- name: lolipatria
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72908/1.0
+- name: lolivisto
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72907/1.0
+- name: loliqq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72905/1.0

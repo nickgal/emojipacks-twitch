@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - ryo_0814
 emojis:
 - name: ryorain
   src: https://static-cdn.jtvnw.net/emoticons/v1/35382/1.0
-- name: ryowale
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35379/1.0
 - name: ryomegane
   src: https://static-cdn.jtvnw.net/emoticons/v1/36145/1.0
 - name: ryowhat
@@ -13,5 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54235/1.0
 - name: ryohaha
   src: https://static-cdn.jtvnw.net/emoticons/v1/54234/1.0
+- name: ryoredcard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72335/1.0
+- name: ryohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72336/1.0
 - name: ryowale
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63850/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72337/1.0

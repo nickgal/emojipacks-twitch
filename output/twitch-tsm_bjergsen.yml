@@ -1,27 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - tsm_bjergsen
 emojis:
-- name: bjergwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5490/1.0
-- name: bjerggasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5527/1.0
+- name: bjergyeah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71983/1.0
+- name: bjergafk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71960/1.0
 - name: bjergtroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/5562/1.0
-- name: bjergblkscreen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17897/1.0
-- name: bjergballs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28016/1.0
-- name: bjergstacked
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28166/1.0
-- name: bjergking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28276/1.0
+- name: bjergfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71973/1.0
+- name: bjergopenmid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72454/1.0
 - name: bjergtsm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28309/1.0
-- name: bjergloco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28846/1.0
-- name: bjergdoco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29396/1.0
-- name: bjergdanish
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69543/1.0
-- name: bjergpolse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69551/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72453/1.0
+- name: bjergrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72450/1.0
+- name: bjerglag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72449/1.0
+- name: bjergtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72451/1.0
+- name: bjergunlucky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72452/1.0
+- name: bjergsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71986/1.0
+- name: bjergcamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71706/1.0
+- name: bjergw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71975/1.0
+- name: bjergmia
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73507/1.0
+- name: bjergna
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73506/1.0

@@ -5,13 +5,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/11583/1.0
 - name: mindrop
   src: https://static-cdn.jtvnw.net/emoticons/v1/11588/1.0
-- name: minwelcome
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12591/1.0
 - name: minconfirmed
   src: https://static-cdn.jtvnw.net/emoticons/v1/27803/1.0
 - name: minriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/28341/1.0
 - name: mineu
   src: https://static-cdn.jtvnw.net/emoticons/v1/70319/1.0
+- name: minwelcome2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71786/1.0
+- name: minwelcome1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71785/1.0
+- name: minpojkepride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73389/1.0
 - name: minpojke
   src: https://static-cdn.jtvnw.net/emoticons/v1/70808/1.0
+- name: mincoach
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73374/1.0

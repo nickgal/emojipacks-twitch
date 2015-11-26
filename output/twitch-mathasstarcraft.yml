@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mathasstarcraft
 emojis:
-- name: mathaschomp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17125/1.0
 - name: mathasface
   src: https://static-cdn.jtvnw.net/emoticons/v1/17698/1.0
 - name: mathaswhoa
@@ -13,3 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64147/1.0
 - name: mathaspalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/64151/1.0
+- name: mathaslewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72838/1.0
+- name: mathassalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72719/1.0

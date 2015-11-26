@@ -5,10 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/7006/1.0
 - name: m00hax
   src: https://static-cdn.jtvnw.net/emoticons/v1/7011/1.0
-- name: m00bath
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6561/1.0
-- name: m00fangs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6560/1.0
 - name: m00cookie
   src: https://static-cdn.jtvnw.net/emoticons/v1/6584/1.0
 - name: m00wut
@@ -16,4 +12,8 @@ emojis:
 - name: m00heart
   src: https://static-cdn.jtvnw.net/emoticons/v1/26897/1.0
 - name: m00cow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33508/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72837/1.0
+- name: m00fail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71601/1.0
+- name: m00gasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73053/1.0

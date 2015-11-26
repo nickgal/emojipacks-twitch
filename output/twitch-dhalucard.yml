@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35160/1.0
 - name: dhaludmg
   src: https://static-cdn.jtvnw.net/emoticons/v1/37541/1.0
-- name: dhaluking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36561/1.0
 - name: dhalubelieve
   src: https://static-cdn.jtvnw.net/emoticons/v1/46514/1.0
 - name: dhaluon
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63391/1.0
 - name: dhalukappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/63390/1.0
+- name: dhaluking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72112/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - vektikyt
 emojis:
+- name: vekevin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71933/1.0
 - name: veklol
   src: https://static-cdn.jtvnw.net/emoticons/v1/22065/1.0
 - name: vektroll

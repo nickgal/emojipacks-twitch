@@ -1,5 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - gshan
 emojis:
-- name: gshandog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6103/1.0
+- name: gshan2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73445/1.0
+- name: gshan1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73444/1.0
+- name: gshan3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73558/1.0
+- name: gshan4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73561/1.0

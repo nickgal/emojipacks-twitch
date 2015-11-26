@@ -1,11 +1,5 @@
 ---
 title: Twitch Subscriber Emotes - qtbear
 emojis:
-- name: qtbearpizza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52229/1.0
-- name: qtbearbanana
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53675/1.0
-- name: qtbearop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50504/1.0
-- name: qtbeartroll
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50503/1.0
+- name: qtbearpecora
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71556/1.0

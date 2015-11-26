@@ -1,16 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - likebutterlive
 emojis:
-- name: butterkitty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8656/1.0
 - name: buttergprage
   src: https://static-cdn.jtvnw.net/emoticons/v1/8665/1.0
 - name: butterbuddyo8
   src: https://static-cdn.jtvnw.net/emoticons/v1/8375/1.0
 - name: butterface
   src: https://static-cdn.jtvnw.net/emoticons/v1/8374/1.0
-- name: butternerverage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8385/1.0
 - name: butterbruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/19945/1.0
 - name: butterrekt
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55541/1.0
 - name: butterenergy
   src: https://static-cdn.jtvnw.net/emoticons/v1/55542/1.0
+- name: butterthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73160/1.0
+- name: butterkitty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73161/1.0

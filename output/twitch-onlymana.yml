@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - onlymana
 emojis:
-- name: manaderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7042/1.0
-- name: manaherp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7058/1.0
+- name: manawtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72421/1.0
 - name: manastare
   src: https://static-cdn.jtvnw.net/emoticons/v1/47795/1.0
 - name: manapup
   src: https://static-cdn.jtvnw.net/emoticons/v1/50174/1.0
 - name: manamana
   src: https://static-cdn.jtvnw.net/emoticons/v1/67264/1.0
+- name: managg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73208/1.0
+- name: manawow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73209/1.0

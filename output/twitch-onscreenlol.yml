@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - onscreenlol
 emojis:
-- name: onswut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56079/1.0
 - name: onsklappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/21829/1.0
 - name: onsfrosty
@@ -27,10 +25,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56512/1.0
 - name: onskappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/46533/1.0
+- name: onswotm8
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71830/1.0
 - name: onsban
   src: https://static-cdn.jtvnw.net/emoticons/v1/46648/1.0
-- name: onsgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46649/1.0
 - name: onsladette
   src: https://static-cdn.jtvnw.net/emoticons/v1/47063/1.0
 - name: onsdank
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56032/1.0
 - name: onshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/59606/1.0
+- name: onssg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71833/1.0

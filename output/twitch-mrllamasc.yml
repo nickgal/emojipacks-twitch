@@ -1,6 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - mrllamasc
 emojis:
+- name: mrllamahey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71787/1.0
+- name: mrllamagiggle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73077/1.0
+- name: mrllamadrama
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73076/1.0
 - name: mrllamaross
   src: https://static-cdn.jtvnw.net/emoticons/v1/71229/1.0
 - name: mrllamaarmy

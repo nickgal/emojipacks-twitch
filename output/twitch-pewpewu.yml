@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - pewpewu
 emojis:
+- name: ppuclg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71957/1.0
 - name: ppuwat
   src: https://static-cdn.jtvnw.net/emoticons/v1/32996/1.0
 - name: ppugoat

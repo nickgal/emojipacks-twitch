@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - ellonija
 emojis:
 - name: heatnado
   src: https://static-cdn.jtvnw.net/emoticons/v1/69356/1.0
+- name: heatgem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72910/1.0
 - name: heatface
   src: https://static-cdn.jtvnw.net/emoticons/v1/68570/1.0
 - name: heatmad

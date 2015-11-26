@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - nick_28t
 emojis:
 - name: goldfishpop
   src: https://static-cdn.jtvnw.net/emoticons/v1/67758/1.0
-- name: goldfishklaas
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5487/1.0
 - name: goldfish1
   src: https://static-cdn.jtvnw.net/emoticons/v1/5484/1.0
 - name: goldfishboom
@@ -51,9 +49,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54565/1.0
 - name: goldfishlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/54261/1.0
-- name: goldfishnose
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68283/1.0
 - name: goldfishgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/67404/1.0
+- name: goldfishkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72165/1.0
+- name: goldfishnose
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72889/1.0
 - name: goldfishpotatoe
   src: https://static-cdn.jtvnw.net/emoticons/v1/69921/1.0

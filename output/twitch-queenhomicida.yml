@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - queenhomicida
 emojis:
+- name: kwenhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71544/1.0
+- name: kwengkiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71541/1.0
 - name: kwen69
   src: https://static-cdn.jtvnw.net/emoticons/v1/68779/1.0
 - name: kwenhype

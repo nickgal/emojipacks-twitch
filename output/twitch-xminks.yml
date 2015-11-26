@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - xminks
 emojis:
-- name: minkpedo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5980/1.0
-- name: minknerd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5983/1.0
 - name: minkcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/7382/1.0
-- name: minktrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11724/1.0
 - name: minkooh
   src: https://static-cdn.jtvnw.net/emoticons/v1/11167/1.0
 - name: minkarkham
@@ -25,3 +19,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39775/1.0
 - name: minklove
   src: https://static-cdn.jtvnw.net/emoticons/v1/39903/1.0
+- name: minkduck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73352/1.0
+- name: minkhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73486/1.0

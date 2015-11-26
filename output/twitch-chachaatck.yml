@@ -1,10 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - chachaatck
 emojis:
+- name: chachaarip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71755/1.0
+- name: chachaawtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71754/1.0
+- name: chachaansub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71753/1.0
 - name: chachaadon
   src: https://static-cdn.jtvnw.net/emoticons/v1/70300/1.0
-- name: chachaansub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70299/1.0
 - name: chachaaave
   src: https://static-cdn.jtvnw.net/emoticons/v1/70172/1.0
 - name: chachaaface

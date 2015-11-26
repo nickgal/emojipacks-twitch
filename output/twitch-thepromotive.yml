@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - thepromotive
 emojis:
-- name: promovac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58996/1.0
-- name: promotroll
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59058/1.0
 - name: promokonchik
   src: https://static-cdn.jtvnw.net/emoticons/v1/61547/1.0
 - name: promorage
   src: https://static-cdn.jtvnw.net/emoticons/v1/61555/1.0
+- name: promovac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73278/1.0
+- name: promogonj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73424/1.0

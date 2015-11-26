@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/18787/1.0
 - name: mammalshots
   src: https://static-cdn.jtvnw.net/emoticons/v1/20957/1.0
-- name: mammalmom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51381/1.0
 - name: mammalphone
   src: https://static-cdn.jtvnw.net/emoticons/v1/34507/1.0
 - name: mammaltune
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52307/1.0
 - name: mammalrec
   src: https://static-cdn.jtvnw.net/emoticons/v1/61015/1.0
+- name: mammalw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73370/1.0

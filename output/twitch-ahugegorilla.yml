@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - ahugegorilla
 emojis:
 - name: gorillarage
   src: https://static-cdn.jtvnw.net/emoticons/v1/70964/1.0
-- name: gorillarekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70963/1.0
 - name: gorillagg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70961/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73254/1.0
+- name: gorillalove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73255/1.0
 - name: gorillaimdone
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71186/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73256/1.0
+- name: gorillarekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73257/1.0
+- name: gorillahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73475/1.0

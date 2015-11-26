@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - xxsneakypxx
 emojis:
+- name: snkyraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72622/1.0
+- name: snkyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72647/1.0
 - name: snkybanblue
   src: https://static-cdn.jtvnw.net/emoticons/v1/68641/1.0
 - name: snkyblamerapid

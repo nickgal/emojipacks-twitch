@@ -1,69 +1,71 @@
 ---
 title: Twitch Subscriber Emotes - imaqtpie
 emojis:
-- name: wowsospooky
+- name: qtpspooky
   src: https://static-cdn.jtvnw.net/emoticons/v1/3176/1.0
-- name: wowsoswag
+- name: qtpbrojob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71789/1.0
+- name: qtpswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/19673/1.0
-- name: wowsoblessed
+- name: qtpblessed
   src: https://static-cdn.jtvnw.net/emoticons/v1/12576/1.0
-- name: wowsoheim
+- name: qtpheim
   src: https://static-cdn.jtvnw.net/emoticons/v1/14774/1.0
-- name: wowsousa
+- name: qtpusa
   src: https://static-cdn.jtvnw.net/emoticons/v1/14303/1.0
-- name: wowsoamaze
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17214/1.0
-- name: wowsodong
+- name: qtpdong
   src: https://static-cdn.jtvnw.net/emoticons/v1/17218/1.0
-- name: wowsoham
+- name: qtpham
   src: https://static-cdn.jtvnw.net/emoticons/v1/17220/1.0
-- name: wowsoculled
+- name: qtpculled
   src: https://static-cdn.jtvnw.net/emoticons/v1/19671/1.0
-- name: wowsostfu
+- name: qtpstfu
   src: https://static-cdn.jtvnw.net/emoticons/v1/22127/1.0
-- name: wowsomeme
+- name: qtpmeme
   src: https://static-cdn.jtvnw.net/emoticons/v1/25587/1.0
-- name: wowsopotato
+- name: qtppotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/27309/1.0
-- name: wowsopaid
+- name: qtppleb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71790/1.0
+- name: qtppaid
   src: https://static-cdn.jtvnw.net/emoticons/v1/31292/1.0
-- name: wowso2can
+- name: qtp2can
   src: https://static-cdn.jtvnw.net/emoticons/v1/31002/1.0
-- name: wowsolemonkey
+- name: qtplemonkey
   src: https://static-cdn.jtvnw.net/emoticons/v1/31003/1.0
-- name: wowsorobot
+- name: qtprobot
   src: https://static-cdn.jtvnw.net/emoticons/v1/31927/1.0
-- name: wowsowave
+- name: qtpwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/32438/1.0
-- name: wowsokappa
+- name: qtpkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/32641/1.0
-- name: wowsotilt
+- name: qtptilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/35064/1.0
-- name: wowsourgod
+- name: qtpurgod
   src: https://static-cdn.jtvnw.net/emoticons/v1/40894/1.0
-- name: wowsorekt
+- name: qtprekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/44079/1.0
-- name: wowsoassist
+- name: qtpassist
   src: https://static-cdn.jtvnw.net/emoticons/v1/40895/1.0
-- name: wowsomoist
+- name: qtpmoist
   src: https://static-cdn.jtvnw.net/emoticons/v1/44081/1.0
-- name: wowsowhat
+- name: qtpwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/44083/1.0
-- name: wowsoheart
+- name: qtpheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/41374/1.0
-- name: wowsomellow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56262/1.0
-- name: wowsohonk
+- name: qtphonk
   src: https://static-cdn.jtvnw.net/emoticons/v1/67391/1.0
-- name: wowsomew
+- name: qtpmew
   src: https://static-cdn.jtvnw.net/emoticons/v1/69103/1.0
-- name: wowsobabyrage
+- name: qtpbabyrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/68194/1.0
-- name: wowsoopenmid
+- name: qtpopenmid
   src: https://static-cdn.jtvnw.net/emoticons/v1/68195/1.0
-- name: wowsobaked
+- name: qtpbaked
   src: https://static-cdn.jtvnw.net/emoticons/v1/69729/1.0
-- name: wowsospooked
+- name: qtpspooked
   src: https://static-cdn.jtvnw.net/emoticons/v1/69728/1.0
-- name: wowsofeels
+- name: qtpfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/69731/1.0
+- name: qtpmellow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73073/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - pacthecool1
 emojis:
+- name: pacchocolateam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71752/1.0
 - name: pacmurlocface
   src: https://static-cdn.jtvnw.net/emoticons/v1/69727/1.0
 - name: pacman

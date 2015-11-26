@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38300/1.0
 - name: admiraldong
   src: https://static-cdn.jtvnw.net/emoticons/v1/56884/1.0
-- name: admiralfool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57096/1.0
 - name: admiralpleb
   src: https://static-cdn.jtvnw.net/emoticons/v1/57740/1.0
 - name: admiralthump
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68937/1.0
 - name: admiralhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/69497/1.0
+- name: admiralfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71685/1.0

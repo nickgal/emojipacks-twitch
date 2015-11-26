@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/21671/1.0
 - name: shdwpls
   src: https://static-cdn.jtvnw.net/emoticons/v1/22954/1.0
-- name: shdwkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33450/1.0
 - name: shdwthrows
   src: https://static-cdn.jtvnw.net/emoticons/v1/36236/1.0
 - name: shdwlove
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68857/1.0
 - name: shdwrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/69561/1.0
+- name: shdwtaunt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72993/1.0

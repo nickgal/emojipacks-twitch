@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - manny7788gaming
 emojis:
 - name: mannyone
   src: https://static-cdn.jtvnw.net/emoticons/v1/62060/1.0
-- name: mannysmash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55439/1.0
 - name: mannyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/53184/1.0
 - name: mannyface
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53170/1.0
 - name: mannyfam
   src: https://static-cdn.jtvnw.net/emoticons/v1/63481/1.0
+- name: mannyhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72973/1.0

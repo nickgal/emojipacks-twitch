@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - dvp2k
 emojis:
-- name: dvplike
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69404/1.0
+- name: dvpbrain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73305/1.0
+- name: dvppet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72251/1.0
+- name: dvpmagic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72275/1.0
 - name: dvpface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67480/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73306/1.0

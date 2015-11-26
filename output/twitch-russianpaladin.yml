@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - russianpaladin
 emojis:
+- name: paladinhonk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72735/1.0
 - name: paladinstinger
   src: https://static-cdn.jtvnw.net/emoticons/v1/27296/1.0
 - name: paladinout

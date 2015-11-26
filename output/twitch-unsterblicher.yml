@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - unsterblicher
 emojis:
+- name: unstercolere
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72470/1.0
+- name: unsterdiable
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72469/1.0
 - name: unsterclindoeil
   src: https://static-cdn.jtvnw.net/emoticons/v1/63664/1.0
 - name: unstersourire

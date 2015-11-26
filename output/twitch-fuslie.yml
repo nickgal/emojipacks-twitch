@@ -7,6 +7,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66626/1.0
 - name: fuslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/66631/1.0
+- name: fusbearman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72110/1.0
+- name: fusbadman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72107/1.0
 - name: fuslie
   src: https://static-cdn.jtvnw.net/emoticons/v1/67448/1.0
 - name: fusholy
@@ -15,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67449/1.0
 - name: fustilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/67568/1.0
+- name: fusclaus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72190/1.0

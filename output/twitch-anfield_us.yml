@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - anfield_us
 emojis:
 - name: anfhue
   src: https://static-cdn.jtvnw.net/emoticons/v1/12611/1.0
-- name: anftears
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11825/1.0
 - name: anfdx
   src: https://static-cdn.jtvnw.net/emoticons/v1/48201/1.0
 - name: anfmesiah
@@ -15,5 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/28596/1.0
 - name: anf50b
   src: https://static-cdn.jtvnw.net/emoticons/v1/44904/1.0
+- name: anfpc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73112/1.0
 - name: anff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48200/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73113/1.0

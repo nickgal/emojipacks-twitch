@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - heinz
 emojis:
+- name: heinznv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71985/1.0
 - name: heinzhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/21855/1.0
 - name: heinzwoo
@@ -14,6 +16,4 @@ emojis:
 - name: heinzcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/25270/1.0
 - name: heinzgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43850/1.0
-- name: heinzambush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60877/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72498/1.0

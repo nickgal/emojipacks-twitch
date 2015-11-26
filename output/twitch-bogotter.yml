@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - bogotter
 emojis:
+- name: bogotterloot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72394/1.0
 - name: bogotterhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/70818/1.0
 - name: bogottersnap
@@ -9,5 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68911/1.0
 - name: bogotterfacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/69430/1.0
-- name: bogotterhowdy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70535/1.0
+- name: bogotterrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72118/1.0
+- name: bogotterclam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72381/1.0

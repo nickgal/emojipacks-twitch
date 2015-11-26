@@ -1,14 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - manyrin
 emojis:
+- name: goldcapbomb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71804/1.0
 - name: goldcapshot
   src: https://static-cdn.jtvnw.net/emoticons/v1/25659/1.0
 - name: goldcap2
   src: https://static-cdn.jtvnw.net/emoticons/v1/20759/1.0
 - name: goldcap3
   src: https://static-cdn.jtvnw.net/emoticons/v1/20760/1.0
-- name: goldcapbue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19899/1.0
 - name: goldcapoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/19890/1.0
 - name: goldcap1k

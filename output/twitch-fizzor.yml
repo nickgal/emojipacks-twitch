@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - fizzor
 emojis:
+- name: fizzdex
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72393/1.0
 - name: fizzair
   src: https://static-cdn.jtvnw.net/emoticons/v1/30455/1.0
 - name: fizzface
@@ -11,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68206/1.0
 - name: fizzhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/70786/1.0
+- name: fizzrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72386/1.0
+- name: fizzmida
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72389/1.0
+- name: fizzdl44
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73453/1.0
+- name: fizzopstrats
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73529/1.0

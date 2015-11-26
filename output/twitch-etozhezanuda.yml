@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70883/1.0
 - name: etzcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/70882/1.0
+- name: etzfrog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71939/1.0
 - name: etz3
   src: https://static-cdn.jtvnw.net/emoticons/v1/56951/1.0
 - name: etzwut
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69751/1.0
 - name: etzkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/69750/1.0
+- name: etzdukaross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/72145/1.0

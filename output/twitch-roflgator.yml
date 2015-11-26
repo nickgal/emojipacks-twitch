@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - roflgator
 emojis:
+- name: roflgatorheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71820/1.0
 - name: roflgatordino
   src: https://static-cdn.jtvnw.net/emoticons/v1/5117/1.0
 - name: roflgatormetal
@@ -13,7 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40327/1.0
 - name: roflgatorwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/40323/1.0
-- name: roflgatorkarmagasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57717/1.0
-- name: roflgatorsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57718/1.0
+- name: roflgatortracergasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/71734/1.0
