@@ -5,16 +5,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30759/1.0
 - name: badlick
   src: https://static-cdn.jtvnw.net/emoticons/v1/26248/1.0
-- name: badcookie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25325/1.0
 - name: badbaron
   src: https://static-cdn.jtvnw.net/emoticons/v1/25331/1.0
 - name: badhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/29963/1.0
 - name: badtest
   src: https://static-cdn.jtvnw.net/emoticons/v1/29194/1.0
-- name: badness
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45643/1.0
 - name: badno
   src: https://static-cdn.jtvnw.net/emoticons/v1/34589/1.0
 - name: badhi
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45380/1.0
 - name: badobey
   src: https://static-cdn.jtvnw.net/emoticons/v1/45383/1.0
+- name: baddeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73724/1.0
+- name: badw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73726/1.0

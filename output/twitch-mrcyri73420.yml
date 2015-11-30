@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - mrcyri73420
 emojis:
+- name: hehehecyt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73736/1.0
+- name: hehehegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73735/1.0
 - name: hehehesub
   src: https://static-cdn.jtvnw.net/emoticons/v1/52476/1.0
 - name: hehehenewsub

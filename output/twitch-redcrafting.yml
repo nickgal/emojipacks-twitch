@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - redcrafting
 emojis:
+- name: rcsegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73689/1.0
 - name: rcstomato
   src: https://static-cdn.jtvnw.net/emoticons/v1/66342/1.0
 - name: rcspotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/66341/1.0
+- name: rcsrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73707/1.0

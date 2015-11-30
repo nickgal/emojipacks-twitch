@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - llcupido
 emojis:
+- name: cupicute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73737/1.0
 - name: cupinom
   src: https://static-cdn.jtvnw.net/emoticons/v1/73042/1.0
 - name: cupirip

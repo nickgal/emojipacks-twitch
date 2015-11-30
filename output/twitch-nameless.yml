@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - nameless
 emojis:
 - name: namezeus
   src: https://static-cdn.jtvnw.net/emoticons/v1/10081/1.0
-- name: namefry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10417/1.0
+- name: namesub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73705/1.0
 - name: nameeat
   src: https://static-cdn.jtvnw.net/emoticons/v1/10174/1.0
+- name: nameworld
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73638/1.0
+- name: nameup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73706/1.0
 - name: namesav
   src: https://static-cdn.jtvnw.net/emoticons/v1/72974/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - casy_nuf
 emojis:
+- name: casych
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73596/1.0
+- name: casyross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73595/1.0
 - name: casyg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73315/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73684/1.0
 - name: casyl
   src: https://static-cdn.jtvnw.net/emoticons/v1/73342/1.0

@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mightymouseufc125
 emojis:
-- name: mm1sub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70897/1.0
+- name: mm1hyp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73676/1.0
+- name: mm1elf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73674/1.0
 - name: mm1ball
   src: https://static-cdn.jtvnw.net/emoticons/v1/70936/1.0
 - name: mm1sqd
   src: https://static-cdn.jtvnw.net/emoticons/v1/70937/1.0
-- name: mm1huh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69880/1.0
+- name: mm1tng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73675/1.0
 - name: mm1yeah
   src: https://static-cdn.jtvnw.net/emoticons/v1/69950/1.0

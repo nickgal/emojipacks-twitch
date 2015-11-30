@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - lifewithlaughs
 emojis:
+- name: lwllove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73592/1.0
+- name: lwlr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73591/1.0
 - name: lwlhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/73490/1.0
 - name: lwlsoon

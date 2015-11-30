@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - russlowm
 emojis:
 - name: russrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/68875/1.0
+- name: russkill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73635/1.0
 - name: russbb136
   src: https://static-cdn.jtvnw.net/emoticons/v1/68034/1.0
 - name: russrusshype

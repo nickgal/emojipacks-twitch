@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - flare2v
 emojis:
+- name: flare2rip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73634/1.0
 - name: flare2kappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/59922/1.0
 - name: flare2art
@@ -9,5 +11,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65406/1.0
 - name: flare2bob
   src: https://static-cdn.jtvnw.net/emoticons/v1/68218/1.0
-- name: flare2rip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69942/1.0

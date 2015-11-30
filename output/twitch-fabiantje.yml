@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - fabiantje
 emojis:
+- name: febrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73733/1.0
 - name: febkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/71761/1.0
 - name: febw

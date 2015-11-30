@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - hoopienation
 emojis:
+- name: hoopiep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73654/1.0
 - name: hoopiehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/60193/1.0
 - name: hoopiel

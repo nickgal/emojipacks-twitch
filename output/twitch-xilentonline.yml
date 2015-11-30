@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - xilentonline
 emojis:
-- name: xilentface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56634/1.0
 - name: xilentcollab
   src: https://static-cdn.jtvnw.net/emoticons/v1/60726/1.0
 - name: xilentsub
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59082/1.0
 - name: xilentchain
   src: https://static-cdn.jtvnw.net/emoticons/v1/59648/1.0
+- name: xilentmiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73788/1.0
+- name: xilentkong
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73789/1.0
+- name: xilentface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73792/1.0

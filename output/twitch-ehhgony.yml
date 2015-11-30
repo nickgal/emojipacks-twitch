@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - ehhgony
 emojis:
 - name: agonywot
   src: https://static-cdn.jtvnw.net/emoticons/v1/50876/1.0
-- name: agonyyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50875/1.0
-- name: agonylegend
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50873/1.0
 - name: agonypremium
   src: https://static-cdn.jtvnw.net/emoticons/v1/50872/1.0
 - name: agonyomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/50871/1.0
+- name: agonyhitmarker
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73847/1.0
+- name: agonylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73850/1.0
+- name: agonylegend
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73853/1.0
+- name: agonysub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73852/1.0
+- name: agonyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73856/1.0
 - name: agonyclip
   src: https://static-cdn.jtvnw.net/emoticons/v1/73408/1.0
-- name: agonysub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73412/1.0
 - name: agonychoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/73425/1.0

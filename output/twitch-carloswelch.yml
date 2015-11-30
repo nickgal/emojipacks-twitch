@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - carloswelch
 emojis:
 - name: homelesspain
   src: https://static-cdn.jtvnw.net/emoticons/v1/72546/1.0
+- name: homelessnitmobile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73743/1.0
+- name: homelesscarlos
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73742/1.0
 - name: homelessfreedom
   src: https://static-cdn.jtvnw.net/emoticons/v1/72550/1.0

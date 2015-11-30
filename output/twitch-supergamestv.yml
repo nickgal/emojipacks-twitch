@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - supergamestv
 emojis:
+- name: sugatvbienchen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73627/1.0
 - name: sugatvbarlow
   src: https://static-cdn.jtvnw.net/emoticons/v1/67262/1.0
 - name: sugatvjockl

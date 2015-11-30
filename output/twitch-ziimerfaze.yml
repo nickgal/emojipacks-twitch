@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - ziimerfaze
 emojis:
+- name: ziimerhappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73688/1.0
 - name: ziimerpma
   src: https://static-cdn.jtvnw.net/emoticons/v1/66679/1.0
 - name: ziimerd

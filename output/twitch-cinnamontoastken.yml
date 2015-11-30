@@ -15,5 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72961/1.0
 - name: ctkthumb
   src: https://static-cdn.jtvnw.net/emoticons/v1/32603/1.0
+- name: ctkcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73699/1.0
+- name: ctkboss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73708/1.0
 - name: ctkmary
   src: https://static-cdn.jtvnw.net/emoticons/v1/73045/1.0

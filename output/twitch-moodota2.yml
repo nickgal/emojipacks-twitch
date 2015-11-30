@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - moodota2
 emojis:
 - name: moodotacow
   src: https://static-cdn.jtvnw.net/emoticons/v1/56646/1.0
-- name: moodotamad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56642/1.0
-- name: moodotacry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56641/1.0
 - name: moodotakawai
   src: https://static-cdn.jtvnw.net/emoticons/v1/53880/1.0
 - name: moodotathump

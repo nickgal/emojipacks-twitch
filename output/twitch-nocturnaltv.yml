@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - nocturnaltv
 emojis:
+- name: nocs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73730/1.0
 - name: nockappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/60871/1.0
 - name: nocbadge

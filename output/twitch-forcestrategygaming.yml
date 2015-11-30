@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - forcestrategygaming
 emojis:
 - name: forcejustice
   src: https://static-cdn.jtvnw.net/emoticons/v1/72802/1.0
+- name: forcesad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73753/1.0
 - name: forcerage
   src: https://static-cdn.jtvnw.net/emoticons/v1/73199/1.0
 - name: forcesalt

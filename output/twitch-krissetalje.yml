@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - krissetalje
 emojis:
+- name: krissekappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73597/1.0
 - name: krisseskoen
   src: https://static-cdn.jtvnw.net/emoticons/v1/62235/1.0
 - name: krissehaadeee

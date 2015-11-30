@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mrtilt001
 emojis:
+- name: tiltaces
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73750/1.0
 - name: tiltyeahboi
   src: https://static-cdn.jtvnw.net/emoticons/v1/71744/1.0
 - name: tiltkings

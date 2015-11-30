@@ -7,6 +7,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66813/1.0
 - name: m602can
   src: https://static-cdn.jtvnw.net/emoticons/v1/41788/1.0
+- name: m60feelschristmas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73771/1.0
 - name: m60suprstr
   src: https://static-cdn.jtvnw.net/emoticons/v1/44589/1.0
 - name: m60z
@@ -19,5 +21,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66464/1.0
 - name: m60i
   src: https://static-cdn.jtvnw.net/emoticons/v1/70863/1.0
-- name: m60gobble
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70756/1.0

@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - mootality
 emojis:
+- name: mootimeh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73633/1.0
+- name: mootiarty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73628/1.0
 - name: mootihuhu
   src: https://static-cdn.jtvnw.net/emoticons/v1/73378/1.0
 - name: mootigretchen

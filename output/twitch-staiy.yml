@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - staiy
 emojis:
+- name: staiyshots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73672/1.0
 - name: staiyban
   src: https://static-cdn.jtvnw.net/emoticons/v1/12340/1.0
 - name: staiyslove
@@ -25,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59054/1.0
 - name: staiycry
   src: https://static-cdn.jtvnw.net/emoticons/v1/50072/1.0
-- name: staiysleeper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60387/1.0
 - name: staiygeld
   src: https://static-cdn.jtvnw.net/emoticons/v1/58759/1.0
 - name: staiyw

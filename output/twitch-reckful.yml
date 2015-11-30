@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/20916/1.0
 - name: recksleeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/25699/1.0
-- name: reckdealer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22975/1.0
 - name: reckjew
   src: https://static-cdn.jtvnw.net/emoticons/v1/22957/1.0
 - name: reckfarmer
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71090/1.0
 - name: reck1
   src: https://static-cdn.jtvnw.net/emoticons/v1/71091/1.0
+- name: reckj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73716/1.0

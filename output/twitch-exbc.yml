@@ -3,8 +3,12 @@ title: Twitch Subscriber Emotes - exbc
 emojis:
 - name: exbclol
   src: https://static-cdn.jtvnw.net/emoticons/v1/65838/1.0
+- name: exbcgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73721/1.0
 - name: exbcomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/71042/1.0
+- name: exbcfired
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73720/1.0
 - name: exbcfree
   src: https://static-cdn.jtvnw.net/emoticons/v1/72186/1.0
 - name: exbcsoju

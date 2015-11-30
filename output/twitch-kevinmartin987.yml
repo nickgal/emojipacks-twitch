@@ -5,9 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64623/1.0
 - name: kmartk2
   src: https://static-cdn.jtvnw.net/emoticons/v1/64624/1.0
+- name: kmartwalk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73703/1.0
+- name: kmartpaint
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73700/1.0
 - name: kmartbusto
   src: https://static-cdn.jtvnw.net/emoticons/v1/64626/1.0
 - name: kmartletsgo
   src: https://static-cdn.jtvnw.net/emoticons/v1/64625/1.0
-- name: kmartbreakcam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64620/1.0
+- name: kmartjersey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73701/1.0
+- name: kmartbadbeat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73702/1.0

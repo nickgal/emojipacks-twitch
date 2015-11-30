@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - horsepants
 emojis:
+- name: horsemnose
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73609/1.0
 - name: horsesure
   src: https://static-cdn.jtvnw.net/emoticons/v1/70377/1.0
 - name: horsegotcha

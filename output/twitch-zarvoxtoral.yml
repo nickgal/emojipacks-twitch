@@ -3,6 +3,12 @@ title: Twitch Subscriber Emotes - zarvoxtoral
 emojis:
 - name: zarofdoom
   src: https://static-cdn.jtvnw.net/emoticons/v1/73576/1.0
+- name: zarpulse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73739/1.0
+- name: zarnotgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73738/1.0
+- name: zarcap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73741/1.0
 - name: zargasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/73557/1.0
 - name: zartv

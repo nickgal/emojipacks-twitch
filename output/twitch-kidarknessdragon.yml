@@ -1,10 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - kidarknessdragon
 emojis:
+- name: kidarknessfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73587/1.0
 - name: kidarknessdrop
   src: https://static-cdn.jtvnw.net/emoticons/v1/63091/1.0
 - name: kidarknesstroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/66750/1.0
+- name: kidarknessluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73586/1.0
 - name: kidarknesslol
   src: https://static-cdn.jtvnw.net/emoticons/v1/63388/1.0
 - name: kidarknessthump
