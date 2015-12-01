@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - sypherpk
 emojis:
 - name: sypherhappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/47763/1.0
+- name: sypherlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73776/1.0
 - name: sypherdead
   src: https://static-cdn.jtvnw.net/emoticons/v1/59020/1.0
 - name: syphergasm

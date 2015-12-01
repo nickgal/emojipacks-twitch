@@ -1,22 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - fathersongaming
 emojis:
-- name: fsgpanda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3532/1.0
 - name: fsgpapa
   src: https://static-cdn.jtvnw.net/emoticons/v1/3274/1.0
 - name: fsgzailey
   src: https://static-cdn.jtvnw.net/emoticons/v1/3276/1.0
-- name: fsgrainbow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4257/1.0
 - name: fsgbang
   src: https://static-cdn.jtvnw.net/emoticons/v1/9890/1.0
 - name: fsgbomb
   src: https://static-cdn.jtvnw.net/emoticons/v1/10893/1.0
 - name: fsgjappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/16847/1.0
-- name: fsggg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16336/1.0
 - name: fsggasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/20835/1.0
 - name: fsgw

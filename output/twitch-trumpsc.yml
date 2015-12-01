@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - trumpsc
 emojis:
-- name: trumpvalue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2929/1.0
 - name: trumpcookie
   src: https://static-cdn.jtvnw.net/emoticons/v1/2931/1.0
 - name: trumpstats
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60890/1.0
 - name: trumpup
   src: https://static-cdn.jtvnw.net/emoticons/v1/60891/1.0
+- name: trumpvalue
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73989/1.0

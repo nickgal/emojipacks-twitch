@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72952/1.0
 - name: lehpestka
   src: https://static-cdn.jtvnw.net/emoticons/v1/72951/1.0
+- name: lehuspokojsie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73998/1.0
 - name: lehdobra
   src: https://static-cdn.jtvnw.net/emoticons/v1/72442/1.0
 - name: lehdeagle
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72374/1.0
 - name: lehdziadek
   src: https://static-cdn.jtvnw.net/emoticons/v1/72380/1.0
+- name: lehustawione
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73986/1.0

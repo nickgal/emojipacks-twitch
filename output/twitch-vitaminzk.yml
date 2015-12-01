@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - vitaminzk
 emojis:
+- name: vzkpunch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73999/1.0
+- name: vzklemons
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73997/1.0
 - name: vzkkuck
   src: https://static-cdn.jtvnw.net/emoticons/v1/71176/1.0
 - name: vzkplease

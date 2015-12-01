@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39522/1.0
 - name: kenzw
   src: https://static-cdn.jtvnw.net/emoticons/v1/39508/1.0
-- name: kenzribbon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39500/1.0
 - name: kenzchair
   src: https://static-cdn.jtvnw.net/emoticons/v1/48699/1.0
 - name: kenzsellout
@@ -19,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62164/1.0
 - name: kenztree
   src: https://static-cdn.jtvnw.net/emoticons/v1/73101/1.0
+- name: kenzthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73974/1.0
+- name: kenzchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73975/1.0

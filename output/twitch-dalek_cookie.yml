@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - dalek_cookie
 emojis:
+- name: dalash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73819/1.0
 - name: daltit
   src: https://static-cdn.jtvnw.net/emoticons/v1/53067/1.0
 - name: dallewd

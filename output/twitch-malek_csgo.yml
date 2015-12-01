@@ -9,3 +9,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59453/1.0
 - name: cafardinhoc
   src: https://static-cdn.jtvnw.net/emoticons/v1/59457/1.0
+- name: cafardinhopush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73950/1.0
+- name: cafardinhofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73924/1.0

@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73573/1.0
 - name: stateboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/71343/1.0
+- name: stategg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73916/1.0
 - name: statepylon
   src: https://static-cdn.jtvnw.net/emoticons/v1/73448/1.0
 - name: stateclick

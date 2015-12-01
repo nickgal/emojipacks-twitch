@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - sc_slayerage
 emojis:
+- name: caslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73834/1.0
+- name: casfilth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73832/1.0
 - name: cassleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/54336/1.0
 - name: casfeels
@@ -15,7 +19,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54693/1.0
 - name: cashey
   src: https://static-cdn.jtvnw.net/emoticons/v1/64103/1.0
+- name: casomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73833/1.0
 - name: caschamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/69902/1.0
 - name: caswtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/70011/1.0
+- name: casthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73862/1.0
+- name: casjolly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73969/1.0

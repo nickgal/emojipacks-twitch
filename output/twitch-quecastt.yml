@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - quecastt
 emojis:
+- name: quesexy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73800/1.0
 - name: querip
   src: https://static-cdn.jtvnw.net/emoticons/v1/57884/1.0
 - name: quehype

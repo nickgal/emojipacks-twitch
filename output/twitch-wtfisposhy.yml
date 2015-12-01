@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - wtfisposhy
 emojis:
+- name: poshpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73787/1.0
 - name: poshsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/48284/1.0
 - name: poshgasm

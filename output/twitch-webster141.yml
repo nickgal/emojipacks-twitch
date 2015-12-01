@@ -3,7 +3,11 @@ title: Twitch Subscriber Emotes - webster141
 emojis:
 - name: websad
   src: https://static-cdn.jtvnw.net/emoticons/v1/22661/1.0
-- name: webboco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22660/1.0
 - name: webfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/38822/1.0
+- name: webselphie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73902/1.0
+- name: webrinoa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73900/1.0
+- name: webpeace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73901/1.0

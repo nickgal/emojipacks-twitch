@@ -21,6 +21,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40983/1.0
 - name: brkrp
   src: https://static-cdn.jtvnw.net/emoticons/v1/40985/1.0
+- name: brkblind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73784/1.0
 - name: brkhunt
   src: https://static-cdn.jtvnw.net/emoticons/v1/41636/1.0
 - name: brkgazm

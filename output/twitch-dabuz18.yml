@@ -7,9 +7,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53433/1.0
 - name: buzsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/72894/1.0
-- name: buzrosa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70567/1.0
-- name: buzblush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70568/1.0
 - name: buzoops
   src: https://static-cdn.jtvnw.net/emoticons/v1/73713/1.0
+- name: buzblush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73970/1.0
+- name: buzrosa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73971/1.0

@@ -1,8 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - ngotie
 emojis:
+- name: ngoc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73807/1.0
 - name: ngophil
   src: https://static-cdn.jtvnw.net/emoticons/v1/1685/1.0
+- name: ngot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/73808/1.0
 - name: ngoflank
   src: https://static-cdn.jtvnw.net/emoticons/v1/1683/1.0
 - name: ngomug
