@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - euritv
 emojis:
+- name: eurilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74096/1.0
 - name: eurihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/72886/1.0
 - name: eurifeels

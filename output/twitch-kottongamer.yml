@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - kottongamer
 emojis:
+- name: kottonrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74034/1.0
 - name: kottonking
   src: https://static-cdn.jtvnw.net/emoticons/v1/73242/1.0
 - name: kottonjimmy

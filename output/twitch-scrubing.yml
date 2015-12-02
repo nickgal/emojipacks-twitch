@@ -3,18 +3,12 @@ title: Twitch Subscriber Emotes - scrubing
 emojis:
 - name: binghype
   src: https://static-cdn.jtvnw.net/emoticons/v1/31796/1.0
-- name: binghey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46628/1.0
 - name: binghappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/54933/1.0
 - name: bingbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/54934/1.0
-- name: bingomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54936/1.0
 - name: bingup
   src: https://static-cdn.jtvnw.net/emoticons/v1/54938/1.0
-- name: bingw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54943/1.0
 - name: bingmad
   src: https://static-cdn.jtvnw.net/emoticons/v1/54937/1.0
 - name: bingfail
@@ -23,11 +17,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54932/1.0
 - name: binggasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/54680/1.0
-- name: bingblank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58710/1.0
 - name: bingheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/58708/1.0
 - name: bingcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/58707/1.0
 - name: bingcool
   src: https://static-cdn.jtvnw.net/emoticons/v1/58706/1.0
+- name: bingw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74116/1.0
+- name: binghey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74115/1.0
+- name: bingblank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74114/1.0
+- name: bingomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74118/1.0

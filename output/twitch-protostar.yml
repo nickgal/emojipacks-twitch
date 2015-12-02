@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - protostar
 emojis:
-- name: protdraper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73758/1.0
 - name: protlogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/72119/1.0
-- name: protderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72121/1.0
 - name: protkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/72122/1.0
 - name: protroxy

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - skuzone
 emojis:
+- name: skuzgojo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74085/1.0
 - name: skuzdog
   src: https://static-cdn.jtvnw.net/emoticons/v1/56434/1.0
 - name: skuzvulture

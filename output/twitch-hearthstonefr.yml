@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - hearthstonefr
 emojis:
 - name: hsfrun33d
   src: https://static-cdn.jtvnw.net/emoticons/v1/38887/1.0
-- name: hsfrtopdeck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46056/1.0
 - name: hsfrbabel
   src: https://static-cdn.jtvnw.net/emoticons/v1/61215/1.0
 - name: hsfrclient
@@ -21,3 +19,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61221/1.0
 - name: hsfrtrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/61222/1.0
+- name: hsfrkakaou
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74100/1.0
+- name: hsfrpurple
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74098/1.0

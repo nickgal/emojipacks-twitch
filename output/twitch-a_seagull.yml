@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - a_seagull
 emojis:
+- name: seagull1hp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74080/1.0
 - name: seagullw1
   src: https://static-cdn.jtvnw.net/emoticons/v1/71673/1.0
 - name: seagullw2

@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - stage53
 emojis:
-- name: stagewudder
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16019/1.0
-- name: stagerage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16030/1.0
+- name: stagehotdog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74026/1.0
+- name: stagehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74030/1.0
+- name: stagesour
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74029/1.0
+- name: stagerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74028/1.0
+- name: stagemlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74027/1.0
+- name: stagefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74025/1.0

@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - wtfosaurus
 emojis:
+- name: wtfogtfo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74079/1.0
+- name: wtforaid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74078/1.0
 - name: wtfolurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/51362/1.0
 - name: wtfohi5
@@ -17,6 +21,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50610/1.0
 - name: wtforekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/50607/1.0
+- name: wtfobuff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74076/1.0
+- name: wtfonerf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74077/1.0
 - name: wtfoskull
   src: https://static-cdn.jtvnw.net/emoticons/v1/70050/1.0
 - name: wtfoorg

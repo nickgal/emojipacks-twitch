@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/25720/1.0
 - name: mcatsmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/24343/1.0
-- name: mcathype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26232/1.0
 - name: mcatbandana
   src: https://static-cdn.jtvnw.net/emoticons/v1/26233/1.0
 - name: mcatbassface
@@ -32,8 +30,10 @@ emojis:
 - name: mcatsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/56916/1.0
 - name: mcatnerds
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67170/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74105/1.0
 - name: mcatpegboard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67172/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74106/1.0
+- name: mcathype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74107/1.0
 - name: mcatmeowbuck
   src: https://static-cdn.jtvnw.net/emoticons/v1/69664/1.0

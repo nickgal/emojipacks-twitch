@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - ddahyoni
 emojis:
+- name: ddahyonilastgame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74123/1.0
 - name: ddahyonilaugh
   src: https://static-cdn.jtvnw.net/emoticons/v1/70650/1.0
 - name: ddahyonidoknowdda
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70652/1.0
 - name: ddahyonibigpicture
   src: https://static-cdn.jtvnw.net/emoticons/v1/70653/1.0
+- name: ddahyonibudeulbudeul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74121/1.0
