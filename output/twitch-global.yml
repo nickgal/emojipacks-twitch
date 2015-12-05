@@ -123,6 +123,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/9803/1.0
 - name: kappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/25/1.0
+- name: kappaclaus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0
 - name: kappapride
   src: https://static-cdn.jtvnw.net/emoticons/v1/55338/1.0
 - name: kappaross
@@ -281,6 +283,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56880/1.0
 - name: tf2john
   src: https://static-cdn.jtvnw.net/emoticons/v1/1899/1.0
+- name: tgatrophy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74361/1.0
 - name: theking
   src: https://static-cdn.jtvnw.net/emoticons/v1/50901/1.0
 - name: theringer
