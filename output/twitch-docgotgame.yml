@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46345/1.0
 - name: docboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/46026/1.0
-- name: docno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46447/1.0
 - name: doccry
   src: https://static-cdn.jtvnw.net/emoticons/v1/62900/1.0
 - name: docmoney
@@ -29,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67435/1.0
 - name: docrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/67437/1.0
+- name: docwin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74529/1.0
+- name: docoops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74150/1.0

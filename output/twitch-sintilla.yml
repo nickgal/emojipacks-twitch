@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - sintilla
 emojis:
+- name: sintoverit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74790/1.0
 - name: sinthey
   src: https://static-cdn.jtvnw.net/emoticons/v1/72616/1.0
 - name: sintlove

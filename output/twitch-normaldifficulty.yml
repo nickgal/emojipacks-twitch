@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - normaldifficulty
 emojis:
-- name: normalthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7451/1.0
 - name: normalrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/20367/1.0
 - name: normalb
@@ -15,7 +13,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39378/1.0
 - name: normalrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/53407/1.0
-- name: normalbaby
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67332/1.0
 - name: normallove
   src: https://static-cdn.jtvnw.net/emoticons/v1/69840/1.0
+- name: normalwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74194/1.0
+- name: normalthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74440/1.0

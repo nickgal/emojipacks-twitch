@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - totostream
 emojis:
 - name: totogg
   src: https://static-cdn.jtvnw.net/emoticons/v1/49064/1.0
+- name: totonuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74531/1.0
 - name: totosub
   src: https://static-cdn.jtvnw.net/emoticons/v1/49063/1.0
 - name: totofamily
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67496/1.0
 - name: totorip
   src: https://static-cdn.jtvnw.net/emoticons/v1/73887/1.0
+- name: totolol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74533/1.0

@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/11772/1.0
 - name: cohhloot
   src: https://static-cdn.jtvnw.net/emoticons/v1/12028/1.0
-- name: cohhfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13697/1.0
 - name: cohhcheers
   src: https://static-cdn.jtvnw.net/emoticons/v1/13710/1.0
 - name: cohhlaina
@@ -43,8 +41,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66630/1.0
 - name: cohhdi
   src: https://static-cdn.jtvnw.net/emoticons/v1/25513/1.0
-- name: cohhrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70935/1.0
 - name: cohhham
   src: https://static-cdn.jtvnw.net/emoticons/v1/33605/1.0
 - name: cohhgv
@@ -85,19 +81,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74056/1.0
 - name: cohhr
   src: https://static-cdn.jtvnw.net/emoticons/v1/71352/1.0
-- name: cohhomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72696/1.0
 - name: cohhrobot
   src: https://static-cdn.jtvnw.net/emoticons/v1/72699/1.0
-- name: cohhgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70801/1.0
-- name: cohhgshow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70802/1.0
-- name: cohhhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70803/1.0
-- name: cohhlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70804/1.0
 - name: cohhv
   src: https://static-cdn.jtvnw.net/emoticons/v1/72620/1.0
-- name: cohhcaps
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72619/1.0
+- name: cohhlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74344/1.0
+- name: cohhomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74345/1.0
+- name: cohhrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74347/1.0
+- name: cohhdingus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74348/1.0
+- name: cohhfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74350/1.0
+- name: cohhgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74351/1.0
+- name: cohhgshow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74352/1.0
+- name: cohhhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74353/1.0

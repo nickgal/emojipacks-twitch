@@ -3,13 +3,5 @@ title: Twitch Subscriber Emotes - castcrafter
 emojis:
 - name: castrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/36672/1.0
-- name: castwc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35360/1.0
-- name: casth
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35591/1.0
 - name: castpalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/36567/1.0
-- name: castchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36565/1.0
-- name: castface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39892/1.0

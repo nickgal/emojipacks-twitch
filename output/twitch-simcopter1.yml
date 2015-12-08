@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/13691/1.0
 - name: simcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/16130/1.0
-- name: simgrin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61924/1.0
 - name: simgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/26908/1.0
 - name: simfoilhat
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70527/1.0
 - name: simvalue
   src: https://static-cdn.jtvnw.net/emoticons/v1/70664/1.0
+- name: simgrin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74383/1.0

@@ -11,13 +11,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29136/1.0
 - name: dfieldsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/31710/1.0
+- name: dfieldrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74951/1.0
 - name: dfieldgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/35219/1.0
-- name: dfieldrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37250/1.0
 - name: dfieldchill
   src: https://static-cdn.jtvnw.net/emoticons/v1/70355/1.0
 - name: dfieldvevo
   src: https://static-cdn.jtvnw.net/emoticons/v1/59297/1.0
 - name: dfieldpern
   src: https://static-cdn.jtvnw.net/emoticons/v1/59298/1.0
+- name: dfieldrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74850/1.0
+- name: dfieldfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74851/1.0
+- name: dfieldclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74919/1.0
+- name: dfieldcage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74920/1.0
+- name: dfieldmum
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74922/1.0

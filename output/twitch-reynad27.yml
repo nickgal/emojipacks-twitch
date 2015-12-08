@@ -1,29 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - reynad27
 emojis:
-- name: reynadsmile
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6596/1.0
 - name: reynadrappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/6595/1.0
 - name: reynadbeer
   src: https://static-cdn.jtvnw.net/emoticons/v1/21195/1.0
-- name: reynadchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33552/1.0
 - name: reynadw
   src: https://static-cdn.jtvnw.net/emoticons/v1/35444/1.0
-- name: reynadamy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38737/1.0
-- name: reynadts
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39931/1.0
-- name: reynadsalt1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40184/1.0
-- name: reynadsalt2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40185/1.0
-- name: reynadsalt4
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40187/1.0
-- name: reynadsalt3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40186/1.0
-- name: reynadpinata
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48115/1.0
-- name: reynadmight
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49388/1.0
+- name: reynada
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74954/1.0
+- name: reynadh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74953/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - laggin24x
 emojis:
-- name: tiki1000
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55469/1.0
 - name: tikirip
   src: https://static-cdn.jtvnw.net/emoticons/v1/55468/1.0
 - name: tikiface
@@ -13,3 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57493/1.0
 - name: tikisub
   src: https://static-cdn.jtvnw.net/emoticons/v1/67664/1.0
+- name: tikirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74365/1.0
+- name: tikihot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74366/1.0

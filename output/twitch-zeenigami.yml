@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - zeenigami
 emojis:
+- name: zeengasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74422/1.0
 - name: zeenfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/65014/1.0
 - name: zeenarms

@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - dvp2k
 emojis:
+- name: dvpprivet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74624/1.0
+- name: dvpburatino
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74623/1.0
 - name: dvpbrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/73305/1.0
 - name: dvppet

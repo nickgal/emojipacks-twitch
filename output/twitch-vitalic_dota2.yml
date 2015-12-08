@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - vitalic_dota2
 emojis:
+- name: vitalicpower
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74823/1.0
+- name: vitalicboah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74650/1.0
 - name: vitalichype
   src: https://static-cdn.jtvnw.net/emoticons/v1/72975/1.0
-- name: vitalicboah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73876/1.0

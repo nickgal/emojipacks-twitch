@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - wolf__girl
 emojis:
+- name: wolfyswears
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74787/1.0
+- name: wolfyfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74786/1.0
 - name: wolfyh
   src: https://static-cdn.jtvnw.net/emoticons/v1/40664/1.0
-- name: wolfybreathe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40663/1.0
-- name: wolfythump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40976/1.0
 - name: wolfyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/41285/1.0
 - name: wolfybrave
   src: https://static-cdn.jtvnw.net/emoticons/v1/41343/1.0
+- name: wolfythump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74644/1.0
+- name: wolfylewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74326/1.0
 - name: wolfytriggered
   src: https://static-cdn.jtvnw.net/emoticons/v1/73528/1.0

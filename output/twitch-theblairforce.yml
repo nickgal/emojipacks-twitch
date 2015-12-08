@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - theblairforce
 emojis:
+- name: tbfxmas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74642/1.0
 - name: tbfhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/64768/1.0
 - name: tbfrage

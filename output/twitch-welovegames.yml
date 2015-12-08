@@ -3,31 +3,31 @@ title: Twitch Subscriber Emotes - welovegames
 emojis:
 - name: wlgbog
   src: https://static-cdn.jtvnw.net/emoticons/v1/39665/1.0
-- name: wlgcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39669/1.0
-- name: wlgpeka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39680/1.0
-- name: wlgrob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71844/1.0
-- name: wlgchp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71846/1.0
 - name: wlgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/71847/1.0
-- name: wlgsi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59930/1.0
 - name: wlg5
   src: https://static-cdn.jtvnw.net/emoticons/v1/61693/1.0
 - name: wlgarmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/71845/1.0
-- name: wlgrex
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71843/1.0
-- name: wlg111
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71842/1.0
 - name: wlgrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/71841/1.0
-- name: wlguan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71840/1.0
 - name: wlgfp
   src: https://static-cdn.jtvnw.net/emoticons/v1/68976/1.0
 - name: wlg10
   src: https://static-cdn.jtvnw.net/emoticons/v1/68975/1.0
+- name: wlgsi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74294/1.0
+- name: wlgcap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74295/1.0
+- name: wlgpeka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74296/1.0
+- name: wlgcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74298/1.0
+- name: wlgball
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74300/1.0
+- name: wlgkp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74302/1.0
+- name: wlgmrr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74303/1.0
+- name: wlgcandy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74304/1.0

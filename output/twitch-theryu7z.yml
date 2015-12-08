@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - theryu7z
 emojis:
 - name: ryryenc
   src: https://static-cdn.jtvnw.net/emoticons/v1/58066/1.0
-- name: ryrysv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73693/1.0
 - name: ryryclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/32583/1.0
 - name: ryrynice
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63884/1.0
 - name: ryrygris
   src: https://static-cdn.jtvnw.net/emoticons/v1/63885/1.0
+- name: ryrysv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74237/1.0

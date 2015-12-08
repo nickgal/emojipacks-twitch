@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - angerbeard
 emojis:
 - name: abdhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/52545/1.0
-- name: abdrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52535/1.0
 - name: abdflag
   src: https://static-cdn.jtvnw.net/emoticons/v1/52537/1.0
 - name: abdspeed
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52813/1.0
 - name: abdgrin
   src: https://static-cdn.jtvnw.net/emoticons/v1/60458/1.0
+- name: abdrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74858/1.0

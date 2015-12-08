@@ -3,12 +3,14 @@ title: Twitch Subscriber Emotes - manpons
 emojis:
 - name: ponsk
   src: https://static-cdn.jtvnw.net/emoticons/v1/64876/1.0
+- name: ponsr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74983/1.0
+- name: ponsthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74982/1.0
 - name: ponsh
   src: https://static-cdn.jtvnw.net/emoticons/v1/68443/1.0
 - name: ponsg
   src: https://static-cdn.jtvnw.net/emoticons/v1/68442/1.0
-- name: ponsr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64858/1.0
 - name: ponso
   src: https://static-cdn.jtvnw.net/emoticons/v1/64506/1.0
 - name: ponsd
@@ -19,5 +21,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69195/1.0
 - name: ponsw
   src: https://static-cdn.jtvnw.net/emoticons/v1/71565/1.0
-- name: ponsb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71459/1.0

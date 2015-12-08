@@ -1,5 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - kiocsgo
 emojis:
+- name: k1os
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74665/1.0
 - name: k1obaguette
   src: https://static-cdn.jtvnw.net/emoticons/v1/68837/1.0
+- name: k1ocreepy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74670/1.0
+- name: k1okappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74469/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - reckful
 emojis:
 - name: recks
   src: https://static-cdn.jtvnw.net/emoticons/v1/1383/1.0
-- name: recktime
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18301/1.0
 - name: reckhello
   src: https://static-cdn.jtvnw.net/emoticons/v1/20916/1.0
 - name: recksleeper
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71091/1.0
 - name: reckj
   src: https://static-cdn.jtvnw.net/emoticons/v1/73716/1.0
+- name: reckc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74931/1.0

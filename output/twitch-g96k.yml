@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - g96k
 emojis:
+- name: vikiluv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74323/1.0
 - name: vikigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/73661/1.0
 - name: vikiwut

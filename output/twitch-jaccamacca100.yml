@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - jaccamacca100
 emojis:
 - name: jaccacool
   src: https://static-cdn.jtvnw.net/emoticons/v1/54615/1.0
+- name: jaccapride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74757/1.0
 - name: jaccakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/23719/1.0
 - name: jaccathump
@@ -15,5 +17,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29351/1.0
 - name: jaccahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/54616/1.0
-- name: jaccamario
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49889/1.0

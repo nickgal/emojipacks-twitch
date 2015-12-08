@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - kaypealol
 emojis:
 - name: kayprainbow
   src: https://static-cdn.jtvnw.net/emoticons/v1/12390/1.0
-- name: kaypnaut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12391/1.0
 - name: kayptroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/12387/1.0
 - name: kaypkp
@@ -13,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/12389/1.0
 - name: kaypronin
   src: https://static-cdn.jtvnw.net/emoticons/v1/15752/1.0
-- name: kaypriph
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44918/1.0
 - name: kaypghost
   src: https://static-cdn.jtvnw.net/emoticons/v1/44913/1.0
 - name: kaypbatlogo
@@ -29,3 +25,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52173/1.0
 - name: kayplunarage
   src: https://static-cdn.jtvnw.net/emoticons/v1/61688/1.0
+- name: kayppepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74985/1.0

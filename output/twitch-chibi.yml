@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29514/1.0
 - name: chibihoi
   src: https://static-cdn.jtvnw.net/emoticons/v1/73764/1.0
-- name: chibibadtime
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74017/1.0
 - name: chibisghetti
   src: https://static-cdn.jtvnw.net/emoticons/v1/73765/1.0
 - name: chibipapyross
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38343/1.0
 - name: chibilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/38352/1.0
+- name: chibibadtime
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74293/1.0

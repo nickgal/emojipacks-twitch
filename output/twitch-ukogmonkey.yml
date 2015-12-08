@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - ukogmonkey
 emojis:
+- name: ukogjabba
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74965/1.0
 - name: ukogmad
   src: https://static-cdn.jtvnw.net/emoticons/v1/71602/1.0
 - name: ukogpanda

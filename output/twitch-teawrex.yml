@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70968/1.0
 - name: teaformal
   src: https://static-cdn.jtvnw.net/emoticons/v1/70967/1.0
-- name: teadino
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70965/1.0
 - name: teaflip
   src: https://static-cdn.jtvnw.net/emoticons/v1/58505/1.0
 - name: teatrain
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58499/1.0
 - name: teafail
   src: https://static-cdn.jtvnw.net/emoticons/v1/58524/1.0
+- name: teadino
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74227/1.0

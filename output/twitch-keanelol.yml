@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - keanelol
 emojis:
-- name: keaneurgot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40776/1.0
 - name: keanesmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/40775/1.0
-- name: keanekeane1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32334/1.0
-- name: keanepony
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32333/1.0
 - name: keanedog
   src: https://static-cdn.jtvnw.net/emoticons/v1/32332/1.0
 - name: keaneheca

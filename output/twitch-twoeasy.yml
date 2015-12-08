@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - twoeasy
 emojis:
-- name: zlapcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3826/1.0
 - name: zlaprage
   src: https://static-cdn.jtvnw.net/emoticons/v1/6438/1.0
 - name: zlappalm
@@ -11,13 +9,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/24347/1.0
 - name: zlapgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/24489/1.0
-- name: zlapchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51225/1.0
-- name: zlapw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51226/1.0
-- name: zlapsync
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51331/1.0
 - name: zlapfamily
   src: https://static-cdn.jtvnw.net/emoticons/v1/51056/1.0
-- name: zlaprekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51803/1.0
+- name: zlapks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74946/1.0

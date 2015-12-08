@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34235/1.0
 - name: patriotpump
   src: https://static-cdn.jtvnw.net/emoticons/v1/22071/1.0
-- name: patriotfun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38027/1.0
 - name: patriotcheers
   src: https://static-cdn.jtvnw.net/emoticons/v1/37736/1.0
 - name: patriotmetal
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46102/1.0
 - name: patriotlegs
   src: https://static-cdn.jtvnw.net/emoticons/v1/57807/1.0
+- name: patriotframez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74385/1.0

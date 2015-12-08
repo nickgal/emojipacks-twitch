@@ -23,10 +23,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44976/1.0
 - name: badraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/45382/1.0
-- name: badelite
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45380/1.0
 - name: badobey
   src: https://static-cdn.jtvnw.net/emoticons/v1/45383/1.0
+- name: badfork
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74716/1.0
 - name: baddeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/73724/1.0
 - name: badw

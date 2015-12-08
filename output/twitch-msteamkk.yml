@@ -3,32 +3,24 @@ title: Twitch Subscriber Emotes - msteamkk
 emojis:
 - name: mskksub
   src: https://static-cdn.jtvnw.net/emoticons/v1/52672/1.0
+- name: mskklit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74960/1.0
 - name: mskkfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/68399/1.0
 - name: mskkupset
   src: https://static-cdn.jtvnw.net/emoticons/v1/64897/1.0
 - name: mskkhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68400/1.0
-- name: mskklewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61572/1.0
 - name: mskksloth
   src: https://static-cdn.jtvnw.net/emoticons/v1/72587/1.0
-- name: mskkchill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65037/1.0
 - name: mskklove
   src: https://static-cdn.jtvnw.net/emoticons/v1/52933/1.0
-- name: mskkhug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57239/1.0
-- name: mskkcrazy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56954/1.0
 - name: mskkcute
   src: https://static-cdn.jtvnw.net/emoticons/v1/57539/1.0
 - name: mskkwhsky
   src: https://static-cdn.jtvnw.net/emoticons/v1/57645/1.0
 - name: mskkscared
   src: https://static-cdn.jtvnw.net/emoticons/v1/57541/1.0
-- name: mskkten
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57542/1.0
 - name: mskkgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/57734/1.0
 - name: mskknot
@@ -51,3 +43,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64281/1.0
 - name: mskkpl
   src: https://static-cdn.jtvnw.net/emoticons/v1/64425/1.0
+- name: mskkdoge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74557/1.0
+- name: mskkemu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74558/1.0
+- name: mskkchimp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74559/1.0
+- name: mskkostrich
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74560/1.0

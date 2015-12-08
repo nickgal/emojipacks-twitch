@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - sidestepsmash
 emojis:
+- name: raminwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74158/1.0
 - name: raminsmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/54679/1.0
 - name: raminyes

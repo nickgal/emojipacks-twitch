@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ikasperr
 emojis:
-- name: kasperfine
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52443/1.0
 - name: kasperheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/6348/1.0
 - name: kaspergasm
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54523/1.0
 - name: kasperwaffle
   src: https://static-cdn.jtvnw.net/emoticons/v1/61324/1.0
+- name: kasperpeeko
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75002/1.0

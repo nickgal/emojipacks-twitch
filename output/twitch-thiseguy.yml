@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - thiseguy
 emojis:
-- name: eguyserious
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68020/1.0
 - name: eguycrazy
   src: https://static-cdn.jtvnw.net/emoticons/v1/67927/1.0
 - name: eguygg
@@ -15,5 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69292/1.0
 - name: eguywtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/69297/1.0
+- name: eguylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74975/1.0
 - name: eguyheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/68124/1.0
+- name: eguycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74881/1.0
+- name: eguysellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74889/1.0

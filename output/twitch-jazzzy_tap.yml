@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - jazzzy_tap
 emojis:
 - name: jazzhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/71254/1.0
-- name: jazzc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71253/1.0
 - name: jazzlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/71252/1.0
 - name: jazzh
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71250/1.0
 - name: jazzeww
   src: https://static-cdn.jtvnw.net/emoticons/v1/61740/1.0
+- name: jazzc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74396/1.0

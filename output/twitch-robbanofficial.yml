@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47674/1.0
 - name: robbansauuaaa
   src: https://static-cdn.jtvnw.net/emoticons/v1/47970/1.0
-- name: robbanchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47497/1.0
 - name: robbandoor
   src: https://static-cdn.jtvnw.net/emoticons/v1/48554/1.0
 - name: robbanbro
@@ -17,6 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52185/1.0
 - name: robbanfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/54335/1.0
+- name: robbanchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74955/1.0
 - name: robbaneco
   src: https://static-cdn.jtvnw.net/emoticons/v1/57291/1.0
 - name: robbanrip

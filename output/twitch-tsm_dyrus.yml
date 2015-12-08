@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3713/1.0
 - name: dyrusika
   src: https://static-cdn.jtvnw.net/emoticons/v1/3716/1.0
-- name: dyrusscarra
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3715/1.0
 - name: dyrush
   src: https://static-cdn.jtvnw.net/emoticons/v1/13218/1.0
 - name: dyrusraka
@@ -73,3 +71,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72139/1.0
 - name: dyrusfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/69943/1.0
+- name: dyrussanta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74437/1.0

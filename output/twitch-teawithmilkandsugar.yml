@@ -11,11 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/26797/1.0
 - name: twmhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/26798/1.0
-- name: twmkey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29629/1.0
 - name: twmkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/56394/1.0
 - name: twmrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/43854/1.0
-- name: twmdoit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57112/1.0
+- name: twmkappahat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74379/1.0
+- name: twmkillem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74380/1.0
+- name: twmpepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74155/1.0

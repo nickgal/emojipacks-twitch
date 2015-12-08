@@ -15,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52838/1.0
 - name: pokketrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/52839/1.0
-- name: pokketkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54965/1.0
 - name: pokketp
   src: https://static-cdn.jtvnw.net/emoticons/v1/59949/1.0
 - name: pokketwat
@@ -25,9 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64514/1.0
 - name: pokketperv
   src: https://static-cdn.jtvnw.net/emoticons/v1/65450/1.0
-- name: pokketgood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68636/1.0
-- name: pokketfat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72938/1.0
 - name: pokkety
   src: https://static-cdn.jtvnw.net/emoticons/v1/73253/1.0
+- name: pokketfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74496/1.0
+- name: pokketgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74497/1.0
+- name: pokketkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74498/1.0

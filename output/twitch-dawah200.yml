@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - dawah200
 emojis:
+- name: dawahburn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74783/1.0
 - name: dawahrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/74125/1.0
 - name: dawahhype

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - calebhart42
 emojis:
 - name: calebrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/4278/1.0
-- name: caleb20dives
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4438/1.0
 - name: calebsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/5335/1.0
 - name: calebhart
@@ -19,6 +17,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/13926/1.0
 - name: calebchoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/15292/1.0
+- name: calebiris
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74754/1.0
 - name: calebrek
   src: https://static-cdn.jtvnw.net/emoticons/v1/23465/1.0
 - name: calebkappa
@@ -31,3 +31,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35936/1.0
 - name: calebreset
   src: https://static-cdn.jtvnw.net/emoticons/v1/46895/1.0
+- name: calebbop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74641/1.0
+- name: calebcore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74751/1.0
+- name: calebonemore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74752/1.0

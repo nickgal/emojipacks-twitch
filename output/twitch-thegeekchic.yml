@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - thegeekchic
 emojis:
-- name: tgcbob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72058/1.0
+- name: tgcderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74436/1.0
 - name: tgccry
   src: https://static-cdn.jtvnw.net/emoticons/v1/71448/1.0
 - name: tgchype
@@ -15,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71452/1.0
 - name: tgcwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/71453/1.0
+- name: tgcbobmas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74356/1.0

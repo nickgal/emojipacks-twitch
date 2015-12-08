@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56406/1.0
 - name: roymonster
   src: https://static-cdn.jtvnw.net/emoticons/v1/33116/1.0
-- name: royexterm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33113/1.0
 - name: royhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/32542/1.0
 - name: roygo
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32539/1.0
 - name: royeg
   src: https://static-cdn.jtvnw.net/emoticons/v1/32599/1.0
+- name: royheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74615/1.0

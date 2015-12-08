@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - kishtar
 emojis:
+- name: kishsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74426/1.0
 - name: kishyolo
   src: https://static-cdn.jtvnw.net/emoticons/v1/62610/1.0
 - name: kishhype
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67908/1.0
 - name: kishrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/67909/1.0
+- name: kishrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74430/1.0

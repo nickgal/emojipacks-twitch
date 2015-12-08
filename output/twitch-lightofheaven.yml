@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - lightofheaven
 emojis:
 - name: lightmidas
   src: https://static-cdn.jtvnw.net/emoticons/v1/39471/1.0
+- name: lightre
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74585/1.0
+- name: lightle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74584/1.0
 - name: lightcrab
   src: https://static-cdn.jtvnw.net/emoticons/v1/53549/1.0
 - name: lightshtani

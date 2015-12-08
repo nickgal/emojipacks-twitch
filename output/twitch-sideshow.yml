@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - sideshow
 emojis:
 - name: sideshowtilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/71778/1.0
+- name: sideshowbones
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74793/1.0
 - name: sideshowchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/67326/1.0
 - name: sideshowchoke

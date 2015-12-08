@@ -3,17 +3,11 @@ title: Twitch Subscriber Emotes - tyggbar
 emojis:
 - name: aiaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/38579/1.0
-- name: aiakappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39089/1.0
 - name: aiamom
   src: https://static-cdn.jtvnw.net/emoticons/v1/41294/1.0
-- name: aiakiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48298/1.0
 - name: aiafail
   src: https://static-cdn.jtvnw.net/emoticons/v1/48069/1.0
-- name: aiaears
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48825/1.0
-- name: aiaok
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56519/1.0
+- name: aiakiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74971/1.0
 - name: aial
   src: https://static-cdn.jtvnw.net/emoticons/v1/56518/1.0

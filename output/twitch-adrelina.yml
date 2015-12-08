@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - adrelina
 emojis:
+- name: adrelinas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74318/1.0
 - name: adrelinac
   src: https://static-cdn.jtvnw.net/emoticons/v1/72896/1.0
 - name: adrelinav
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71927/1.0
 - name: adrelinap
   src: https://static-cdn.jtvnw.net/emoticons/v1/72135/1.0
+- name: adrelinaf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74233/1.0

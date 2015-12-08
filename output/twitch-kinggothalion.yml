@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/5340/1.0
 - name: kgothhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/10931/1.0
-- name: kgothparty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62333/1.0
 - name: kgothnerd
   src: https://static-cdn.jtvnw.net/emoticons/v1/28557/1.0
 - name: kgothlurk
@@ -77,8 +75,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62579/1.0
 - name: kgothnight
   src: https://static-cdn.jtvnw.net/emoticons/v1/62578/1.0
-- name: kgothwparty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66998/1.0
 - name: kgothclown
   src: https://static-cdn.jtvnw.net/emoticons/v1/66416/1.0
 - name: kgothgoaskdatto
@@ -91,3 +87,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66986/1.0
 - name: kgothcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/67552/1.0
+- name: kgothparty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74299/1.0
+- name: kgothwparty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74301/1.0

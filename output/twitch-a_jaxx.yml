@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - a_jaxx
 emojis:
 - name: jaxxpleb
   src: https://static-cdn.jtvnw.net/emoticons/v1/71226/1.0
+- name: jaxxfrog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74815/1.0
 - name: jaxxshot
   src: https://static-cdn.jtvnw.net/emoticons/v1/70977/1.0
 - name: jaxxhearts

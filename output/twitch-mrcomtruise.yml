@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mrcomtruise
 emojis:
-- name: comtrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72105/1.0
+- name: comtgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74610/1.0
 - name: comtlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/72104/1.0
 - name: comtbomb
@@ -11,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72103/1.0
 - name: comthype
   src: https://static-cdn.jtvnw.net/emoticons/v1/72200/1.0
+- name: comtrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74343/1.0

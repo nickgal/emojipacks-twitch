@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55719/1.0
 - name: snafgameface
   src: https://static-cdn.jtvnw.net/emoticons/v1/55725/1.0
-- name: snaffacepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55724/1.0
 - name: snafbaconbomb
   src: https://static-cdn.jtvnw.net/emoticons/v1/55717/1.0
 - name: snaftacbac
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55722/1.0
 - name: snaflove
   src: https://static-cdn.jtvnw.net/emoticons/v1/59965/1.0
+- name: snafblind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/74275/1.0
