@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62927/1.0
 - name: jpscrazy
   src: https://static-cdn.jtvnw.net/emoticons/v1/58944/1.0
+- name: jpsfailsnipe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75095/1.0
 - name: jpshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/59237/1.0
 - name: jpsrip
@@ -13,7 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59248/1.0
 - name: jpsezskins
   src: https://static-cdn.jtvnw.net/emoticons/v1/59638/1.0
-- name: jpsez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74986/1.0
 - name: jpskappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/73918/1.0

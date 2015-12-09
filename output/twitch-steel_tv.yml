@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31074/1.0
 - name: steeldank
   src: https://static-cdn.jtvnw.net/emoticons/v1/60975/1.0
-- name: steelbop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59994/1.0
 - name: steell
   src: https://static-cdn.jtvnw.net/emoticons/v1/59996/1.0
 - name: steel4
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58804/1.0
 - name: steelw
   src: https://static-cdn.jtvnw.net/emoticons/v1/58805/1.0
+- name: steelohno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75047/1.0

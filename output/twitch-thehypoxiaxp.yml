@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - thehypoxiaxp
 emojis:
+- name: poxxgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75079/1.0
 - name: poxxsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/67017/1.0
-- name: poxxgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66293/1.0
 - name: poxxsb
   src: https://static-cdn.jtvnw.net/emoticons/v1/67075/1.0
 - name: poxxluv
@@ -12,4 +12,4 @@ emojis:
 - name: poxxheh
   src: https://static-cdn.jtvnw.net/emoticons/v1/68340/1.0
 - name: poxxugh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68241/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75080/1.0

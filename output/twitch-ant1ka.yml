@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ant1ka
 emojis:
-- name: ant1hype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74605/1.0
 - name: ant1ka
   src: https://static-cdn.jtvnw.net/emoticons/v1/74629/1.0
 - name: ant1hungry
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74723/1.0
 - name: ant1konyash
   src: https://static-cdn.jtvnw.net/emoticons/v1/74276/1.0
+- name: ant1hype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75102/1.0

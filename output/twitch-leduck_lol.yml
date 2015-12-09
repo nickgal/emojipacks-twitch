@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - leduck_lol
 emojis:
-- name: quacklol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74630/1.0
 - name: quackkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/74632/1.0
+- name: quacksalute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75111/1.0
+- name: quacksalute2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75112/1.0

@@ -1,6 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - teftyteft
 emojis:
+- name: teftgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75057/1.0
+- name: teftsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75056/1.0
+- name: teftrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75054/1.0
+- name: teftperf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75055/1.0
 - name: tefthi
   src: https://static-cdn.jtvnw.net/emoticons/v1/74740/1.0
 - name: teftlove

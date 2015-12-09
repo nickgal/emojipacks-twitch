@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - oisketchio
 emojis:
-- name: sketchswoosh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46721/1.0
 - name: sketchgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/26944/1.0
-- name: sketchtink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49886/1.0
-- name: sketchhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47617/1.0
-- name: sketchsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58432/1.0
-- name: sketchheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58430/1.0
-- name: sketchpup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58431/1.0
 - name: sketchw
   src: https://static-cdn.jtvnw.net/emoticons/v1/67229/1.0
+- name: sketchsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75066/1.0
+- name: sketchgotem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75067/1.0
+- name: sketchh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75068/1.0
+- name: sketchhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75069/1.0
+- name: sketchtink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75070/1.0
+- name: sketchoops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75071/1.0

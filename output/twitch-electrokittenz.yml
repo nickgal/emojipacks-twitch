@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - electrokittenz
 emojis:
+- name: ekzfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75044/1.0
 - name: ekzpls
   src: https://static-cdn.jtvnw.net/emoticons/v1/74878/1.0
 - name: ekzsave

@@ -3,7 +3,9 @@ title: Twitch Subscriber Emotes - katykabooom
 emojis:
 - name: katywhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/74997/1.0
-- name: katycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74470/1.0
 - name: katyhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/74467/1.0
+- name: katylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75032/1.0
+- name: katyp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75016/1.0

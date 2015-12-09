@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - normaldifficulty
 emojis:
+- name: normallol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75005/1.0
 - name: normalrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/20367/1.0
 - name: normalb

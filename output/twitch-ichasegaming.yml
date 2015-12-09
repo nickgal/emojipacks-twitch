@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ichasegaming
 emojis:
-- name: icghype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51684/1.0
 - name: icgfindpenguin
   src: https://static-cdn.jtvnw.net/emoticons/v1/52868/1.0
 - name: icgderp
@@ -11,3 +9,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63619/1.0
 - name: icgbanzai
   src: https://static-cdn.jtvnw.net/emoticons/v1/62633/1.0
+- name: icghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75117/1.0

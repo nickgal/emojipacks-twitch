@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - 6t4bites_aus
 emojis:
+- name: bitesblame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75043/1.0
 - name: bitesairhorn
   src: https://static-cdn.jtvnw.net/emoticons/v1/71435/1.0
 - name: bitesraise
