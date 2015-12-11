@@ -15,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74951/1.0
 - name: dfieldgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/35219/1.0
-- name: dfieldchill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70355/1.0
 - name: dfieldvevo
   src: https://static-cdn.jtvnw.net/emoticons/v1/59297/1.0
 - name: dfieldpern
@@ -29,5 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74919/1.0
 - name: dfieldcage
   src: https://static-cdn.jtvnw.net/emoticons/v1/74920/1.0
+- name: dfielddad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75361/1.0
 - name: dfieldmum
   src: https://static-cdn.jtvnw.net/emoticons/v1/74922/1.0

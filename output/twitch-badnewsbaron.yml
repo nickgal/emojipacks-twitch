@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30759/1.0
 - name: badlick
   src: https://static-cdn.jtvnw.net/emoticons/v1/26248/1.0
-- name: badbaron
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25331/1.0
 - name: badhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/29963/1.0
 - name: badtest
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73724/1.0
 - name: badw
   src: https://static-cdn.jtvnw.net/emoticons/v1/73726/1.0
+- name: badbenny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75158/1.0

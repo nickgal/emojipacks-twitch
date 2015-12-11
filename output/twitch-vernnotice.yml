@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - vernnotice
 emojis:
 - name: vernzipemup
   src: https://static-cdn.jtvnw.net/emoticons/v1/5379/1.0
-- name: vernitsfine
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5257/1.0
 - name: verngoldysweg
   src: https://static-cdn.jtvnw.net/emoticons/v1/5266/1.0
 - name: vernrev
@@ -25,8 +23,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/26885/1.0
 - name: vernmerry
   src: https://static-cdn.jtvnw.net/emoticons/v1/29841/1.0
-- name: vernkatewink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29842/1.0
 - name: vernlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/29843/1.0
 - name: vernrain
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36627/1.0
 - name: verngood
   src: https://static-cdn.jtvnw.net/emoticons/v1/37728/1.0
+- name: vernw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75347/1.0
+- name: vernhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75348/1.0

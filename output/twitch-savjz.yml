@@ -13,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36162/1.0
 - name: savjzw
   src: https://static-cdn.jtvnw.net/emoticons/v1/36245/1.0
-- name: savjzwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74628/1.0
 - name: savjzsleeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/45674/1.0
 - name: savjzfeelsbad
@@ -29,5 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75007/1.0
 - name: savjzgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/75074/1.0
+- name: savjzwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75150/1.0
 - name: savjzxmas
   src: https://static-cdn.jtvnw.net/emoticons/v1/73508/1.0

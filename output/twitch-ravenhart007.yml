@@ -1,12 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ravenhart007
 emojis:
-- name: ravenwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22817/1.0
-- name: ravenpoop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22822/1.0
-- name: ravenmeow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24238/1.0
 - name: ravengg
   src: https://static-cdn.jtvnw.net/emoticons/v1/24291/1.0
 - name: ravenbird
@@ -17,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34623/1.0
 - name: ravenlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/35007/1.0
+- name: ravenshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75163/1.0
+- name: ravenwutev
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75164/1.0
+- name: ravenpoop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75159/1.0

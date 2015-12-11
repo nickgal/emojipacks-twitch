@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - snaftii
 emojis:
-- name: snafrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55719/1.0
 - name: snafgameface
   src: https://static-cdn.jtvnw.net/emoticons/v1/55725/1.0
-- name: snafbaconbomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55717/1.0
-- name: snaftacbac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55720/1.0
-- name: snafnord
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55723/1.0
 - name: snafspeech
   src: https://static-cdn.jtvnw.net/emoticons/v1/55722/1.0
+- name: snaftacbac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75374/1.0
 - name: snaflove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59965/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75375/1.0
+- name: snafnord
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75376/1.0
+- name: snafrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75440/1.0
 - name: snafblind
   src: https://static-cdn.jtvnw.net/emoticons/v1/74275/1.0
+- name: snafchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75378/1.0

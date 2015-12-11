@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - cayinator
 emojis:
 - name: cayinsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/73563/1.0
-- name: cayinkobe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53009/1.0
 - name: cayingasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/52927/1.0
 - name: cayinwat
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73192/1.0
 - name: cayinrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/73428/1.0
+- name: cayinglad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75337/1.0

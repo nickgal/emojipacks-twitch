@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - sxyhxy
 emojis:
-- name: sxyhg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61061/1.0
 - name: sxytato
   src: https://static-cdn.jtvnw.net/emoticons/v1/32045/1.0
 - name: sxyts
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65179/1.0
 - name: sxyfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/70496/1.0
+- name: sxyhax
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75312/1.0

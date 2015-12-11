@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - spaitogaming
 emojis:
-- name: spaitokawaii
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51563/1.0
+- name: spaitolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75364/1.0
+- name: spaitogitgud
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75365/1.0
+- name: spaitocry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75370/1.0
+- name: spaitohehe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75371/1.0
+- name: spaitohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75363/1.0
 - name: spaitobaka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51428/1.0
-- name: spaitoproveit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51438/1.0
-- name: spaitorage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53791/1.0
-- name: spaitokappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53793/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75362/1.0

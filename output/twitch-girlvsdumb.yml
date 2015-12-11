@@ -3,10 +3,10 @@ title: Twitch Subscriber Emotes - girlvsdumb
 emojis:
 - name: gvdrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/74861/1.0
-- name: gvdrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74776/1.0
 - name: gvdlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/74768/1.0
+- name: gvdrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75187/1.0
 - name: gvdhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/74738/1.0
 - name: gvdhype

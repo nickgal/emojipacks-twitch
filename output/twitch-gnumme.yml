@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - gnumme
 emojis:
-- name: gnummeletard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10123/1.0
 - name: gnummealex
   src: https://static-cdn.jtvnw.net/emoticons/v1/9981/1.0
 - name: gnummelivsi
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73262/1.0
 - name: gnummekoko
   src: https://static-cdn.jtvnw.net/emoticons/v1/73261/1.0
+- name: gnummegoose
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75333/1.0

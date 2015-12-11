@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - pieface23
 emojis:
 - name: pf23sunnies
   src: https://static-cdn.jtvnw.net/emoticons/v1/68992/1.0
-- name: pf23boom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68991/1.0
 - name: pf23legend
   src: https://static-cdn.jtvnw.net/emoticons/v1/68982/1.0
 - name: pf23rage
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70945/1.0
 - name: pf23love
   src: https://static-cdn.jtvnw.net/emoticons/v1/70944/1.0
+- name: pf23bwekfast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75438/1.0

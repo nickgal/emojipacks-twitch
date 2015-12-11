@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - sadaplays
 emojis:
 - name: sadalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/13503/1.0
-- name: sadaflank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73671/1.0
 - name: sadainb4
   src: https://static-cdn.jtvnw.net/emoticons/v1/15289/1.0
 - name: sadatk
@@ -29,5 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32165/1.0
 - name: sada7
   src: https://static-cdn.jtvnw.net/emoticons/v1/41902/1.0
+- name: sadaflank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75179/1.0
 - name: sadapot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74992/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75178/1.0

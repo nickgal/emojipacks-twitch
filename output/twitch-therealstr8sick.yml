@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59133/1.0
 - name: str8baby
   src: https://static-cdn.jtvnw.net/emoticons/v1/56978/1.0
-- name: str8face
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58898/1.0
 - name: str8hype
   src: https://static-cdn.jtvnw.net/emoticons/v1/58927/1.0
 - name: str8kappa
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71878/1.0
 - name: str8give
   src: https://static-cdn.jtvnw.net/emoticons/v1/70607/1.0
+- name: str8logo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75292/1.0

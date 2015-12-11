@@ -15,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71725/1.0
 - name: krippchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/17353/1.0
-- name: krippgive
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18396/1.0
 - name: krippthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/18399/1.0
 - name: krippwtf
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73171/1.0
 - name: krippo
   src: https://static-cdn.jtvnw.net/emoticons/v1/73393/1.0
+- name: krippmass
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75147/1.0
