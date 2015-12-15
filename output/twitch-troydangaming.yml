@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/17271/1.0
 - name: troydanbutton
   src: https://static-cdn.jtvnw.net/emoticons/v1/19565/1.0
-- name: troydanggf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21891/1.0
 - name: troydanheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/21945/1.0
 - name: troydansmile
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57078/1.0
 - name: troydanbye
   src: https://static-cdn.jtvnw.net/emoticons/v1/57077/1.0
+- name: troydangg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75742/1.0

@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - krist1n
 emojis:
+- name: bubugasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75791/1.0
+- name: bubupicnic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75566/1.0
 - name: bubuone
   src: https://static-cdn.jtvnw.net/emoticons/v1/38854/1.0
 - name: bubudiego

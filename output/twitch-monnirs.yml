@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - monnirs
 emojis:
+- name: kemb0bank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75930/1.0
 - name: kemb0fin
   src: https://static-cdn.jtvnw.net/emoticons/v1/74778/1.0
 - name: kemb0hype

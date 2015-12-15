@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - princezzxdiana
 emojis:
 - name: dianadevil
   src: https://static-cdn.jtvnw.net/emoticons/v1/59244/1.0
-- name: dianapizza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56331/1.0
 - name: dianapls
   src: https://static-cdn.jtvnw.net/emoticons/v1/60127/1.0
 - name: dianawow
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67247/1.0
 - name: dianabwunny
   src: https://static-cdn.jtvnw.net/emoticons/v1/75000/1.0
+- name: dianacc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75770/1.0

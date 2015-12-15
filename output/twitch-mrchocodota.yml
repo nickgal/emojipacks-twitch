@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mrchocodota
 emojis:
+- name: mrchocosub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75494/1.0
 - name: mrchocorata
   src: https://static-cdn.jtvnw.net/emoticons/v1/29788/1.0
 - name: mrchocoperu
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31930/1.0
 - name: mrchocomamita
   src: https://static-cdn.jtvnw.net/emoticons/v1/31929/1.0
+- name: mrchocoban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75623/1.0

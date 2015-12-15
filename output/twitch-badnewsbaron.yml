@@ -23,6 +23,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45382/1.0
 - name: badobey
   src: https://static-cdn.jtvnw.net/emoticons/v1/45383/1.0
+- name: badrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75654/1.0
+- name: badderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75653/1.0
+- name: badfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75652/1.0
 - name: badfork
   src: https://static-cdn.jtvnw.net/emoticons/v1/74716/1.0
 - name: baddeal
@@ -31,3 +37,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73726/1.0
 - name: badbenny
   src: https://static-cdn.jtvnw.net/emoticons/v1/75158/1.0
+- name: badscience
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75845/1.0

@@ -91,5 +91,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27718/1.0
 - name: xanfegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/28942/1.0
-- name: xanimglitch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66597/1.0
+- name: xanup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/8122/1.0
+- name: xandown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/8123/1.0
+- name: xanleft
+  src: https://static-cdn.jtvnw.net/emoticons/v1/8124/1.0
+- name: xanright
+  src: https://static-cdn.jtvnw.net/emoticons/v1/8125/1.0

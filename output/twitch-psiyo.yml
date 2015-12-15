@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - psiyo
 emojis:
-- name: psiyopls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15930/1.0
 - name: psiyoriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/24218/1.0
-- name: psiyohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32801/1.0
+- name: psiyosad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75457/1.0
+- name: psiyoidgi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75456/1.0
+- name: psiyoscum
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75455/1.0
+- name: psiyoyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75677/1.0
+- name: psiyorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75525/1.0

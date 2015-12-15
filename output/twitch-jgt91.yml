@@ -1,5 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - jgt91
 emojis:
+- name: jgtlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75522/1.0
 - name: jgtfiddler
   src: https://static-cdn.jtvnw.net/emoticons/v1/75130/1.0
+- name: jgtcornholio
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75723/1.0

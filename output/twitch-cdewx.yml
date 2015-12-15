@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - cdewx
 emojis:
 - name: dewpleb
   src: https://static-cdn.jtvnw.net/emoticons/v1/52619/1.0
+- name: dewtrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75787/1.0
 - name: dewdream
   src: https://static-cdn.jtvnw.net/emoticons/v1/31301/1.0
 - name: dewwhip
@@ -27,7 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57728/1.0
 - name: dewyo
   src: https://static-cdn.jtvnw.net/emoticons/v1/65343/1.0
-- name: dewnap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72722/1.0
 - name: dewseems
   src: https://static-cdn.jtvnw.net/emoticons/v1/73505/1.0

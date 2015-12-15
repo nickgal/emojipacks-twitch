@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/14634/1.0
 - name: sgaresbear
   src: https://static-cdn.jtvnw.net/emoticons/v1/22744/1.0
-- name: sgarescloud9
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22746/1.0
 - name: sgarestroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/22748/1.0
 - name: sgaresbasedgod
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73791/1.0
 - name: sgaresbae
   src: https://static-cdn.jtvnw.net/emoticons/v1/73790/1.0
+- name: sgaresfeelsbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75825/1.0

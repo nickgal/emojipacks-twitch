@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - austenmarie
 emojis:
+- name: austsass
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75843/1.0
 - name: austcin
   src: https://static-cdn.jtvnw.net/emoticons/v1/73641/1.0
 - name: austbad
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73642/1.0
 - name: austderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/67694/1.0
+- name: austgasp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75846/1.0

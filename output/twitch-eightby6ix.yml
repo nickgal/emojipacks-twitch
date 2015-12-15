@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - eightby6ix
 emojis:
-- name: 8x6k
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69774/1.0
+- name: 8x6gem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75575/1.0
 - name: 8x6fail
   src: https://static-cdn.jtvnw.net/emoticons/v1/69771/1.0
 - name: 8x6hype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71678/1.0
-- name: 8x6w
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69909/1.0
 - name: 8x6love
   src: https://static-cdn.jtvnw.net/emoticons/v1/69908/1.0
-- name: 8x6rip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69907/1.0
-- name: 8x6gem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69906/1.0
 - name: 8x6cry
   src: https://static-cdn.jtvnw.net/emoticons/v1/69904/1.0
+- name: 8x6k
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75909/1.0
+- name: 8x6rip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75910/1.0
+- name: 8x6w
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75908/1.0

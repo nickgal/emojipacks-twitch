@@ -3,12 +3,6 @@ title: Twitch Subscriber Emotes - tarik_tv
 emojis:
 - name: tarikdawg
   src: https://static-cdn.jtvnw.net/emoticons/v1/28707/1.0
-- name: tarikrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17238/1.0
-- name: tarikrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68909/1.0
-- name: tarikkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29545/1.0
 - name: tariksister
   src: https://static-cdn.jtvnw.net/emoticons/v1/33768/1.0
 - name: tarikwhiff
@@ -17,7 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32833/1.0
 - name: tarikclg
   src: https://static-cdn.jtvnw.net/emoticons/v1/35196/1.0
-- name: tarikderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64355/1.0
+- name: tarikrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75507/1.0
+- name: tarikace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75505/1.0
 - name: tarikthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67417/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75511/1.0
+- name: tarikrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75509/1.0
+- name: tarikkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75506/1.0

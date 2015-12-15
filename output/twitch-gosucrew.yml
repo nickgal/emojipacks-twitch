@@ -1,9 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - gosucrew
 emojis:
-- name: rizeupgaming
+- name: teamgcgaming
   src: https://static-cdn.jtvnw.net/emoticons/v1/6844/1.0
-- name: rizeuprev
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6861/1.0
-- name: rizeupmacho
+- name: teamgcfleet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75790/1.0
+- name: teamgcmacho
   src: https://static-cdn.jtvnw.net/emoticons/v1/58193/1.0
+- name: teamgcham
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75774/1.0

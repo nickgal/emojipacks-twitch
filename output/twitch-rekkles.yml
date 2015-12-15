@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - rekkles
 emojis:
+- name: rekklesclaus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75727/1.0
 - name: rekklesh
   src: https://static-cdn.jtvnw.net/emoticons/v1/74759/1.0
 - name: rekkleschair

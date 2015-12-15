@@ -1,43 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - lobosjr
 emojis:
-- name: lobosmindblank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2732/1.0
 - name: lobossub
   src: https://static-cdn.jtvnw.net/emoticons/v1/8654/1.0
 - name: lobosdied
   src: https://static-cdn.jtvnw.net/emoticons/v1/11188/1.0
-- name: loboswolf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70816/1.0
-- name: lobosz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17234/1.0
-- name: loboslewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18569/1.0
-- name: lobosscream
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18650/1.0
-- name: loboscreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23186/1.0
-- name: lobosgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23190/1.0
-- name: lobosfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23476/1.0
-- name: lobossleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23481/1.0
-- name: lobosgame
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26594/1.0
-- name: loboskappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57250/1.0
 - name: lobosfall
   src: https://static-cdn.jtvnw.net/emoticons/v1/35449/1.0
-- name: lobosrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35446/1.0
-- name: loboshi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35840/1.0
-- name: loboscheese
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57230/1.0
-- name: loboscry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54747/1.0
 - name: lobosbox
   src: https://static-cdn.jtvnw.net/emoticons/v1/56926/1.0
+- name: lobosz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75675/1.0
+- name: lobosscream
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75671/1.0
+- name: lobosrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75670/1.0
+- name: loboswolf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75673/1.0
+- name: loboscry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75662/1.0
+- name: loboslewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75668/1.0
+- name: loboskappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75667/1.0
+- name: lobosmindblank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75669/1.0
+- name: loboshi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75666/1.0
+- name: lobossleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75672/1.0
+- name: lobosgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75665/1.0
+- name: lobosgame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75664/1.0
 - name: loboswut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67567/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75674/1.0
+- name: lobosfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75663/1.0
+- name: loboscreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75661/1.0
+- name: loboscheese
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75660/1.0

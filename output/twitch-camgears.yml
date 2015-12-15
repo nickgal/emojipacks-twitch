@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - camgears
 emojis:
+- name: camdance
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75556/1.0
 - name: camhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/57624/1.0
 - name: cambrazil

@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - blackhandcom1337
 emojis:
-- name: bhcimmer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72137/1.0
+- name: bhcking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75946/1.0
 - name: bhcevil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74172/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75982/1.0
+- name: bhcimmer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75983/1.0

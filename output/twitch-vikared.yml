@@ -2,7 +2,9 @@
 title: Twitch Subscriber Emotes - vikared
 emojis:
 - name: vikalemon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38542/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75730/1.0
+- name: vikalove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75564/1.0
 - name: vikasad
   src: https://static-cdn.jtvnw.net/emoticons/v1/71652/1.0
 - name: vikawow

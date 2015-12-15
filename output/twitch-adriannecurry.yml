@@ -1,10 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - adriannecurry
 emojis:
-- name: curryrap2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35289/1.0
+- name: currycatspaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75970/1.0
 - name: currysmoking
   src: https://static-cdn.jtvnw.net/emoticons/v1/35324/1.0
+- name: currycreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75600/1.0
 - name: curryflex
   src: https://static-cdn.jtvnw.net/emoticons/v1/75085/1.0
 - name: curryrage
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75354/1.0
 - name: curryderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/75355/1.0
+- name: currylive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75448/1.0

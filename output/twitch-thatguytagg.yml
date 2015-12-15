@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - thatguytagg
 emojis:
 - name: taggfries
   src: https://static-cdn.jtvnw.net/emoticons/v1/27061/1.0
-- name: taggnoice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28026/1.0
 - name: taggbus
   src: https://static-cdn.jtvnw.net/emoticons/v1/28182/1.0
 - name: taggcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/28551/1.0
-- name: taggshot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28550/1.0
+- name: taggchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75976/1.0
 - name: taggt
   src: https://static-cdn.jtvnw.net/emoticons/v1/52544/1.0
 - name: taggs
   src: https://static-cdn.jtvnw.net/emoticons/v1/52543/1.0
-- name: taggup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52542/1.0
+- name: taggh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75865/1.0
+- name: taggb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75864/1.0

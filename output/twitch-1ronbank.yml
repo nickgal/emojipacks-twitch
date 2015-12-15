@@ -1,18 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - 1ronbank
 emojis:
-- name: irondice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48984/1.0
 - name: ironrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/46304/1.0
-- name: irongasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46327/1.0
-- name: ironcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46305/1.0
-- name: ironfedo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46306/1.0
-- name: irontears
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47057/1.0
 - name: ironrigged
   src: https://static-cdn.jtvnw.net/emoticons/v1/47056/1.0
 - name: ironfr333
@@ -21,3 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54771/1.0
 - name: ironfd
   src: https://static-cdn.jtvnw.net/emoticons/v1/55193/1.0
+- name: ironcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75861/1.0
+- name: irongasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75862/1.0
+- name: ironsanta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75858/1.0
+- name: ironfedo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75859/1.0
+- name: ironwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75860/1.0

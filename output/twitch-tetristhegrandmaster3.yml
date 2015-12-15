@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - tetristhegrandmaster3
 emojis:
+- name: tgm3red
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75953/1.0
 - name: tgm3gg
   src: https://static-cdn.jtvnw.net/emoticons/v1/74603/1.0
 - name: tgm3od

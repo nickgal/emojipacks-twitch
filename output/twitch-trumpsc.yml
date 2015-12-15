@@ -33,11 +33,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45404/1.0
 - name: trumpdepends
   src: https://static-cdn.jtvnw.net/emoticons/v1/50746/1.0
-- name: trumporc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56819/1.0
 - name: trumpmusic
   src: https://static-cdn.jtvnw.net/emoticons/v1/60890/1.0
 - name: trumpup
   src: https://static-cdn.jtvnw.net/emoticons/v1/60891/1.0
 - name: trumpvalue
   src: https://static-cdn.jtvnw.net/emoticons/v1/74932/1.0
+- name: trumpclaus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75903/1.0

@@ -1,16 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - thehaleybaby
 emojis:
-- name: haleysophie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16793/1.0
 - name: haleyscare
   src: https://static-cdn.jtvnw.net/emoticons/v1/62254/1.0
-- name: haleygg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28430/1.0
 - name: haleyfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/28438/1.0
 - name: haleyrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/40624/1.0
+- name: haleycat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75596/1.0
+- name: haleybroke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75595/1.0
 - name: haleybreak
   src: https://static-cdn.jtvnw.net/emoticons/v1/48218/1.0
 - name: haleyknee

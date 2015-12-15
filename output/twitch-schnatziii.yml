@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - schnatziii
 emojis:
 - name: schnatzderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/73493/1.0
+- name: schnatzfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75685/1.0
 - name: schnatzlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/74879/1.0
 - name: schnatzhype

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - frostfire_annie
 emojis:
 - name: anniereverse
   src: https://static-cdn.jtvnw.net/emoticons/v1/18258/1.0
-- name: annierip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58086/1.0
 - name: anniedeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/58085/1.0
 - name: anniekappa
@@ -15,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50571/1.0
 - name: anniecry
   src: https://static-cdn.jtvnw.net/emoticons/v1/50881/1.0
-- name: anniethump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59943/1.0
 - name: annieteacup
   src: https://static-cdn.jtvnw.net/emoticons/v1/59944/1.0
 - name: annielove

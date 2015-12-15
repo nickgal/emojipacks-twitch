@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - warths
 emojis:
+- name: wartswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75594/1.0
 - name: warthey
   src: https://static-cdn.jtvnw.net/emoticons/v1/74936/1.0
 - name: wartlove

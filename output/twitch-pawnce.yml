@@ -3,13 +3,11 @@ title: Twitch Subscriber Emotes - pawnce
 emojis:
 - name: pawnarch
   src: https://static-cdn.jtvnw.net/emoticons/v1/23854/1.0
+- name: pawnlance
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75784/1.0
+- name: pawnflag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75786/1.0
 - name: pawnjarvan
   src: https://static-cdn.jtvnw.net/emoticons/v1/71679/1.0
-- name: pawnlance
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71680/1.0
 - name: pawnyakuza
   src: https://static-cdn.jtvnw.net/emoticons/v1/74211/1.0
-- name: pawnflag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74554/1.0
-- name: pawnlance
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74555/1.0

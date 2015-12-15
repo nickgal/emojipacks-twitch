@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - rocketleaguecentral
 emojis:
+- name: rlcdiny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75737/1.0
 - name: rlcbread
   src: https://static-cdn.jtvnw.net/emoticons/v1/72900/1.0
 - name: rlccarblue

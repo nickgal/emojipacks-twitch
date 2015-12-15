@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - maximumsalt
 emojis:
-- name: msaltfive
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52093/1.0
+- name: msaltgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75766/1.0
+- name: msaltmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75781/1.0
 - name: msaltshon
   src: https://static-cdn.jtvnw.net/emoticons/v1/52094/1.0
+- name: msalthype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75888/1.0

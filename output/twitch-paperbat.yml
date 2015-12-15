@@ -3,12 +3,14 @@ title: Twitch Subscriber Emotes - paperbat
 emojis:
 - name: pbatgoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/51843/1.0
+- name: pbathb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75783/1.0
 - name: pbatlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/70103/1.0
+- name: pbatlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75573/1.0
 - name: pbattriggered
   src: https://static-cdn.jtvnw.net/emoticons/v1/49555/1.0
-- name: pbatlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49556/1.0
 - name: pbatnotbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/64135/1.0
 - name: pbatmad
@@ -21,3 +23,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65733/1.0
 - name: pbatcute
   src: https://static-cdn.jtvnw.net/emoticons/v1/75192/1.0
+- name: pbatac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75817/1.0
+- name: pbatdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75498/1.0

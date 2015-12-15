@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - chuya622
 emojis:
+- name: chuya03
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75952/1.0
 - name: chuya01
   src: https://static-cdn.jtvnw.net/emoticons/v1/47947/1.0
 - name: chuya02
   src: https://static-cdn.jtvnw.net/emoticons/v1/71660/1.0
-- name: chuyabao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71621/1.0
 - name: chuyalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/74933/1.0

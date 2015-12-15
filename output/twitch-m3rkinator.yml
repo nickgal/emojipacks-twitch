@@ -3,12 +3,12 @@ title: Twitch Subscriber Emotes - m3rkinator
 emojis:
 - name: merkrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/4702/1.0
-- name: merkjuice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4729/1.0
 - name: merkrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/5977/1.0
 - name: merksmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/5678/1.0
+- name: merkpp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75616/1.0
 - name: merksquad
   src: https://static-cdn.jtvnw.net/emoticons/v1/72870/1.0
 - name: merkbruh

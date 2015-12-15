@@ -1,6 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - asaonigiriyama
 emojis:
+- name: asaorip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75549/1.0
+- name: asaoswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75552/1.0
+- name: asaosleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75696/1.0
+- name: asaoteemo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75697/1.0
 - name: asaowhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/75311/1.0
 - name: asaoop

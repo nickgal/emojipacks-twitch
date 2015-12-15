@@ -1,11 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - followkudes
 emojis:
-- name: kudesron
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46230/1.0
-- name: kudesez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46229/1.0
-- name: kudesface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45300/1.0
-- name: kudeskimono
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45376/1.0
+- name: kudessanta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75968/1.0
+- name: kudeshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75972/1.0
+- name: kudesnet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75987/1.0

@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46182/1.0
 - name: muskrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/46181/1.0
+- name: muskkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/75534/1.0
 - name: muskmu
   src: https://static-cdn.jtvnw.net/emoticons/v1/45926/1.0
 - name: musksk
@@ -19,5 +21,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44712/1.0
 - name: muskrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/45524/1.0
-- name: muskkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75319/1.0
