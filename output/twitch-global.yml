@@ -187,6 +187,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/22998/1.0
 - name: panicvis
   src: https://static-cdn.jtvnw.net/emoticons/v1/3668/1.0
+- name: partytime
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76171/1.0
 - name: pazpazowitz
   src: https://static-cdn.jtvnw.net/emoticons/v1/19/1.0
 - name: peopleschamp
@@ -283,8 +285,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56880/1.0
 - name: tf2john
   src: https://static-cdn.jtvnw.net/emoticons/v1/1899/1.0
-- name: tgatrophy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74361/1.0
 - name: theking
   src: https://static-cdn.jtvnw.net/emoticons/v1/50901/1.0
 - name: theringer
