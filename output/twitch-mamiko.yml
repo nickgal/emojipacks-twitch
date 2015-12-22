@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mamiko
 emojis:
-- name: mamikokrzeslo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71326/1.0
 - name: mamikosub
   src: https://static-cdn.jtvnw.net/emoticons/v1/70177/1.0
 - name: mamikowarzywo
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70781/1.0
 - name: mamikokwadrans
   src: https://static-cdn.jtvnw.net/emoticons/v1/72987/1.0
+- name: mamikokrzeslo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76563/1.0

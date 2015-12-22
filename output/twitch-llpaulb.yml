@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - llpaulb
 emojis:
-- name: paulbfun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67107/1.0
-- name: paulbsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67104/1.0
-- name: paulbsleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67101/1.0
+- name: paulbfun2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76425/1.0
 - name: paulbcuelight
   src: https://static-cdn.jtvnw.net/emoticons/v1/41833/1.0
 - name: paulbomg
@@ -15,5 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44567/1.0
 - name: paulbyolo
   src: https://static-cdn.jtvnw.net/emoticons/v1/67000/1.0
-- name: paulbgao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67003/1.0
+- name: paulbfun1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76424/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - deucenickalo
 emojis:
 - name: nicpoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/74802/1.0
-- name: nicbonr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62818/1.0
 - name: nicrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/62817/1.0
 - name: nicsub
@@ -15,5 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62812/1.0
 - name: niclove
   src: https://static-cdn.jtvnw.net/emoticons/v1/62811/1.0
+- name: nicded
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76499/1.0
 - name: nicrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/71500/1.0

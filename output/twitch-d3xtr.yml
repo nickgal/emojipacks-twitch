@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - d3xtr
 emojis:
-- name: brated3xtr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10289/1.0
 - name: bratedeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/11180/1.0
+- name: brated3xtr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76558/1.0
 - name: bratesad
   src: https://static-cdn.jtvnw.net/emoticons/v1/73569/1.0
 - name: brategasm

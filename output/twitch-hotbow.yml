@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - hotbow
 emojis:
-- name: hothypew
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75940/1.0
-- name: hothypef6
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75941/1.0
+- name: hotbowhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76810/1.0
+- name: hotbowf6
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76327/1.0
+- name: hotboww
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76326/1.0

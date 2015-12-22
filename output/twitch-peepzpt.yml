@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - peepzpt
 emojis:
-- name: peepzpoopz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46506/1.0
 - name: peepzboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/46986/1.0
 - name: peepzlike

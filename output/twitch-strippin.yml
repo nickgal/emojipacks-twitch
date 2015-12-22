@@ -3,31 +3,31 @@ title: Twitch Subscriber Emotes - strippin
 emojis:
 - name: stripbro
   src: https://static-cdn.jtvnw.net/emoticons/v1/68012/1.0
+- name: stripcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76464/1.0
+- name: striphype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76465/1.0
+- name: stripsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76463/1.0
 - name: stripraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/46538/1.0
-- name: striphype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44576/1.0
+- name: stripded
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76119/1.0
 - name: stripwot
   src: https://static-cdn.jtvnw.net/emoticons/v1/44574/1.0
-- name: stripswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44573/1.0
-- name: stripnoob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44572/1.0
-- name: stripcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44571/1.0
 - name: stripdoogs
   src: https://static-cdn.jtvnw.net/emoticons/v1/75849/1.0
-- name: striprip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60105/1.0
-- name: stripfab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60106/1.0
-- name: stripwin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66022/1.0
-- name: striprng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66021/1.0
+- name: striplove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76115/1.0
+- name: striphey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76116/1.0
+- name: striprage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76117/1.0
+- name: strippin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76118/1.0
 - name: stripiam
   src: https://static-cdn.jtvnw.net/emoticons/v1/66318/1.0
-- name: stripskull
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66317/1.0
-- name: striphey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66315/1.0
+- name: stripk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76381/1.0
+- name: stripo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76382/1.0

@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - rlmani
 emojis:
+- name: manitumbawin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76815/1.0
 - name: manitumbat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74265/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76814/1.0
 - name: manitumbavi
   src: https://static-cdn.jtvnw.net/emoticons/v1/74266/1.0

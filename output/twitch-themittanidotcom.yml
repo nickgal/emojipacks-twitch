@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - themittanidotcom
 emojis:
+- name: tmctvhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76645/1.0
 - name: tmctvrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/55383/1.0
 - name: tmctvlick

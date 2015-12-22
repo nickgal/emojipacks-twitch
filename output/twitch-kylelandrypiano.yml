@@ -7,23 +7,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40884/1.0
 - name: klpsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/36865/1.0
-- name: klpcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37135/1.0
-- name: klpbaconman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36529/1.0
-- name: klppianolove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36527/1.0
-- name: klpkyle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38502/1.0
-- name: klpsign
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38501/1.0
-- name: klphype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38500/1.0
 - name: klpclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/38498/1.0
-- name: klpdrool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38916/1.0
-- name: klppocky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38943/1.0
+- name: klprosie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76194/1.0
+- name: klphype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76193/1.0
+- name: klpheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76192/1.0
 - name: klpbobo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39047/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76189/1.0
+- name: klpcoco
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76191/1.0
+- name: klpvape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76196/1.0

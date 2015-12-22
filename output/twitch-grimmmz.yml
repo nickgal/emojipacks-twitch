@@ -1,18 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - grimmmz
 emojis:
-- name: grimgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62233/1.0
+- name: grimdead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76811/1.0
 - name: grimheal
   src: https://static-cdn.jtvnw.net/emoticons/v1/62229/1.0
-- name: grimquak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11205/1.0
 - name: grimhappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/21521/1.0
 - name: grimoh
   src: https://static-cdn.jtvnw.net/emoticons/v1/34730/1.0
-- name: grimora
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34741/1.0
 - name: grimd
   src: https://static-cdn.jtvnw.net/emoticons/v1/34723/1.0
 - name: grimwow
@@ -29,3 +25,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55739/1.0
 - name: grimdrive
   src: https://static-cdn.jtvnw.net/emoticons/v1/58702/1.0
+- name: grimgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76797/1.0

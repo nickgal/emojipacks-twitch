@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - nightblue3
 emojis:
-- name: nb3killem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10497/1.0
 - name: nb3evil
   src: https://static-cdn.jtvnw.net/emoticons/v1/58251/1.0
 - name: nb3doit
@@ -49,6 +47,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63666/1.0
 - name: nb3saiyan
   src: https://static-cdn.jtvnw.net/emoticons/v1/63667/1.0
+- name: nb3three
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76894/1.0
 - name: nb3clench
   src: https://static-cdn.jtvnw.net/emoticons/v1/38828/1.0
 - name: nb3hide

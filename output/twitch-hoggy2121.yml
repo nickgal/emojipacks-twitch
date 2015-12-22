@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - hoggy2121
 emojis:
-- name: hogrambo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40684/1.0
-- name: hogsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40683/1.0
-- name: hoglove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40682/1.0
-- name: hogbomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40681/1.0
-- name: hoggary
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40680/1.0
-- name: hoggoblin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53239/1.0
+- name: hogrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76721/1.0
+- name: hogfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76720/1.0
+- name: hogpump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76719/1.0
+- name: hogup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76718/1.0

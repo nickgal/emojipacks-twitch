@@ -1,12 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - duendepablo
 emojis:
-- name: duendecab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66338/1.0
+- name: duendesub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76813/1.0
 - name: duendew
   src: https://static-cdn.jtvnw.net/emoticons/v1/56847/1.0
-- name: duendeh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56986/1.0
 - name: duendeisi
   src: https://static-cdn.jtvnw.net/emoticons/v1/58201/1.0
 - name: duendeapp

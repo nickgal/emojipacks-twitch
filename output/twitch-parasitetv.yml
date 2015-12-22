@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - parasitetv
 emojis:
 - name: parhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/72746/1.0
+- name: parcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76498/1.0
 - name: parstare
   src: https://static-cdn.jtvnw.net/emoticons/v1/72859/1.0
 - name: parlove

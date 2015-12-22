@@ -8,12 +8,12 @@ emojis:
 - name: domelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/39295/1.0
 - name: domemod
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34554/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76534/1.0
 - name: domethump
   src: https://static-cdn.jtvnw.net/emoticons/v1/74113/1.0
 - name: domeprayer
   src: https://static-cdn.jtvnw.net/emoticons/v1/74110/1.0
-- name: domebot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74109/1.0
 - name: domeop
   src: https://static-cdn.jtvnw.net/emoticons/v1/74279/1.0
+- name: domedab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76754/1.0

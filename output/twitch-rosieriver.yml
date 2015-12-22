@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - rosieriver
 emojis:
-- name: rosieriver
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68371/1.0
 - name: rosielove
   src: https://static-cdn.jtvnw.net/emoticons/v1/62255/1.0
 - name: rosiefail
@@ -27,6 +25,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68647/1.0
 - name: rosiegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/74706/1.0
+- name: rosielogo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76605/1.0
 - name: rosiecare
   src: https://static-cdn.jtvnw.net/emoticons/v1/71344/1.0
 - name: rosiemuumi

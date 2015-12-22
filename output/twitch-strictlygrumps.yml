@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - strictlygrumps
 emojis:
 - name: chaseleft
   src: https://static-cdn.jtvnw.net/emoticons/v1/19098/1.0
-- name: chasescare
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39275/1.0
 - name: chaseright
   src: https://static-cdn.jtvnw.net/emoticons/v1/39274/1.0
 - name: chaserage
   src: https://static-cdn.jtvnw.net/emoticons/v1/25755/1.0
 - name: chaseo
   src: https://static-cdn.jtvnw.net/emoticons/v1/39290/1.0
-- name: chasescrub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52188/1.0
 - name: chasesup
   src: https://static-cdn.jtvnw.net/emoticons/v1/54006/1.0
 - name: chasepshh
   src: https://static-cdn.jtvnw.net/emoticons/v1/64827/1.0
+- name: chasewtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76107/1.0
+- name: chasescare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76183/1.0

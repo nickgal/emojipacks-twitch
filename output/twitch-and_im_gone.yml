@@ -7,6 +7,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57503/1.0
 - name: gonesad
   src: https://static-cdn.jtvnw.net/emoticons/v1/57497/1.0
+- name: goneangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76616/1.0
 - name: gonelmao
   src: https://static-cdn.jtvnw.net/emoticons/v1/73375/1.0
 - name: gonehype

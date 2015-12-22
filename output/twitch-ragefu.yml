@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - ragefu
 emojis:
-- name: raglove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53574/1.0
-- name: ragkappahd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53598/1.0
-- name: ragsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53557/1.0
-- name: ragfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53702/1.0
-- name: raghue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58056/1.0
-- name: ragdo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57527/1.0
+- name: ragkappaclaus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76529/1.0
+- name: ragkappapride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76526/1.0
+- name: ragkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76517/1.0
+- name: ragkeepo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76516/1.0

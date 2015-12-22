@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - oskartommy
 emojis:
-- name: oskvac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55671/1.0
 - name: oskmerkur
   src: https://static-cdn.jtvnw.net/emoticons/v1/51454/1.0
 - name: oskbagr
@@ -11,5 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51456/1.0
 - name: oskmates
   src: https://static-cdn.jtvnw.net/emoticons/v1/51488/1.0
-- name: osk20
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55670/1.0
+- name: oskgod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76113/1.0
+- name: oskvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76121/1.0
+- name: oskbot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76252/1.0
+- name: osktoxic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76574/1.0

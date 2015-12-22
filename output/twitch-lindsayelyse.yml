@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - lindsayelyse
 emojis:
+- name: lindsbeer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76481/1.0
 - name: lindstaco
   src: https://static-cdn.jtvnw.net/emoticons/v1/32509/1.0
 - name: lindsporo

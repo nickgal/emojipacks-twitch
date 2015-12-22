@@ -15,14 +15,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46504/1.0
 - name: marckozsilver
   src: https://static-cdn.jtvnw.net/emoticons/v1/46505/1.0
-- name: marckozkrogsa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75571/1.0
 - name: marckozrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/55064/1.0
 - name: marckozvac
   src: https://static-cdn.jtvnw.net/emoticons/v1/55063/1.0
-- name: marckozez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71593/1.0
 - name: marckozhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71594/1.0
 - name: marckozpls
@@ -31,3 +27,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75098/1.0
 - name: marckozrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/75129/1.0
+- name: marckoznemt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76715/1.0

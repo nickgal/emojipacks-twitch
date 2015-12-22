@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - paperbat
 emojis:
 - name: pbatgoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/51843/1.0
+- name: pbatroast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76831/1.0
 - name: pbathb
   src: https://static-cdn.jtvnw.net/emoticons/v1/75783/1.0
 - name: pbatlewd
@@ -27,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75817/1.0
 - name: pbatdab
   src: https://static-cdn.jtvnw.net/emoticons/v1/75498/1.0
+- name: pbatdaddy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76433/1.0

@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - god_geno
 emojis:
-- name: genohawk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15892/1.0
-- name: genodj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15894/1.0
-- name: genogregselfie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15893/1.0
-- name: genocreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15908/1.0
-- name: genoscum
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16126/1.0
 - name: genohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/16123/1.0
-- name: genohelp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17619/1.0
-- name: genonerd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19170/1.0
+- name: genoturtle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76650/1.0
+- name: genochair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76589/1.0
+- name: genogoat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76590/1.0
+- name: genomoist
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76591/1.0
+- name: genoyou
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76593/1.0

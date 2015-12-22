@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - cheyenneo
 emojis:
+- name: cheyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76759/1.0
 - name: cheyrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/72398/1.0
 - name: cheyhug
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73757/1.0
 - name: cheysenpai
   src: https://static-cdn.jtvnw.net/emoticons/v1/73756/1.0
+- name: cheywave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76758/1.0

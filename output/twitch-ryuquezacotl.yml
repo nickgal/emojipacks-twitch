@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - ryuquezacotl
 emojis:
+- name: ryuuurage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76536/1.0
+- name: ryuuuhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76685/1.0
+- name: ryuuuthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76572/1.0
 - name: ryuuuwarcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/75901/1.0
 - name: ryuuuchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75902/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76287/1.0
+- name: ryuuuwhut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76227/1.0

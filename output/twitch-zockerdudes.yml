@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - zockerdudes
 emojis:
+- name: dudesbambus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76460/1.0
 - name: dudeskerne
   src: https://static-cdn.jtvnw.net/emoticons/v1/52627/1.0
-- name: dudesfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52622/1.0
 - name: dudesluck
   src: https://static-cdn.jtvnw.net/emoticons/v1/52620/1.0
 - name: dudesrage

@@ -1,11 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - jtunesgaming
 emojis:
-- name: jaytscrappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63260/1.0
-- name: jaytnoob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63252/1.0
-- name: jaytrag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63254/1.0
 - name: jaytlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/63251/1.0
+- name: jaythype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76330/1.0

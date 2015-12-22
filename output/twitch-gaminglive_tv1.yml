@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - gaminglive_tv1
 emojis:
+- name: gl1baron
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76454/1.0
+- name: gl1click
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76453/1.0
 - name: gl1passhiny
   src: https://static-cdn.jtvnw.net/emoticons/v1/57343/1.0
 - name: gl1trunkappa

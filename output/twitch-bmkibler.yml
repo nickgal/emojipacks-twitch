@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/24448/1.0
 - name: bmkgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/67782/1.0
-- name: bmkrith
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32577/1.0
 - name: bmkfelcannon
   src: https://static-cdn.jtvnw.net/emoticons/v1/34371/1.0
 - name: bmkw
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69380/1.0
 - name: bmkshirosmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/69381/1.0
+- name: bmkshirosanta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76334/1.0

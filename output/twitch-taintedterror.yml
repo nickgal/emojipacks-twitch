@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - taintedterror
 emojis:
-- name: ttrhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71065/1.0
 - name: ttrlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/71066/1.0
 - name: ttrsly
   src: https://static-cdn.jtvnw.net/emoticons/v1/71068/1.0
-- name: ttrhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72108/1.0
 - name: ttrrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/71989/1.0
 - name: ttrsleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/71107/1.0
-- name: ttrcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71114/1.0
 - name: ttrluck
   src: https://static-cdn.jtvnw.net/emoticons/v1/71903/1.0
+- name: ttrhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76770/1.0
+- name: ttrcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76769/1.0
+- name: ttrhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76568/1.0

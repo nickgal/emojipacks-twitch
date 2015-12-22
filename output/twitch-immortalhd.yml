@@ -1,7 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - immortalhd
 emojis:
+- name: aleksdoge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76044/1.0
 - name: alekshello
   src: https://static-cdn.jtvnw.net/emoticons/v1/75690/1.0
 - name: aleksnob
   src: https://static-cdn.jtvnw.net/emoticons/v1/75691/1.0
+- name: aleksdamndude
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76043/1.0
+- name: alekswtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76041/1.0

@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/26944/1.0
 - name: sketchw
   src: https://static-cdn.jtvnw.net/emoticons/v1/67229/1.0
+- name: sketchtink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76048/1.0
 - name: sketchsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/75066/1.0
 - name: sketchgotem
@@ -13,7 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75068/1.0
 - name: sketchhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/75069/1.0
-- name: sketchtink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75070/1.0
 - name: sketchoops
   src: https://static-cdn.jtvnw.net/emoticons/v1/75071/1.0

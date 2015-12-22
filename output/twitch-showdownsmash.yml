@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - showdownsmash
 emojis:
 - name: sdsgreatsatan
   src: https://static-cdn.jtvnw.net/emoticons/v1/23782/1.0
-- name: sdsthebizz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23651/1.0
 - name: sdssilentsmirker
   src: https://static-cdn.jtvnw.net/emoticons/v1/30781/1.0
 - name: sdsstorytime
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45393/1.0
 - name: sdseinshine
   src: https://static-cdn.jtvnw.net/emoticons/v1/57332/1.0
+- name: sdsgenesis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76778/1.0

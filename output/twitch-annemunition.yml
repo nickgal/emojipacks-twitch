@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/19150/1.0
 - name: annedog
   src: https://static-cdn.jtvnw.net/emoticons/v1/19151/1.0
-- name: annekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20227/1.0
 - name: annerage
   src: https://static-cdn.jtvnw.net/emoticons/v1/20228/1.0
 - name: annewhat
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46873/1.0
 - name: anneshame
   src: https://static-cdn.jtvnw.net/emoticons/v1/56996/1.0
+- name: annekappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76224/1.0

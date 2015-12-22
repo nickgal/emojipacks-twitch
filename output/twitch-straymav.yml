@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - straymav
 emojis:
-- name: straymanup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1096/1.0
 - name: straysadpanda
   src: https://static-cdn.jtvnw.net/emoticons/v1/1057/1.0
 - name: strayshellberight
@@ -11,7 +9,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/1059/1.0
 - name: strayhappypanda
   src: https://static-cdn.jtvnw.net/emoticons/v1/1060/1.0
-- name: strayderpface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1061/1.0
-- name: strayawesomesauce
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1062/1.0

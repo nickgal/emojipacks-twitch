@@ -1,14 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - teepee
 emojis:
-- name: teepohhyeah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64200/1.0
+- name: teep3bar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76496/1.0
 - name: teepohyeah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64197/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76497/1.0
 - name: teeparmy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64199/1.0
-- name: teepmoneytp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64198/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76513/1.0
 - name: teepglasses
   src: https://static-cdn.jtvnw.net/emoticons/v1/68392/1.0
 - name: teepsubhype

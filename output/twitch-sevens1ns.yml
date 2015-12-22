@@ -13,9 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/25151/1.0
 - name: sevenlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/50930/1.0
-- name: sevengold
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59034/1.0
 - name: sevenrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/52145/1.0
 - name: sevenkweh
   src: https://static-cdn.jtvnw.net/emoticons/v1/69365/1.0
+- name: sevensave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76338/1.0
+- name: sevenlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76337/1.0

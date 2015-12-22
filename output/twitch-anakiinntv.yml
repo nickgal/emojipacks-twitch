@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - anakiinntv
 emojis:
-- name: mertfeed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67902/1.0
 - name: mertekmek
   src: https://static-cdn.jtvnw.net/emoticons/v1/59621/1.0
 - name: mertbadigart
   src: https://static-cdn.jtvnw.net/emoticons/v1/59623/1.0
 - name: mertzaa
   src: https://static-cdn.jtvnw.net/emoticons/v1/67900/1.0
+- name: mertgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76053/1.0
+- name: mertbayrak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76052/1.0

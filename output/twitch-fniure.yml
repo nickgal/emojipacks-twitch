@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - fniure
 emojis:
 - name: fni40min
   src: https://static-cdn.jtvnw.net/emoticons/v1/66249/1.0
-- name: fnimike
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66252/1.0
 - name: fnisociety
   src: https://static-cdn.jtvnw.net/emoticons/v1/67182/1.0
 - name: fnihydrate
@@ -15,5 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68187/1.0
 - name: fnihello
   src: https://static-cdn.jtvnw.net/emoticons/v1/69696/1.0
+- name: fnimike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76055/1.0
 - name: fnigarbagerun
   src: https://static-cdn.jtvnw.net/emoticons/v1/69898/1.0

@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - merk
 emojis:
-- name: eodhandsome
+- name: jjdhandsome
   src: https://static-cdn.jtvnw.net/emoticons/v1/10092/1.0
-- name: eodeagle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10010/1.0
-- name: eodmerk
+- name: jjdmerk
   src: https://static-cdn.jtvnw.net/emoticons/v1/10013/1.0
+- name: jjdhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76883/1.0
+- name: jjdkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76882/1.0
+- name: jjdjoeyd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76881/1.0
+- name: jjdking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76880/1.0

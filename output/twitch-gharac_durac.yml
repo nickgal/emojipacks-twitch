@@ -3,10 +3,14 @@ title: Twitch Subscriber Emotes - gharac_durac
 emojis:
 - name: gharacstart
   src: https://static-cdn.jtvnw.net/emoticons/v1/73731/1.0
+- name: gharachello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76646/1.0
 - name: gharacheli
   src: https://static-cdn.jtvnw.net/emoticons/v1/73656/1.0
 - name: gharacmetal
   src: https://static-cdn.jtvnw.net/emoticons/v1/73655/1.0
+- name: gharachype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76571/1.0
 - name: gharachat
   src: https://static-cdn.jtvnw.net/emoticons/v1/74503/1.0
 - name: gharaclove

@@ -2,7 +2,9 @@
 title: Twitch Subscriber Emotes - lof_hackoru
 emojis:
 - name: hacksubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71811/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76642/1.0
+- name: hacknation
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76641/1.0
 - name: hackdunk
   src: https://static-cdn.jtvnw.net/emoticons/v1/72056/1.0
 - name: hackmonee

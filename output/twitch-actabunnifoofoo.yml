@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - actabunnifoofoo
 emojis:
-- name: bnagrapeface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7479/1.0
 - name: bna1st
   src: https://static-cdn.jtvnw.net/emoticons/v1/20668/1.0
 - name: bnabeanie
   src: https://static-cdn.jtvnw.net/emoticons/v1/10926/1.0
-- name: bnagasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20501/1.0
 - name: bnaliz
   src: https://static-cdn.jtvnw.net/emoticons/v1/21885/1.0
 - name: bnalove
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45931/1.0
 - name: bnalit
   src: https://static-cdn.jtvnw.net/emoticons/v1/68756/1.0
+- name: bnaface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76169/1.0
+- name: bnagasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76170/1.0

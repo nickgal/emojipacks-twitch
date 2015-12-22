@@ -1,15 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - grand_poobear
 emojis:
-- name: pooswitch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75957/1.0
 - name: pooblock
   src: https://static-cdn.jtvnw.net/emoticons/v1/75565/1.0
 - name: pooyatta
   src: https://static-cdn.jtvnw.net/emoticons/v1/75567/1.0
 - name: poogress
   src: https://static-cdn.jtvnw.net/emoticons/v1/75656/1.0
+- name: poogasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76576/1.0
 - name: pooluminati
   src: https://static-cdn.jtvnw.net/emoticons/v1/75773/1.0
 - name: poofail
   src: https://static-cdn.jtvnw.net/emoticons/v1/75877/1.0
+- name: poorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76747/1.0

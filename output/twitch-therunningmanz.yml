@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - therunningmanz
 emojis:
+- name: trmzblaze
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76600/1.0
 - name: trmzbloodykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/53977/1.0
 - name: trmzrunning
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59690/1.0
 - name: trmzepic
   src: https://static-cdn.jtvnw.net/emoticons/v1/59630/1.0
+- name: trmzlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76599/1.0

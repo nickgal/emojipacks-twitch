@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - live_oratory
 emojis:
+- name: liveorface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76638/1.0
 - name: liveoneutral
   src: https://static-cdn.jtvnw.net/emoticons/v1/70401/1.0

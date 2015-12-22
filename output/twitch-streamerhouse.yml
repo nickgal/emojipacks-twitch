@@ -1,33 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - streamerhouse
 emojis:
-- name: icont
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75962/1.0
-- name: iconl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75969/1.0
-- name: iconk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75967/1.0
-- name: iconn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75964/1.0
-- name: iconr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75963/1.0
-- name: icono
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75961/1.0
-- name: iconi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75960/1.0
-- name: icona
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75959/1.0
-- name: iconp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75924/1.0
-- name: iconb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75920/1.0
-- name: icone
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75925/1.0
-- name: iconh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75922/1.0
-- name: icons
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75918/1.0
-- name: icony
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75923/1.0
-- name: iconu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75919/1.0
+- name: iconinigo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76725/1.0
+- name: iconsh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76242/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - anthonyacc
 emojis:
-- name: acclove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68015/1.0
 - name: acchype
   src: https://static-cdn.jtvnw.net/emoticons/v1/67771/1.0
 - name: accgg
@@ -12,8 +10,10 @@ emojis:
 - name: accbooty
   src: https://static-cdn.jtvnw.net/emoticons/v1/63883/1.0
 - name: acclewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68129/1.0
-- name: accflex
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68287/1.0
-- name: acchappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70547/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76312/1.0
+- name: accl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76311/1.0
+- name: accm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76310/1.0
+- name: acclove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76313/1.0

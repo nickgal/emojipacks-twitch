@@ -3,12 +3,12 @@ title: Twitch Subscriber Emotes - hiimtwit
 emojis:
 - name: twitlol
   src: https://static-cdn.jtvnw.net/emoticons/v1/54800/1.0
+- name: twitsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76507/1.0
 - name: twitderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/32597/1.0
 - name: twitsalute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36983/1.0
-- name: twitsalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45728/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76519/1.0
 - name: twitshiny
   src: https://static-cdn.jtvnw.net/emoticons/v1/45725/1.0
 - name: twitddd

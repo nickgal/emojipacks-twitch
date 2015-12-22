@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - papaplatte
 emojis:
+- name: papahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76452/1.0
 - name: papagg
   src: https://static-cdn.jtvnw.net/emoticons/v1/28652/1.0
-- name: papaoff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34856/1.0
 - name: papa11
   src: https://static-cdn.jtvnw.net/emoticons/v1/37458/1.0
 - name: papaw

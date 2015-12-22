@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - vieparlafoi
 emojis:
-- name: vienavi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67792/1.0
 - name: viedonut
   src: https://static-cdn.jtvnw.net/emoticons/v1/51422/1.0
 - name: viemurky
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51799/1.0
 - name: viethump
   src: https://static-cdn.jtvnw.net/emoticons/v1/65564/1.0
+- name: vienavi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76350/1.0

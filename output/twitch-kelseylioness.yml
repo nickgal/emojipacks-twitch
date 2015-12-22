@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - kelseylioness
 emojis:
 - name: kelssub
   src: https://static-cdn.jtvnw.net/emoticons/v1/74868/1.0
+- name: kelscoffee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76515/1.0
+- name: kelsomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76479/1.0
 - name: kelsthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/74991/1.0
 - name: kelscry

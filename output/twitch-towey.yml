@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - towey
 emojis:
 - name: toweyface
   src: https://static-cdn.jtvnw.net/emoticons/v1/34594/1.0
+- name: toweyblue
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76378/1.0
 - name: toweyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/74442/1.0
+- name: toweylife
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76384/1.0

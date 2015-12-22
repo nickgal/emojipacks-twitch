@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - app1ecrisp
 emojis:
 - name: gubrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/64956/1.0
-- name: gubswift
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64909/1.0
 - name: gubkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/71947/1.0
 - name: gublove
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66697/1.0
 - name: gubgerk
   src: https://static-cdn.jtvnw.net/emoticons/v1/71946/1.0
+- name: gubclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76387/1.0

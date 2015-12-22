@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - artemis
 emojis:
-- name: ladypizza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10857/1.0
 - name: ladybubbles
   src: https://static-cdn.jtvnw.net/emoticons/v1/11479/1.0
-- name: ladytroll
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11480/1.0
+- name: ladyged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76495/1.0
+- name: ladyrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76494/1.0
+- name: ladypizza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76493/1.0
 - name: ladyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17550/1.0
-- name: ladyburn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17536/1.0
-- name: ladybanter
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26322/1.0
-- name: ladyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27617/1.0
-- name: ladythirst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27618/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76492/1.0
+- name: ladybetty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76491/1.0
+- name: ladychoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76483/1.0
+- name: ladyhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76482/1.0
+- name: ladyenergy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76532/1.0
+- name: ladynugget
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76531/1.0

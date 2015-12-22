@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - ericmartindood
 emojis:
+- name: illuminbutcher
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76540/1.0
+- name: illuminrant
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76541/1.0
 - name: illuminctrls
   src: https://static-cdn.jtvnw.net/emoticons/v1/75873/1.0
 - name: illuminarti

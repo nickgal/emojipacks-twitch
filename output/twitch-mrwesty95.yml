@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - mrwesty95
 emojis:
-- name: westylove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43480/1.0
-- name: westygood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43483/1.0
-- name: westybowtie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43476/1.0
-- name: westyevil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43484/1.0
-- name: westy7
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64688/1.0
-- name: westyw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70679/1.0
+- name: westyfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76077/1.0
+- name: westyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76075/1.0
+- name: westylewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76076/1.0
+- name: westysad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76078/1.0

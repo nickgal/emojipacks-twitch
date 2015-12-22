@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - asaonigiriyama
 emojis:
 - name: asaorip
   src: https://static-cdn.jtvnw.net/emoticons/v1/75549/1.0
-- name: asaoswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75552/1.0
 - name: asaosleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/75696/1.0
 - name: asaoteemo
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75311/1.0
 - name: asaoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/75314/1.0
+- name: asaocry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76357/1.0
+- name: asaoicecream
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76358/1.0
+- name: asaoswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76404/1.0

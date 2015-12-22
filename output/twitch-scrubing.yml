@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - scrubing
 emojis:
-- name: binghype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31796/1.0
-- name: binghappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54933/1.0
 - name: bingbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/54934/1.0
 - name: bingup
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74114/1.0
 - name: bingomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/74118/1.0
+- name: binghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76440/1.0
+- name: binghappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76439/1.0

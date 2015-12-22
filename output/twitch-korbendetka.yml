@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - korbendetka
 emojis:
-- name: maykamisha
+- name: korbenmisha
   src: https://static-cdn.jtvnw.net/emoticons/v1/75572/1.0
-- name: maykanewyear
+- name: korbenslabo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76471/1.0
+- name: korbennewyear
   src: https://static-cdn.jtvnw.net/emoticons/v1/75725/1.0
+- name: korbenmat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76400/1.0

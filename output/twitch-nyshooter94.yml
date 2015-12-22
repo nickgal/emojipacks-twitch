@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38762/1.0
 - name: shooterheul
   src: https://static-cdn.jtvnw.net/emoticons/v1/40418/1.0
+- name: shooterban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76575/1.0
 - name: shooteromg
   src: https://static-cdn.jtvnw.net/emoticons/v1/71304/1.0
 - name: shooterhype
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72318/1.0
 - name: shootermoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/72344/1.0
+- name: shootersalz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76289/1.0

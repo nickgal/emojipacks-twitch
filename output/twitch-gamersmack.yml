@@ -1,11 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - gamersmack
 emojis:
-- name: gamerscum
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40644/1.0
-- name: gamerbanjo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50539/1.0
-- name: gamerconker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50538/1.0
-- name: gamergoron
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50537/1.0
+- name: gamerrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76625/1.0
+- name: gamerheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76624/1.0
