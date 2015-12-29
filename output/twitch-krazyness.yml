@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10427/1.0
 - name: krazybang
   src: https://static-cdn.jtvnw.net/emoticons/v1/13787/1.0
-- name: krazykappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18663/1.0
 - name: krazydona
   src: https://static-cdn.jtvnw.net/emoticons/v1/19004/1.0
 - name: krazyvi
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57262/1.0
 - name: krazynada
   src: https://static-cdn.jtvnw.net/emoticons/v1/59104/1.0
+- name: krazyclaus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77004/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - sylvanas_sc2
 emojis:
+- name: sylvramona
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76937/1.0
 - name: sylvplus
   src: https://static-cdn.jtvnw.net/emoticons/v1/75243/1.0
 - name: sylvrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/75317/1.0
+- name: sylvgrill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76981/1.0

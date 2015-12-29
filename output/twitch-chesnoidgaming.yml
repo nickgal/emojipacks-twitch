@@ -5,11 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58972/1.0
 - name: chesnoidchair
   src: https://static-cdn.jtvnw.net/emoticons/v1/53057/1.0
-- name: chesnoidwater
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59043/1.0
 - name: chesnoidfinwish
   src: https://static-cdn.jtvnw.net/emoticons/v1/49981/1.0
 - name: chesnoidthumbsup
   src: https://static-cdn.jtvnw.net/emoticons/v1/50316/1.0
 - name: chesnoidgoal
   src: https://static-cdn.jtvnw.net/emoticons/v1/69618/1.0
+- name: chesnoidnoid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77088/1.0
+- name: chesnoidsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77091/1.0
+- name: chesnoidlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77090/1.0

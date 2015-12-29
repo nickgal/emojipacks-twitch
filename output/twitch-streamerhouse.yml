@@ -1,7 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - streamerhouse
 emojis:
+- name: iconnoobs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77279/1.0
+- name: icontree
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77280/1.0
 - name: iconinigo
   src: https://static-cdn.jtvnw.net/emoticons/v1/76725/1.0
+- name: iconcru
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76976/1.0
+- name: iconjesus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76977/1.0
+- name: iconjelly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76978/1.0
 - name: iconsh
   src: https://static-cdn.jtvnw.net/emoticons/v1/76242/1.0

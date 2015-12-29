@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - korea10
 emojis:
 - name: koreathirst
   src: https://static-cdn.jtvnw.net/emoticons/v1/64725/1.0
+- name: korean
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77272/1.0
+- name: koreanv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77271/1.0
 - name: korearice
   src: https://static-cdn.jtvnw.net/emoticons/v1/63889/1.0
 - name: koreahype

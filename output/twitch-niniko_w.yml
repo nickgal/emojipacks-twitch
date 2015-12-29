@@ -1,6 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - niniko_w
 emojis:
+- name: ninikook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77317/1.0
+- name: ninikocry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77316/1.0
+- name: ninikoshutup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77296/1.0
+- name: ninikoheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77295/1.0
 - name: ninikonothing
   src: https://static-cdn.jtvnw.net/emoticons/v1/76596/1.0
 - name: ninikohi

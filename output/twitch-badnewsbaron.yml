@@ -27,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75652/1.0
 - name: badrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/76045/1.0
-- name: badfork
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74716/1.0
 - name: baddeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/73724/1.0
 - name: badw
@@ -39,5 +37,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75845/1.0
 - name: badgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/76040/1.0
-- name: badgood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75999/1.0

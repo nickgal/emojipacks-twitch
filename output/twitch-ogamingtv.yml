@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - ogamingtv
 emojis:
+- name: oggfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76870/1.0
 - name: oggpi
   src: https://static-cdn.jtvnw.net/emoticons/v1/74316/1.0
 - name: oggnoc

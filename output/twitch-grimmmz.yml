@@ -21,6 +21,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45163/1.0
 - name: grimrise
   src: https://static-cdn.jtvnw.net/emoticons/v1/48542/1.0
+- name: grimban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76818/1.0
 - name: grimburn
   src: https://static-cdn.jtvnw.net/emoticons/v1/55739/1.0
 - name: grimdrive

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - xeater_4_ever
 emojis:
+- name: xeaterbob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77258/1.0
 - name: xeatercool
   src: https://static-cdn.jtvnw.net/emoticons/v1/72009/1.0
 - name: xeatercrl

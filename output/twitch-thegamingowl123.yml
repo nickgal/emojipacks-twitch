@@ -1,9 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - thegamingowl123
 emojis:
-- name: tgohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71941/1.0
-- name: tgorage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70384/1.0
 - name: tgorekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70378/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77281/1.0
+- name: tgohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77285/1.0
+- name: tgorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77282/1.0

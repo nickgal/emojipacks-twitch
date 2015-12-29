@@ -9,10 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/15636/1.0
 - name: keyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/39920/1.0
-- name: keystacks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39919/1.0
-- name: key20
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39918/1.0
 - name: keyzss
   src: https://static-cdn.jtvnw.net/emoticons/v1/57959/1.0
 - name: keysalt
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63021/1.0
 - name: keyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/66374/1.0
+- name: keys
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77192/1.0
+- name: keyyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77193/1.0

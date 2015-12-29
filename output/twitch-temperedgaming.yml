@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - temperedgaming
 emojis:
 - name: tempcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/75107/1.0
+- name: templove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77064/1.0
 - name: tempfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/75110/1.0
 - name: temphype
   src: https://static-cdn.jtvnw.net/emoticons/v1/75109/1.0
 - name: temprekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/75108/1.0
+- name: tempwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77065/1.0

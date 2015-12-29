@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - bluewestlo
 emojis:
+- name: bloodamn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76944/1.0
 - name: bloocool
   src: https://static-cdn.jtvnw.net/emoticons/v1/76504/1.0
 - name: bloolove
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76505/1.0
 - name: bloorito
   src: https://static-cdn.jtvnw.net/emoticons/v1/76524/1.0
+- name: bloomlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76942/1.0

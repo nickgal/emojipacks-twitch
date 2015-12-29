@@ -21,10 +21,18 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53602/1.0
 - name: adrdonate
   src: https://static-cdn.jtvnw.net/emoticons/v1/49963/1.0
+- name: adrram
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77314/1.0
 - name: adrluck
   src: https://static-cdn.jtvnw.net/emoticons/v1/51334/1.0
+- name: adrlilli
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77313/1.0
+- name: adrez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77312/1.0
 - name: adrlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/50124/1.0
+- name: adrburn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77311/1.0
 - name: adrking
   src: https://static-cdn.jtvnw.net/emoticons/v1/54169/1.0
 - name: adrdeal

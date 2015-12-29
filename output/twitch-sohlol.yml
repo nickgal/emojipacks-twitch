@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - sohlol
 emojis:
+- name: sohlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76923/1.0
+- name: sohlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76922/1.0
 - name: sohlaire
   src: https://static-cdn.jtvnw.net/emoticons/v1/74162/1.0
 - name: sohwat

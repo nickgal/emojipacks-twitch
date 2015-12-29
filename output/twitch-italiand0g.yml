@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - italiand0g
 emojis:
+- name: d0gsaltspaghetto
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76866/1.0
+- name: d0gsaltmaiale
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76867/1.0
 - name: d0gsaltunlucky
   src: https://static-cdn.jtvnw.net/emoticons/v1/61286/1.0
 - name: d0gsaltban

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - marckozhd
 emojis:
-- name: marckozcola
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22019/1.0
 - name: marckozfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/71216/1.0
 - name: marckozdoit
@@ -15,6 +13,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46504/1.0
 - name: marckozsilver
   src: https://static-cdn.jtvnw.net/emoticons/v1/46505/1.0
+- name: marckozkrogsa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76901/1.0
 - name: marckozrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/55064/1.0
 - name: marckozvac

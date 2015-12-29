@@ -15,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38821/1.0
 - name: weakw
   src: https://static-cdn.jtvnw.net/emoticons/v1/40520/1.0
-- name: weakbell
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57308/1.0
 - name: weakrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/61019/1.0
 - name: weakrip
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68058/1.0
 - name: weak667
   src: https://static-cdn.jtvnw.net/emoticons/v1/68826/1.0
+- name: weaknice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77235/1.0

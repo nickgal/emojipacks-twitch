@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - teawithmilkandsugar
 emojis:
+- name: twmcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77268/1.0
 - name: twmlol
   src: https://static-cdn.jtvnw.net/emoticons/v1/45582/1.0
 - name: twmlore
@@ -15,6 +17,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56394/1.0
 - name: twmrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/43854/1.0
+- name: twmned
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77284/1.0
+- name: twmrui
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77283/1.0
 - name: twmkappahat
   src: https://static-cdn.jtvnw.net/emoticons/v1/74379/1.0
 - name: twmkillem

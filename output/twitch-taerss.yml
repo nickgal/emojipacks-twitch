@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - taerss
 emojis:
 - name: taergod
   src: https://static-cdn.jtvnw.net/emoticons/v1/46735/1.0
-- name: taerakbar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39848/1.0
 - name: taerkirpi4
   src: https://static-cdn.jtvnw.net/emoticons/v1/36979/1.0
 - name: taerwycc
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36488/1.0
 - name: taerdcp
   src: https://static-cdn.jtvnw.net/emoticons/v1/46822/1.0
+- name: taerfeelsgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76995/1.0
+- name: taerrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76997/1.0
+- name: taerw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76999/1.0

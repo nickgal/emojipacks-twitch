@@ -3,17 +3,13 @@ title: Twitch Subscriber Emotes - unlogischesbrothd
 emojis:
 - name: brothdernst
   src: https://static-cdn.jtvnw.net/emoticons/v1/39787/1.0
-- name: brothddolan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64720/1.0
 - name: brothdscoots
   src: https://static-cdn.jtvnw.net/emoticons/v1/56904/1.0
 - name: brothdsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/38708/1.0
+- name: brothddoge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77319/1.0
 - name: brothdnice
   src: https://static-cdn.jtvnw.net/emoticons/v1/47169/1.0
-- name: brothdcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57950/1.0
-- name: brothdabgehoben
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63267/1.0
 - name: brothdhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/70974/1.0

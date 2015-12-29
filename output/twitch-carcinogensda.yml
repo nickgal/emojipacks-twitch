@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - carcinogensda
 emojis:
-- name: carcino
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70064/1.0
-- name: carcimissing
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70063/1.0
+- name: carcio
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76943/1.0
+- name: carciv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76941/1.0
 - name: carcikak
   src: https://static-cdn.jtvnw.net/emoticons/v1/37867/1.0
 - name: carciborf
@@ -17,7 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51983/1.0
 - name: carcinemmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/51984/1.0
-- name: carcileft
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51985/1.0
-- name: carciright
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51986/1.0
+- name: carciboulderpunch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77213/1.0
+- name: carcisenpai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77214/1.0

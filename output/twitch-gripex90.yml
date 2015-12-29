@@ -19,5 +19,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58077/1.0
 - name: gripding
   src: https://static-cdn.jtvnw.net/emoticons/v1/60269/1.0
+- name: griphype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76841/1.0
+- name: griplove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76840/1.0
+- name: gripsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76839/1.0
 - name: gripfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/67497/1.0

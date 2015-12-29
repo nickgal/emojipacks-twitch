@@ -1,12 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - trihex
 emojis:
+- name: trigropel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77246/1.0
 - name: trispaghetti
   src: https://static-cdn.jtvnw.net/emoticons/v1/27445/1.0
 - name: trilewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/26563/1.0
 - name: trithirst
   src: https://static-cdn.jtvnw.net/emoticons/v1/53141/1.0
+- name: trigroper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77300/1.0
 - name: trigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/62401/1.0
 - name: triwat
@@ -33,10 +37,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75087/1.0
 - name: tri4
   src: https://static-cdn.jtvnw.net/emoticons/v1/75088/1.0
-- name: trigroper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75089/1.0
-- name: trigropel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75090/1.0
 - name: trisugoi
   src: https://static-cdn.jtvnw.net/emoticons/v1/75091/1.0
 - name: triwaifu

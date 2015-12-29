@@ -3,6 +3,12 @@ title: Twitch Subscriber Emotes - ant1ka
 emojis:
 - name: ant1ka
   src: https://static-cdn.jtvnw.net/emoticons/v1/74629/1.0
+- name: ant1santa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76852/1.0
+- name: ant1kappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76851/1.0
+- name: ant1vac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76842/1.0
 - name: ant1hungry
   src: https://static-cdn.jtvnw.net/emoticons/v1/74643/1.0
 - name: ant1konyash

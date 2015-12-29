@@ -1,8 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - nyhmtv
 emojis:
+- name: nyhmally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76951/1.0
 - name: nyhmelf
   src: https://static-cdn.jtvnw.net/emoticons/v1/75927/1.0
+- name: nyhmhorde
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76844/1.0
+- name: nyhmrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76835/1.0
 - name: nyhmhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/75797/1.0
 - name: nyhmcom

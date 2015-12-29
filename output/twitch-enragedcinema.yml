@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58050/1.0
 - name: xecrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/28833/1.0
-- name: xeccam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34614/1.0
 - name: xecrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/34624/1.0
 - name: xecx3
@@ -33,5 +31,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38682/1.0
 - name: xecez
   src: https://static-cdn.jtvnw.net/emoticons/v1/51505/1.0
-- name: xecc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62891/1.0
+- name: xect
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77057/1.0
+- name: xecd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77062/1.0

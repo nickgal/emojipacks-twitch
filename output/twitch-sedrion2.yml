@@ -1,9 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - sedrion2
 emojis:
-- name: sedbro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65220/1.0
 - name: sedhead
   src: https://static-cdn.jtvnw.net/emoticons/v1/65090/1.0
-- name: sedh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68763/1.0
+- name: sedsalz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77073/1.0
+- name: sedvoice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77075/1.0
+- name: sedfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77074/1.0

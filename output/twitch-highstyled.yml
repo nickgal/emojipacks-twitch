@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74591/1.0
 - name: highsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/74590/1.0
+- name: highgreed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76926/1.0
 - name: highban
   src: https://static-cdn.jtvnw.net/emoticons/v1/74984/1.0
 - name: highisdn

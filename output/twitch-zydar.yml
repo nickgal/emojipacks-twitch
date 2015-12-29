@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - zydar
 emojis:
+- name: zydtarlouze
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76961/1.0
 - name: zydsniper
   src: https://static-cdn.jtvnw.net/emoticons/v1/47790/1.0
 - name: zydinfame
@@ -13,6 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74535/1.0
 - name: zydoklm
   src: https://static-cdn.jtvnw.net/emoticons/v1/74536/1.0
+- name: zydtare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/76962/1.0
 - name: zydrq
   src: https://static-cdn.jtvnw.net/emoticons/v1/74887/1.0
 - name: zydgg

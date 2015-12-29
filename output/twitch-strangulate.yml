@@ -3,8 +3,12 @@ title: Twitch Subscriber Emotes - strangulate
 emojis:
 - name: stranglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/73005/1.0
-- name: strangsubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73004/1.0
+- name: strangsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77255/1.0
+- name: strangrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77140/1.0
+- name: strange
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77139/1.0
 - name: stranglucky
   src: https://static-cdn.jtvnw.net/emoticons/v1/70256/1.0
 - name: stranggg

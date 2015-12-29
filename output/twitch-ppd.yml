@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ppd
 emojis:
-- name: ppdtilting
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12813/1.0
 - name: ppdbb
   src: https://static-cdn.jtvnw.net/emoticons/v1/13678/1.0
 - name: ppdgs
@@ -13,7 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/21847/1.0
 - name: ppdusa
   src: https://static-cdn.jtvnw.net/emoticons/v1/21845/1.0
-- name: ppdglhf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29352/1.0
-- name: ppddz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29456/1.0
+- name: ppdkool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77243/1.0
+- name: ppdangel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77242/1.0

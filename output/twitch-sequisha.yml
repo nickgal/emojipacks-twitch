@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - sequisha
 emojis:
-- name: seqequals
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74827/1.0
 - name: seqleye
   src: https://static-cdn.jtvnw.net/emoticons/v1/74828/1.0
-- name: seqplus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74826/1.0
 - name: seqreye
   src: https://static-cdn.jtvnw.net/emoticons/v1/74829/1.0
 - name: seqrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/74830/1.0
 - name: seqohboy
   src: https://static-cdn.jtvnw.net/emoticons/v1/74404/1.0
+- name: seqraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77211/1.0
+- name: seqhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77212/1.0

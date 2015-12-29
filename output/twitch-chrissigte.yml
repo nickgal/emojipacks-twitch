@@ -1,15 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - chrissigte
 emojis:
-- name: sigtehm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27037/1.0
 - name: sigtegd
   src: https://static-cdn.jtvnw.net/emoticons/v1/25639/1.0
 - name: sigtegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/30058/1.0
-- name: sigteref
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31190/1.0
 - name: sigtehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/40861/1.0
 - name: sigtefail
   src: https://static-cdn.jtvnw.net/emoticons/v1/56855/1.0
+- name: sigtevac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77348/1.0

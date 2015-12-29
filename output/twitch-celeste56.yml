@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - celeste56
 emojis:
-- name: celegive
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19630/1.0
 - name: celebagok
   src: https://static-cdn.jtvnw.net/emoticons/v1/27952/1.0
 - name: celeh
@@ -13,11 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32453/1.0
 - name: celehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/48376/1.0
-- name: celek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48378/1.0
 - name: cele1
   src: https://static-cdn.jtvnw.net/emoticons/v1/49314/1.0
 - name: cele2
   src: https://static-cdn.jtvnw.net/emoticons/v1/49315/1.0
 - name: celewut
   src: https://static-cdn.jtvnw.net/emoticons/v1/61684/1.0
+- name: celefeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77369/1.0
+- name: celepoop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77387/1.0

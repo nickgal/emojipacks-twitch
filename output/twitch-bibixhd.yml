@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - bibixhd
 emojis:
-- name: bibdecal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20836/1.0
-- name: bibquenlle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8542/1.0
 - name: bibcsta
   src: https://static-cdn.jtvnw.net/emoticons/v1/65867/1.0
-- name: bibbravo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65864/1.0
 - name: bibwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/65863/1.0
 - name: bibvnr
@@ -29,8 +23,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27807/1.0
 - name: bibenculey
   src: https://static-cdn.jtvnw.net/emoticons/v1/27814/1.0
+- name: bibretard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77270/1.0
 - name: bibtg
   src: https://static-cdn.jtvnw.net/emoticons/v1/30110/1.0
+- name: bibameno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77267/1.0
 - name: bibgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/36981/1.0
 - name: bibsalut
