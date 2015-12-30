@@ -13,6 +13,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34588/1.0
 - name: badrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/34904/1.0
+- name: badgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77379/1.0
 - name: badfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/45982/1.0
 - name: badheart
@@ -27,6 +29,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75652/1.0
 - name: badrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/76045/1.0
+- name: badbacon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77376/1.0
 - name: baddeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/73724/1.0
 - name: badw

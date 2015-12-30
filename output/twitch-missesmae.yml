@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - missesmae
 emojis:
+- name: maeteam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77547/1.0
 - name: maeswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/16457/1.0
 - name: maehype

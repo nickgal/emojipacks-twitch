@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - suchikuchi
 emojis:
+- name: pchcowghost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77371/1.0
 - name: pchkarma
   src: https://static-cdn.jtvnw.net/emoticons/v1/77035/1.0
 - name: pchslam

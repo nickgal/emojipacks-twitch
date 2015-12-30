@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - birgirpall
 emojis:
+- name: biggisub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77533/1.0
+- name: biggib
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77531/1.0
 - name: biggibanzaii
   src: https://static-cdn.jtvnw.net/emoticons/v1/74483/1.0
 - name: biggipoonikins

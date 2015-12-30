@@ -51,10 +51,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36541/1.0
 - name: dyrusregi
   src: https://static-cdn.jtvnw.net/emoticons/v1/39439/1.0
-- name: dyrusduh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39453/1.0
 - name: dyrusjail
   src: https://static-cdn.jtvnw.net/emoticons/v1/69320/1.0
+- name: dyrusangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77579/1.0
 - name: dyrusbench
   src: https://static-cdn.jtvnw.net/emoticons/v1/69412/1.0
 - name: dyrusgaren

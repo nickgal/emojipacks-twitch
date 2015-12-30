@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - m1ndr
 emojis:
 - name: m1ndrraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/51932/1.0
+- name: m1ndrsmooth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77476/1.0
 - name: m1ndrlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/51049/1.0
 - name: m1ndrrage

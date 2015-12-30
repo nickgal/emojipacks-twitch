@@ -25,6 +25,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32441/1.0
 - name: probgoofy
   src: https://static-cdn.jtvnw.net/emoticons/v1/32540/1.0
+- name: probunc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77492/1.0
 - name: probtd
   src: https://static-cdn.jtvnw.net/emoticons/v1/70100/1.0
 - name: probgary

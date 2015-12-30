@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - adwcta
 emojis:
 - name: gotcoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/62193/1.0
+- name: gotriot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77343/1.0
 - name: gotgoat
   src: https://static-cdn.jtvnw.net/emoticons/v1/77333/1.0
 - name: gotvalue

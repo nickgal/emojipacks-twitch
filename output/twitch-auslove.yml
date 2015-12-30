@@ -23,5 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/43460/1.0
 - name: ausgrump
   src: https://static-cdn.jtvnw.net/emoticons/v1/59049/1.0
+- name: auslol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77512/1.0
+- name: ausg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77513/1.0
+- name: aushax
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77514/1.0
 - name: aushug
   src: https://static-cdn.jtvnw.net/emoticons/v1/76637/1.0

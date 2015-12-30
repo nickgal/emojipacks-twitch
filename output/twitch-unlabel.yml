@@ -1,8 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - unlabel
 emojis:
-- name: unlabelnein
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41010/1.0
+- name: unlabelsanta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77555/1.0
+- name: unlabelhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77524/1.0
 - name: unlabelnichosi
   src: https://static-cdn.jtvnw.net/emoticons/v1/48015/1.0
 - name: unlabelanger

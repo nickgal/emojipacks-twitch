@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - jeremysadi
 emojis:
+- name: jeremysadictm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77532/1.0
 - name: jeremysadivulbis
   src: https://static-cdn.jtvnw.net/emoticons/v1/43547/1.0
 - name: jeremysadinoob

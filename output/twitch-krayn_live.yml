@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - krayn_live
 emojis:
+- name: gloupuddi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77525/1.0
 - name: glouwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/22306/1.0
 - name: glouface
@@ -21,3 +23,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68271/1.0
 - name: glouscared
   src: https://static-cdn.jtvnw.net/emoticons/v1/70636/1.0
+- name: gloubim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77457/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - divane21
 emojis:
+- name: divanelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77363/1.0
 - name: divanefail
   src: https://static-cdn.jtvnw.net/emoticons/v1/74003/1.0
 - name: divanehype

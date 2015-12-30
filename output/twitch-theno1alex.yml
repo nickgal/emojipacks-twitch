@@ -1,12 +1,18 @@
 ---
 title: Twitch Subscriber Emotes - theno1alex
 emojis:
+- name: no1love
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77497/1.0
+- name: no1hype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77496/1.0
 - name: no1pls
   src: https://static-cdn.jtvnw.net/emoticons/v1/73803/1.0
 - name: no1cry
   src: https://static-cdn.jtvnw.net/emoticons/v1/73802/1.0
 - name: no1what
   src: https://static-cdn.jtvnw.net/emoticons/v1/65935/1.0
+- name: no1wave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77498/1.0
 - name: no1creep
   src: https://static-cdn.jtvnw.net/emoticons/v1/65734/1.0
 - name: no1huh

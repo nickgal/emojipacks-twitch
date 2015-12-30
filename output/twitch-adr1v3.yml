@@ -11,6 +11,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/25761/1.0
 - name: adrsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/28970/1.0
+- name: adrlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77351/1.0
 - name: adrgomy
   src: https://static-cdn.jtvnw.net/emoticons/v1/50923/1.0
 - name: adrarmy
