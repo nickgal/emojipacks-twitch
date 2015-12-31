@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - patrickklepek
 emojis:
+- name: klepekscared
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77581/1.0
 - name: klepekryckert
   src: https://static-cdn.jtvnw.net/emoticons/v1/74291/1.0
 - name: klepeknote
   src: https://static-cdn.jtvnw.net/emoticons/v1/74292/1.0
+- name: klepekskinny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77580/1.0

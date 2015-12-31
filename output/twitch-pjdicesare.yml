@@ -11,9 +11,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64904/1.0
 - name: pjdbord
   src: https://static-cdn.jtvnw.net/emoticons/v1/64907/1.0
-- name: pjdfire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64905/1.0
 - name: pjdcaboose
   src: https://static-cdn.jtvnw.net/emoticons/v1/64903/1.0
 - name: pjdcar
   src: https://static-cdn.jtvnw.net/emoticons/v1/64902/1.0
+- name: pjdfire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77648/1.0
+- name: pjd6pm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77649/1.0

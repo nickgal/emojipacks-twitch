@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - sournothardcore
 emojis:
 - name: sourkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/5984/1.0
-- name: sourpfoots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5985/1.0
 - name: sourgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/6825/1.0
 - name: sourrip
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33447/1.0
 - name: soursweat
   src: https://static-cdn.jtvnw.net/emoticons/v1/70649/1.0
+- name: sourclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77718/1.0

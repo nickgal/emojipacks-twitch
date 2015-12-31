@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - revchumley
 emojis:
+- name: revchumleylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77587/1.0
+- name: revchumleylurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77582/1.0
 - name: revchumleyfist
   src: https://static-cdn.jtvnw.net/emoticons/v1/73300/1.0
 - name: revchumleyhonor

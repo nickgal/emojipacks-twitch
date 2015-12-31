@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mcanning
 emojis:
+- name: mcanheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77585/1.0
 - name: mcanhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/44034/1.0
 - name: mcanking
@@ -15,3 +17,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45475/1.0
 - name: mcancheese
   src: https://static-cdn.jtvnw.net/emoticons/v1/65232/1.0
+- name: mcanhand
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77664/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - teepee
 emojis:
+- name: teepgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77577/1.0
 - name: teep3bar
   src: https://static-cdn.jtvnw.net/emoticons/v1/76496/1.0
 - name: teepohyeah

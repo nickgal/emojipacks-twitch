@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - sherwoodlive
 emojis:
 - name: shermlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/73685/1.0
+- name: shergreen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77688/1.0
+- name: sherice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77689/1.0
 - name: sherpurple
   src: https://static-cdn.jtvnw.net/emoticons/v1/65270/1.0
 - name: sherblack
