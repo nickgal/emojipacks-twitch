@@ -1,5 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - mcforcefield
 emojis:
+- name: katafist
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77739/1.0
 - name: kataten
   src: https://static-cdn.jtvnw.net/emoticons/v1/77606/1.0
+- name: katafive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77797/1.0

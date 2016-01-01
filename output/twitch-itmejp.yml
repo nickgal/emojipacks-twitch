@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68011/1.0
 - name: itmejpuhh
   src: https://static-cdn.jtvnw.net/emoticons/v1/60762/1.0
-- name: itmejptroll
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60761/1.0
 - name: itmejpflip
   src: https://static-cdn.jtvnw.net/emoticons/v1/39258/1.0
 - name: itmejpsoon
@@ -23,14 +21,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45425/1.0
 - name: itmejpangry
   src: https://static-cdn.jtvnw.net/emoticons/v1/60734/1.0
-- name: itmejpbackseat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60735/1.0
 - name: itmejpcrit
   src: https://static-cdn.jtvnw.net/emoticons/v1/60736/1.0
 - name: itmejpfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/60737/1.0
-- name: itmejpd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60738/1.0
 - name: itmejpemb
   src: https://static-cdn.jtvnw.net/emoticons/v1/60739/1.0
 - name: itmejphero
@@ -51,8 +45,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60746/1.0
 - name: itmejphype
   src: https://static-cdn.jtvnw.net/emoticons/v1/60748/1.0
-- name: itmejpking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60749/1.0
 - name: itmejpmlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/60750/1.0
 - name: itmejp10
@@ -69,5 +61,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62141/1.0
 - name: itmejploot
   src: https://static-cdn.jtvnw.net/emoticons/v1/62160/1.0
+- name: itmejpd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77882/1.0
 - name: itmejphappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72758/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77883/1.0
+- name: itmejpsoul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77884/1.0
+- name: itmejpking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77885/1.0
+- name: itmejpded
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77886/1.0

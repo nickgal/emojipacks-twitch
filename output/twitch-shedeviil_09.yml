@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - shedeviil_09
 emojis:
-- name: deviilchin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23993/1.0
-- name: deviilwhaa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58667/1.0
 - name: deviilcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/58665/1.0
-- name: deviilhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58801/1.0
 - name: deviilderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/58800/1.0
 - name: deviilrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/58802/1.0
+- name: deviilhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77814/1.0
+- name: deviillove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77805/1.0
+- name: deviilvape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77806/1.0

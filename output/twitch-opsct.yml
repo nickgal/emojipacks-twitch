@@ -11,18 +11,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56422/1.0
 - name: opsyou
   src: https://static-cdn.jtvnw.net/emoticons/v1/75802/1.0
-- name: opswinner
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45396/1.0
-- name: opssalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47730/1.0
 - name: opsrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/47728/1.0
 - name: opsop
   src: https://static-cdn.jtvnw.net/emoticons/v1/47729/1.0
 - name: opsserious
   src: https://static-cdn.jtvnw.net/emoticons/v1/51465/1.0
-- name: opsban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50759/1.0
 - name: opscreeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/56193/1.0
 - name: opswoah
