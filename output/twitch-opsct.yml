@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - opsct
 emojis:
+- name: opswinner
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77811/1.0
 - name: opsjesas
   src: https://static-cdn.jtvnw.net/emoticons/v1/75801/1.0
 - name: opsrekt
@@ -21,6 +23,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56193/1.0
 - name: opswoah
   src: https://static-cdn.jtvnw.net/emoticons/v1/56194/1.0
+- name: opsrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77812/1.0
+- name: opssalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77810/1.0
 - name: opsheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/72299/1.0
 - name: opsblind

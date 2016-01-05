@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - melihucar
 emojis:
-- name: jesussinan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51814/1.0
 - name: jesusyunus
   src: https://static-cdn.jtvnw.net/emoticons/v1/76091/1.0
 - name: jesushype
@@ -27,7 +25,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76860/1.0
 - name: jesusrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/76097/1.0
-- name: jesuskappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76096/1.0
 - name: jesustr
   src: https://static-cdn.jtvnw.net/emoticons/v1/76092/1.0

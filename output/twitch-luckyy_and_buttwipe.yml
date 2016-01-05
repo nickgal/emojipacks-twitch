@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64656/1.0
 - name: labmlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/77286/1.0
+- name: labeyes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77827/1.0
 - name: labtears
   src: https://static-cdn.jtvnw.net/emoticons/v1/72615/1.0
 - name: labsubtrain
@@ -25,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72160/1.0
 - name: labrouter
   src: https://static-cdn.jtvnw.net/emoticons/v1/77373/1.0
+- name: labham
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77781/1.0
+- name: labrusty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77787/1.0

@@ -13,11 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68442/1.0
 - name: ponso
   src: https://static-cdn.jtvnw.net/emoticons/v1/64506/1.0
-- name: ponsd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68056/1.0
 - name: ponsten
   src: https://static-cdn.jtvnw.net/emoticons/v1/71792/1.0
 - name: ponsrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/69195/1.0
 - name: ponsw
   src: https://static-cdn.jtvnw.net/emoticons/v1/71565/1.0
+- name: ponslig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78196/1.0

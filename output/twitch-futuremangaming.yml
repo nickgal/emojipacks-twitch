@@ -1,6 +1,24 @@
 ---
 title: Twitch Subscriber Emotes - futuremangaming
 emojis:
+- name: fmgdance
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78271/1.0
+- name: fmgthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78270/1.0
+- name: fmgnice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78269/1.0
+- name: fmgkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78268/1.0
+- name: fmghaha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78267/1.0
+- name: fmgcmon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78266/1.0
+- name: fmgbros
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78265/1.0
+- name: fmgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78264/1.0
+- name: fmgah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78263/1.0
 - name: fmgpe
   src: https://static-cdn.jtvnw.net/emoticons/v1/39286/1.0
 - name: fmghy
@@ -11,23 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39123/1.0
 - name: fmgslice
   src: https://static-cdn.jtvnw.net/emoticons/v1/52141/1.0
-- name: fmgah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74679/1.0
-- name: fmgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74680/1.0
-- name: fmghoho
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74684/1.0
-- name: fmgnice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74686/1.0
-- name: fmgthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74687/1.0
 - name: fmgmoves
   src: https://static-cdn.jtvnw.net/emoticons/v1/68821/1.0
-- name: fmglist
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74685/1.0
-- name: fmgdance
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74683/1.0
-- name: fmgcmon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74682/1.0
-- name: fmgbros
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74681/1.0

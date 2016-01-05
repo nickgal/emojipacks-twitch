@@ -27,17 +27,25 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66709/1.0
 - name: roonap
   src: https://static-cdn.jtvnw.net/emoticons/v1/66713/1.0
-- name: roolove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74495/1.0
+- name: roobad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78121/1.0
+- name: roofeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78129/1.0
 - name: roobaka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74281/1.0
-- name: roolurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74443/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78118/1.0
+- name: roolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78128/1.0
 - name: roogood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74444/1.0
-- name: roohi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74446/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78119/1.0
+- name: rookiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78126/1.0
 - name: roowink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74445/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78120/1.0
 - name: roolewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74448/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78125/1.0
+- name: rooflection
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78124/1.0
+- name: roohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78123/1.0
+- name: roolurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78122/1.0

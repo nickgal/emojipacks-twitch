@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - flyinguwe87
 emojis:
-- name: flyingschrbody
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51819/1.0
 - name: flyingschrunfaehig
   src: https://static-cdn.jtvnw.net/emoticons/v1/61424/1.0
 - name: flyingschrbiceps
@@ -11,9 +9,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54491/1.0
 - name: flyingschrbutzdigger
   src: https://static-cdn.jtvnw.net/emoticons/v1/50302/1.0
-- name: flyingschrface2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54969/1.0
-- name: flyingschrface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54968/1.0
 - name: flyingschrkick
   src: https://static-cdn.jtvnw.net/emoticons/v1/54970/1.0

@@ -7,10 +7,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61339/1.0
 - name: snipedestroy
   src: https://static-cdn.jtvnw.net/emoticons/v1/62303/1.0
-- name: snipejuked
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62302/1.0
 - name: snipeeg
   src: https://static-cdn.jtvnw.net/emoticons/v1/31169/1.0
+- name: snipefight
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77984/1.0
 - name: sniperage
   src: https://static-cdn.jtvnw.net/emoticons/v1/61342/1.0
 - name: snipefire

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72447/1.0
 - name: low5team
   src: https://static-cdn.jtvnw.net/emoticons/v1/72426/1.0
-- name: low5wow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72425/1.0
 - name: low5santa
   src: https://static-cdn.jtvnw.net/emoticons/v1/75058/1.0
 - name: low5mod
@@ -15,5 +13,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72543/1.0
 - name: low5kappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/72185/1.0
-- name: low5thump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73941/1.0

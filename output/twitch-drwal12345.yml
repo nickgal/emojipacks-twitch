@@ -1,8 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - drwal12345
 emojis:
-- name: drwallaszka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77253/1.0
+- name: drwalh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77957/1.0
+- name: drwaldance
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77954/1.0
 - name: drwall
   src: https://static-cdn.jtvnw.net/emoticons/v1/56282/1.0
 - name: drwalff
@@ -11,5 +13,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66267/1.0
 - name: drwalgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/66263/1.0
-- name: drwaldance
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66254/1.0

@@ -19,22 +19,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49367/1.0
 - name: triplewtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/49372/1.0
-- name: triplems
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49361/1.0
-- name: tripleiam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49362/1.0
 - name: tripleomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/71949/1.0
 - name: triplepray
   src: https://static-cdn.jtvnw.net/emoticons/v1/53140/1.0
 - name: tripletrig
   src: https://static-cdn.jtvnw.net/emoticons/v1/71950/1.0
-- name: triplelg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54655/1.0
-- name: triplebp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54656/1.0
-- name: triplegg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62379/1.0
+- name: triplem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78006/1.0
+- name: triplepls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78007/1.0
 - name: tripleok
   src: https://static-cdn.jtvnw.net/emoticons/v1/62613/1.0
 - name: triplegud
@@ -49,15 +43,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67313/1.0
 - name: triplelost
   src: https://static-cdn.jtvnw.net/emoticons/v1/68822/1.0
-- name: triple808
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68689/1.0
 - name: triplecomp
   src: https://static-cdn.jtvnw.net/emoticons/v1/73903/1.0
-- name: triplem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73904/1.0
-- name: triplepls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73905/1.0
 - name: tripleroast
   src: https://static-cdn.jtvnw.net/emoticons/v1/73893/1.0
 - name: triplelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/75806/1.0
+- name: triplebp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77917/1.0
+- name: triplebt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77918/1.0
+- name: tripleop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77920/1.0
+- name: triplegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77921/1.0
+- name: tripleiam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77922/1.0
+- name: triplelg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77923/1.0

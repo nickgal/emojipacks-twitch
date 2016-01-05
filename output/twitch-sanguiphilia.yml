@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - sanguiphilia
 emojis:
-- name: sangf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61449/1.0
 - name: sangh
   src: https://static-cdn.jtvnw.net/emoticons/v1/58975/1.0
 - name: sangrage
@@ -13,11 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49512/1.0
 - name: sangthirsty
   src: https://static-cdn.jtvnw.net/emoticons/v1/49513/1.0
-- name: sangrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49548/1.0
 - name: sangboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/49549/1.0
-- name: sangmoon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49550/1.0
 - name: sanggasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/49640/1.0

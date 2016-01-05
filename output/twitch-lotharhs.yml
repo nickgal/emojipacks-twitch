@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50926/1.0
 - name: lotharw
   src: https://static-cdn.jtvnw.net/emoticons/v1/34933/1.0
+- name: lotharbot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77949/1.0
 - name: lotharcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/50619/1.0
 - name: lotharmetal

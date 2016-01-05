@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - das_hase
 emojis:
 - name: hasegasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/77683/1.0
+- name: hasederp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77695/1.0
 - name: haseh
   src: https://static-cdn.jtvnw.net/emoticons/v1/77507/1.0
 - name: hasewhat

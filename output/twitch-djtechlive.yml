@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - djtechlive
 emojis:
-- name: techderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46946/1.0
 - name: techfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/67764/1.0
 - name: techgasm

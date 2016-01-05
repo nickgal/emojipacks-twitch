@@ -3,6 +3,16 @@ title: Twitch Subscriber Emotes - charionna
 emojis:
 - name: chariwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/59841/1.0
+- name: charirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78000/1.0
+- name: charilag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77999/1.0
+- name: charifail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77998/1.0
+- name: charitears
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78004/1.0
+- name: charilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78003/1.0
 - name: charihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/59147/1.0
 - name: charicry

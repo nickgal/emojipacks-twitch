@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - tannerslays
 emojis:
-- name: tannersix
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77550/1.0
 - name: tannerop
   src: https://static-cdn.jtvnw.net/emoticons/v1/77549/1.0
+- name: tannerwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77979/1.0
 - name: tannerrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/50137/1.0
 - name: tannercash
   src: https://static-cdn.jtvnw.net/emoticons/v1/52300/1.0
 - name: tannerlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/52305/1.0
-- name: tannerhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75173/1.0
-- name: tannerrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75174/1.0
-- name: tannerwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75775/1.0
+- name: tannersix
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77934/1.0

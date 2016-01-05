@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - laced_up_lauren
 emojis:
-- name: laceredlace
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1067/1.0
 - name: lacemeeko
   src: https://static-cdn.jtvnw.net/emoticons/v1/1069/1.0
-- name: lacefry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60051/1.0
 - name: laceh
   src: https://static-cdn.jtvnw.net/emoticons/v1/60071/1.0
 - name: lacederp
@@ -15,6 +11,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60082/1.0
 - name: lacesalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/60083/1.0
+- name: lacelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78325/1.0
+- name: lacewtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78327/1.0
 - name: lacefail
   src: https://static-cdn.jtvnw.net/emoticons/v1/46548/1.0
 - name: lacehello
@@ -35,8 +35,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44329/1.0
 - name: lacepog
   src: https://static-cdn.jtvnw.net/emoticons/v1/46555/1.0
-- name: lacelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46557/1.0
 - name: lacetckt
   src: https://static-cdn.jtvnw.net/emoticons/v1/47697/1.0
 - name: lacepuke
@@ -51,3 +49,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62496/1.0
 - name: lacemp
   src: https://static-cdn.jtvnw.net/emoticons/v1/71001/1.0
+- name: laceaim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78220/1.0

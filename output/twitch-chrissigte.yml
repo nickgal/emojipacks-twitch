@@ -7,6 +7,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30058/1.0
 - name: sigtehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/40861/1.0
+- name: sigtevac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77965/1.0
 - name: sigtefail
   src: https://static-cdn.jtvnw.net/emoticons/v1/56855/1.0
 - name: sigteeasy

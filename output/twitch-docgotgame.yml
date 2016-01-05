@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - docgotgame
 emojis:
+- name: doclady
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77983/1.0
 - name: docluv
   src: https://static-cdn.jtvnw.net/emoticons/v1/25437/1.0
 - name: docmedic
@@ -13,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62901/1.0
 - name: docyes
   src: https://static-cdn.jtvnw.net/emoticons/v1/48457/1.0
-- name: docshots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48456/1.0
 - name: docsen
   src: https://static-cdn.jtvnw.net/emoticons/v1/50693/1.0
 - name: docrage

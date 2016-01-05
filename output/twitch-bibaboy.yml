@@ -1,16 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - bibaboy
 emojis:
-- name: bibaheadshot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23101/1.0
-- name: bibaclutch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23098/1.0
 - name: bibaheadset
   src: https://static-cdn.jtvnw.net/emoticons/v1/23099/1.0
 - name: bibasucks
   src: https://static-cdn.jtvnw.net/emoticons/v1/11679/1.0
-- name: bibaaal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11682/1.0
 - name: bibasub
   src: https://static-cdn.jtvnw.net/emoticons/v1/11695/1.0
 - name: bibaya
@@ -31,16 +25,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31212/1.0
 - name: bibambeezy3
   src: https://static-cdn.jtvnw.net/emoticons/v1/31218/1.0
-- name: bibaezskins
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31213/1.0
 - name: bibamoneyrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/31215/1.0
 - name: bibawesuck
   src: https://static-cdn.jtvnw.net/emoticons/v1/31216/1.0
 - name: bibambeezy2
   src: https://static-cdn.jtvnw.net/emoticons/v1/31217/1.0
-- name: bibaabdi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35006/1.0
 - name: bibareroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/37180/1.0
 - name: bibarigged

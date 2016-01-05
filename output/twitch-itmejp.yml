@@ -17,6 +17,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60756/1.0
 - name: itmejptip
   src: https://static-cdn.jtvnw.net/emoticons/v1/23560/1.0
+- name: itmejpcheese
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78320/1.0
 - name: itmejpwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/45425/1.0
 - name: itmejpangry
@@ -31,8 +33,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60740/1.0
 - name: itmejpfisting
   src: https://static-cdn.jtvnw.net/emoticons/v1/60742/1.0
-- name: itmejpf5
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60741/1.0
 - name: itmejpfml
   src: https://static-cdn.jtvnw.net/emoticons/v1/60743/1.0
 - name: itmejphi

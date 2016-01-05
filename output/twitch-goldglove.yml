@@ -41,6 +41,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38337/1.0
 - name: goldyblind
   src: https://static-cdn.jtvnw.net/emoticons/v1/55370/1.0
+- name: goldydab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78396/1.0
 - name: goldyperf
   src: https://static-cdn.jtvnw.net/emoticons/v1/67143/1.0
 - name: goldywhat
@@ -49,3 +51,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67140/1.0
 - name: goldyhello
   src: https://static-cdn.jtvnw.net/emoticons/v1/67136/1.0
+- name: goldylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78161/1.0

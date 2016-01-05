@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - silly
 emojis:
+- name: ggsillypupper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77989/1.0
+- name: ggsillylost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77990/1.0
 - name: ggsillygg
   src: https://static-cdn.jtvnw.net/emoticons/v1/76755/1.0
 - name: ggsillyc9

@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - thegeekchic
 emojis:
 - name: tgcderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/74436/1.0
+- name: tgchold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77701/1.0
 - name: tgccry
   src: https://static-cdn.jtvnw.net/emoticons/v1/71448/1.0
 - name: tgchype

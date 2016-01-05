@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - karils
 emojis:
 - name: karilsstack
   src: https://static-cdn.jtvnw.net/emoticons/v1/76352/1.0
+- name: karilsags
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77809/1.0
 - name: karilstrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/62345/1.0
 - name: karilssplash

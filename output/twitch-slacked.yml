@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - slacked
 emojis:
 - name: slackedgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/77539/1.0
-- name: slackedlostfull
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77540/1.0
 - name: slackedsubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/76038/1.0
 - name: slackedsheesh
   src: https://static-cdn.jtvnw.net/emoticons/v1/76037/1.0
-- name: slackedslackedmb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75881/1.0
 - name: slackedjerryberries
   src: https://static-cdn.jtvnw.net/emoticons/v1/75882/1.0
+- name: slackedkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77937/1.0
+- name: slackedlostfull
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77938/1.0

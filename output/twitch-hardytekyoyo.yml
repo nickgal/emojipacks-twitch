@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - hardytekyoyo
 emojis:
-- name: hardycaterpie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31310/1.0
 - name: hardyterror
   src: https://static-cdn.jtvnw.net/emoticons/v1/32387/1.0
 - name: hardyyarik
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63331/1.0
 - name: hardyfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/72588/1.0
+- name: hardybot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77931/1.0

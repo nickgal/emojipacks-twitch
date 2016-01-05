@@ -1,6 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - pinballjoe
 emojis:
+- name: pbjdead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78359/1.0
+- name: pbjflip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78360/1.0
+- name: pbjpog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78361/1.0
+- name: pbjrudy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78362/1.0
+- name: pbjtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78363/1.0
 - name: pbjafm
   src: https://static-cdn.jtvnw.net/emoticons/v1/48779/1.0
 - name: pbjoey

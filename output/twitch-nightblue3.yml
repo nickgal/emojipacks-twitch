@@ -9,16 +9,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57376/1.0
 - name: nb3lmao
   src: https://static-cdn.jtvnw.net/emoticons/v1/57377/1.0
-- name: nb3f
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14025/1.0
 - name: nb3ghost
   src: https://static-cdn.jtvnw.net/emoticons/v1/14023/1.0
-- name: nb3rip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14026/1.0
 - name: nb3wc
   src: https://static-cdn.jtvnw.net/emoticons/v1/14393/1.0
-- name: nb3lag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16658/1.0
 - name: nb3give
   src: https://static-cdn.jtvnw.net/emoticons/v1/17839/1.0
 - name: nb3p
@@ -27,32 +21,44 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/20280/1.0
 - name: nb3thump
   src: https://static-cdn.jtvnw.net/emoticons/v1/27307/1.0
-- name: nb3du
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26895/1.0
 - name: nb3wave
   src: https://static-cdn.jtvnw.net/emoticons/v1/31352/1.0
 - name: nb3hype
   src: https://static-cdn.jtvnw.net/emoticons/v1/33944/1.0
-- name: nb3rekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33946/1.0
 - name: nb3gasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/33940/1.0
 - name: nb3dg
   src: https://static-cdn.jtvnw.net/emoticons/v1/33943/1.0
-- name: nb3d
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34955/1.0
 - name: nb3gg
   src: https://static-cdn.jtvnw.net/emoticons/v1/34956/1.0
 - name: nb3sleepy
   src: https://static-cdn.jtvnw.net/emoticons/v1/63666/1.0
 - name: nb3saiyan
   src: https://static-cdn.jtvnw.net/emoticons/v1/63667/1.0
+- name: nb3rip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78380/1.0
+- name: nb3shrug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78381/1.0
+- name: nb3rage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78382/1.0
 - name: nb3three
   src: https://static-cdn.jtvnw.net/emoticons/v1/76894/1.0
+- name: nb3meh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78383/1.0
+- name: nb3loli
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78384/1.0
 - name: nb3clench
   src: https://static-cdn.jtvnw.net/emoticons/v1/38828/1.0
+- name: nb3hello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78385/1.0
+- name: nb3f
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78386/1.0
+- name: nb3derp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78387/1.0
 - name: nb3hide
   src: https://static-cdn.jtvnw.net/emoticons/v1/52651/1.0
+- name: nb3blush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78388/1.0
 - name: nb33g
   src: https://static-cdn.jtvnw.net/emoticons/v1/45196/1.0
 - name: nb3ten
@@ -87,17 +93,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60317/1.0
 - name: nb3faint
   src: https://static-cdn.jtvnw.net/emoticons/v1/75385/1.0
-- name: nb3blush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75389/1.0
-- name: nb3hello
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75390/1.0
 - name: nb3late
   src: https://static-cdn.jtvnw.net/emoticons/v1/75387/1.0
 - name: nb3eu
   src: https://static-cdn.jtvnw.net/emoticons/v1/75381/1.0
 - name: nb3na
   src: https://static-cdn.jtvnw.net/emoticons/v1/75382/1.0
-- name: nb3meh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75388/1.0
 - name: nb3freelo
   src: https://static-cdn.jtvnw.net/emoticons/v1/75383/1.0

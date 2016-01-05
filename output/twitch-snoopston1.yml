@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - snoopston1
 emojis:
+- name: briansalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77981/1.0
 - name: briandomed
   src: https://static-cdn.jtvnw.net/emoticons/v1/77630/1.0
 - name: brianlove

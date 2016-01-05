@@ -12,7 +12,9 @@ emojis:
 - name: miadegen
   src: https://static-cdn.jtvnw.net/emoticons/v1/43690/1.0
 - name: mialuv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56856/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77958/1.0
+- name: miacry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77956/1.0
 - name: miarage
   src: https://static-cdn.jtvnw.net/emoticons/v1/73082/1.0
 - name: miahuch
