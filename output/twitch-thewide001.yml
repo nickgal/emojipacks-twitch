@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - thewide001
 emojis:
+- name: widesir
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79097/1.0
 - name: widefp
   src: https://static-cdn.jtvnw.net/emoticons/v1/36439/1.0
 - name: widekoala
   src: https://static-cdn.jtvnw.net/emoticons/v1/68734/1.0
+- name: widegc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78883/1.0

@@ -3,12 +3,12 @@ title: Twitch Subscriber Emotes - beanslayerx
 emojis:
 - name: beansboyswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/28362/1.0
-- name: beanstp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34731/1.0
-- name: beanswod
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70257/1.0
 - name: beansbsx
   src: https://static-cdn.jtvnw.net/emoticons/v1/55006/1.0
+- name: beansbfa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78449/1.0
+- name: beanswod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78458/1.0
 - name: beansus
   src: https://static-cdn.jtvnw.net/emoticons/v1/73283/1.0
 - name: beansofficer

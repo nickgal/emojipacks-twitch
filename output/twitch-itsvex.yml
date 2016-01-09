@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - itsvex
 emojis:
 - name: vexmorschmorsch
   src: https://static-cdn.jtvnw.net/emoticons/v1/70904/1.0
+- name: vexmorschhallo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79044/1.0
+- name: vexmorschrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79043/1.0
 - name: vexmorschwat
   src: https://static-cdn.jtvnw.net/emoticons/v1/73669/1.0
 - name: vexmorschgenuss

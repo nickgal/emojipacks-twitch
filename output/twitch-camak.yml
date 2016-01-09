@@ -5,9 +5,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/20143/1.0
 - name: failyfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/20251/1.0
+- name: failylol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78068/1.0
 - name: failygg
   src: https://static-cdn.jtvnw.net/emoticons/v1/50672/1.0
 - name: failynew
   src: https://static-cdn.jtvnw.net/emoticons/v1/50659/1.0
 - name: failyhelp
   src: https://static-cdn.jtvnw.net/emoticons/v1/50795/1.0
+- name: failycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78065/1.0
+- name: failyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78066/1.0
+- name: failyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78067/1.0
+- name: failyfear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78069/1.0

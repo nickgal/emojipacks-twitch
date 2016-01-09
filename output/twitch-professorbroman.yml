@@ -41,8 +41,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59253/1.0
 - name: bowparty
   src: https://static-cdn.jtvnw.net/emoticons/v1/59252/1.0
-- name: bowbait
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58612/1.0
 - name: bowham
   src: https://static-cdn.jtvnw.net/emoticons/v1/63170/1.0
 - name: bowzap
@@ -59,8 +57,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63176/1.0
 - name: bowcoin
   src: https://static-cdn.jtvnw.net/emoticons/v1/71078/1.0
-- name: bowfrank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67547/1.0
 - name: bowpalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/67546/1.0
 - name: bowforce

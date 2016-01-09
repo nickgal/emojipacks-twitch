@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - geefamous92
 emojis:
 - name: geehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/49077/1.0
-- name: geerip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49241/1.0
 - name: geelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/49239/1.0
 - name: geeugly
@@ -13,7 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48645/1.0
 - name: geerekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/49240/1.0
-- name: geegs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49242/1.0
 - name: geebreh
   src: https://static-cdn.jtvnw.net/emoticons/v1/66078/1.0
+- name: geeomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78599/1.0
+- name: geemoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78600/1.0

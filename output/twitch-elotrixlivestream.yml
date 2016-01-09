@@ -7,16 +7,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/6779/1.0
 - name: elotrixkappatrix
   src: https://static-cdn.jtvnw.net/emoticons/v1/6782/1.0
-- name: elotrixholzbein
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13480/1.0
 - name: elotrix3likes
   src: https://static-cdn.jtvnw.net/emoticons/v1/28687/1.0
 - name: elotrixcree
   src: https://static-cdn.jtvnw.net/emoticons/v1/28686/1.0
-- name: elotrixdefaq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15950/1.0
-- name: elotrixpirat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15951/1.0
 - name: elotrixabgehoben
   src: https://static-cdn.jtvnw.net/emoticons/v1/28975/1.0
 - name: elotrixunangenehm
@@ -29,3 +23,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/28972/1.0
 - name: elotrixanzeige
   src: https://static-cdn.jtvnw.net/emoticons/v1/29144/1.0
+- name: elotrixcash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78864/1.0
+- name: elotrixh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78863/1.0
+- name: elotrixr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78862/1.0

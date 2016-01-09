@@ -35,19 +35,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74558/1.0
 - name: mskkostrich
   src: https://static-cdn.jtvnw.net/emoticons/v1/74560/1.0
-- name: mskkaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75271/1.0
-- name: mskkwhsky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75281/1.0
 - name: mskkcute
   src: https://static-cdn.jtvnw.net/emoticons/v1/75272/1.0
-- name: mskkban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75277/1.0
 - name: mskkscared
   src: https://static-cdn.jtvnw.net/emoticons/v1/75278/1.0
-- name: mskkthirst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75279/1.0
-- name: mskkhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75280/1.0
 - name: mskkhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/75269/1.0
+- name: mskkban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78970/1.0
+- name: mskkthirsty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78971/1.0
+- name: mskkhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78973/1.0
+- name: mskkaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78975/1.0
+- name: mskkwhsky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78976/1.0

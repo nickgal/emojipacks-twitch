@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - izl
 emojis:
+- name: izlk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79066/1.0
 - name: izln
   src: https://static-cdn.jtvnw.net/emoticons/v1/74046/1.0
 - name: izll

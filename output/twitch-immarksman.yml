@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - immarksman
 emojis:
-- name: markheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13441/1.0
 - name: markkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/16935/1.0
 - name: markpony
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36373/1.0
 - name: markbackpack
   src: https://static-cdn.jtvnw.net/emoticons/v1/47646/1.0
+- name: markheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78953/1.0

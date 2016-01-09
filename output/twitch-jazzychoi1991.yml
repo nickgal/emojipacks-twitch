@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - jazzychoi1991
 emojis:
 - name: jazzylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/77977/1.0
+- name: jazzythump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78144/1.0
+- name: jazzyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78248/1.0
 - name: jazzyhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/78016/1.0

@@ -2,7 +2,7 @@
 title: Twitch Subscriber Emotes - benita29
 emojis:
 - name: benicry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60358/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78800/1.0
 - name: benihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/60359/1.0
 - name: beniclg
@@ -13,3 +13,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60361/1.0
 - name: beniwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/60414/1.0
+- name: benifail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78799/1.0

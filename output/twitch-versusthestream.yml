@@ -17,10 +17,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50219/1.0
 - name: vtsvegena
   src: https://static-cdn.jtvnw.net/emoticons/v1/61317/1.0
+- name: vtswestlo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78025/1.0
 - name: vtslol
   src: https://static-cdn.jtvnw.net/emoticons/v1/68917/1.0
-- name: vtsfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69141/1.0
 - name: vtsboy
   src: https://static-cdn.jtvnw.net/emoticons/v1/68916/1.0
 - name: vtslove
@@ -29,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76416/1.0
 - name: vtslewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/76417/1.0
+- name: vtsopie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79000/1.0

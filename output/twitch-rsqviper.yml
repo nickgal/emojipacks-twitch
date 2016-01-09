@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - rsqviper
 emojis:
-- name: vipersupercereal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8587/1.0
 - name: viperrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/7758/1.0
 - name: vipergg
@@ -12,4 +10,6 @@ emojis:
 - name: viperspider
   src: https://static-cdn.jtvnw.net/emoticons/v1/55055/1.0
 - name: viperpound
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45921/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78693/1.0
+- name: viperlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78699/1.0

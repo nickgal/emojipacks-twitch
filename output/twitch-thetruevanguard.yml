@@ -3,3 +3,7 @@ title: Twitch Subscriber Emotes - thetruevanguard
 emojis:
 - name: drivebysnipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/76410/1.0
+- name: drivebynewsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78313/1.0
+- name: drivebyheadshot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78312/1.0

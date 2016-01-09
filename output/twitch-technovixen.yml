@@ -2,7 +2,15 @@
 title: Twitch Subscriber Emotes - technovixen
 emojis:
 - name: vixhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73625/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78435/1.0
+- name: vixrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78434/1.0
+- name: vixrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78433/1.0
+- name: vixgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78432/1.0
+- name: vixlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78431/1.0
 - name: vixmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/49507/1.0
 - name: vixsniffles

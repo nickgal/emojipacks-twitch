@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - flamytv
 emojis:
+- name: flamywtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78423/1.0
 - name: flamyfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20569/1.0
-- name: flamycookie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21541/1.0
-- name: flamykappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48349/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78422/1.0
+- name: flamysalute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78420/1.0
+- name: flamypusia
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78061/1.0
+- name: flamyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78914/1.0
+- name: flamycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78920/1.0

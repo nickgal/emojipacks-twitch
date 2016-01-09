@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - oldvulpine
 emojis:
-- name: oldsick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74766/1.0
 - name: oldfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/68896/1.0
+- name: old3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78786/1.0
 - name: oldchomp
   src: https://static-cdn.jtvnw.net/emoticons/v1/51384/1.0
 - name: oldteef
@@ -13,11 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51964/1.0
 - name: oldlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/54727/1.0
-- name: old3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74693/1.0
 - name: oldrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/68157/1.0
 - name: oldspice
   src: https://static-cdn.jtvnw.net/emoticons/v1/72302/1.0
 - name: oldgood
   src: https://static-cdn.jtvnw.net/emoticons/v1/72301/1.0
+- name: oldsick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78787/1.0

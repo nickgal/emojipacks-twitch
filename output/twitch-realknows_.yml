@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - realknows_
 emojis:
+- name: realkfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79062/1.0
+- name: realkrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78227/1.0
+- name: realklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78236/1.0
+- name: realkfp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78701/1.0
 - name: realkhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39225/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78727/1.0
 - name: realkcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39224/1.0
-- name: realkrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61192/1.0
-- name: realkten
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61193/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78726/1.0

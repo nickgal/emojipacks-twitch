@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - oneboxchen
 emojis:
-- name: bossboss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56726/1.0
 - name: bossface
   src: https://static-cdn.jtvnw.net/emoticons/v1/68270/1.0
 - name: bosswin
   src: https://static-cdn.jtvnw.net/emoticons/v1/77932/1.0
 - name: bosscall
   src: https://static-cdn.jtvnw.net/emoticons/v1/77933/1.0
+- name: bosshand
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78709/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - gcpmtv
 emojis:
-- name: giandonation
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33146/1.0
 - name: giantrollpa
   src: https://static-cdn.jtvnw.net/emoticons/v1/33144/1.0
 - name: gianwinston
@@ -13,11 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32428/1.0
 - name: gianthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/32625/1.0
-- name: gianhello
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32925/1.0
-- name: gianomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32891/1.0
 - name: gianpause
   src: https://static-cdn.jtvnw.net/emoticons/v1/32890/1.0
 - name: giansub
   src: https://static-cdn.jtvnw.net/emoticons/v1/32888/1.0
+- name: gianrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78993/1.0

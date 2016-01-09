@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - neslo
 emojis:
+- name: neslotkallday
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78805/1.0
+- name: nesloclutch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78804/1.0
 - name: nesloslay
   src: https://static-cdn.jtvnw.net/emoticons/v1/73365/1.0
 - name: neslokappa

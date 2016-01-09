@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - silphitv
 emojis:
 - name: silphiking
   src: https://static-cdn.jtvnw.net/emoticons/v1/31937/1.0
-- name: silphiheal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31259/1.0
 - name: silphiprotect
   src: https://static-cdn.jtvnw.net/emoticons/v1/31280/1.0
 - name: silphisenpai
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56005/1.0
 - name: silphichall
   src: https://static-cdn.jtvnw.net/emoticons/v1/68478/1.0
+- name: silphifeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78954/1.0

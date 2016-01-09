@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67787/1.0
 - name: fist5ksalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/70969/1.0
-- name: fist5krekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67175/1.0
 - name: fist5kfist
   src: https://static-cdn.jtvnw.net/emoticons/v1/68063/1.0
 - name: fist5ksub
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67451/1.0
 - name: fist5kparrot
   src: https://static-cdn.jtvnw.net/emoticons/v1/70724/1.0
+- name: fist5kegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78995/1.0

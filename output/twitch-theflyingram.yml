@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - theflyingram
 emojis:
 - name: tfrw
   src: https://static-cdn.jtvnw.net/emoticons/v1/64605/1.0
-- name: tfrpride
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64607/1.0
 - name: tfryumruk
   src: https://static-cdn.jtvnw.net/emoticons/v1/55974/1.0
 - name: tfrkafa
@@ -13,3 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64105/1.0
 - name: tfrminati
   src: https://static-cdn.jtvnw.net/emoticons/v1/66739/1.0
+- name: tfrbrawl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78670/1.0
+- name: tfrhack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78888/1.0

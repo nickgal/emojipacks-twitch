@@ -9,11 +9,25 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39863/1.0
 - name: fattylustr
   src: https://static-cdn.jtvnw.net/emoticons/v1/40003/1.0
-- name: fattysub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40064/1.0
 - name: fattymet
   src: https://static-cdn.jtvnw.net/emoticons/v1/64832/1.0
-- name: fattyrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64833/1.0
+- name: fattykenny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78262/1.0
+- name: fattyw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78260/1.0
+- name: fattyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78259/1.0
+- name: fattykappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78257/1.0
+- name: fattylaugh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78261/1.0
+- name: fattyfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78258/1.0
+- name: fattysub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78740/1.0
+- name: fattywat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78739/1.0
 - name: fattyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64834/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78738/1.0
+- name: fattyrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78737/1.0

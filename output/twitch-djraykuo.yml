@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - djraykuo
 emojis:
+- name: raykuohipride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79078/1.0
+- name: raykuohipromisepride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79086/1.0
 - name: raykuohihi
   src: https://static-cdn.jtvnw.net/emoticons/v1/76618/1.0
 - name: raykuohieightseven

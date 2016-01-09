@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - dqmhose
 emojis:
+- name: hosepaddel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79099/1.0
 - name: hoserage
   src: https://static-cdn.jtvnw.net/emoticons/v1/61523/1.0
 - name: hosefail
@@ -9,7 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53741/1.0
 - name: hosetee
   src: https://static-cdn.jtvnw.net/emoticons/v1/54712/1.0
-- name: hoseschock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54713/1.0
 - name: hosehey
   src: https://static-cdn.jtvnw.net/emoticons/v1/61522/1.0

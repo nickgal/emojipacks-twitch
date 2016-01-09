@@ -9,9 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/8903/1.0
 - name: truks
   src: https://static-cdn.jtvnw.net/emoticons/v1/52403/1.0
-- name: truklegs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52402/1.0
 - name: trukraptor
   src: https://static-cdn.jtvnw.net/emoticons/v1/1732/1.0
 - name: trukac
   src: https://static-cdn.jtvnw.net/emoticons/v1/52431/1.0
+- name: trukpootis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78588/1.0
+- name: truklegs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79014/1.0

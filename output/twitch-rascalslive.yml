@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - rascalslive
 emojis:
-- name: rasbot
+- name: detbot
   src: https://static-cdn.jtvnw.net/emoticons/v1/64708/1.0
-- name: rasf
+- name: detf
   src: https://static-cdn.jtvnw.net/emoticons/v1/67765/1.0
-- name: rashey
+- name: dethey
   src: https://static-cdn.jtvnw.net/emoticons/v1/60837/1.0
-- name: rasgrill
+- name: detgrill
   src: https://static-cdn.jtvnw.net/emoticons/v1/64862/1.0
-- name: rasrespekt
+- name: detrespekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/65621/1.0
-- name: rascry
+- name: detcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/67347/1.0
+- name: dets
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78304/1.0
+- name: detrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78136/1.0
+- name: detged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78135/1.0
+- name: detno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78908/1.0

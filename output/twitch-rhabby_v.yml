@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - rhabby_v
 emojis:
 - name: rhabbk
   src: https://static-cdn.jtvnw.net/emoticons/v1/72947/1.0
-- name: rhabbag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71504/1.0
 - name: rhabsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/71505/1.0
 - name: rhabross
@@ -15,3 +13,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71405/1.0
 - name: rhabhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71406/1.0
+- name: rhabrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78448/1.0
+- name: rhablove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79038/1.0
+- name: rhabsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79037/1.0

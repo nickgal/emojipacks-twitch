@@ -11,6 +11,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10216/1.0
 - name: snutzhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/10889/1.0
+- name: snutzfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78817/1.0
 - name: snutzmoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/16853/1.0
 - name: snutzlove
@@ -21,3 +23,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/25625/1.0
 - name: snutzcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/77170/1.0
+- name: snutzplease
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78819/1.0

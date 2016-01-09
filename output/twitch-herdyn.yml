@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - herdyn
 emojis:
-- name: herdynswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10182/1.0
-- name: herdynshock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10183/1.0
-- name: herdynpain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10053/1.0
-- name: herdynyolo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30233/1.0
+- name: herdynsex
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78744/1.0
 - name: herdynsurprise
   src: https://static-cdn.jtvnw.net/emoticons/v1/30317/1.0
 - name: herdynward
@@ -21,3 +15,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35539/1.0
 - name: herdyncry
   src: https://static-cdn.jtvnw.net/emoticons/v1/35536/1.0
+- name: herdynw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78707/1.0
+- name: herdynrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78924/1.0

@@ -1,17 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - tsukiyopower
 emojis:
-- name: tsurekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30463/1.0
+- name: tsuplouf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79050/1.0
+- name: tsunew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79049/1.0
 - name: tsurip
   src: https://static-cdn.jtvnw.net/emoticons/v1/35867/1.0
-- name: tsudouble
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35869/1.0
-- name: tsusub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35870/1.0
-- name: tsurek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48802/1.0
 - name: tsugg
   src: https://static-cdn.jtvnw.net/emoticons/v1/48801/1.0
-- name: tsuvac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48800/1.0

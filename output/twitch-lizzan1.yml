@@ -3,3 +3,11 @@ title: Twitch Subscriber Emotes - lizzan1
 emojis:
 - name: lkssubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/55608/1.0
+- name: lksfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78492/1.0
+- name: lksduck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78682/1.0
+- name: lksflash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78493/1.0
+- name: lksbush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78683/1.0

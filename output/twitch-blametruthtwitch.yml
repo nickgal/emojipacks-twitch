@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - blametruthtwitch
 emojis:
-- name: scurrycombine
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75980/1.0
 - name: scurrybud
   src: https://static-cdn.jtvnw.net/emoticons/v1/35259/1.0
 - name: scurrybt
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77867/1.0
 - name: scurrysweat
   src: https://static-cdn.jtvnw.net/emoticons/v1/78024/1.0
+- name: scurrypotato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78858/1.0

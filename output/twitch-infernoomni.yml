@@ -1,11 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - infernoomni
 emojis:
-- name: omniha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40329/1.0
 - name: omnibruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/40366/1.0
-- name: omnihype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40532/1.0
-- name: omnikappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44833/1.0
+- name: omnitem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78627/1.0

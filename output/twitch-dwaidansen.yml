@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - dwaidansen
 emojis:
 - name: dansenfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/65378/1.0
-- name: dansenclaus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74958/1.0
 - name: dansenlauch
   src: https://static-cdn.jtvnw.net/emoticons/v1/64963/1.0
 - name: dansenh
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64451/1.0
 - name: dansenmoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/64491/1.0
+- name: dansenez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78671/1.0

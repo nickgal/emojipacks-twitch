@@ -15,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/22174/1.0
 - name: cryma
   src: https://static-cdn.jtvnw.net/emoticons/v1/31285/1.0
-- name: crysellout
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31811/1.0
 - name: crycat
   src: https://static-cdn.jtvnw.net/emoticons/v1/33445/1.0
 - name: cry8
@@ -43,3 +41,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56453/1.0
 - name: cry2ez
   src: https://static-cdn.jtvnw.net/emoticons/v1/78070/1.0
+- name: crysellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78918/1.0

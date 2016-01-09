@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - thechief1114
 emojis:
 - name: thechiefhead
   src: https://static-cdn.jtvnw.net/emoticons/v1/10274/1.0
-- name: thechiefwhip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10273/1.0
 - name: thechiefkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/20163/1.0
 - name: thechiefrage
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35892/1.0
 - name: thechiefderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/36227/1.0
+- name: thechieflee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79024/1.0

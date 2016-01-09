@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - dyoshiitv
 emojis:
+- name: dyodoot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78461/1.0
 - name: dyocart
   src: https://static-cdn.jtvnw.net/emoticons/v1/76550/1.0
 - name: dyorage
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76251/1.0
 - name: dyogday
   src: https://static-cdn.jtvnw.net/emoticons/v1/76260/1.0
+- name: dyokonchu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78743/1.0

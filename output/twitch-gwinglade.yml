@@ -1,19 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - gwinglade
 emojis:
-- name: gwinpshh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69375/1.0
-- name: gwinsh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71211/1.0
-- name: gwinkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69237/1.0
-- name: gwinpop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67225/1.0
+- name: gwinsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78392/1.0
+- name: gwinpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78405/1.0
+- name: gwinvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78586/1.0
 - name: gwinsobaka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68087/1.0
-- name: gwinkot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67516/1.0
-- name: gwinhustle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68292/1.0
-- name: gwinpride
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71217/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78552/1.0
+- name: gwinsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78496/1.0

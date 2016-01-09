@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - fazedirty
 emojis:
+- name: drtywut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78351/1.0
 - name: drtyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/50814/1.0
 - name: drtyno
@@ -11,3 +13,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57567/1.0
 - name: drtysplit
   src: https://static-cdn.jtvnw.net/emoticons/v1/66442/1.0
+- name: drtychoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78350/1.0

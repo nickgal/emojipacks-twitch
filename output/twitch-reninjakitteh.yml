@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - reninjakitteh
 emojis:
-- name: kittehheart1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18503/1.0
-- name: kittehcup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18502/1.0
-- name: kittehheart2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18504/1.0
 - name: kittehglaring
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18505/1.0
-- name: kittehdead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25309/1.0
-- name: kittehninja
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25310/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78765/1.0
+- name: kittehhatter
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78763/1.0
+- name: kittehheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78761/1.0
+- name: kittehcup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78759/1.0

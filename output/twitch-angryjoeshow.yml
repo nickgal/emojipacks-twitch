@@ -19,14 +19,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/9455/1.0
 - name: ajsflag
   src: https://static-cdn.jtvnw.net/emoticons/v1/9454/1.0
-- name: ajsderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9452/1.0
 - name: ajscorp
   src: https://static-cdn.jtvnw.net/emoticons/v1/9451/1.0
 - name: ajswtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/9459/1.0
-- name: ajscool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9450/1.0
 - name: ajsseal
   src: https://static-cdn.jtvnw.net/emoticons/v1/9458/1.0
 - name: ajsrage
@@ -37,3 +33,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41290/1.0
 - name: ajsdel
   src: https://static-cdn.jtvnw.net/emoticons/v1/41291/1.0
+- name: ajshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78529/1.0
+- name: ajsrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78530/1.0
+- name: ajsship
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78531/1.0
+- name: ajsfire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78533/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - the8bitdrummer
 emojis:
+- name: the8bitr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78138/1.0
 - name: the8bitbreaktime
   src: https://static-cdn.jtvnw.net/emoticons/v1/59771/1.0
 - name: the8bitheart
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60368/1.0
 - name: the8bitgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/63182/1.0
+- name: the8bitl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78137/1.0

@@ -1,5 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - ferdinandnl
 emojis:
+- name: ferdnlparlay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78807/1.0
 - name: ferdnlkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/72111/1.0
+- name: ferdnlrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78816/1.0

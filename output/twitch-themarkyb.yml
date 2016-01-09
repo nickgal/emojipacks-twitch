@@ -1,9 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - themarkyb
 emojis:
-- name: markyangry
+- name: markybangry
   src: https://static-cdn.jtvnw.net/emoticons/v1/14649/1.0
-- name: markylogo
+- name: markyblogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/23669/1.0
-- name: markybface
+- name: markybtroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/9810/1.0
+- name: markybmbyt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78378/1.0

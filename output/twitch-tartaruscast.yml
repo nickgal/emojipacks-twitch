@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - tartaruscast
 emojis:
+- name: tarcdimitri
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78216/1.0
 - name: tarctcj
   src: https://static-cdn.jtvnw.net/emoticons/v1/75443/1.0
 - name: tarcfanboys
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77651/1.0
 - name: tarcbias
   src: https://static-cdn.jtvnw.net/emoticons/v1/77657/1.0
+- name: tarcsunny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78536/1.0

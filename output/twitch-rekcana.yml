@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45234/1.0
 - name: rekaim
   src: https://static-cdn.jtvnw.net/emoticons/v1/65744/1.0
-- name: rekcarried
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65745/1.0
 - name: rekhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/65746/1.0
 - name: reklove
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65749/1.0
 - name: rekrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/65750/1.0
+- name: rekread
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78978/1.0

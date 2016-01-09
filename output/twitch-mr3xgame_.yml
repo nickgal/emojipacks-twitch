@@ -11,7 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60245/1.0
 - name: mr3gg
   src: https://static-cdn.jtvnw.net/emoticons/v1/60248/1.0
+- name: mr3fail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78132/1.0
 - name: mr3waw
   src: https://static-cdn.jtvnw.net/emoticons/v1/73865/1.0
 - name: mr3sad
   src: https://static-cdn.jtvnw.net/emoticons/v1/74338/1.0
+- name: mr3oh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78963/1.0
+- name: mr3pigeon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78965/1.0

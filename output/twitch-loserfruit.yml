@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - loserfruit
 emojis:
+- name: fruitlemon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78324/1.0
+- name: fruitau
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78326/1.0
 - name: fruitsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/16273/1.0
 - name: fruitlurk
@@ -9,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75938/1.0
 - name: fruitwow
   src: https://static-cdn.jtvnw.net/emoticons/v1/75932/1.0
-- name: fruitaus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75933/1.0
 - name: fruithey
   src: https://static-cdn.jtvnw.net/emoticons/v1/43584/1.0
 - name: fruitopia
@@ -21,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76033/1.0
 - name: fruitgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/76031/1.0
+- name: fruitderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78832/1.0
+- name: fruitknees
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78323/1.0
+- name: fruitfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78321/1.0
+- name: fruitpunch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78834/1.0

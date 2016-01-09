@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - linkxlol
 emojis:
+- name: linkxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79071/1.0
 - name: linkxp
   src: https://static-cdn.jtvnw.net/emoticons/v1/53751/1.0
 - name: linkxs

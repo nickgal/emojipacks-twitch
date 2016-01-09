@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - lostovalex
 emojis:
+- name: lostovhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79091/1.0
+- name: lostov310
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79092/1.0
 - name: lostovsecret
   src: https://static-cdn.jtvnw.net/emoticons/v1/65557/1.0
 - name: lostovw

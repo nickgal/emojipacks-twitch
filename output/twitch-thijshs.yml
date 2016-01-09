@@ -1,12 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - thijshs
 emojis:
+- name: thijstree
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78776/1.0
 - name: thijskappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/20727/1.0
 - name: thijsw
   src: https://static-cdn.jtvnw.net/emoticons/v1/41620/1.0
-- name: thijssalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41641/1.0
 - name: thijshello
   src: https://static-cdn.jtvnw.net/emoticons/v1/72904/1.0
 - name: thijsnlt

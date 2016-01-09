@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - rinnieriot
 emojis:
+- name: rriotscream
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79073/1.0
 - name: rriothi
   src: https://static-cdn.jtvnw.net/emoticons/v1/47507/1.0
-- name: rriotkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32437/1.0
 - name: rriotdoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/32436/1.0
 - name: rriotpantsu
@@ -15,5 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41076/1.0
 - name: rriotthirst
   src: https://static-cdn.jtvnw.net/emoticons/v1/39991/1.0
-- name: rriotkiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39992/1.0
+- name: rriotblush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78872/1.0

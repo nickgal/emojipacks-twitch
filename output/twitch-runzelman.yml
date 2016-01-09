@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - runzelman
 emojis:
+- name: inconbronze
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78334/1.0
 - name: inconfine
   src: https://static-cdn.jtvnw.net/emoticons/v1/68024/1.0
 - name: inconbait

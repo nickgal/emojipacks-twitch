@@ -9,6 +9,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70351/1.0
 - name: bnskappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/69332/1.0
+- name: bnsmoly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78415/1.0
 - name: bnsgj
   src: https://static-cdn.jtvnw.net/emoticons/v1/65796/1.0
 - name: bnsomg
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67335/1.0
 - name: bnsm
   src: https://static-cdn.jtvnw.net/emoticons/v1/68709/1.0
+- name: bnsholy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/78416/1.0
