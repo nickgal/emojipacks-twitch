@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - cdewx
 emojis:
+- name: dewenergy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79340/1.0
+- name: dewvod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79341/1.0
 - name: dewpleb
   src: https://static-cdn.jtvnw.net/emoticons/v1/52619/1.0
 - name: dewtrig
@@ -33,10 +37,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73505/1.0
 - name: dewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/77219/1.0
-- name: dewold
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77220/1.0
-- name: dewcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77221/1.0
 - name: dewwashed
   src: https://static-cdn.jtvnw.net/emoticons/v1/77222/1.0
 - name: dewlove

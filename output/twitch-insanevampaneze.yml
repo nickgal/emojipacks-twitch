@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - insanevampaneze
 emojis:
-- name: vampsquad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33538/1.0
 - name: vamphype
   src: https://static-cdn.jtvnw.net/emoticons/v1/37387/1.0
 - name: vampcri
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61712/1.0
 - name: vampfan
   src: https://static-cdn.jtvnw.net/emoticons/v1/61584/1.0
+- name: vampsquad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79308/1.0

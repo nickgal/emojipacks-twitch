@@ -1,13 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - freezingwolves
 emojis:
-- name: freezingcrossbar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78596/1.0
-- name: freezingorange
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78861/1.0
+- name: freezingsave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79335/1.0
+- name: freezinggasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79321/1.0
 - name: freezingblue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78860/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79322/1.0
 - name: freezingot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79029/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79356/1.0
 - name: freezingmvp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79027/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79355/1.0
+- name: freezingorange
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79353/1.0
+- name: freezingbrazil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79329/1.0
+- name: freezingtrophy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79330/1.0
+- name: freezingcrossbar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79331/1.0

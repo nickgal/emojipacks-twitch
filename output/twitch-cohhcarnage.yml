@@ -45,8 +45,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33605/1.0
 - name: cohhgv
   src: https://static-cdn.jtvnw.net/emoticons/v1/32756/1.0
-- name: cohhsanta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75096/1.0
 - name: cohhh
   src: https://static-cdn.jtvnw.net/emoticons/v1/55337/1.0
 - name: cohhderp
@@ -81,10 +79,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74059/1.0
 - name: cohhby
   src: https://static-cdn.jtvnw.net/emoticons/v1/74056/1.0
-- name: cohhr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71352/1.0
-- name: cohhrobot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72699/1.0
 - name: cohhlol
   src: https://static-cdn.jtvnw.net/emoticons/v1/74344/1.0
 - name: cohhomg
@@ -101,3 +95,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74352/1.0
 - name: cohhhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/74353/1.0
+- name: cohhhue
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79499/1.0
+- name: cohhscum
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79501/1.0
+- name: cohhr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79502/1.0

@@ -13,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35874/1.0
 - name: oshdsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/52633/1.0
+- name: oshdsalut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79465/1.0
+- name: oshdfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79395/1.0

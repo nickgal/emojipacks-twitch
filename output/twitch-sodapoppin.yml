@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - sodapoppin
 emojis:
 - name: sodamicmuted
   src: https://static-cdn.jtvnw.net/emoticons/v1/1073/1.0
-- name: sodahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10194/1.0
 - name: sodag
   src: https://static-cdn.jtvnw.net/emoticons/v1/4234/1.0
 - name: sodads
@@ -91,3 +89,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63948/1.0
 - name: sodawut
   src: https://static-cdn.jtvnw.net/emoticons/v1/68375/1.0
+- name: sodagf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79299/1.0

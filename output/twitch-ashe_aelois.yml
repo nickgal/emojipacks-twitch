@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51242/1.0
 - name: aeloisbleach
   src: https://static-cdn.jtvnw.net/emoticons/v1/53548/1.0
-- name: aeloisnidalee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58292/1.0
 - name: aeloishello
   src: https://static-cdn.jtvnw.net/emoticons/v1/73649/1.0
 - name: aeloisknees
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69679/1.0
 - name: aeloislove
   src: https://static-cdn.jtvnw.net/emoticons/v1/69678/1.0
+- name: aeloisthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79300/1.0

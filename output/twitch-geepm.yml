@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - geepm
 emojis:
+- name: gpmkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79190/1.0
 - name: gpmriku
   src: https://static-cdn.jtvnw.net/emoticons/v1/78752/1.0
 - name: gpmdog
   src: https://static-cdn.jtvnw.net/emoticons/v1/78770/1.0
+- name: gpmapple
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79617/1.0

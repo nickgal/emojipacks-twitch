@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - coldsidetv
 emojis:
-- name: coldsidekey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76940/1.0
 - name: coldsidesal
   src: https://static-cdn.jtvnw.net/emoticons/v1/64661/1.0
 - name: coldsided
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64429/1.0
 - name: coldsidepray
   src: https://static-cdn.jtvnw.net/emoticons/v1/64318/1.0
+- name: coldsidekey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79568/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - letofski
 emojis:
 - name: leto1
   src: https://static-cdn.jtvnw.net/emoticons/v1/62568/1.0
-- name: letolion
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29094/1.0
 - name: letopun
   src: https://static-cdn.jtvnw.net/emoticons/v1/78134/1.0
 - name: letokeksnek
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62567/1.0
 - name: letosneksy
   src: https://static-cdn.jtvnw.net/emoticons/v1/73725/1.0
+- name: letosnekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79281/1.0

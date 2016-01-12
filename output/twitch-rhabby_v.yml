@@ -5,14 +5,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72947/1.0
 - name: rhabsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/71505/1.0
-- name: rhabross
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71510/1.0
 - name: rhabpls
   src: https://static-cdn.jtvnw.net/emoticons/v1/71416/1.0
 - name: rhabrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/71405/1.0
 - name: rhabhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71406/1.0
+- name: rhabtry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79235/1.0
+- name: rhabbsk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79236/1.0
 - name: rhabrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/78448/1.0
 - name: rhablove

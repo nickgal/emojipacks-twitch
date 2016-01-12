@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - nilesy
 emojis:
+- name: nilesygrump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79337/1.0
 - name: nilesyzylus
   src: https://static-cdn.jtvnw.net/emoticons/v1/68009/1.0
 - name: nilesyboat

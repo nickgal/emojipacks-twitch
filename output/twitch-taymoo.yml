@@ -3,16 +3,12 @@ title: Twitch Subscriber Emotes - taymoo
 emojis:
 - name: taymoothump
   src: https://static-cdn.jtvnw.net/emoticons/v1/34569/1.0
-- name: taymoowink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34564/1.0
 - name: taymooripears
   src: https://static-cdn.jtvnw.net/emoticons/v1/34553/1.0
 - name: taymoow
   src: https://static-cdn.jtvnw.net/emoticons/v1/34563/1.0
 - name: taymoolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/37229/1.0
-- name: taymooo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51017/1.0
 - name: taymoowut
   src: https://static-cdn.jtvnw.net/emoticons/v1/63244/1.0
 - name: taymoomoo
@@ -21,3 +17,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63245/1.0
 - name: taymoohs
   src: https://static-cdn.jtvnw.net/emoticons/v1/63243/1.0
+- name: taymoopraise
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79460/1.0
+- name: taymoohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79454/1.0
+- name: taymoohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79455/1.0
+- name: taymoofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79456/1.0
+- name: taymoocrazy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79457/1.0
+- name: taymoorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79458/1.0
+- name: taymoowink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79459/1.0

@@ -1,18 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - bytenser
 emojis:
-- name: tenserlit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60903/1.0
-- name: tensersnapback
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60037/1.0
 - name: tenserrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/66840/1.0
-- name: tenserhoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58662/1.0
 - name: tensersub
   src: https://static-cdn.jtvnw.net/emoticons/v1/73906/1.0
 - name: tenserkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/73547/1.0
+- name: tenserbucko
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79303/1.0
+- name: tenserlit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79304/1.0
 - name: tenseranotherone
   src: https://static-cdn.jtvnw.net/emoticons/v1/79042/1.0
 - name: tenserfake

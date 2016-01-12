@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - jasminalin
 emojis:
 - name: jasderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/73785/1.0
-- name: jasknee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73786/1.0
 - name: jasgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/73895/1.0
 - name: jastilt
@@ -13,7 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73978/1.0
 - name: jashi
   src: https://static-cdn.jtvnw.net/emoticons/v1/75394/1.0
-- name: jasrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75395/1.0
 - name: jaslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/75393/1.0
+- name: jasouo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79630/1.0
+- name: jasknee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79631/1.0

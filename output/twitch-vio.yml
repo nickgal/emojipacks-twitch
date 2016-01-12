@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - vio
 emojis:
+- name: violost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79344/1.0
 - name: viohi
   src: https://static-cdn.jtvnw.net/emoticons/v1/77365/1.0
 - name: violove
@@ -15,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78052/1.0
 - name: vioone
   src: https://static-cdn.jtvnw.net/emoticons/v1/77223/1.0
-- name: violost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78205/1.0
 - name: viopls
   src: https://static-cdn.jtvnw.net/emoticons/v1/77226/1.0
 - name: viogasm

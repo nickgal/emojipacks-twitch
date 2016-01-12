@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/18454/1.0
 - name: aimzbopbop
   src: https://static-cdn.jtvnw.net/emoticons/v1/20591/1.0
-- name: aimzgoat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20593/1.0
 - name: aimzgiraffe
   src: https://static-cdn.jtvnw.net/emoticons/v1/27613/1.0
 - name: aimzggnore
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30954/1.0
 - name: aimzheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/55523/1.0
+- name: aimzpup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79418/1.0

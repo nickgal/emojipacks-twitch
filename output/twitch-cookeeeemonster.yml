@@ -5,10 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53712/1.0
 - name: cookeelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/70896/1.0
-- name: cookeejohn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44863/1.0
-- name: cookeecute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77690/1.0
 - name: cookeefail
   src: https://static-cdn.jtvnw.net/emoticons/v1/53710/1.0
 - name: cookeerage
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72326/1.0
 - name: cookeenot
   src: https://static-cdn.jtvnw.net/emoticons/v1/72327/1.0
+- name: cookeecute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79500/1.0
+- name: cookeefive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79504/1.0

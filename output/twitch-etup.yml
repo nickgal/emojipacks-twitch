@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - etup
 emojis:
 - name: etupgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/57321/1.0
-- name: etupsleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13494/1.0
 - name: etuprmt
   src: https://static-cdn.jtvnw.net/emoticons/v1/25750/1.0
 - name: etup1
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48109/1.0
 - name: etupchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/68748/1.0
+- name: etupcrab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79372/1.0

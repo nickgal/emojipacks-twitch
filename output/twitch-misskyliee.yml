@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/9716/1.0
 - name: kyliehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/17025/1.0
-- name: kylierekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17079/1.0
 - name: kylieheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/17078/1.0
 - name: kyliepaw
@@ -29,5 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48842/1.0
 - name: kylieporo
   src: https://static-cdn.jtvnw.net/emoticons/v1/48841/1.0
+- name: kylierekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79626/1.0
 - name: kylierupee
   src: https://static-cdn.jtvnw.net/emoticons/v1/79001/1.0

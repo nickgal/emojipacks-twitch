@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30669/1.0
 - name: thanehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/30668/1.0
-- name: thanekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34981/1.0
 - name: thanelogic
   src: https://static-cdn.jtvnw.net/emoticons/v1/43714/1.0
 - name: thanew
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60607/1.0
 - name: thanetlupa
   src: https://static-cdn.jtvnw.net/emoticons/v1/60608/1.0
+- name: thanedd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79640/1.0

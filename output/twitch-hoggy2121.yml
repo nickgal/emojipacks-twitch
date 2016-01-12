@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - hoggy2121
 emojis:
 - name: hogfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/76720/1.0
+- name: hoglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79232/1.0
 - name: hogpump
   src: https://static-cdn.jtvnw.net/emoticons/v1/78250/1.0
 - name: hogrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/78251/1.0
 - name: hogup
   src: https://static-cdn.jtvnw.net/emoticons/v1/76718/1.0
+- name: hoghi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79469/1.0

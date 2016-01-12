@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/17645/1.0
 - name: nickichu
   src: https://static-cdn.jtvnw.net/emoticons/v1/17644/1.0
-- name: nickiporo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17966/1.0
 - name: nickiyasjinx
   src: https://static-cdn.jtvnw.net/emoticons/v1/30921/1.0
 - name: nickisona
@@ -21,9 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47197/1.0
 - name: nickihuo
   src: https://static-cdn.jtvnw.net/emoticons/v1/59149/1.0
+- name: nickidat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79227/1.0
+- name: nickiheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79229/1.0
 - name: nickigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/77232/1.0
 - name: nickilux
   src: https://static-cdn.jtvnw.net/emoticons/v1/77233/1.0
 - name: nickislurp
   src: https://static-cdn.jtvnw.net/emoticons/v1/77234/1.0
+- name: nickized
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79435/1.0

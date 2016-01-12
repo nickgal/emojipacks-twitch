@@ -1,9 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - removehs
 emojis:
-- name: removehic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79077/1.0
 - name: removehid
   src: https://static-cdn.jtvnw.net/emoticons/v1/79079/1.0
+- name: removehic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79206/1.0
 - name: removehia
   src: https://static-cdn.jtvnw.net/emoticons/v1/77087/1.0
+- name: removehib
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79432/1.0

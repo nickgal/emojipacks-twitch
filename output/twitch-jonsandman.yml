@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - jonsandman
 emojis:
-- name: sandmanoh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25985/1.0
 - name: sandmanrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/25929/1.0
 - name: sandmanshot
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70549/1.0
 - name: sandmanhey5
   src: https://static-cdn.jtvnw.net/emoticons/v1/70550/1.0
+- name: sandmanarmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79498/1.0

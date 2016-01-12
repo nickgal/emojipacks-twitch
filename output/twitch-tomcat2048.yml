@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - tomcat2048
 emojis:
+- name: tomcatrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79350/1.0
 - name: tomcatlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/73100/1.0
 - name: tomcatfail
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73372/1.0
 - name: tomcatderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/73468/1.0
+- name: tomcatbait
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79349/1.0
