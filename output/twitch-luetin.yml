@@ -5,7 +5,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46154/1.0
 - name: lut1110
   src: https://static-cdn.jtvnw.net/emoticons/v1/46844/1.0
-- name: luthype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74525/1.0
 - name: lutocd
   src: https://static-cdn.jtvnw.net/emoticons/v1/74526/1.0
+- name: luthype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79758/1.0
+- name: lutrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79759/1.0
+- name: lutics
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79761/1.0

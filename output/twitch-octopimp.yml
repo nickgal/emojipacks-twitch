@@ -1,9 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - octopimp
 emojis:
-- name: octohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64029/1.0
 - name: octosalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/60088/1.0
 - name: octospaget
   src: https://static-cdn.jtvnw.net/emoticons/v1/66400/1.0
+- name: octohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79742/1.0

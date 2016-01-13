@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mazarin1k
 emojis:
-- name: mazaswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15008/1.0
-- name: mazahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19645/1.0
 - name: mazafail
   src: https://static-cdn.jtvnw.net/emoticons/v1/32912/1.0
-- name: mazaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45798/1.0
 - name: mazawat
   src: https://static-cdn.jtvnw.net/emoticons/v1/58908/1.0
-- name: mazahectic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79555/1.0
 - name: mazazid
   src: https://static-cdn.jtvnw.net/emoticons/v1/79557/1.0
 - name: mazao
   src: https://static-cdn.jtvnw.net/emoticons/v1/79559/1.0
+- name: mazabahno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79778/1.0
+- name: mazahectic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79779/1.0

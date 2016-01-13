@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - 2ggaming
 emojis:
+- name: twoggvoid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79625/1.0
 - name: twoggk9
   src: https://static-cdn.jtvnw.net/emoticons/v1/78480/1.0
 - name: twoggbothplayers

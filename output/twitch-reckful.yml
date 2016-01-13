@@ -5,12 +5,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/1383/1.0
 - name: reckhello
   src: https://static-cdn.jtvnw.net/emoticons/v1/20916/1.0
+- name: reckgl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79667/1.0
+- name: reckgr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79668/1.0
 - name: reckjew
   src: https://static-cdn.jtvnw.net/emoticons/v1/22957/1.0
 - name: reckfarmer
   src: https://static-cdn.jtvnw.net/emoticons/v1/24129/1.0
-- name: reckriot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24227/1.0
 - name: reckd
   src: https://static-cdn.jtvnw.net/emoticons/v1/1462/1.0
 - name: reckt

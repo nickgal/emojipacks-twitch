@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - nickbunyun
 emojis:
 - name: nickbunyun
   src: https://static-cdn.jtvnw.net/emoticons/v1/5890/1.0
-- name: nickbadguy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10459/1.0
 - name: nickbrownies
   src: https://static-cdn.jtvnw.net/emoticons/v1/10322/1.0
 - name: nickbro
@@ -33,3 +31,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44964/1.0
 - name: nickbkobe
   src: https://static-cdn.jtvnw.net/emoticons/v1/52135/1.0
+- name: nickbday
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79679/1.0
+- name: nickbrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79680/1.0
+- name: nickbvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79681/1.0
+- name: nickb110
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79682/1.0

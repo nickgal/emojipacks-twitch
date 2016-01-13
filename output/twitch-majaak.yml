@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - majaak
 emojis:
 - name: osapalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/76501/1.0
-- name: osarage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63141/1.0
 - name: osarip
   src: https://static-cdn.jtvnw.net/emoticons/v1/54545/1.0
 - name: osahype
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76686/1.0
 - name: osahehe
   src: https://static-cdn.jtvnw.net/emoticons/v1/79258/1.0
+- name: osawtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79771/1.0

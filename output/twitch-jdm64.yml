@@ -3,15 +3,17 @@ title: Twitch Subscriber Emotes - jdm64
 emojis:
 - name: jdmbet
   src: https://static-cdn.jtvnw.net/emoticons/v1/13500/1.0
-- name: jdmawp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13801/1.0
 - name: jdmbicep
   src: https://static-cdn.jtvnw.net/emoticons/v1/13869/1.0
-- name: jdmwhiff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23773/1.0
 - name: jdmafk
   src: https://static-cdn.jtvnw.net/emoticons/v1/26382/1.0
 - name: jdmkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26369/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79691/1.0
+- name: jdmwhiff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79692/1.0
+- name: jdmawp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79694/1.0
 - name: jdmlounge
   src: https://static-cdn.jtvnw.net/emoticons/v1/79525/1.0
+- name: jdmleg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79705/1.0

@@ -1,5 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - lefoubruiteur
 emojis:
+- name: lfbhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79571/1.0
 - name: lfbbobby
   src: https://static-cdn.jtvnw.net/emoticons/v1/79567/1.0
+- name: lfbbrubru
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79582/1.0
+- name: lfbmarsu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79763/1.0
