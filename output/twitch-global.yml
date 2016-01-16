@@ -123,6 +123,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/9803/1.0
 - name: kappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/25/1.0
+- name: kappablitz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80377/1.0
 - name: kappaclaus
   src: https://static-cdn.jtvnw.net/emoticons/v1/74510/1.0
 - name: kappapride
@@ -271,18 +273,34 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31/1.0
 - name: swiftrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/34/1.0
+- name: tba
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80379/1.0
 - name: tbbaconbiscuit
   src: https://static-cdn.jtvnw.net/emoticons/v1/44499/1.0
 - name: tbchickenbiscuit
   src: https://static-cdn.jtvnw.net/emoticons/v1/56879/1.0
+- name: tbdown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80371/1.0
+- name: tbleft
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80372/1.0
 - name: tbquesarito
   src: https://static-cdn.jtvnw.net/emoticons/v1/56883/1.0
+- name: tbright
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80374/1.0
 - name: tbsausagebiscuit
   src: https://static-cdn.jtvnw.net/emoticons/v1/56881/1.0
+- name: tbselect
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80375/1.0
 - name: tbspicy
   src: https://static-cdn.jtvnw.net/emoticons/v1/56882/1.0
 - name: tbsriracha
   src: https://static-cdn.jtvnw.net/emoticons/v1/56880/1.0
+- name: tbup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80370/1.0
+- name: tbx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80380/1.0
+- name: tby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80381/1.0
 - name: tf2john
   src: https://static-cdn.jtvnw.net/emoticons/v1/1899/1.0
 - name: theking
@@ -299,6 +317,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67/1.0
 - name: toospicy
   src: https://static-cdn.jtvnw.net/emoticons/v1/359/1.0
+- name: touchdownblitz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80378/1.0
 - name: trihard
   src: https://static-cdn.jtvnw.net/emoticons/v1/171/1.0
 - name: ttours
