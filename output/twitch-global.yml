@@ -273,8 +273,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31/1.0
 - name: swiftrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/34/1.0
-- name: tba
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80379/1.0
 - name: tbbaconbiscuit
   src: https://static-cdn.jtvnw.net/emoticons/v1/44499/1.0
 - name: tbchickenbiscuit
@@ -297,10 +295,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56880/1.0
 - name: tbup
   src: https://static-cdn.jtvnw.net/emoticons/v1/80370/1.0
-- name: tbx
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80380/1.0
-- name: tby
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80381/1.0
 - name: tf2john
   src: https://static-cdn.jtvnw.net/emoticons/v1/1899/1.0
 - name: theking
