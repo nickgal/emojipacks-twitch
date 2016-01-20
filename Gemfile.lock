@@ -8,7 +8,7 @@ GEM
       coderay (~> 1.1.0)
       method_source (~> 0.8.1)
       slop (~> 3.4)
-    rake (10.4.2)
+    rake (10.5.0)
     slop (3.6.0)
 
 PLATFORMS
@@ -21,4 +21,4 @@ DEPENDENCIES
   rake
 
 BUNDLED WITH
-   1.10.6
+   1.11.2
