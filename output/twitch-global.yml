@@ -153,6 +153,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/356/1.0
 - name: optimizeprime
   src: https://static-cdn.jtvnw.net/emoticons/v1/16/1.0
+- name: osfrog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81248/1.0
+- name: oskomodo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81273/1.0
+- name: ossloth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81249/1.0
 - name: panicbasket
   src: https://static-cdn.jtvnw.net/emoticons/v1/22998/1.0
 - name: panicvis
@@ -165,6 +171,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3412/1.0
 - name: permasmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/27509/1.0
+- name: petezaroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81243/1.0
+- name: petezarolltie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81244/1.0
 - name: picomause
   src: https://static-cdn.jtvnw.net/emoticons/v1/27/1.0
 - name: pipehype
@@ -257,6 +267,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71/1.0
 - name: vaultboy
   src: https://static-cdn.jtvnw.net/emoticons/v1/54090/1.0
+- name: vohiyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81274/1.0
 - name: volcania
   src: https://static-cdn.jtvnw.net/emoticons/v1/166/1.0
 - name: wholewheat
