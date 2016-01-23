@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - bibaboy
 emojis:
+- name: bibaschlips
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81100/1.0
 - name: bibaheadset
   src: https://static-cdn.jtvnw.net/emoticons/v1/23099/1.0
 - name: bibasucks

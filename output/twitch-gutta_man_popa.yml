@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - gutta_man_popa
 emojis:
+- name: guttad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80543/1.0
+- name: guttacmon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80519/1.0
 - name: guttaneck
   src: https://static-cdn.jtvnw.net/emoticons/v1/68042/1.0
 - name: guttahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68658/1.0
-- name: guttaskriddle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68660/1.0
-- name: guttarage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70729/1.0
-- name: guttaready
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70733/1.0
+- name: guttalit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80956/1.0
+- name: guttaha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80957/1.0
+- name: gutta3ball
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80836/1.0
+- name: guttagg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80838/1.0

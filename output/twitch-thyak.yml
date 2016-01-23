@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - thyak
 emojis:
-- name: thyakporky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14910/1.0
-- name: thyakkoreano
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14911/1.0
 - name: thyakretard
   src: https://static-cdn.jtvnw.net/emoticons/v1/14786/1.0
 - name: thyakpapa
@@ -15,5 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34537/1.0
 - name: thyaklee
   src: https://static-cdn.jtvnw.net/emoticons/v1/34567/1.0
-- name: thyakkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34913/1.0
+- name: thyaknlt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80392/1.0
+- name: thyakhermana
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80391/1.0

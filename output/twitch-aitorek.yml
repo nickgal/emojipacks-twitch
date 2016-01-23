@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - aitorek
 emojis:
+- name: aitorekkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79963/1.0
 - name: aitorekbuitre
   src: https://static-cdn.jtvnw.net/emoticons/v1/32942/1.0
 - name: aitorekomc
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48490/1.0
 - name: aitorektim
   src: https://static-cdn.jtvnw.net/emoticons/v1/73091/1.0
+- name: aitorekbicho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80518/1.0

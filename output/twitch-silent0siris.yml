@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - silent0siris
 emojis:
+- name: silent0blush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81452/1.0
 - name: silent0wtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/68181/1.0
 - name: silent0glee

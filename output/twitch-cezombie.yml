@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - cezombie
 emojis:
-- name: squidonesuck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16772/1.0
-- name: squidonejuice
+- name: onejuice
   src: https://static-cdn.jtvnw.net/emoticons/v1/15835/1.0
-- name: squidonemoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19050/1.0
-- name: squidoneuh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40523/1.0
-- name: squidonecry
+- name: onecry
   src: https://static-cdn.jtvnw.net/emoticons/v1/40641/1.0
-- name: squidonesoso
+- name: onesoso
   src: https://static-cdn.jtvnw.net/emoticons/v1/46480/1.0
-- name: squidonebad
+- name: onebad
   src: https://static-cdn.jtvnw.net/emoticons/v1/47288/1.0
-- name: squidoneshutup
+- name: oneshutup
   src: https://static-cdn.jtvnw.net/emoticons/v1/48562/1.0
+- name: onefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81341/1.0

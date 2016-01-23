@@ -1,5 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - citystream
 emojis:
+- name: cityrave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81043/1.0
+- name: citymortimer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80520/1.0
 - name: citybeep
   src: https://static-cdn.jtvnw.net/emoticons/v1/78929/1.0
+- name: citymoon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81042/1.0

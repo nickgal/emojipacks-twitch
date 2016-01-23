@@ -3,18 +3,26 @@ title: Twitch Subscriber Emotes - eatmydiction1
 emojis:
 - name: dicmarla
   src: https://static-cdn.jtvnw.net/emoticons/v1/4676/1.0
+- name: diccat3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81423/1.0
 - name: dicswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/13398/1.0
-- name: dickaty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23449/1.0
 - name: dicsass
   src: https://static-cdn.jtvnw.net/emoticons/v1/23448/1.0
-- name: dichype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34914/1.0
+- name: diccat2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81422/1.0
+- name: dicwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81419/1.0
+- name: diccat1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81420/1.0
+- name: diccheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81418/1.0
+- name: dicgodlike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81417/1.0
+- name: dicbut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81416/1.0
 - name: dichug
   src: https://static-cdn.jtvnw.net/emoticons/v1/36147/1.0
-- name: dicrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60794/1.0
 - name: dicfist
   src: https://static-cdn.jtvnw.net/emoticons/v1/60784/1.0
 - name: dickappa
@@ -31,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60795/1.0
 - name: dicgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/60796/1.0
+- name: dicdik
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81415/1.0

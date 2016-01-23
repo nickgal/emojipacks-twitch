@@ -11,6 +11,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44059/1.0
 - name: gphdog
   src: https://static-cdn.jtvnw.net/emoticons/v1/59799/1.0
+- name: gphbail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80070/1.0
 - name: gphrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/71810/1.0
 - name: gphchoke

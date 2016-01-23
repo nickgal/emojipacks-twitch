@@ -1,12 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - alientonx
 emojis:
-- name: alienhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72028/1.0
 - name: alienwah
   src: https://static-cdn.jtvnw.net/emoticons/v1/72030/1.0
 - name: aliencry
   src: https://static-cdn.jtvnw.net/emoticons/v1/72045/1.0
+- name: alienhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80187/1.0
 - name: aliengoose
   src: https://static-cdn.jtvnw.net/emoticons/v1/72109/1.0
 - name: alienlove

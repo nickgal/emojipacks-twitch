@@ -23,8 +23,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29827/1.0
 - name: cotyh
   src: https://static-cdn.jtvnw.net/emoticons/v1/59896/1.0
-- name: cotyglhf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33590/1.0
 - name: cotygg
   src: https://static-cdn.jtvnw.net/emoticons/v1/34005/1.0
 - name: cotysub
@@ -33,6 +31,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44800/1.0
 - name: cotyawk
   src: https://static-cdn.jtvnw.net/emoticons/v1/44797/1.0
+- name: cotynt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80408/1.0
 - name: cotydank
   src: https://static-cdn.jtvnw.net/emoticons/v1/57021/1.0
 - name: cotyw

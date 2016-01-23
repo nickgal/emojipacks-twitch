@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - bbrgamer
 emojis:
-- name: bbrgamersmbosh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15403/1.0
-- name: bbrgamerhmdeyat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15884/1.0
-- name: bbrgamer3ade
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30343/1.0
-- name: bbrgamerdlh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30387/1.0
-- name: bbrgamerhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50716/1.0
 - name: bbrgamergg
   src: https://static-cdn.jtvnw.net/emoticons/v1/66737/1.0
+- name: bbrgamerhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80857/1.0
+- name: bbrgamerlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80858/1.0
+- name: bbrgamerlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80859/1.0

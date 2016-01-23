@@ -1,12 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - luminosity48
 emojis:
+- name: lumink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81045/1.0
 - name: lumins
   src: https://static-cdn.jtvnw.net/emoticons/v1/60671/1.0
 - name: luminhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/60670/1.0
 - name: luminmilk
   src: https://static-cdn.jtvnw.net/emoticons/v1/62938/1.0
+- name: luminn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81284/1.0
 - name: luminbaby
   src: https://static-cdn.jtvnw.net/emoticons/v1/60430/1.0
 - name: luminbsk

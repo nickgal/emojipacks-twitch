@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - huzzygames
 emojis:
+- name: huzzykappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80474/1.0
+- name: huzzyangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80473/1.0
 - name: huzzyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/68873/1.0
 - name: huzzysub

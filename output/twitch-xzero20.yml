@@ -1,9 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - xzero20
 emojis:
-- name: xzerohey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77352/1.0
+- name: xzeropog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81508/1.0
+- name: xzerotears
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81490/1.0
+- name: xzerorip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81491/1.0
 - name: xzeroup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77685/1.0
-- name: xzerolurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77353/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81492/1.0
+- name: xzerofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81148/1.0
+- name: xzerohey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81154/1.0
+- name: xzerolol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81150/1.0
+- name: xzerolub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81149/1.0

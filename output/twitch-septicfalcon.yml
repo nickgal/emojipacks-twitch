@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - septicfalcon
 emojis:
-- name: septrucka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79238/1.0
 - name: sepscream
   src: https://static-cdn.jtvnw.net/emoticons/v1/79237/1.0
 - name: seplove
   src: https://static-cdn.jtvnw.net/emoticons/v1/78692/1.0
 - name: seprekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/78694/1.0
+- name: septrucka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80553/1.0
+- name: seplegend
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80147/1.0
+- name: sephenry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80148/1.0

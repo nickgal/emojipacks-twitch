@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ninja
 emojis:
-- name: ninjahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61602/1.0
 - name: ninjaadore
   src: https://static-cdn.jtvnw.net/emoticons/v1/13588/1.0
 - name: ninjamindblown
@@ -13,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50090/1.0
 - name: ninjaclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/26915/1.0
-- name: ninjaarrow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70033/1.0
 - name: ninjaaim
   src: https://static-cdn.jtvnw.net/emoticons/v1/61966/1.0
 - name: ninjaoface
@@ -31,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64291/1.0
 - name: ninjapon
   src: https://static-cdn.jtvnw.net/emoticons/v1/64518/1.0
-- name: ninjafaith
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76046/1.0
 - name: ninjawelcome
   src: https://static-cdn.jtvnw.net/emoticons/v1/70671/1.0
 - name: ninjacash
@@ -41,3 +35,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70031/1.0
 - name: ninjasalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/70032/1.0
+- name: ninjakappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79912/1.0
+- name: ninjafcm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79913/1.0
+- name: ninjagg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79914/1.0

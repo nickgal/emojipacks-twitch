@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - pydrex
 emojis:
-- name: pydb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78809/1.0
 - name: pydisco
   src: https://static-cdn.jtvnw.net/emoticons/v1/26053/1.0
 - name: pyd8
@@ -17,7 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35956/1.0
 - name: pydr
   src: https://static-cdn.jtvnw.net/emoticons/v1/46863/1.0
-- name: pydh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78810/1.0
 - name: pydf
   src: https://static-cdn.jtvnw.net/emoticons/v1/78783/1.0

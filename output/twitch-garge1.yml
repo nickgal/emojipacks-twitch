@@ -3,15 +3,11 @@ title: Twitch Subscriber Emotes - garge1
 emojis:
 - name: gargeretu
   src: https://static-cdn.jtvnw.net/emoticons/v1/18141/1.0
-- name: gargekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25986/1.0
 - name: gargefail
   src: https://static-cdn.jtvnw.net/emoticons/v1/25988/1.0
 - name: gargehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/27658/1.0
 - name: gargerage
   src: https://static-cdn.jtvnw.net/emoticons/v1/27657/1.0
-- name: gargejumala
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27895/1.0
-- name: gargedna
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28014/1.0
+- name: gargedoom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80173/1.0

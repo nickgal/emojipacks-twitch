@@ -31,6 +31,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60169/1.0
 - name: slinsuck
   src: https://static-cdn.jtvnw.net/emoticons/v1/68240/1.0
+- name: slin1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80093/1.0
+- name: slin2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80094/1.0
+- name: slin3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80095/1.0
+- name: slin4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80097/1.0
 - name: slinrg
   src: https://static-cdn.jtvnw.net/emoticons/v1/68618/1.0
 - name: slinv

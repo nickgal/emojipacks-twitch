@@ -1,8 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - cutenaomi
 emojis:
+- name: naehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81311/1.0
 - name: naelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52567/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81310/1.0
 - name: naecreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/53207/1.0
 - name: naegasm

@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37972/1.0
 - name: yummirage
   src: https://static-cdn.jtvnw.net/emoticons/v1/37444/1.0
-- name: yummisub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37315/1.0
 - name: yummitrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/41295/1.0
 - name: yummikappa
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78616/1.0
 - name: yummiside
   src: https://static-cdn.jtvnw.net/emoticons/v1/78617/1.0
+- name: yummihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80801/1.0

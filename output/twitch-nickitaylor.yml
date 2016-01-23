@@ -1,16 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - nickitaylor
 emojis:
-- name: nickisingvi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17544/1.0
 - name: nickinira
   src: https://static-cdn.jtvnw.net/emoticons/v1/17624/1.0
 - name: nickichibi
   src: https://static-cdn.jtvnw.net/emoticons/v1/17645/1.0
 - name: nickichu
   src: https://static-cdn.jtvnw.net/emoticons/v1/17644/1.0
-- name: nickiyasjinx
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30921/1.0
 - name: nickisona
   src: https://static-cdn.jtvnw.net/emoticons/v1/44135/1.0
 - name: nickiscarf
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77234/1.0
 - name: nickized
   src: https://static-cdn.jtvnw.net/emoticons/v1/79435/1.0
+- name: nickivi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79908/1.0
+- name: nickijinx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80829/1.0

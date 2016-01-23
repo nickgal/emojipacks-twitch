@@ -5,6 +5,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27408/1.0
 - name: runjesus
   src: https://static-cdn.jtvnw.net/emoticons/v1/26145/1.0
+- name: rungo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81540/1.0
+- name: runbin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81539/1.0
 - name: runsmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/35549/1.0
 - name: runmoney

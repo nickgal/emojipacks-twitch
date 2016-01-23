@@ -3,7 +3,13 @@ title: Twitch Subscriber Emotes - dgminise
 emojis:
 - name: minisekappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/76890/1.0
+- name: minisedrewno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80002/1.0
+- name: minisecios
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80000/1.0
 - name: minisetutorial
   src: https://static-cdn.jtvnw.net/emoticons/v1/76898/1.0
 - name: minisetoxic
   src: https://static-cdn.jtvnw.net/emoticons/v1/76889/1.0
+- name: minisejoker
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80127/1.0

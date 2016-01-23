@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52619/1.0
 - name: dewtrig
   src: https://static-cdn.jtvnw.net/emoticons/v1/75787/1.0
-- name: dewdream
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31301/1.0
 - name: dewwhip
   src: https://static-cdn.jtvnw.net/emoticons/v1/33494/1.0
 - name: deww
@@ -33,11 +31,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57728/1.0
 - name: dewyo
   src: https://static-cdn.jtvnw.net/emoticons/v1/65343/1.0
-- name: dewseems
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73505/1.0
 - name: dewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/77219/1.0
 - name: dewwashed
   src: https://static-cdn.jtvnw.net/emoticons/v1/77222/1.0
 - name: dewlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/77925/1.0
+- name: dewroom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81098/1.0
+- name: dewg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81097/1.0

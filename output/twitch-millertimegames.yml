@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - millertimegames
 emojis:
+- name: mtgred
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81439/1.0
+- name: mtgblue
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81438/1.0
 - name: mtgglitch
   src: https://static-cdn.jtvnw.net/emoticons/v1/36856/1.0
 - name: mtgkappa

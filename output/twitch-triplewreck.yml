@@ -31,8 +31,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78007/1.0
 - name: tripleok
   src: https://static-cdn.jtvnw.net/emoticons/v1/62613/1.0
-- name: triplegud
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62614/1.0
 - name: triplec
   src: https://static-cdn.jtvnw.net/emoticons/v1/62615/1.0
 - name: tripledn
@@ -61,3 +59,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77922/1.0
 - name: triplelg
   src: https://static-cdn.jtvnw.net/emoticons/v1/77923/1.0
+- name: triplelit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80692/1.0

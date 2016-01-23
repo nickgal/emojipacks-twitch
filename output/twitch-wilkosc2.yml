@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - wilkosc2
 emojis:
-- name: wilklewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44077/1.0
 - name: wilkqq
   src: https://static-cdn.jtvnw.net/emoticons/v1/46824/1.0
 - name: wilklove
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58255/1.0
 - name: wilkdoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/78333/1.0
+- name: wilkbee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80805/1.0

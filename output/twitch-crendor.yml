@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - crendor
 emojis:
 - name: crendorchicken
   src: https://static-cdn.jtvnw.net/emoticons/v1/2531/1.0
-- name: crendorwhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2714/1.0
 - name: crendornerd
   src: https://static-cdn.jtvnw.net/emoticons/v1/2873/1.0
 - name: crendorskittles
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45600/1.0
 - name: crendorreally
   src: https://static-cdn.jtvnw.net/emoticons/v1/68486/1.0
+- name: crendorf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80266/1.0

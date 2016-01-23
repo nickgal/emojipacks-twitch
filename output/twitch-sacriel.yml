@@ -29,8 +29,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44767/1.0
 - name: sacmvp
   src: https://static-cdn.jtvnw.net/emoticons/v1/44781/1.0
-- name: sacnext
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50826/1.0
 - name: sacsmooth
   src: https://static-cdn.jtvnw.net/emoticons/v1/50827/1.0
 - name: sacomg
@@ -51,3 +49,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56211/1.0
 - name: sacwub
   src: https://static-cdn.jtvnw.net/emoticons/v1/56212/1.0
+- name: sacdog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80544/1.0

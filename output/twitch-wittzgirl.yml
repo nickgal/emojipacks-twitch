@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - wittzgirl
 emojis:
+- name: renaebutts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80216/1.0
 - name: renaefight
   src: https://static-cdn.jtvnw.net/emoticons/v1/45641/1.0
 - name: renaehype
@@ -21,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64116/1.0
 - name: renaepls
   src: https://static-cdn.jtvnw.net/emoticons/v1/78546/1.0
+- name: renaewave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80670/1.0
+- name: renaepetch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80654/1.0
+- name: renaerude
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81027/1.0
+- name: renaeworth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81028/1.0

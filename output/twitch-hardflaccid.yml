@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - hardflaccid
 emojis:
+- name: flaccidrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80882/1.0
 - name: flaccidjoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/67772/1.0
 - name: flaccidlove
@@ -12,4 +14,4 @@ emojis:
 - name: flaccid1
   src: https://static-cdn.jtvnw.net/emoticons/v1/78565/1.0
 - name: flaccidturd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79440/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80959/1.0

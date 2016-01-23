@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - brandontan91
 emojis:
-- name: meowbuilder
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77955/1.0
-- name: meowlegend
+- name: bt91legend
   src: https://static-cdn.jtvnw.net/emoticons/v1/77622/1.0
+- name: bt91hype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80144/1.0
+- name: bt9169gem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80764/1.0
+- name: bt91pekchu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80559/1.0

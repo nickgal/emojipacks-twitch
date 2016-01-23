@@ -23,8 +23,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3689/1.0
 - name: sumabby
   src: https://static-cdn.jtvnw.net/emoticons/v1/4075/1.0
-- name: sumup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9918/1.0
 - name: sumstache
   src: https://static-cdn.jtvnw.net/emoticons/v1/68370/1.0
 - name: sumpotato
@@ -35,8 +33,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/14463/1.0
 - name: sumrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/17068/1.0
-- name: sumderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60614/1.0
 - name: sumcrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/61531/1.0
 - name: sumpuzzle
@@ -53,11 +49,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32284/1.0
 - name: sumrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/32285/1.0
-- name: sumthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32612/1.0
-- name: sum1gg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32613/1.0
 - name: sumswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/32614/1.0
 - name: sumpluto
   src: https://static-cdn.jtvnw.net/emoticons/v1/69298/1.0
+- name: sumderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81141/1.0
+- name: sumlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80958/1.0
+- name: sumfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80993/1.0
+- name: sumfood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80994/1.0
+- name: sumthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80995/1.0
+- name: sumup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80996/1.0
+- name: sumwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80998/1.0

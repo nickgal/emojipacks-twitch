@@ -47,6 +47,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47686/1.0
 - name: ceezgeeg
   src: https://static-cdn.jtvnw.net/emoticons/v1/52112/1.0
+- name: ceezbreathe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80085/1.0
 - name: ceeznfstronaut
   src: https://static-cdn.jtvnw.net/emoticons/v1/76138/1.0
 - name: ceezch
@@ -59,5 +61,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76135/1.0
 - name: ceezls
   src: https://static-cdn.jtvnw.net/emoticons/v1/77678/1.0
-- name: ceezth
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77679/1.0

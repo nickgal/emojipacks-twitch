@@ -3,5 +3,7 @@ title: Twitch Subscriber Emotes - bostossmc
 emojis:
 - name: singmcsing
   src: https://static-cdn.jtvnw.net/emoticons/v1/79134/1.0
+- name: singmcchicken
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80563/1.0
 - name: singmccat
   src: https://static-cdn.jtvnw.net/emoticons/v1/79551/1.0

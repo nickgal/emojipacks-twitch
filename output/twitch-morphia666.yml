@@ -9,11 +9,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37806/1.0
 - name: morphsvch
   src: https://static-cdn.jtvnw.net/emoticons/v1/44116/1.0
-- name: morphhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53683/1.0
-- name: morphlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53680/1.0
 - name: morphpep
   src: https://static-cdn.jtvnw.net/emoticons/v1/72673/1.0
-- name: morphkisa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72675/1.0
+- name: morphhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80735/1.0
+- name: morphwr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81002/1.0

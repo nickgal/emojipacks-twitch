@@ -53,8 +53,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46760/1.0
 - name: xansun
   src: https://static-cdn.jtvnw.net/emoticons/v1/13157/1.0
-- name: xanjeroen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46774/1.0
 - name: xan8ball
   src: https://static-cdn.jtvnw.net/emoticons/v1/17795/1.0
 - name: xanbulance
@@ -69,22 +67,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27157/1.0
 - name: xanwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/27159/1.0
-- name: xanpizza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26244/1.0
 - name: xanhusky
   src: https://static-cdn.jtvnw.net/emoticons/v1/26097/1.0
-- name: xandog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26092/1.0
 - name: xanderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/26107/1.0
-- name: xanele
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27600/1.0
-- name: xanno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27597/1.0
-- name: xanyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27598/1.0
-- name: xanplease
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27604/1.0
 - name: xantired
   src: https://static-cdn.jtvnw.net/emoticons/v1/27158/1.0
 - name: xanflex
@@ -99,3 +85,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/8124/1.0
 - name: xanright
   src: https://static-cdn.jtvnw.net/emoticons/v1/8125/1.0
+- name: xano
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80800/1.0

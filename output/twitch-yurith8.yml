@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - yurith8
 emojis:
+- name: yurithrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79959/1.0
 - name: yurithyo
   src: https://static-cdn.jtvnw.net/emoticons/v1/72304/1.0
 - name: yuritharmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/72305/1.0
+- name: yurithhifive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79958/1.0

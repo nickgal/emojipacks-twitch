@@ -13,10 +13,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/19163/1.0
 - name: lowcolost
   src: https://static-cdn.jtvnw.net/emoticons/v1/39226/1.0
-- name: lowcohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22553/1.0
 - name: lowcocry
   src: https://static-cdn.jtvnw.net/emoticons/v1/26418/1.0
+- name: lowcohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81535/1.0
 - name: lowcoclench
   src: https://static-cdn.jtvnw.net/emoticons/v1/32824/1.0
 - name: lowcoblush

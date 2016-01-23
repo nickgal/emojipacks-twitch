@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mcforcefield
 emojis:
+- name: kataklo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80167/1.0
 - name: katafist
   src: https://static-cdn.jtvnw.net/emoticons/v1/77739/1.0
 - name: kataten

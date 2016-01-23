@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38269/1.0
 - name: nevzchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/38267/1.0
-- name: nevzlied
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37709/1.0
 - name: nevzh
   src: https://static-cdn.jtvnw.net/emoticons/v1/38967/1.0
 - name: nevzhey
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54723/1.0
 - name: nevzten
   src: https://static-cdn.jtvnw.net/emoticons/v1/54630/1.0
+- name: nevzz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81404/1.0

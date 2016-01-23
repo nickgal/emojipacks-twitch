@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - morsrageng
 emojis:
-- name: morssleeper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25819/1.0
 - name: morswat
   src: https://static-cdn.jtvnw.net/emoticons/v1/25821/1.0
 - name: morsrage
@@ -11,5 +9,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27388/1.0
 - name: morsrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/28992/1.0
+- name: morsshame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81431/1.0
 - name: mors1
   src: https://static-cdn.jtvnw.net/emoticons/v1/48384/1.0

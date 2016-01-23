@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - h2p_gucio
 emojis:
-- name: gucioow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57299/1.0
-- name: guciook
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55534/1.0
-- name: gucioof
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55692/1.0
-- name: gucioog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60342/1.0
-- name: guciooff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60224/1.0
+- name: guciokrul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80871/1.0
+- name: guciokg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80873/1.0
+- name: guciomuteall
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80874/1.0
+- name: gucioff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80921/1.0
+- name: guciojg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80877/1.0
+- name: guciomiecz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80939/1.0

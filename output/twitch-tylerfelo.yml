@@ -1,6 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - tylerfelo
 emojis:
+- name: clgfunnel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81457/1.0
+- name: clgsubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81367/1.0
+- name: clgtrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81366/1.0
 - name: clghelicoptor
   src: https://static-cdn.jtvnw.net/emoticons/v1/77750/1.0
 - name: clgclgemote

@@ -1,24 +1,20 @@
 ---
 title: Twitch Subscriber Emotes - lebledart
 emojis:
-- name: mergueztop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25603/1.0
-- name: merguezlee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25604/1.0
-- name: merguezsuper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26778/1.0
+- name: merguezmiam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81170/1.0
+- name: mergueznieh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81039/1.0
+- name: merguezsheguey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81164/1.0
+- name: merguezselut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81196/1.0
 - name: merguezanas
   src: https://static-cdn.jtvnw.net/emoticons/v1/34938/1.0
 - name: merguezrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/34942/1.0
 - name: merguezsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/34941/1.0
-- name: merguezfrite
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34940/1.0
-- name: merguez3615
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34939/1.0
-- name: merguezboom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34985/1.0
 - name: merguezgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/34984/1.0
 - name: merguezmoney
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36412/1.0
 - name: merguezsaloupard
   src: https://static-cdn.jtvnw.net/emoticons/v1/36413/1.0
+- name: merguezrak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80725/1.0
+- name: merguezsnif
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81040/1.0

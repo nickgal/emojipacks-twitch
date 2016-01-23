@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - kuxir97
 emojis:
+- name: kuxpoints
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80066/1.0
+- name: kuxgreatpass
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80065/1.0
 - name: kux3style
   src: https://static-cdn.jtvnw.net/emoticons/v1/74367/1.0
 - name: kuxnoooo

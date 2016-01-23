@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/25996/1.0
 - name: dfieldxray
   src: https://static-cdn.jtvnw.net/emoticons/v1/29136/1.0
-- name: dfieldsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31710/1.0
 - name: dfieldrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/74951/1.0
 - name: dfieldgg
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75361/1.0
 - name: dfieldmum
   src: https://static-cdn.jtvnw.net/emoticons/v1/74922/1.0
+- name: dfieldfbm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80523/1.0

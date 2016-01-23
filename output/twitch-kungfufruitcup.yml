@@ -15,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/28582/1.0
 - name: kffcrawr
   src: https://static-cdn.jtvnw.net/emoticons/v1/32711/1.0
-- name: kffcface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38233/1.0
 - name: kffcnightmare
   src: https://static-cdn.jtvnw.net/emoticons/v1/46704/1.0
 - name: kffcderp
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52698/1.0
 - name: kffcgreatjob
   src: https://static-cdn.jtvnw.net/emoticons/v1/61707/1.0
+- name: kffccheese
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80697/1.0

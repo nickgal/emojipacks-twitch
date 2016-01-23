@@ -3,11 +3,15 @@ title: Twitch Subscriber Emotes - superzomgbbq
 emojis:
 - name: zomgnetwork
   src: https://static-cdn.jtvnw.net/emoticons/v1/79098/1.0
-- name: zomgsilverstar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79104/1.0
 - name: zomgukappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/78183/1.0
 - name: zomgthree
   src: https://static-cdn.jtvnw.net/emoticons/v1/78184/1.0
 - name: zomgjbgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/78185/1.0
+- name: zomghitman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80721/1.0
+- name: zomglimit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80522/1.0
+- name: zomgsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80722/1.0

@@ -2,6 +2,10 @@
 title: Twitch Subscriber Emotes - royalmail84
 emojis:
 - name: rmskappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57326/1.0
-- name: rmsbeard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72285/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79955/1.0
+- name: rmsrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79960/1.0
+- name: rmslemon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79957/1.0
+- name: rmsthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79956/1.0

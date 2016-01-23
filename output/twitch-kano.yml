@@ -3,8 +3,8 @@ title: Twitch Subscriber Emotes - kano
 emojis:
 - name: kanow
   src: https://static-cdn.jtvnw.net/emoticons/v1/77331/1.0
-- name: kanolewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77434/1.0
+- name: kanohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80424/1.0
 - name: kanohi
   src: https://static-cdn.jtvnw.net/emoticons/v1/77435/1.0
 - name: kanothump
@@ -15,3 +15,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79815/1.0
 - name: kanogasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/79816/1.0
+- name: kanozzz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81112/1.0
+- name: kanosara
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81133/1.0

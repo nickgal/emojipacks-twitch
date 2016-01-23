@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - mythixtrinity
 emojis:
 - name: trinihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/74322/1.0
+- name: trinirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81163/1.0
 - name: trinibender
   src: https://static-cdn.jtvnw.net/emoticons/v1/24971/1.0
 - name: trinimoxi
@@ -15,5 +17,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38752/1.0
 - name: triniponey
   src: https://static-cdn.jtvnw.net/emoticons/v1/77118/1.0
-- name: trinipink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77119/1.0

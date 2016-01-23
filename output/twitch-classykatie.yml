@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - classykatie
 emojis:
+- name: classykbeard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80227/1.0
+- name: classykhole
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80098/1.0
 - name: classykmu
   src: https://static-cdn.jtvnw.net/emoticons/v1/79683/1.0
 - name: classykgasm

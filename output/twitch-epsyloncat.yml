@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - epsyloncat
 emojis:
-- name: epsyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28578/1.0
 - name: epsyk
   src: https://static-cdn.jtvnw.net/emoticons/v1/28577/1.0
 - name: epsyp
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61535/1.0
 - name: epsygasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/62916/1.0
+- name: epsyc4s
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80274/1.0

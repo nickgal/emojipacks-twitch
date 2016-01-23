@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - thatchickparker
 emojis:
-- name: tcpfox
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22630/1.0
 - name: tcpherro
   src: https://static-cdn.jtvnw.net/emoticons/v1/26101/1.0
 - name: tcphype
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60393/1.0
 - name: tcpsquad
   src: https://static-cdn.jtvnw.net/emoticons/v1/60533/1.0
+- name: tcpfox
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80542/1.0

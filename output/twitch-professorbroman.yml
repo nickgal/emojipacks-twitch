@@ -11,6 +11,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72035/1.0
 - name: bowhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/72034/1.0
+- name: bowplz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80357/1.0
 - name: bowsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/66541/1.0
 - name: bowhype
@@ -21,20 +23,28 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46529/1.0
 - name: bowlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/48371/1.0
-- name: bowgotem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48370/1.0
 - name: bowrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/48368/1.0
 - name: bowgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/48369/1.0
 - name: bowsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/48354/1.0
+- name: bows
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80409/1.0
+- name: bowd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80410/1.0
+- name: bowt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80412/1.0
 - name: bowwaifu
   src: https://static-cdn.jtvnw.net/emoticons/v1/52684/1.0
 - name: bowlamow
   src: https://static-cdn.jtvnw.net/emoticons/v1/52685/1.0
 - name: bowdeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/52686/1.0
+- name: boww
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80414/1.0
+- name: bowb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80415/1.0
 - name: bowcireating
   src: https://static-cdn.jtvnw.net/emoticons/v1/74675/1.0
 - name: bowlogan

@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - cookcleankill
 emojis:
 - name: cckhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/53851/1.0
+- name: cckchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80265/1.0
 - name: ccklove
   src: https://static-cdn.jtvnw.net/emoticons/v1/56324/1.0
 - name: cckolive
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62564/1.0
 - name: cckno
   src: https://static-cdn.jtvnw.net/emoticons/v1/71427/1.0
+- name: cckshots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80267/1.0

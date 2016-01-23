@@ -31,6 +31,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79438/1.0
 - name: master1b
   src: https://static-cdn.jtvnw.net/emoticons/v1/79439/1.0
+- name: masterkc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79803/1.0
 - name: masterfdp
   src: https://static-cdn.jtvnw.net/emoticons/v1/79780/1.0
 - name: masterrs

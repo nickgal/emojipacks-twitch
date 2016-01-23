@@ -3,12 +3,20 @@ title: Twitch Subscriber Emotes - aphromoo
 emojis:
 - name: moomoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/3084/1.0
-- name: mooclggo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15210/1.0
-- name: mooguys
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51904/1.0
-- name: moohour
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51903/1.0
+- name: moof
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81313/1.0
+- name: moohey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81298/1.0
+- name: mooqq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81290/1.0
+- name: mooh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81291/1.0
+- name: moonom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80536/1.0
+- name: mooez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80537/1.0
+- name: mooq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80538/1.0
 - name: moofeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/74807/1.0
 - name: moow

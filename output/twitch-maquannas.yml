@@ -1,19 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - maquannas
 emojis:
-- name: maqriot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16021/1.0
 - name: maqlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/16022/1.0
+- name: maqicefrog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81193/1.0
 - name: maqhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/44518/1.0
-- name: maqthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44517/1.0
-- name: maqmiyu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44516/1.0
 - name: maqrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/44515/1.0
-- name: maqconfuse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44514/1.0
 - name: maqhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/44513/1.0
+- name: maqthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81041/1.0
+- name: maqgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81033/1.0

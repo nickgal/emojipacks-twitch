@@ -1,18 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - scottjund
 emojis:
-- name: jundladle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16210/1.0
 - name: junddad
   src: https://static-cdn.jtvnw.net/emoticons/v1/16458/1.0
 - name: jundparry
   src: https://static-cdn.jtvnw.net/emoticons/v1/16461/1.0
 - name: jundbread
   src: https://static-cdn.jtvnw.net/emoticons/v1/18309/1.0
-- name: jundlagger
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18311/1.0
 - name: jundlel
   src: https://static-cdn.jtvnw.net/emoticons/v1/26058/1.0
+- name: jundak2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81038/1.0
 - name: jundrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/40326/1.0
 - name: jundsniper
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49547/1.0
 - name: jundpicnic
   src: https://static-cdn.jtvnw.net/emoticons/v1/49544/1.0
+- name: jundak1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81037/1.0

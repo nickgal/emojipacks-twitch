@@ -3,10 +3,10 @@ title: Twitch Subscriber Emotes - warowl
 emojis:
 - name: warowlgrandpa
   src: https://static-cdn.jtvnw.net/emoticons/v1/25702/1.0
+- name: warowlvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81050/1.0
 - name: warowlowl
   src: https://static-cdn.jtvnw.net/emoticons/v1/25180/1.0
-- name: warowlhax
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25296/1.0
 - name: warowlkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/25285/1.0
 - name: warowlfedora
@@ -17,3 +17,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38463/1.0
 - name: warowlfacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/38459/1.0
+- name: warowlforkman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81046/1.0

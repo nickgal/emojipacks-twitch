@@ -5,9 +5,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77844/1.0
 - name: jmansoup
   src: https://static-cdn.jtvnw.net/emoticons/v1/77843/1.0
+- name: jmanrant
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81328/1.0
 - name: jmancack
   src: https://static-cdn.jtvnw.net/emoticons/v1/77842/1.0
-- name: jmanmonkey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77847/1.0
 - name: jmanbreak
   src: https://static-cdn.jtvnw.net/emoticons/v1/79725/1.0
+- name: jmanmonkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79918/1.0

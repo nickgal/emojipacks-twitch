@@ -39,8 +39,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36938/1.0
 - name: goldfishnan
   src: https://static-cdn.jtvnw.net/emoticons/v1/47986/1.0
-- name: goldfishbrotha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39883/1.0
 - name: goldfishmoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/52522/1.0
 - name: goldfishfuf
@@ -57,3 +55,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72889/1.0
 - name: goldfishpotatoe
   src: https://static-cdn.jtvnw.net/emoticons/v1/69921/1.0
+- name: goldfishet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80484/1.0
+- name: goldfishee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80483/1.0
+- name: goldfishde
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80482/1.0

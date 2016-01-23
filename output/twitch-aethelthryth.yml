@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - aethelthryth
 emojis:
 - name: rekktfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/25025/1.0
-- name: rekktgosu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25024/1.0
-- name: rekktzaiko
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28136/1.0
 - name: rekktameno
   src: https://static-cdn.jtvnw.net/emoticons/v1/72083/1.0
 - name: rekktrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/72084/1.0
 - name: rekkthype
   src: https://static-cdn.jtvnw.net/emoticons/v1/72085/1.0
+- name: rekktgosu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79898/1.0
+- name: rekktpact
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79899/1.0
+- name: rekktrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79900/1.0
+- name: rekktdaitenadebeliq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79901/1.0

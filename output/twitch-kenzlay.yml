@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - kenzlay
 emojis:
-- name: kenzlaysub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70644/1.0
+- name: kenzlaysubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81246/1.0
 - name: kenzlaykingdom
   src: https://static-cdn.jtvnw.net/emoticons/v1/70642/1.0
 - name: kenzlaydonut
   src: https://static-cdn.jtvnw.net/emoticons/v1/70643/1.0
+- name: kenzlaylilyluv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80673/1.0
+- name: kenzlaytiger
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80674/1.0
+- name: kenzlayskumper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81412/1.0

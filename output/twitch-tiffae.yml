@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - tiffae
 emojis:
-- name: tiffqq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67110/1.0
-- name: tifftilt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67180/1.0
+- name: tiffrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80068/1.0
 - name: tifflag
   src: https://static-cdn.jtvnw.net/emoticons/v1/67036/1.0
-- name: tiffgae
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67248/1.0
 - name: tiffwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/67079/1.0
 - name: tiffrip
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67590/1.0
 - name: tiffgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/67589/1.0
+- name: tifflel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80659/1.0
+- name: tiffqq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80284/1.0

@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - ralmidlol
 emojis:
-- name: ralmgolab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54122/1.0
 - name: ralmgank
   src: https://static-cdn.jtvnw.net/emoticons/v1/54123/1.0
+- name: ralmcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81029/1.0

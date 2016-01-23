@@ -11,10 +11,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49512/1.0
 - name: sangthirsty
   src: https://static-cdn.jtvnw.net/emoticons/v1/49513/1.0
-- name: sangboom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49549/1.0
 - name: sanggasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/49640/1.0
+- name: sangthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80349/1.0
 - name: sangmoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/78336/1.0
 - name: sangrain

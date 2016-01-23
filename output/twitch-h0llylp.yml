@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - h0llylp
 emojis:
-- name: hlyfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76562/1.0
-- name: hly2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73578/1.0
+- name: hlyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80960/1.0
 - name: hly3
   src: https://static-cdn.jtvnw.net/emoticons/v1/73579/1.0
 - name: hlypower
   src: https://static-cdn.jtvnw.net/emoticons/v1/30009/1.0
-- name: hlyomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33486/1.0
 - name: hlysad
   src: https://static-cdn.jtvnw.net/emoticons/v1/56757/1.0
 - name: hlyb
   src: https://static-cdn.jtvnw.net/emoticons/v1/73599/1.0
 - name: hly1
   src: https://static-cdn.jtvnw.net/emoticons/v1/59502/1.0
-- name: hlygasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74135/1.0
 - name: hlyhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74137/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80435/1.0
+- name: hlygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80434/1.0
+- name: hlyfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80433/1.0
+- name: hlyhax
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80968/1.0

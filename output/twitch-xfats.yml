@@ -13,6 +13,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41067/1.0
 - name: fats100
   src: https://static-cdn.jtvnw.net/emoticons/v1/46467/1.0
+- name: fatsk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80289/1.0
 - name: fatslurker
   src: https://static-cdn.jtvnw.net/emoticons/v1/58134/1.0
 - name: fatsfeels
@@ -27,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68738/1.0
 - name: fatspain
   src: https://static-cdn.jtvnw.net/emoticons/v1/72194/1.0
+- name: fatspls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80684/1.0

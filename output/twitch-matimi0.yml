@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - matimi0
 emojis:
+- name: mat1hype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80155/1.0
 - name: mat1sraw
   src: https://static-cdn.jtvnw.net/emoticons/v1/47558/1.0
 - name: mat1muffin
@@ -11,9 +13,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49167/1.0
 - name: mat1bingbong
   src: https://static-cdn.jtvnw.net/emoticons/v1/65788/1.0
+- name: mat1steven
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80159/1.0
 - name: mat1hat
   src: https://static-cdn.jtvnw.net/emoticons/v1/79394/1.0
 - name: mat1egg
   src: https://static-cdn.jtvnw.net/emoticons/v1/79387/1.0
-- name: mat1steven
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79384/1.0

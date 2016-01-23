@@ -1,14 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - mr3xgame_
 emojis:
+- name: mr3up
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81080/1.0
 - name: mr3wtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/24385/1.0
 - name: mr3thug
   src: https://static-cdn.jtvnw.net/emoticons/v1/53049/1.0
 - name: mr3sub
   src: https://static-cdn.jtvnw.net/emoticons/v1/60252/1.0
-- name: mr3rip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60245/1.0
 - name: mr3gg
   src: https://static-cdn.jtvnw.net/emoticons/v1/60248/1.0
 - name: mr3fail

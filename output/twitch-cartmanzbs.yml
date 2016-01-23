@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/19711/1.0
 - name: zbs8k
   src: https://static-cdn.jtvnw.net/emoticons/v1/79082/1.0
+- name: zbssub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79948/1.0
 - name: zbsloh
   src: https://static-cdn.jtvnw.net/emoticons/v1/54020/1.0
 - name: zbsart
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79132/1.0
 - name: zbsoh
   src: https://static-cdn.jtvnw.net/emoticons/v1/74872/1.0
+- name: zbskyrluk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79869/1.0

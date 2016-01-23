@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/12128/1.0
 - name: kubonlatwo
   src: https://static-cdn.jtvnw.net/emoticons/v1/15064/1.0
-- name: kubonteemo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15078/1.0
 - name: kubonkrul
   src: https://static-cdn.jtvnw.net/emoticons/v1/16876/1.0
 - name: kubonunlucky
@@ -19,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34995/1.0
 - name: kubonm
   src: https://static-cdn.jtvnw.net/emoticons/v1/76733/1.0
+- name: kubonna
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80641/1.0
+- name: kuboncz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80643/1.0

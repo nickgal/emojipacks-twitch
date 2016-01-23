@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - di3sel
 emojis:
-- name: dieseloh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6701/1.0
 - name: dieselbirdman
   src: https://static-cdn.jtvnw.net/emoticons/v1/77546/1.0
 - name: dieselog
@@ -15,6 +13,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52015/1.0
 - name: dieselhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/58755/1.0
+- name: dieselbink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81338/1.0
 - name: dieselgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/73869/1.0
 - name: dieselshots

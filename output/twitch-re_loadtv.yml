@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - re_loadtv
 emojis:
 - name: reloadrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/45536/1.0
+- name: reloadkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79850/1.0
 - name: reloadw
   src: https://static-cdn.jtvnw.net/emoticons/v1/54610/1.0
 - name: reloadop

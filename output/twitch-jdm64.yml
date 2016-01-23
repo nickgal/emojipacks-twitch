@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - jdm64
 emojis:
-- name: jdmbet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13500/1.0
-- name: jdmbicep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13869/1.0
-- name: jdmafk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26382/1.0
+- name: jdmbot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80529/1.0
+- name: jdmgod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80528/1.0
+- name: jdmvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80486/1.0
+- name: jdmgame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80298/1.0
 - name: jdmkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79691/1.0
-- name: jdmwhiff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79692/1.0
-- name: jdmawp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79694/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80299/1.0
 - name: jdmlounge
   src: https://static-cdn.jtvnw.net/emoticons/v1/79525/1.0
+- name: jdmwhiff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80211/1.0
 - name: jdmleg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79705/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80212/1.0

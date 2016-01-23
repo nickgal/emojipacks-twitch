@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39274/1.0
 - name: chaseo
   src: https://static-cdn.jtvnw.net/emoticons/v1/39290/1.0
-- name: chaserage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79116/1.0
 - name: chasepls
   src: https://static-cdn.jtvnw.net/emoticons/v1/77347/1.0
 - name: chasestank
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54006/1.0
 - name: chasescare
   src: https://static-cdn.jtvnw.net/emoticons/v1/77341/1.0
+- name: chaserage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81032/1.0

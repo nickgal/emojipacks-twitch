@@ -1,20 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - yogscast
 emojis:
-- name: yogc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31438/1.0
-- name: yogrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30734/1.0
 - name: yogkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/30733/1.0
+- name: yogl1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81465/1.0
 - name: yogd
   src: https://static-cdn.jtvnw.net/emoticons/v1/31240/1.0
-- name: yogh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31531/1.0
 - name: yogsips
   src: https://static-cdn.jtvnw.net/emoticons/v1/26855/1.0
-- name: yograge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26844/1.0
 - name: yoghype
   src: https://static-cdn.jtvnw.net/emoticons/v1/26851/1.0
 - name: yogpog
@@ -29,43 +23,51 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/26883/1.0
 - name: yoggin
   src: https://static-cdn.jtvnw.net/emoticons/v1/26887/1.0
-- name: yogtnt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28002/1.0
-- name: yoglmao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28003/1.0
-- name: yogrxz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28004/1.0
-- name: yogwot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28005/1.0
 - name: yoglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/28006/1.0
-- name: yoggreet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28007/1.0
 - name: yogmlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/28008/1.0
 - name: yogthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/28009/1.0
-- name: yogl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31556/1.0
 - name: yogdad
   src: https://static-cdn.jtvnw.net/emoticons/v1/31484/1.0
 - name: yogm
   src: https://static-cdn.jtvnw.net/emoticons/v1/31565/1.0
 - name: yogrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/30903/1.0
-- name: yogmagic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31229/1.0
 - name: yogjazz
   src: https://static-cdn.jtvnw.net/emoticons/v1/30818/1.0
 - name: yogplay
   src: https://static-cdn.jtvnw.net/emoticons/v1/31227/1.0
-- name: yoggame
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31228/1.0
-- name: yogk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31542/1.0
-- name: yogw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31588/1.0
 - name: yoggg
   src: https://static-cdn.jtvnw.net/emoticons/v1/31524/1.0
 - name: yogf
   src: https://static-cdn.jtvnw.net/emoticons/v1/32356/1.0
+- name: yogl2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81469/1.0
+- name: yogl3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81470/1.0
+- name: yogl4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81471/1.0
+- name: yogmore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81472/1.0
+- name: yogpepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81473/1.0
+- name: yogsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81474/1.0
+- name: yogw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81475/1.0
+- name: yogwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81476/1.0
+- name: yogc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81459/1.0
+- name: yogchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81460/1.0
+- name: yogderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81461/1.0
+- name: yoggasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81462/1.0
+- name: yoggiggle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81463/1.0
+- name: yoghey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81464/1.0

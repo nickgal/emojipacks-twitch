@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - thetruevanguard
 emojis:
+- name: drivebyjuice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81247/1.0
 - name: drivebysnipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/76410/1.0
 - name: drivebynewsub

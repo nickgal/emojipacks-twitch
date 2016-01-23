@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - solexxsfifahd
 emojis:
-- name: solechips
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68951/1.0
-- name: solehand
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71807/1.0
 - name: solehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68084/1.0
 - name: solewir
@@ -13,3 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68757/1.0
 - name: solelch
   src: https://static-cdn.jtvnw.net/emoticons/v1/69144/1.0
+- name: solechips
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80904/1.0
+- name: solehand
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80903/1.0
+- name: solegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80902/1.0
+- name: soleluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80901/1.0

@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - iraffer
 emojis:
-- name: raffhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47861/1.0
 - name: raffddos
   src: https://static-cdn.jtvnw.net/emoticons/v1/47189/1.0
 - name: raffmwah
   src: https://static-cdn.jtvnw.net/emoticons/v1/47687/1.0
-- name: raffpopo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48459/1.0
+- name: raffeasy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80860/1.0
+- name: raffgame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80861/1.0
+- name: rafflife
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80862/1.0
+- name: raffhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80863/1.0

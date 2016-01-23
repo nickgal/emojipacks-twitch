@@ -1,12 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - not_jenn
 emojis:
+- name: nothana
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79931/1.0
 - name: notlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79118/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79929/1.0
+- name: notrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79923/1.0
+- name: notreally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79924/1.0
 - name: notw
   src: https://static-cdn.jtvnw.net/emoticons/v1/79117/1.0
-- name: nothana
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79129/1.0
 - name: notbuddy
   src: https://static-cdn.jtvnw.net/emoticons/v1/79128/1.0
 - name: nothey

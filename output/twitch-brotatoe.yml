@@ -33,11 +33,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70307/1.0
 - name: broriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/70305/1.0
-- name: brosup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70304/1.0
-- name: brocry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70303/1.0
 - name: broxd
   src: https://static-cdn.jtvnw.net/emoticons/v1/70302/1.0
 - name: bromini
   src: https://static-cdn.jtvnw.net/emoticons/v1/73491/1.0
+- name: brosup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80609/1.0
+- name: brocry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80610/1.0

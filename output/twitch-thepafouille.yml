@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - thepafouille
 emojis:
+- name: pafdunktomate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80347/1.0
+- name: pafdunkonestla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80346/1.0
 - name: pafdunk1
   src: https://static-cdn.jtvnw.net/emoticons/v1/73296/1.0
 - name: pafdunkgrossac1

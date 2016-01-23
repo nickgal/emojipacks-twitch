@@ -1,9 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - calfreezy
 emojis:
-- name: caltriangle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3500/1.0
-- name: calselfie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3502/1.0
-- name: caldoon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3365/1.0
+- name: calkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80345/1.0
+- name: caldab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80344/1.0

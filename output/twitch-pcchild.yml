@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74905/1.0
 - name: zizgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/74898/1.0
-- name: zizbench
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76008/1.0
 - name: zizsleeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/78539/1.0
 - name: zizrip
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76342/1.0
 - name: zizbear
   src: https://static-cdn.jtvnw.net/emoticons/v1/78520/1.0
+- name: zizbench
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80935/1.0

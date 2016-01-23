@@ -67,8 +67,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54480/1.0
 - name: trkbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/54481/1.0
-- name: trknext
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55445/1.0
 - name: trkreplay
   src: https://static-cdn.jtvnw.net/emoticons/v1/55446/1.0
 - name: trktilt
@@ -77,8 +75,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55450/1.0
 - name: trkwhale
   src: https://static-cdn.jtvnw.net/emoticons/v1/55451/1.0
-- name: trkports
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55453/1.0
 - name: trkoverlay
   src: https://static-cdn.jtvnw.net/emoticons/v1/55455/1.0
 - name: trklata
@@ -101,3 +97,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57616/1.0
 - name: trk9
   src: https://static-cdn.jtvnw.net/emoticons/v1/69809/1.0
+- name: trkfixed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80690/1.0
+- name: trkss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81102/1.0

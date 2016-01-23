@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - rustlingrose
 emojis:
-- name: lisarip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7914/1.0
 - name: lisakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/7916/1.0
 - name: lisaswag
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57646/1.0
 - name: lisadm
   src: https://static-cdn.jtvnw.net/emoticons/v1/57126/1.0
+- name: lisarip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81374/1.0

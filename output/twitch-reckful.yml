@@ -3,12 +3,6 @@ title: Twitch Subscriber Emotes - reckful
 emojis:
 - name: recks
   src: https://static-cdn.jtvnw.net/emoticons/v1/1383/1.0
-- name: reckhello
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20916/1.0
-- name: reckgl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79667/1.0
-- name: reckgr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79668/1.0
 - name: reckjew
   src: https://static-cdn.jtvnw.net/emoticons/v1/22957/1.0
 - name: reckfarmer
@@ -21,6 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61954/1.0
 - name: reckw
   src: https://static-cdn.jtvnw.net/emoticons/v1/31837/1.0
+- name: reckj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81136/1.0
 - name: reckrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/78421/1.0
 - name: reck7
@@ -29,8 +25,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58736/1.0
 - name: reck1
   src: https://static-cdn.jtvnw.net/emoticons/v1/71091/1.0
-- name: reckj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73716/1.0
 - name: reckc
   src: https://static-cdn.jtvnw.net/emoticons/v1/74931/1.0
 - name: reckbald
@@ -41,3 +35,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76267/1.0
 - name: reckddos
   src: https://static-cdn.jtvnw.net/emoticons/v1/77110/1.0
+- name: reckgl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79885/1.0
+- name: reckgr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79886/1.0
+- name: reckliar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81160/1.0

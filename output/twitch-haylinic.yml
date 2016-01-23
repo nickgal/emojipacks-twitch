@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - haylinic
 emojis:
+- name: haylirekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79926/1.0
+- name: haylipotato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79925/1.0
 - name: haylipanty
   src: https://static-cdn.jtvnw.net/emoticons/v1/56523/1.0
 - name: haylirip
@@ -19,5 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40110/1.0
 - name: haylisalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/42171/1.0
+- name: haylirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80089/1.0
+- name: hayliorion
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80090/1.0
+- name: haylihey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80091/1.0
 - name: hayliw
   src: https://static-cdn.jtvnw.net/emoticons/v1/73173/1.0

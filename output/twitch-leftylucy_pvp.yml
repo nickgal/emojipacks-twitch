@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - leftylucy_pvp
 emojis:
+- name: leftylucyrock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81131/1.0
 - name: leftylucyww
   src: https://static-cdn.jtvnw.net/emoticons/v1/78900/1.0
 - name: leftylucyhappy
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79032/1.0
 - name: leftylucydrank
   src: https://static-cdn.jtvnw.net/emoticons/v1/79031/1.0
+- name: leftylucyjoule
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81132/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - thenoosh22
 emojis:
 - name: nooshlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/16081/1.0
-- name: nooshrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16080/1.0
 - name: nooshshock
   src: https://static-cdn.jtvnw.net/emoticons/v1/16289/1.0
 - name: nooshlove
@@ -17,7 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/26847/1.0
 - name: nooshnail
   src: https://static-cdn.jtvnw.net/emoticons/v1/34342/1.0
-- name: nooshbeard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44485/1.0
 - name: nooshburp
   src: https://static-cdn.jtvnw.net/emoticons/v1/60085/1.0
+- name: nooshgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80024/1.0
+- name: nooshwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80019/1.0

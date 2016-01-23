@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - princekader_00
 emojis:
-- name: princelah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61165/1.0
-- name: princekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65368/1.0
-- name: princesub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65370/1.0
-- name: princepanou
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71829/1.0
-- name: princecoeur
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69927/1.0
-- name: princegg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69940/1.0
 - name: princerip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69939/1.0
-- name: princec2n
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73211/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80102/1.0
+- name: princewut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80103/1.0
+- name: princesub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80104/1.0
+- name: princecoeur
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80116/1.0
+- name: princegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80107/1.0
+- name: princekappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80106/1.0

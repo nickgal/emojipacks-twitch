@@ -1,33 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - nepenthez
 emojis:
-- name: neppogg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53828/1.0
-- name: neppoball
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53827/1.0
-- name: neppofamily
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46955/1.0
-- name: neppogoal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46963/1.0
 - name: nepposweat
   src: https://static-cdn.jtvnw.net/emoticons/v1/46962/1.0
-- name: neppobeard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55330/1.0
-- name: neppologo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46959/1.0
-- name: neppodonate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46953/1.0
 - name: neppofoul
   src: https://static-cdn.jtvnw.net/emoticons/v1/51471/1.0
 - name: neppochat
   src: https://static-cdn.jtvnw.net/emoticons/v1/55174/1.0
-- name: nepponepp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55068/1.0
 - name: neppogalaxy
   src: https://static-cdn.jtvnw.net/emoticons/v1/66972/1.0
 - name: neppoinform
   src: https://static-cdn.jtvnw.net/emoticons/v1/66973/1.0
+- name: neppofamily
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80136/1.0
 - name: neppolegend
   src: https://static-cdn.jtvnw.net/emoticons/v1/66974/1.0
 - name: neppodesign
   src: https://static-cdn.jtvnw.net/emoticons/v1/66975/1.0
+- name: neppogg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80137/1.0
+- name: neppototy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80138/1.0
+- name: nepposub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80139/1.0
+- name: neppoface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80140/1.0
+- name: neppoburn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80141/1.0
+- name: neppogoal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80142/1.0
+- name: neppored
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80143/1.0

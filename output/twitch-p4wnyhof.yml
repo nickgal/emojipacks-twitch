@@ -11,14 +11,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61254/1.0
 - name: pownylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/57681/1.0
-- name: pownythump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61267/1.0
 - name: pownynein
   src: https://static-cdn.jtvnw.net/emoticons/v1/61252/1.0
 - name: pownyhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/65294/1.0
-- name: pownyhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68349/1.0
 - name: pownyrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/73217/1.0
 - name: pownyawe
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75515/1.0
 - name: pownyhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/76782/1.0
+- name: pownyt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80718/1.0
+- name: pownyh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80987/1.0

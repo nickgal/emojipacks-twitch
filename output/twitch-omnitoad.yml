@@ -1,9 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - omnitoad
 emojis:
-- name: toado
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66808/1.0
 - name: toadfenny
   src: https://static-cdn.jtvnw.net/emoticons/v1/75842/1.0
 - name: toadah
   src: https://static-cdn.jtvnw.net/emoticons/v1/72355/1.0
+- name: toadbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81129/1.0
+- name: toadgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81128/1.0

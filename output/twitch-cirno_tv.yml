@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - cirno_tv
 emojis:
-- name: cirpls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1660/1.0
 - name: cirfairy
   src: https://static-cdn.jtvnw.net/emoticons/v1/4790/1.0
 - name: cirprise
@@ -43,5 +41,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49148/1.0
 - name: circola
   src: https://static-cdn.jtvnw.net/emoticons/v1/57334/1.0
+- name: cirlaugh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80004/1.0
+- name: cirkiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80367/1.0
+- name: cirpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80366/1.0
 - name: cirsanta
   src: https://static-cdn.jtvnw.net/emoticons/v1/74553/1.0

@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/11010/1.0
 - name: ajspalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/11011/1.0
-- name: ajsfire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11012/1.0
 - name: ajstank
   src: https://static-cdn.jtvnw.net/emoticons/v1/11013/1.0
 - name: ajsrambo
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78531/1.0
 - name: ajsfire
   src: https://static-cdn.jtvnw.net/emoticons/v1/78533/1.0
+- name: ajsgun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/11012/1.0

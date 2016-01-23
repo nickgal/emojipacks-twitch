@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64427/1.0
 - name: labpvp
   src: https://static-cdn.jtvnw.net/emoticons/v1/64426/1.0
-- name: labhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64483/1.0
 - name: labkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/64473/1.0
 - name: labcryptarch
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77373/1.0
 - name: labcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/78885/1.0
+- name: lablol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80456/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mazarin1k
 emojis:
+- name: mazavac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79786/1.0
 - name: mazafail
   src: https://static-cdn.jtvnw.net/emoticons/v1/32912/1.0
 - name: mazawat
@@ -9,6 +11,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79557/1.0
 - name: mazao
   src: https://static-cdn.jtvnw.net/emoticons/v1/79559/1.0
+- name: mazahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79807/1.0
+- name: mazaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79808/1.0
+- name: mazaswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79809/1.0
 - name: mazabahno
   src: https://static-cdn.jtvnw.net/emoticons/v1/79778/1.0
 - name: mazahectic

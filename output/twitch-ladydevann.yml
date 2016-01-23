@@ -1,11 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - ladydevann
 emojis:
+- name: devannpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80025/1.0
 - name: devannhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/77137/1.0
+- name: devannh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80043/1.0
 - name: devannhome
   src: https://static-cdn.jtvnw.net/emoticons/v1/75472/1.0
 - name: devannrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/76774/1.0
 - name: devannbp
   src: https://static-cdn.jtvnw.net/emoticons/v1/76772/1.0
+- name: devannrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80208/1.0

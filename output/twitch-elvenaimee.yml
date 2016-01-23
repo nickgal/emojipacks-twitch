@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - elvenaimee
 emojis:
+- name: elvenaimeelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79936/1.0
 - name: elvenaimeehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/78687/1.0
 - name: elvenaimeerusty
   src: https://static-cdn.jtvnw.net/emoticons/v1/78688/1.0
+- name: elvenaimeewoah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81518/1.0

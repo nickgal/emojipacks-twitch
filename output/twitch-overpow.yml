@@ -3,6 +3,12 @@ title: Twitch Subscriber Emotes - overpow
 emojis:
 - name: overgolem
   src: https://static-cdn.jtvnw.net/emoticons/v1/59179/1.0
+- name: overdeska
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81205/1.0
+- name: overbuk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80389/1.0
+- name: overniemiec
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80387/1.0
 - name: overpolak
   src: https://static-cdn.jtvnw.net/emoticons/v1/60376/1.0
 - name: overp

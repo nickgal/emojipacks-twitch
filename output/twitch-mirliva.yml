@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - mirliva
 emojis:
 - name: mirexe
   src: https://static-cdn.jtvnw.net/emoticons/v1/66806/1.0
-- name: mirdtost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67805/1.0
 - name: mirsatti
   src: https://static-cdn.jtvnw.net/emoticons/v1/66743/1.0
 - name: mirpatates
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67088/1.0
 - name: mirslup
   src: https://static-cdn.jtvnw.net/emoticons/v1/69335/1.0
+- name: mirprim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81451/1.0

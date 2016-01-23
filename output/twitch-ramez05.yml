@@ -1,21 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - ramez05
 emojis:
+- name: rmzfacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80358/1.0
+- name: rmzhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80360/1.0
 - name: rmzbackpack
   src: https://static-cdn.jtvnw.net/emoticons/v1/32228/1.0
+- name: rmzlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80359/1.0
+- name: rmzfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80356/1.0
+- name: rmzlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80355/1.0
 - name: rmzlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/48563/1.0
-- name: rmzlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59522/1.0
-- name: rmzhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59523/1.0
-- name: rmzlurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62717/1.0
-- name: rmzfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62713/1.0
 - name: rmzpls
   src: https://static-cdn.jtvnw.net/emoticons/v1/62711/1.0
 - name: rmzhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/62702/1.0
-- name: rmzkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67014/1.0
+- name: rmzlit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80532/1.0

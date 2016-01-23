@@ -1,17 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - technovixen
 emojis:
-- name: vonhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78435/1.0
-- name: vonrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78434/1.0
-- name: vonrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78433/1.0
-- name: vongasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78432/1.0
-- name: vonlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78431/1.0
-- name: vonmug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49507/1.0
 - name: vonsniffles
   src: https://static-cdn.jtvnw.net/emoticons/v1/51011/1.0
+- name: vongasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80403/1.0
+- name: vonlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80318/1.0
+- name: vonrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80320/1.0
+- name: vonrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80321/1.0
+- name: vonhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80322/1.0
+- name: vonmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80323/1.0

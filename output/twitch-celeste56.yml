@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33288/1.0
 - name: celew
   src: https://static-cdn.jtvnw.net/emoticons/v1/33751/1.0
-- name: celehug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32453/1.0
 - name: celehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/48376/1.0
 - name: cele1
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77369/1.0
 - name: celepoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/77387/1.0
+- name: celel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81021/1.0

@@ -3,11 +3,15 @@ title: Twitch Subscriber Emotes - oldschoolrsvids
 emojis:
 - name: oldschoollongbone
   src: https://static-cdn.jtvnw.net/emoticons/v1/79059/1.0
-- name: oldschoolnoway
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79057/1.0
+- name: oldschoolsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81399/1.0
+- name: oldschoolkappabrock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81392/1.0
 - name: oldschoolhappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/79154/1.0
 - name: oldschoolpogchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/78756/1.0
+- name: oldschoolsimba
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81396/1.0
 - name: oldschoolbrockluck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78875/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81397/1.0

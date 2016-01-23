@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/23419/1.0
 - name: herosad
   src: https://static-cdn.jtvnw.net/emoticons/v1/52276/1.0
-- name: heropoisons
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52277/1.0
 - name: herorekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/76296/1.0
 - name: heromad
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78329/1.0
 - name: heropedro
   src: https://static-cdn.jtvnw.net/emoticons/v1/78328/1.0
+- name: herofeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80840/1.0

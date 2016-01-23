@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - prayscream
 emojis:
+- name: prayhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81067/1.0
 - name: prayrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/75245/1.0
 - name: prayw

@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - brodri4
 emojis:
-- name: boriskappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51876/1.0
+- name: borisred
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80010/1.0
 - name: borismoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50164/1.0
-- name: borisfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58924/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80009/1.0
+- name: borissilver
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80008/1.0
 - name: borisudg
   src: https://static-cdn.jtvnw.net/emoticons/v1/72368/1.0

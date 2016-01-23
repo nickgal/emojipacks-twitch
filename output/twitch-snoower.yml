@@ -1,8 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - snoower
 emojis:
+- name: snoowxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81213/1.0
 - name: snoowderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31823/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81388/1.0
+- name: snoowmiecz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81074/1.0
 - name: snoowrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/61124/1.0
 - name: snoowhype

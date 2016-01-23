@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - na_podhvate
 emojis:
-- name: pashtetsub
+- name: napomurr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81264/1.0
+- name: naposub
   src: https://static-cdn.jtvnw.net/emoticons/v1/72460/1.0
-- name: pashtetmeow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77293/1.0
-- name: pashtetmurr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77292/1.0
-- name: pashteteve
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48560/1.0
-- name: pashteturod
+- name: napourod
   src: https://static-cdn.jtvnw.net/emoticons/v1/48559/1.0
-- name: pashteteva
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53083/1.0
-- name: pashtetvoid
+- name: napovoid
   src: https://static-cdn.jtvnw.net/emoticons/v1/53082/1.0
-- name: pashtetfood
+- name: napofood
   src: https://static-cdn.jtvnw.net/emoticons/v1/53080/1.0
+- name: napolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80552/1.0
+- name: napocry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80649/1.0
+- name: napomeow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81265/1.0
+- name: napouhadi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81266/1.0
+- name: naposlojna
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81258/1.0

@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - masterkizz
 emojis:
 - name: kizzplane
   src: https://static-cdn.jtvnw.net/emoticons/v1/17814/1.0
-- name: kizzstrat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57388/1.0
 - name: kizzbog
   src: https://static-cdn.jtvnw.net/emoticons/v1/15637/1.0
 - name: kizzric
   src: https://static-cdn.jtvnw.net/emoticons/v1/77964/1.0
-- name: kizzhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57387/1.0
-- name: kizzrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57925/1.0
 - name: kizzappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/75749/1.0
 - name: kizzhx
   src: https://static-cdn.jtvnw.net/emoticons/v1/75875/1.0
+- name: kizzsrs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80680/1.0
+- name: kizzhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80681/1.0
+- name: kizzstrat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80683/1.0

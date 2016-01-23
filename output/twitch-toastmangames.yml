@@ -1,5 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - toastmangames
 emojis:
+- name: toastmanl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80117/1.0
 - name: toastmansub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79562/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80119/1.0
+- name: toastmanr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80745/1.0
+- name: toastmanrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80748/1.0

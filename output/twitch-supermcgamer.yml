@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60569/1.0
 - name: mcgplz
   src: https://static-cdn.jtvnw.net/emoticons/v1/60570/1.0
-- name: mcgasf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8641/1.0
 - name: mcgforce
   src: https://static-cdn.jtvnw.net/emoticons/v1/19800/1.0
 - name: mcghand
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60425/1.0
 - name: mcghex
   src: https://static-cdn.jtvnw.net/emoticons/v1/60571/1.0
+- name: mcgrupee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80971/1.0

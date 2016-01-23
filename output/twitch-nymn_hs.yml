@@ -9,6 +9,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62338/1.0
 - name: nymndank
   src: https://static-cdn.jtvnw.net/emoticons/v1/66236/1.0
+- name: nymnsmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80027/1.0
 - name: nymnc
   src: https://static-cdn.jtvnw.net/emoticons/v1/63891/1.0
 - name: nymngasm

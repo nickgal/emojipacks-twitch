@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - ichasegaming
 emojis:
-- name: icgfindpenguin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52868/1.0
-- name: icgderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50272/1.0
-- name: icgsmash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63619/1.0
-- name: icgbanzai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62633/1.0
+- name: icgsealclub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81109/1.0
 - name: icghype
   src: https://static-cdn.jtvnw.net/emoticons/v1/75117/1.0
+- name: icgsmash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80246/1.0
+- name: icgcarry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80248/1.0
+- name: icgfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80249/1.0
+- name: icglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80466/1.0
+- name: icgkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80467/1.0
+- name: icgo7
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81110/1.0

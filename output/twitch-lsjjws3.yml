@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - lsjjws3
 emojis:
-- name: bnscha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70353/1.0
 - name: bnshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/70352/1.0
 - name: bnsgasm
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68709/1.0
 - name: bnsholy
   src: https://static-cdn.jtvnw.net/emoticons/v1/78416/1.0
+- name: bnsdenied
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80468/1.0

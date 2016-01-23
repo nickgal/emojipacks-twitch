@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - phy_lol
 emojis:
+- name: phycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81430/1.0
+- name: phyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81429/1.0
 - name: phyhappens
   src: https://static-cdn.jtvnw.net/emoticons/v1/76615/1.0
 - name: phyhype

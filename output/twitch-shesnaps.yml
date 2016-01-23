@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - shesnaps
 emojis:
-- name: snapsgrill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77144/1.0
+- name: snapsrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81122/1.0
 - name: snapsbrb
   src: https://static-cdn.jtvnw.net/emoticons/v1/77143/1.0
 - name: snapslurk
@@ -17,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79018/1.0
 - name: snapslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/79017/1.0
+- name: snapsgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81414/1.0
+- name: snapslol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81156/1.0

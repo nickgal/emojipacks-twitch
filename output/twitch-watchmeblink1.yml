@@ -27,7 +27,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75076/1.0
 - name: mitchl
   src: https://static-cdn.jtvnw.net/emoticons/v1/75036/1.0
-- name: mitcha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75035/1.0
 - name: mitchd
   src: https://static-cdn.jtvnw.net/emoticons/v1/76002/1.0
+- name: mitcha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80603/1.0
+- name: mitchpat4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80619/1.0
+- name: mitchpat1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80616/1.0
+- name: mitchpat2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80617/1.0
+- name: mitchpat3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80618/1.0

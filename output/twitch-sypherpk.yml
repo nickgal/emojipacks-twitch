@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73484/1.0
 - name: syphercry
   src: https://static-cdn.jtvnw.net/emoticons/v1/70108/1.0
-- name: sypherrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70107/1.0
 - name: sypherhood
   src: https://static-cdn.jtvnw.net/emoticons/v1/47959/1.0
 - name: syphermad
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73219/1.0
 - name: sypherrigged
   src: https://static-cdn.jtvnw.net/emoticons/v1/73483/1.0
+- name: syphermeta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80992/1.0

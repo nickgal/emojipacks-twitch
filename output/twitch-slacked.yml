@@ -11,5 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75882/1.0
 - name: slackedkey
   src: https://static-cdn.jtvnw.net/emoticons/v1/77937/1.0
+- name: slackedtrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80812/1.0
+- name: slackedman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80908/1.0
 - name: slackedlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79723/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80796/1.0

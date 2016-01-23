@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - playinthemud
 emojis:
-- name: mudhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75576/1.0
 - name: mudlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/75574/1.0
+- name: mudhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80405/1.0
 - name: mudsplat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74072/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80406/1.0
 - name: mudkiba
   src: https://static-cdn.jtvnw.net/emoticons/v1/74074/1.0
+- name: mudpaws
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80495/1.0
+- name: mudwonky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80494/1.0

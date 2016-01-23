@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - freezingwolves
 emojis:
+- name: freezingsigh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81527/1.0
+- name: freezinggasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81528/1.0
 - name: freezingsave
   src: https://static-cdn.jtvnw.net/emoticons/v1/79335/1.0
 - name: freezingblue

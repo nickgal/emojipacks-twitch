@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - dabuz18
 emojis:
-- name: buzbuz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55065/1.0
 - name: buzluma
   src: https://static-cdn.jtvnw.net/emoticons/v1/53433/1.0
 - name: buzsalt
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77761/1.0
 - name: buzrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/79665/1.0
+- name: buzpopoff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81496/1.0

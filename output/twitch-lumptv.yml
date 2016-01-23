@@ -1,15 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - lumptv
 emojis:
-- name: lumplumpeyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57900/1.0
-- name: lumpgoodjobbud
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57647/1.0
+- name: lumpuhh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80079/1.0
 - name: lumpwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57649/1.0
-- name: lumphappyhappyhappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57648/1.0
-- name: lumpwhatamidoing
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57650/1.0
-- name: lumpsmile
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78676/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80080/1.0
+- name: lumpgoodone
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80078/1.0
+- name: lumphappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80077/1.0
+- name: lumpfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80076/1.0

@@ -1,14 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - showdownsmash
 emojis:
+- name: sdsnotyelling
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80022/1.0
 - name: sdsgreatsatan
   src: https://static-cdn.jtvnw.net/emoticons/v1/23782/1.0
 - name: sdssilentsmirker
   src: https://static-cdn.jtvnw.net/emoticons/v1/30781/1.0
 - name: sdsstorytime
   src: https://static-cdn.jtvnw.net/emoticons/v1/29786/1.0
-- name: sdsmoralcompass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45393/1.0
 - name: sdseinshine
   src: https://static-cdn.jtvnw.net/emoticons/v1/57332/1.0
 - name: sdseinthump

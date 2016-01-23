@@ -1,33 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - oxichampion
 emojis:
-- name: oxismile
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5185/1.0
 - name: oxirage
   src: https://static-cdn.jtvnw.net/emoticons/v1/4603/1.0
-- name: oxibeybe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4521/1.0
-- name: oxiteyze
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5186/1.0
-- name: oxinoel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5144/1.0
-- name: oxifail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5145/1.0
-- name: oxizafer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10869/1.0
-- name: oxisaskin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10870/1.0
 - name: oxiban
   src: https://static-cdn.jtvnw.net/emoticons/v1/15253/1.0
-- name: oxisigara
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16771/1.0
 - name: oxioha
   src: https://static-cdn.jtvnw.net/emoticons/v1/30085/1.0
-- name: oxigg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29389/1.0
-- name: oximlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29387/1.0
-- name: oxilan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29388/1.0
-- name: oxisub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29422/1.0
+- name: oxi31
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80773/1.0
+- name: oxiez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80774/1.0
+- name: oxihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80775/1.0
+- name: oxirekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80778/1.0
+- name: oxirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80779/1.0

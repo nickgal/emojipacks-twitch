@@ -5,14 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44146/1.0
 - name: murdamoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/46208/1.0
-- name: murdasquad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43786/1.0
-- name: murdarekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43785/1.0
 - name: murdalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/45910/1.0
-- name: murdadead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47380/1.0
 - name: murdarage
   src: https://static-cdn.jtvnw.net/emoticons/v1/52801/1.0
 - name: murdadeez
@@ -21,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77103/1.0
 - name: murdahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/77106/1.0
+- name: murdarekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80940/1.0
+- name: murdasquad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80941/1.0
+- name: murdafriendly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80938/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - schviftyfive
 emojis:
-- name: sh55burn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62862/1.0
 - name: sh55fail
   src: https://static-cdn.jtvnw.net/emoticons/v1/62849/1.0
 - name: sh55liz
@@ -19,3 +17,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74335/1.0
 - name: sh55kappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/74336/1.0
+- name: sh55love
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79894/1.0

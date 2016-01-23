@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/24225/1.0
 - name: average
   src: https://static-cdn.jtvnw.net/emoticons/v1/26788/1.0
-- name: aveknife
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28001/1.0
 - name: aveawp2
   src: https://static-cdn.jtvnw.net/emoticons/v1/28326/1.0
 - name: aveawp1
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51000/1.0
 - name: avemucha
   src: https://static-cdn.jtvnw.net/emoticons/v1/50999/1.0
+- name: aveflash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79985/1.0

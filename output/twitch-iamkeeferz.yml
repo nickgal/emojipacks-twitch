@@ -15,12 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/15265/1.0
 - name: keefcult
   src: https://static-cdn.jtvnw.net/emoticons/v1/23770/1.0
-- name: keefrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23682/1.0
 - name: keef3a
   src: https://static-cdn.jtvnw.net/emoticons/v1/23690/1.0
-- name: keefkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23686/1.0
 - name: keefscared
   src: https://static-cdn.jtvnw.net/emoticons/v1/23648/1.0
 - name: keefclue
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32977/1.0
 - name: keefhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/69331/1.0
+- name: keefrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80655/1.0
+- name: keefpepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80656/1.0

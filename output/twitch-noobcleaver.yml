@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - noobcleaver
 emojis:
+- name: cleaverdoge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81519/1.0
 - name: cleaverkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/75289/1.0
 - name: cleavergasm

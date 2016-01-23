@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - etozhezanuda
 emojis:
+- name: etzkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81055/1.0
+- name: etzwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81053/1.0
+- name: etzfrog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81052/1.0
 - name: etz3
   src: https://static-cdn.jtvnw.net/emoticons/v1/56951/1.0
-- name: etzfrog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76349/1.0
 - name: etzhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76348/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81057/1.0
 - name: etzdukaross
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76346/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81054/1.0
 - name: etzomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76344/1.0
-- name: etzwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76347/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81051/1.0
 - name: etzcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76343/1.0
-- name: etzkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76345/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81049/1.0

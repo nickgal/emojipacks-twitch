@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - dzydzydino
 emojis:
+- name: dzydzykpp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/79927/1.0
 - name: dzydzyfluborz
   src: https://static-cdn.jtvnw.net/emoticons/v1/75650/1.0
 - name: dzydzywut
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77257/1.0
 - name: dzydzyskillfall
   src: https://static-cdn.jtvnw.net/emoticons/v1/75614/1.0
+- name: dzydzycreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/80086/1.0
