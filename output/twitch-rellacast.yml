@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - rellacast
 emojis:
+- name: rellayeoni
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81569/1.0
+- name: rellajammusae
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81570/1.0
 - name: rellataeyang
   src: https://static-cdn.jtvnw.net/emoticons/v1/80114/1.0
 - name: relladdunge

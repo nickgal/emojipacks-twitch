@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51422/1.0
 - name: viemurky
   src: https://static-cdn.jtvnw.net/emoticons/v1/39293/1.0
-- name: viefuzzy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39294/1.0
 - name: viesub
   src: https://static-cdn.jtvnw.net/emoticons/v1/39311/1.0
 - name: view
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65564/1.0
 - name: vienavi
   src: https://static-cdn.jtvnw.net/emoticons/v1/76350/1.0
+- name: vieperfect
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81791/1.0

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80853/1.0
 - name: sonichype
   src: https://static-cdn.jtvnw.net/emoticons/v1/80856/1.0
-- name: sonicrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80855/1.0
 - name: sonicsit
   src: https://static-cdn.jtvnw.net/emoticons/v1/80854/1.0
 - name: sonickappa
@@ -15,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80851/1.0
 - name: sonicfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/80852/1.0
+- name: sonicrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81972/1.0
+- name: sonicfg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82081/1.0

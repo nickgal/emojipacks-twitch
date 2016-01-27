@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/12614/1.0
 - name: nickbhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/19801/1.0
-- name: nickbtec
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20288/1.0
 - name: nickbfishy
   src: https://static-cdn.jtvnw.net/emoticons/v1/20292/1.0
 - name: nickbrekt
@@ -39,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79681/1.0
 - name: nickb110
   src: https://static-cdn.jtvnw.net/emoticons/v1/79682/1.0
+- name: nickbfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82114/1.0
+- name: nickblove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82113/1.0

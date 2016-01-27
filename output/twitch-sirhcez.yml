@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - sirhcez
 emojis:
-- name: singdeleted
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4601/1.0
 - name: singchez
   src: https://static-cdn.jtvnw.net/emoticons/v1/4474/1.0
-- name: singguitar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4471/1.0
 - name: singkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/10677/1.0
 - name: singcry
@@ -29,3 +25,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55538/1.0
 - name: singgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/68310/1.0
+- name: singkiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82167/1.0
+- name: singheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82194/1.0

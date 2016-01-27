@@ -9,5 +9,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41802/1.0
 - name: feedmoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/46226/1.0
-- name: feedburn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44789/1.0
+- name: feedruby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81901/1.0
+- name: feedlike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81920/1.0

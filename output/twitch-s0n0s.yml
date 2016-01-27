@@ -3,13 +3,29 @@ title: Twitch Subscriber Emotes - s0n0s
 emojis:
 - name: s00praise
   src: https://static-cdn.jtvnw.net/emoticons/v1/9230/1.0
-- name: s00bone
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9407/1.0
-- name: s00sohlaire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9629/1.0
-- name: s00pop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10959/1.0
 - name: s00dead
   src: https://static-cdn.jtvnw.net/emoticons/v1/20762/1.0
-- name: s00stab
+- name: s00boned
+  src: https://static-cdn.jtvnw.net/emoticons/v1/9407/1.0
+- name: s00rekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/20770/1.0
+- name: s00hype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82148/1.0
+- name: s00salty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82149/1.0
+- name: s00ruined
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82150/1.0
+- name: s00saved
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82151/1.0
+- name: s00good
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82152/1.0
+- name: s00bad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82153/1.0
+- name: s00lpraise
+  src: https://static-cdn.jtvnw.net/emoticons/v1/9629/1.0
+- name: s00breeki
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82157/1.0
+- name: s00cheeki
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82156/1.0
+- name: s00tasty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82158/1.0

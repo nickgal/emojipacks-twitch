@@ -3,8 +3,8 @@ title: Twitch Subscriber Emotes - themarkyb
 emojis:
 - name: markybangry
   src: https://static-cdn.jtvnw.net/emoticons/v1/14649/1.0
-- name: markyblogo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23669/1.0
+- name: markybkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81589/1.0
 - name: markybtroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/9810/1.0
 - name: markybmbyt
@@ -13,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79670/1.0
 - name: markybinfused
   src: https://static-cdn.jtvnw.net/emoticons/v1/79171/1.0
+- name: markyblogo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81857/1.0
+- name: markyblove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81854/1.0

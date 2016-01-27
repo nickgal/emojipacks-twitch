@@ -13,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70320/1.0
 - name: bro6
   src: https://static-cdn.jtvnw.net/emoticons/v1/70312/1.0
-- name: broh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70318/1.0
 - name: brohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/70317/1.0
 - name: brono
@@ -31,8 +29,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70308/1.0
 - name: brolate
   src: https://static-cdn.jtvnw.net/emoticons/v1/70307/1.0
-- name: broriot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70305/1.0
 - name: broxd
   src: https://static-cdn.jtvnw.net/emoticons/v1/70302/1.0
 - name: bromini
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80609/1.0
 - name: brocry
   src: https://static-cdn.jtvnw.net/emoticons/v1/80610/1.0
+- name: broh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82016/1.0
+- name: broriot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82018/1.0

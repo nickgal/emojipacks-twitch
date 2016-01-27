@@ -25,6 +25,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49901/1.0
 - name: tesshug
   src: https://static-cdn.jtvnw.net/emoticons/v1/49902/1.0
+- name: tesslurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81718/1.0
 - name: tessomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/80963/1.0
 - name: tessfail

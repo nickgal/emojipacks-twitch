@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ozzyinspace
 emojis:
-- name: spacepaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81482/1.0
 - name: spacerocket
   src: https://static-cdn.jtvnw.net/emoticons/v1/79479/1.0
 - name: spacesun
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79485/1.0
 - name: spacewoof
   src: https://static-cdn.jtvnw.net/emoticons/v1/79486/1.0
+- name: spacepaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81761/1.0
+- name: spacerekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82136/1.0
+- name: spacedance
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82135/1.0

@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - imburundi
 emojis:
 - name: burunamm
   src: https://static-cdn.jtvnw.net/emoticons/v1/78833/1.0
+- name: burufail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81604/1.0
 - name: buruhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/78785/1.0
 - name: burumija
   src: https://static-cdn.jtvnw.net/emoticons/v1/78854/1.0
 - name: burulove
   src: https://static-cdn.jtvnw.net/emoticons/v1/78853/1.0
+- name: buruthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82085/1.0

@@ -17,6 +17,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34663/1.0
 - name: spenwc
   src: https://static-cdn.jtvnw.net/emoticons/v1/76662/1.0
+- name: spendimi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81618/1.0
+- name: spenbang
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81620/1.0
+- name: spenleg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81621/1.0
 - name: spengold
   src: https://static-cdn.jtvnw.net/emoticons/v1/70992/1.0
 - name: spenseb
@@ -27,3 +33,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76664/1.0
 - name: spensaund
   src: https://static-cdn.jtvnw.net/emoticons/v1/79951/1.0
+- name: spenjoey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81616/1.0
+- name: spenro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81626/1.0

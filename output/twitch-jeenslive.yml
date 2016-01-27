@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - jeenslive
 emojis:
+- name: jeenspride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81638/1.0
 - name: jeensfun
   src: https://static-cdn.jtvnw.net/emoticons/v1/77163/1.0
 - name: jeensrage

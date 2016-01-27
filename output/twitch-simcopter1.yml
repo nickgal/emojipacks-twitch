@@ -19,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80541/1.0
 - name: simfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/80749/1.0
+- name: simbroken
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81694/1.0

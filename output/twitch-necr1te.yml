@@ -11,5 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81173/1.0
 - name: necship
   src: https://static-cdn.jtvnw.net/emoticons/v1/81216/1.0
-- name: neclogo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81214/1.0
+- name: necboom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81873/1.0
+- name: nectato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81874/1.0
+- name: nechype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81852/1.0

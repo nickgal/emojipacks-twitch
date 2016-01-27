@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41887/1.0
 - name: planetnope
   src: https://static-cdn.jtvnw.net/emoticons/v1/42040/1.0
-- name: planetfear
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42075/1.0
 - name: planetrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/42076/1.0
 - name: planetbroken
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44534/1.0
 - name: planetsalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/58362/1.0
+- name: planetbawk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81787/1.0

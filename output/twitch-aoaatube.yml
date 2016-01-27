@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - aoaatube
 emojis:
 - name: aoaagold
   src: https://static-cdn.jtvnw.net/emoticons/v1/40029/1.0
-- name: aoaamate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40026/1.0
 - name: aoaacarlton
   src: https://static-cdn.jtvnw.net/emoticons/v1/50207/1.0
 - name: aoaa555
@@ -13,7 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79983/1.0
 - name: aoaab
   src: https://static-cdn.jtvnw.net/emoticons/v1/64391/1.0
-- name: aoaalove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64389/1.0
-- name: aoaaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64388/1.0
+- name: aoaa4head
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82029/1.0
+- name: aoaanose
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82045/1.0

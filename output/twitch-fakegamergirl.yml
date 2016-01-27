@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - fakegamergirl
 emojis:
-- name: fgglovediamond
+- name: fakeggdiamond
   src: https://static-cdn.jtvnw.net/emoticons/v1/81447/1.0
-- name: fgglovelove
+- name: fakegglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/81445/1.0
+- name: fakeggwine
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81566/1.0
+- name: fakeggcurse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81567/1.0

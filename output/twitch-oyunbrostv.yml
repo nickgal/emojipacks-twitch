@@ -9,6 +9,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54850/1.0
 - name: togikabiz
   src: https://static-cdn.jtvnw.net/emoticons/v1/54849/1.0
+- name: togirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81557/1.0
+- name: togikedi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81559/1.0
 - name: togisu
   src: https://static-cdn.jtvnw.net/emoticons/v1/42078/1.0
 - name: togiminati
@@ -21,3 +25,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71613/1.0
 - name: togiwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/78202/1.0
+- name: togiselam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81818/1.0

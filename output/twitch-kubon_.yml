@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - kubon_
 emojis:
-- name: kubonkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12128/1.0
 - name: kubonlatwo
   src: https://static-cdn.jtvnw.net/emoticons/v1/15064/1.0
 - name: kubonkrul
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80641/1.0
 - name: kuboncz
   src: https://static-cdn.jtvnw.net/emoticons/v1/80643/1.0
+- name: kubonbonobo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82027/1.0

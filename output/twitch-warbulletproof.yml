@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - warbulletproof
 emojis:
 - name: ldrswet
   src: https://static-cdn.jtvnw.net/emoticons/v1/81200/1.0
+- name: ldrmongrel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81595/1.0
 - name: ldrkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/81302/1.0
 - name: ldrlion

@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74638/1.0
 - name: vsatlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/49349/1.0
-- name: vsatcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49350/1.0
 - name: vsathype
   src: https://static-cdn.jtvnw.net/emoticons/v1/49351/1.0
 - name: vsatcreep
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69835/1.0
 - name: vsatay
   src: https://static-cdn.jtvnw.net/emoticons/v1/80991/1.0
+- name: vsatduck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82111/1.0

@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75511/1.0
 - name: tarikrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/75509/1.0
-- name: tarikkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75506/1.0
 - name: tarikayy
   src: https://static-cdn.jtvnw.net/emoticons/v1/80275/1.0
 - name: tarikbuggin
@@ -29,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80256/1.0
 - name: tarikyell
   src: https://static-cdn.jtvnw.net/emoticons/v1/81486/1.0
+- name: tarikross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82084/1.0
+- name: tariksmart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82082/1.0

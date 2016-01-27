@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31026/1.0
 - name: thechieffacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/33254/1.0
-- name: thechiefgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33780/1.0
 - name: thechiefbbc
   src: https://static-cdn.jtvnw.net/emoticons/v1/33835/1.0
 - name: thechiefcash
@@ -29,5 +27,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35892/1.0
 - name: thechiefderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/36227/1.0
-- name: thechieflee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79024/1.0
+- name: thechiefgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82032/1.0

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/21009/1.0
 - name: rawrkrew
   src: https://static-cdn.jtvnw.net/emoticons/v1/21088/1.0
-- name: rawrchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21197/1.0
 - name: rawreevee
   src: https://static-cdn.jtvnw.net/emoticons/v1/21499/1.0
 - name: rawrhype
@@ -15,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68769/1.0
 - name: rawrgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/70048/1.0
+- name: rawrwink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81882/1.0
+- name: rawrcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81677/1.0

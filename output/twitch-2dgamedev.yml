@@ -5,9 +5,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71132/1.0
 - name: asdfpuke
   src: https://static-cdn.jtvnw.net/emoticons/v1/71141/1.0
-- name: asdfsigh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71457/1.0
 - name: asdfthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/73727/1.0
 - name: asdfpog
   src: https://static-cdn.jtvnw.net/emoticons/v1/74075/1.0
+- name: asdfpete
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82189/1.0
+- name: asdfbuns
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82188/1.0

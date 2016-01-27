@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - lunskee
 emojis:
 - name: skeepeace
   src: https://static-cdn.jtvnw.net/emoticons/v1/53831/1.0
-- name: skeelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81190/1.0
 - name: skeederp
   src: https://static-cdn.jtvnw.net/emoticons/v1/81188/1.0
 - name: skeelego
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60688/1.0
 - name: skeethump
   src: https://static-cdn.jtvnw.net/emoticons/v1/72709/1.0
+- name: skeelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81866/1.0

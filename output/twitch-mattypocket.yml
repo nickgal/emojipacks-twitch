@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mattypocket
 emojis:
-- name: mattychicken
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4518/1.0
 - name: mattyflex
   src: https://static-cdn.jtvnw.net/emoticons/v1/4512/1.0
 - name: mattyrage
@@ -29,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44080/1.0
 - name: mattypolice
   src: https://static-cdn.jtvnw.net/emoticons/v1/65376/1.0
+- name: mattytiny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81865/1.0
+- name: matty1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81930/1.0

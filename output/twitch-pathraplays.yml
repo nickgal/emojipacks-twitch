@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - pathraplays
 emojis:
+- name: pathrahi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81588/1.0
 - name: pathrarekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/78285/1.0
 - name: pathrapogchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/78286/1.0
+- name: pathrapleb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81591/1.0

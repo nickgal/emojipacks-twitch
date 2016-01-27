@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - odeag
 emojis:
+- name: odeagpumpkin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81774/1.0
 - name: odeaghype
   src: https://static-cdn.jtvnw.net/emoticons/v1/80081/1.0
 - name: odeagkkona
   src: https://static-cdn.jtvnw.net/emoticons/v1/80082/1.0
+- name: odeagwater
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81776/1.0
+- name: odeagdeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81777/1.0
+- name: odeagdank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81772/1.0

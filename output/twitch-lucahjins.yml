@@ -3,14 +3,10 @@ title: Twitch Subscriber Emotes - lucahjins
 emojis:
 - name: lucahballs
   src: https://static-cdn.jtvnw.net/emoticons/v1/10517/1.0
-- name: lucahjazz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10788/1.0
 - name: lucahgurl
   src: https://static-cdn.jtvnw.net/emoticons/v1/10805/1.0
 - name: lucahgoom
   src: https://static-cdn.jtvnw.net/emoticons/v1/12055/1.0
-- name: lucahnageki
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27721/1.0
 - name: lucahshuu
   src: https://static-cdn.jtvnw.net/emoticons/v1/27782/1.0
 - name: lucahwing
@@ -19,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48677/1.0
 - name: lucahtaco
   src: https://static-cdn.jtvnw.net/emoticons/v1/48899/1.0
+- name: lucahdog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81911/1.0
+- name: lucahhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82064/1.0
+- name: lucahjasdog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82073/1.0

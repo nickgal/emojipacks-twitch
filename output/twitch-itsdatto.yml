@@ -3,18 +3,12 @@ title: Twitch Subscriber Emotes - itsdatto
 emojis:
 - name: dattomaster
   src: https://static-cdn.jtvnw.net/emoticons/v1/19676/1.0
-- name: dattosoak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19760/1.0
-- name: dattoblitz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22096/1.0
 - name: dattocaww
   src: https://static-cdn.jtvnw.net/emoticons/v1/27934/1.0
 - name: dattomc
   src: https://static-cdn.jtvnw.net/emoticons/v1/64727/1.0
 - name: dattodeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/29141/1.0
-- name: dattonocheese
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32803/1.0
 - name: dattoleg
   src: https://static-cdn.jtvnw.net/emoticons/v1/49365/1.0
 - name: dattostar
@@ -27,3 +21,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68315/1.0
 - name: dattohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71688/1.0
+- name: dattonc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81767/1.0
+- name: dattosoak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81768/1.0
+- name: dattob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81769/1.0

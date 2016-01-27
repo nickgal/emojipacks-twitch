@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - silent3m
 emojis:
 - name: silent3mchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/51332/1.0
-- name: silent3mmethod
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50249/1.0
 - name: silent3mpalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/51026/1.0
 - name: silent3mwhiff

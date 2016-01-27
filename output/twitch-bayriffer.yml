@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - bayriffer
 emojis:
+- name: brffacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81600/1.0
 - name: brfoyeah
   src: https://static-cdn.jtvnw.net/emoticons/v1/78745/1.0
 - name: brfgrin
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80572/1.0
 - name: brfshock
   src: https://static-cdn.jtvnw.net/emoticons/v1/78919/1.0
+- name: brfterrify
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81601/1.0

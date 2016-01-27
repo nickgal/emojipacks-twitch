@@ -23,11 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38678/1.0
 - name: mgsduck
   src: https://static-cdn.jtvnw.net/emoticons/v1/45294/1.0
-- name: mgsole
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45292/1.0
 - name: mgsreally
   src: https://static-cdn.jtvnw.net/emoticons/v1/63573/1.0
 - name: mgsmn
   src: https://static-cdn.jtvnw.net/emoticons/v1/64283/1.0
 - name: mgsout
   src: https://static-cdn.jtvnw.net/emoticons/v1/63859/1.0
+- name: mgssu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81825/1.0

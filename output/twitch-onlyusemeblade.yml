@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - onlyusemeblade
 emojis:
-- name: bladefastmode
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16927/1.0
 - name: blademall
   src: https://static-cdn.jtvnw.net/emoticons/v1/16928/1.0
 - name: bladepeace
@@ -15,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/21170/1.0
 - name: bladeboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/38528/1.0
+- name: bladehy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82105/1.0
+- name: bladepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82106/1.0

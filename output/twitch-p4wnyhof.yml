@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - p4wnyhof
 emojis:
 - name: pownybutsh
   src: https://static-cdn.jtvnw.net/emoticons/v1/33096/1.0
-- name: pownysanta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75516/1.0
 - name: pownyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/70754/1.0
 - name: pownyja
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80718/1.0
 - name: pownyh
   src: https://static-cdn.jtvnw.net/emoticons/v1/80987/1.0
+- name: pownyg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81943/1.0

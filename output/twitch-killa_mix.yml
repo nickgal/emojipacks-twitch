@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - killa_mix
 emojis:
+- name: mixpulsecereal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81640/1.0
 - name: mixboba
   src: https://static-cdn.jtvnw.net/emoticons/v1/77762/1.0
 - name: mixthermal

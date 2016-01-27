@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50923/1.0
 - name: adrarmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/50916/1.0
-- name: adrchair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53610/1.0
 - name: adrturnup
   src: https://static-cdn.jtvnw.net/emoticons/v1/53602/1.0
 - name: adrdonate
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53464/1.0
 - name: adrlarry
   src: https://static-cdn.jtvnw.net/emoticons/v1/62469/1.0
+- name: adrchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81813/1.0

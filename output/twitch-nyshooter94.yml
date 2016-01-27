@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - nyshooter94
 emojis:
+- name: shooterhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81756/1.0
 - name: shooterking
   src: https://static-cdn.jtvnw.net/emoticons/v1/38762/1.0
 - name: shooterheul
@@ -9,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76575/1.0
 - name: shooteromg
   src: https://static-cdn.jtvnw.net/emoticons/v1/71304/1.0
-- name: shooterhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71303/1.0
 - name: shooteroha
   src: https://static-cdn.jtvnw.net/emoticons/v1/72318/1.0
 - name: shootermoney

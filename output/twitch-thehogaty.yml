@@ -1,9 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - thehogaty
 emojis:
-- name: hogatyserio
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38574/1.0
 - name: hogatyniezle
   src: https://static-cdn.jtvnw.net/emoticons/v1/38576/1.0
+- name: hogatykappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81719/1.0
 - name: hogatyrak
   src: https://static-cdn.jtvnw.net/emoticons/v1/81377/1.0
+- name: hogatygimb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81717/1.0

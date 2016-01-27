@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - lefrenchstallion
 emojis:
-- name: lfst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61404/1.0
 - name: lfsb
   src: https://static-cdn.jtvnw.net/emoticons/v1/37267/1.0
 - name: lfsn
@@ -13,11 +11,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57538/1.0
 - name: lfsl
   src: https://static-cdn.jtvnw.net/emoticons/v1/59620/1.0
-- name: lfsw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60178/1.0
 - name: lfsh
   src: https://static-cdn.jtvnw.net/emoticons/v1/60172/1.0
-- name: lfsu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60168/1.0
+- name: lfst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81964/1.0
+- name: lfsc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81939/1.0
+- name: lfse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81940/1.0
+- name: lfsk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81941/1.0
 - name: lfsf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60170/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81967/1.0
+- name: lfsa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81942/1.0
+- name: lfsw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81962/1.0
+- name: lfsy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81944/1.0
+- name: lfsu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82031/1.0

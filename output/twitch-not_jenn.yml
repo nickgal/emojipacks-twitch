@@ -11,7 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79924/1.0
 - name: notw
   src: https://static-cdn.jtvnw.net/emoticons/v1/79117/1.0
-- name: notbuddy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79128/1.0
 - name: nothey
   src: https://static-cdn.jtvnw.net/emoticons/v1/79648/1.0
+- name: notbuddy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81806/1.0
+- name: nothype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81807/1.0

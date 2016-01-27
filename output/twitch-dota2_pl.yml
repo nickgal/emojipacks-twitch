@@ -1,7 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - dota2_pl
 emojis:
-- name: dota2plhuehue
+- name: d2tvhuehue
   src: https://static-cdn.jtvnw.net/emoticons/v1/31947/1.0
-- name: dota2plhi
+- name: d2tvhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/30656/1.0
+- name: d2tvustawione
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81707/1.0
+- name: d2tvgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81706/1.0
+- name: d2tv322
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81705/1.0

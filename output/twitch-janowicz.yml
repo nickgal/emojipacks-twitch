@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - janowicz
 emojis:
+- name: janowiczrap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82057/1.0
 - name: janowiczhmt
   src: https://static-cdn.jtvnw.net/emoticons/v1/80243/1.0
 - name: janowiczlol
   src: https://static-cdn.jtvnw.net/emoticons/v1/80254/1.0
+- name: janowiczace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82054/1.0

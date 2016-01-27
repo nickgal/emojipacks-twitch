@@ -2,14 +2,10 @@
 title: Twitch Subscriber Emotes - xxevokexx
 emojis:
 - name: evokelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23118/1.0
-- name: evokecreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23618/1.0
-- name: evoketopato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23513/1.0
-- name: evokemre
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23384/1.0
-- name: evokerekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25812/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81775/1.0
 - name: evokewut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26102/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81778/1.0
+- name: evokethump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81773/1.0
+- name: evokerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82013/1.0

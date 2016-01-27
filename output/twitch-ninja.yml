@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45734/1.0
 - name: ninjarekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/45243/1.0
-- name: ninjaliquid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50322/1.0
 - name: ninjarip
   src: https://static-cdn.jtvnw.net/emoticons/v1/53163/1.0
 - name: ninjacreep
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79913/1.0
 - name: ninjagg
   src: https://static-cdn.jtvnw.net/emoticons/v1/79914/1.0
+- name: ninjarng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/81788/1.0
