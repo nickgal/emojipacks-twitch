@@ -49,8 +49,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/973/1.0
 - name: dansgame
   src: https://static-cdn.jtvnw.net/emoticons/v1/33/1.0
-- name: dathass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20225/1.0
 - name: datsheffy
   src: https://static-cdn.jtvnw.net/emoticons/v1/170/1.0
 - name: dbstyle
@@ -91,6 +89,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32/1.0
 - name: grammarking
   src: https://static-cdn.jtvnw.net/emoticons/v1/3632/1.0
+- name: hassaanchop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/20225/1.0
 - name: hassanchop
   src: https://static-cdn.jtvnw.net/emoticons/v1/68/1.0
 - name: heyguys
