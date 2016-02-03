@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - mattieew
 emojis:
 - name: mattyehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/75647/1.0
-- name: mattyerage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74609/1.0
-- name: mattyerekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74201/1.0
 - name: mattyefacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/81726/1.0
 - name: mattyehi
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80738/1.0
 - name: mattyecry
   src: https://static-cdn.jtvnw.net/emoticons/v1/82070/1.0
+- name: mattyerage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82768/1.0
+- name: mattyerekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82769/1.0

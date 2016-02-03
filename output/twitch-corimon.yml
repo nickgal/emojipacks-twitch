@@ -1,5 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - corimon
 emojis:
+- name: coriblip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82498/1.0
 - name: corismesh
   src: https://static-cdn.jtvnw.net/emoticons/v1/82138/1.0
+- name: coriyas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82953/1.0

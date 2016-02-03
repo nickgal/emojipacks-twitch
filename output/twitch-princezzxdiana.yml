@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59244/1.0
 - name: dianapls
   src: https://static-cdn.jtvnw.net/emoticons/v1/60127/1.0
-- name: dianawow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61260/1.0
 - name: dianaangel
   src: https://static-cdn.jtvnw.net/emoticons/v1/58922/1.0
 - name: dianahug
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78116/1.0
 - name: dianapizza
   src: https://static-cdn.jtvnw.net/emoticons/v1/78117/1.0
+- name: dianabailey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82949/1.0

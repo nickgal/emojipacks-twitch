@@ -25,9 +25,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44810/1.0
 - name: wntrgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/44809/1.0
-- name: wntrsellout
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62516/1.0
-- name: wntrgotem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62420/1.0
 - name: wntrwall
   src: https://static-cdn.jtvnw.net/emoticons/v1/66443/1.0
+- name: wntrmoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82623/1.0
+- name: wntrdirty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82624/1.0

@@ -1,18 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - grossie_gore
 emojis:
-- name: grossfailfishgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5408/1.0
 - name: grossggpenta
   src: https://static-cdn.jtvnw.net/emoticons/v1/5417/1.0
 - name: grosswildcards
   src: https://static-cdn.jtvnw.net/emoticons/v1/5516/1.0
 - name: grossdravendoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/5514/1.0
-- name: grossblokeface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20297/1.0
-- name: grosslate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24303/1.0
 - name: grossfeet
   src: https://static-cdn.jtvnw.net/emoticons/v1/55595/1.0
 - name: grossrekt
@@ -21,13 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55596/1.0
 - name: grossok
   src: https://static-cdn.jtvnw.net/emoticons/v1/70899/1.0
+- name: grossfp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82487/1.0
 - name: grosskappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/55593/1.0
-- name: grosshat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58038/1.0
 - name: grosswelcome
   src: https://static-cdn.jtvnw.net/emoticons/v1/58911/1.0
 - name: grosspolice
   src: https://static-cdn.jtvnw.net/emoticons/v1/58909/1.0
 - name: grossshutup
   src: https://static-cdn.jtvnw.net/emoticons/v1/63055/1.0
+- name: gross33
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82485/1.0
+- name: grossja
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82489/1.0
+- name: grossderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82484/1.0

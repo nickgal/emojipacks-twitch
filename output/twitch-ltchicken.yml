@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - ltchicken
 emojis:
 - name: ltcthirsty
   src: https://static-cdn.jtvnw.net/emoticons/v1/80220/1.0
-- name: ltcjamfam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80397/1.0
-- name: ltcgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80178/1.0
 - name: ltccreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/79879/1.0
 - name: ltclove
   src: https://static-cdn.jtvnw.net/emoticons/v1/79813/1.0
 - name: ltcvape
   src: https://static-cdn.jtvnw.net/emoticons/v1/80894/1.0
+- name: ltcloops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83128/1.0
+- name: ltchype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83208/1.0
+- name: ltcgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83212/1.0
+- name: ltcjamfam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83134/1.0

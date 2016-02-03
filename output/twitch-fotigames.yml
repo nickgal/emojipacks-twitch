@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62370/1.0
 - name: fotilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/62367/1.0
-- name: fotirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62408/1.0
 - name: foti7
   src: https://static-cdn.jtvnw.net/emoticons/v1/62366/1.0
 - name: fotiounce
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66035/1.0
 - name: fotistacks
   src: https://static-cdn.jtvnw.net/emoticons/v1/81757/1.0
+- name: fotikhaan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82340/1.0

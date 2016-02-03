@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - shockuhfytv
 emojis:
+- name: shockmdsheesh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82533/1.0
+- name: shockmdace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82532/1.0
 - name: shockmd24
   src: https://static-cdn.jtvnw.net/emoticons/v1/82058/1.0
 - name: shockmddonation

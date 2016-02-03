@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ven0mkisser
 emojis:
-- name: ven0mscream
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6919/1.0
 - name: ven0msucks
   src: https://static-cdn.jtvnw.net/emoticons/v1/10242/1.0
 - name: ven0msend
@@ -11,9 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34926/1.0
 - name: ven0mw
   src: https://static-cdn.jtvnw.net/emoticons/v1/47821/1.0
-- name: ven0msss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60815/1.0
 - name: ven0mdont
   src: https://static-cdn.jtvnw.net/emoticons/v1/60003/1.0
 - name: ven0mworry
   src: https://static-cdn.jtvnw.net/emoticons/v1/60004/1.0
+- name: ven0mhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83286/1.0
+- name: ven0maye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83287/1.0

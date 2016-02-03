@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - inostupid
 emojis:
-- name: inobakedpotato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61963/1.0
-- name: inomagicwand
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61960/1.0
+- name: inothump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82527/1.0
+- name: inoderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82528/1.0
 - name: inodil
   src: https://static-cdn.jtvnw.net/emoticons/v1/62094/1.0
 - name: inonoob
@@ -19,5 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73103/1.0
 - name: inoomc
   src: https://static-cdn.jtvnw.net/emoticons/v1/82154/1.0
-- name: inostupid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82155/1.0
+- name: inorip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82526/1.0

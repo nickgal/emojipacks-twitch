@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - santzo84
 emojis:
 - name: santzogamepls
   src: https://static-cdn.jtvnw.net/emoticons/v1/1893/1.0
-- name: santzoshovel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2318/1.0
 - name: santzoomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/3553/1.0
 - name: santzopuju
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/11424/1.0
 - name: santzosubmec
   src: https://static-cdn.jtvnw.net/emoticons/v1/75149/1.0
+- name: santzorip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82881/1.0

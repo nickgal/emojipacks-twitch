@@ -9,6 +9,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/13626/1.0
 - name: singstarbucks
   src: https://static-cdn.jtvnw.net/emoticons/v1/13627/1.0
+- name: singgasm2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82362/1.0
+- name: singgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82360/1.0
 - name: singsinged
   src: https://static-cdn.jtvnw.net/emoticons/v1/25937/1.0
 - name: singnasus
@@ -19,13 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32862/1.0
 - name: sing6
   src: https://static-cdn.jtvnw.net/emoticons/v1/38399/1.0
-- name: singh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38400/1.0
 - name: singwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/55538/1.0
-- name: singgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68310/1.0
 - name: singkiss
   src: https://static-cdn.jtvnw.net/emoticons/v1/82167/1.0
 - name: singheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/82194/1.0
+- name: singcherry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82208/1.0

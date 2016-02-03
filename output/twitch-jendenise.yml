@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - jendenise
 emojis:
 - name: jenheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/13638/1.0
-- name: jensif
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15028/1.0
 - name: jenrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/55319/1.0
 - name: jendrool
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66065/1.0
 - name: jenbooty
   src: https://static-cdn.jtvnw.net/emoticons/v1/77803/1.0
+- name: jensif
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82296/1.0

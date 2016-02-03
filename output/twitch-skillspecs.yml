@@ -7,18 +7,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/4236/1.0
 - name: skillrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/4253/1.0
-- name: skillspec
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10571/1.0
 - name: skillsmorc
   src: https://static-cdn.jtvnw.net/emoticons/v1/49057/1.0
-- name: skillrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49830/1.0
 - name: skilldead
   src: https://static-cdn.jtvnw.net/emoticons/v1/49816/1.0
-- name: skillrisk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49810/1.0
-- name: skill25
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49809/1.0
 - name: skilllove
   src: https://static-cdn.jtvnw.net/emoticons/v1/49847/1.0
 - name: skill0
@@ -27,7 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30545/1.0
 - name: skill73
   src: https://static-cdn.jtvnw.net/emoticons/v1/51913/1.0
-- name: skilldream
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50010/1.0
-- name: skillfire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50006/1.0
+- name: skillopie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83104/1.0

@@ -1,12 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - aleria1992
 emojis:
-- name: alebadger
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58962/1.0
 - name: alerumiin
   src: https://static-cdn.jtvnw.net/emoticons/v1/36161/1.0
-- name: alesao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52743/1.0
+- name: aleshoro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82465/1.0
 - name: aleoups
   src: https://static-cdn.jtvnw.net/emoticons/v1/52872/1.0
 - name: alesusto
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60143/1.0
 - name: alehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/82046/1.0
+- name: alehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82950/1.0

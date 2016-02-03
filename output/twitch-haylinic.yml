@@ -7,22 +7,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79925/1.0
 - name: haylipanty
   src: https://static-cdn.jtvnw.net/emoticons/v1/56523/1.0
-- name: haylirip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40888/1.0
-- name: haylicarrot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40952/1.0
 - name: haylibdr
   src: https://static-cdn.jtvnw.net/emoticons/v1/40083/1.0
-- name: haylijosie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40081/1.0
-- name: haylimic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40098/1.0
-- name: haylihype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40108/1.0
 - name: haylilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/40110/1.0
-- name: haylisalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42171/1.0
 - name: haylirage
   src: https://static-cdn.jtvnw.net/emoticons/v1/80089/1.0
 - name: hayliorion
@@ -31,3 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80091/1.0
 - name: hayliw
   src: https://static-cdn.jtvnw.net/emoticons/v1/73173/1.0
+- name: haylivalla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82321/1.0
+- name: haylijosie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82320/1.0
+- name: haylichoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82319/1.0
+- name: haylihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82324/1.0
+- name: haylirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82323/1.0
+- name: haylisalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82322/1.0

@@ -1,6 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - weplaywot
 emojis:
+- name: wpwotolenb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82358/1.0
+- name: wpwottush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82858/1.0
+- name: wpwotche
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82356/1.0
+- name: wpwotstul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82860/1.0
 - name: wpwotezh
   src: https://static-cdn.jtvnw.net/emoticons/v1/80309/1.0
 - name: wpwotbravo

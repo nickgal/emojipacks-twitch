@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - xionikandsheyrah
 emojis:
-- name: xionsniped
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79853/1.0
 - name: xiongold
   src: https://static-cdn.jtvnw.net/emoticons/v1/79855/1.0
-- name: xionheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79881/1.0
 - name: xionrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/79693/1.0
 - name: xionding
   src: https://static-cdn.jtvnw.net/emoticons/v1/79699/1.0
+- name: xionheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83227/1.0
+- name: xionsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83292/1.0
+- name: xionsniped
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83218/1.0

@@ -1,9 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - slavdarussian
 emojis:
+- name: slavpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82941/1.0
+- name: slavhax
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83184/1.0
+- name: slavgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82939/1.0
 - name: slavlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70831/1.0
-- name: slavbooty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70832/1.0
-- name: slavshots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70836/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82937/1.0
+- name: slavrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82944/1.0
+- name: slavsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83265/1.0
+- name: slavhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82945/1.0

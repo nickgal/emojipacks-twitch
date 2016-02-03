@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - casteas16
 emojis:
+- name: coblol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82695/1.0
 - name: cobkap
   src: https://static-cdn.jtvnw.net/emoticons/v1/24024/1.0
-- name: coboos
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24028/1.0
-- name: cobfull
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24871/1.0
 - name: cobgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/29823/1.0
 - name: cobkonk
   src: https://static-cdn.jtvnw.net/emoticons/v1/56374/1.0
 - name: cobteam
   src: https://static-cdn.jtvnw.net/emoticons/v1/44179/1.0
+- name: coblost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82697/1.0

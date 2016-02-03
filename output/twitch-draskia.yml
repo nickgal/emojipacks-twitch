@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - draskia
 emojis:
+- name: drascat1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82394/1.0
+- name: drascat2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82395/1.0
 - name: drasderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/71167/1.0
 - name: drasmort

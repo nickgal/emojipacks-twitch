@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - killingbird
 emojis:
+- name: kbirdboom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82684/1.0
 - name: kbirdladders
   src: https://static-cdn.jtvnw.net/emoticons/v1/64965/1.0
 - name: kbirdcheers

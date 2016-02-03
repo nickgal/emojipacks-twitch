@@ -11,6 +11,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57959/1.0
 - name: keysalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/57958/1.0
+- name: keycrit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82812/1.0
 - name: keywhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/63021/1.0
 - name: keyw

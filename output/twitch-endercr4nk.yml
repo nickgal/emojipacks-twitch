@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - endercr4nk
 emojis:
-- name: endersub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67999/1.0
 - name: endernice
   src: https://static-cdn.jtvnw.net/emoticons/v1/72716/1.0
+- name: enderhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82878/1.0
+- name: endergeld
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82859/1.0

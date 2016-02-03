@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - luckyy_and_buttwipe
 emojis:
-- name: labfak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78486/1.0
 - name: labsuccess
   src: https://static-cdn.jtvnw.net/emoticons/v1/64656/1.0
+- name: labsmart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82750/1.0
 - name: labfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/78487/1.0
 - name: labmlg
@@ -31,13 +31,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78885/1.0
 - name: lablol
   src: https://static-cdn.jtvnw.net/emoticons/v1/80456/1.0
+- name: labsauce
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82633/1.0
+- name: labdoit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82637/1.0
+- name: labyouwont
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82638/1.0
 - name: lablit
   src: https://static-cdn.jtvnw.net/emoticons/v1/81804/1.0
-- name: lab1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81797/1.0
-- name: lab2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81798/1.0
-- name: labdrdoak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82182/1.0
-- name: labshh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82180/1.0

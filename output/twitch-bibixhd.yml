@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65862/1.0
 - name: bibmdr
   src: https://static-cdn.jtvnw.net/emoticons/v1/18189/1.0
-- name: bibmorphine
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24145/1.0
 - name: bibnewsubs
   src: https://static-cdn.jtvnw.net/emoticons/v1/24259/1.0
 - name: bibmort
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62040/1.0
 - name: bibjk
   src: https://static-cdn.jtvnw.net/emoticons/v1/77573/1.0
+- name: bibinfo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82284/1.0

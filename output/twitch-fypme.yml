@@ -1,15 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - fypme
 emojis:
-- name: fypclap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81123/1.0
 - name: fypwg
   src: https://static-cdn.jtvnw.net/emoticons/v1/80368/1.0
-- name: fypclap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81262/1.0
+- name: fypmoist
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82741/1.0
 - name: fypten
   src: https://static-cdn.jtvnw.net/emoticons/v1/80401/1.0
+- name: fyplove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82646/1.0
 - name: fypboo
   src: https://static-cdn.jtvnw.net/emoticons/v1/80983/1.0
 - name: fyppos
   src: https://static-cdn.jtvnw.net/emoticons/v1/81864/1.0
+- name: fyprip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82647/1.0
+- name: fypclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83210/1.0
+- name: fyprich
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83217/1.0

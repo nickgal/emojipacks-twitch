@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - sup0w
 emojis:
-- name: sup0wgchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79054/1.0
+- name: sup0wthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82722/1.0
+- name: sup0wrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82724/1.0
+- name: sup0wcool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82726/1.0
 - name: sup0wc
   src: https://static-cdn.jtvnw.net/emoticons/v1/79052/1.0
-- name: sup0wbrokeback
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79051/1.0
-- name: sup0wgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78690/1.0
 - name: sup0ww
   src: https://static-cdn.jtvnw.net/emoticons/v1/78691/1.0
+- name: sup0wl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82723/1.0

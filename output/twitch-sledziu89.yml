@@ -1,8 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - sledziu89
 emojis:
-- name: sledzpw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77294/1.0
+- name: sledzhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82652/1.0
+- name: sledzwojtek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82368/1.0
 - name: sledzfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/73858/1.0
 - name: sledzbiceps
@@ -11,5 +13,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73485/1.0
 - name: sledzpolska
   src: https://static-cdn.jtvnw.net/emoticons/v1/77100/1.0
-- name: sledzlag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77102/1.0

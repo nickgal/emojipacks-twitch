@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - kaeinplay
 emojis:
-- name: kaeinwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72485/1.0
 - name: kaein7
   src: https://static-cdn.jtvnw.net/emoticons/v1/72237/1.0
 - name: kaeinskept
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77436/1.0
 - name: kaeinrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/77442/1.0
+- name: kaeinyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82628/1.0

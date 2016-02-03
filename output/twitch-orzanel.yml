@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - orzanel
 emojis:
 - name: orzcaravan
   src: https://static-cdn.jtvnw.net/emoticons/v1/14633/1.0
-- name: orzseal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14370/1.0
 - name: orzriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/14389/1.0
 - name: orzfappa
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47164/1.0
 - name: orzkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/47419/1.0
+- name: orzpizza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82303/1.0

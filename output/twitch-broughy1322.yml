@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - broughy1322
 emojis:
 - name: broughyfacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/47993/1.0
-- name: broughyraceface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47994/1.0
 - name: broughyorange
   src: https://static-cdn.jtvnw.net/emoticons/v1/49338/1.0
 - name: broughyscum
   src: https://static-cdn.jtvnw.net/emoticons/v1/49621/1.0
+- name: broughychoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82801/1.0
 - name: broughygg
   src: https://static-cdn.jtvnw.net/emoticons/v1/72211/1.0
 - name: broughylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/72212/1.0
+- name: broughyrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82804/1.0
+- name: broughyshocked
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82803/1.0

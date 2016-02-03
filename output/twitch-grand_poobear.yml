@@ -7,6 +7,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75567/1.0
 - name: poogasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/76576/1.0
+- name: poonai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82581/1.0
 - name: poogress
   src: https://static-cdn.jtvnw.net/emoticons/v1/80163/1.0
 - name: pooluminati
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76747/1.0
 - name: poo2
   src: https://static-cdn.jtvnw.net/emoticons/v1/79884/1.0
+- name: pooswitch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82720/1.0

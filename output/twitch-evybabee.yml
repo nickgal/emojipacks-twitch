@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - evybabee
 emojis:
+- name: evyguitar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82835/1.0
+- name: evydev
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82834/1.0
 - name: evygstar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82140/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82435/1.0
 - name: evyfcee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82160/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82438/1.0

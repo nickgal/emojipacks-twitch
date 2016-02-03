@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - oliimgreen
 emojis:
-- name: oliimomawg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59227/1.0
-- name: oliimhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72409/1.0
 - name: oliimh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72206/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82640/1.0
+- name: oliimrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82641/1.0
 - name: oliimsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72207/1.0
-- name: oliimfafu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72208/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82642/1.0
+- name: oliimrlly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82643/1.0
+- name: oliimmaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82644/1.0
+- name: oliimhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82639/1.0

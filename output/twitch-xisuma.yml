@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - xisuma
 emojis:
-- name: xvxevilx
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45882/1.0
-- name: xvxnormalx
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45883/1.0
-- name: xvxomd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59815/1.0
-- name: xvxxisuminati
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58817/1.0
+- name: xvxbam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82849/1.0
+- name: xvxderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82853/1.0
+- name: xvxname
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82854/1.0
+- name: xvxear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82846/1.0
+- name: xvxevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82852/1.0
+- name: xvxeat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82851/1.0
+- name: xvxbanana
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82848/1.0
+- name: xvxtea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82847/1.0

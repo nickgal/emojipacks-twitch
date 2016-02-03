@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - alinationv
 emojis:
-- name: alinakappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15853/1.0
 - name: alinasol
   src: https://static-cdn.jtvnw.net/emoticons/v1/36171/1.0
 - name: alinav
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69901/1.0
 - name: alinahi
   src: https://static-cdn.jtvnw.net/emoticons/v1/69900/1.0
+- name: alinathump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82473/1.0

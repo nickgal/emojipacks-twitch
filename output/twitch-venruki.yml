@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/1772/1.0
 - name: rukicanadaeh
   src: https://static-cdn.jtvnw.net/emoticons/v1/1750/1.0
-- name: rukiharrykappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4481/1.0
 - name: rukismug
   src: https://static-cdn.jtvnw.net/emoticons/v1/7283/1.0
 - name: rukibuddy
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55741/1.0
 - name: rukigift
   src: https://static-cdn.jtvnw.net/emoticons/v1/74432/1.0
+- name: rukirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82491/1.0

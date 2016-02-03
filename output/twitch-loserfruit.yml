@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/16273/1.0
 - name: fruitlurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/75939/1.0
-- name: fruithype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75938/1.0
 - name: fruitwow
   src: https://static-cdn.jtvnw.net/emoticons/v1/75932/1.0
 - name: fruithey
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78321/1.0
 - name: fruitpunch
   src: https://static-cdn.jtvnw.net/emoticons/v1/78834/1.0
+- name: fruithype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82987/1.0

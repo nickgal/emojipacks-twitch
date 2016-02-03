@@ -11,9 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62015/1.0
 - name: getminty
   src: https://static-cdn.jtvnw.net/emoticons/v1/62023/1.0
-- name: getlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67350/1.0
 - name: gethype
   src: https://static-cdn.jtvnw.net/emoticons/v1/80251/1.0
-- name: getbodied
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81116/1.0
+- name: getlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83139/1.0
+- name: getthoroughlymemedupon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83140/1.0

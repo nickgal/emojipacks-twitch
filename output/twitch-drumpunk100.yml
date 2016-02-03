@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - drumpunk100
 emojis:
+- name: drumrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82479/1.0
 - name: drumhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67834/1.0
-- name: drumhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67832/1.0
-- name: drumgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74756/1.0
-- name: drumrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67368/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82477/1.0
 - name: drumlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67367/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82478/1.0
 - name: drumsticks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71626/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82481/1.0
+- name: drumhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82482/1.0
+- name: drumrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82483/1.0
+- name: drumgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82823/1.0
+- name: drumthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82824/1.0

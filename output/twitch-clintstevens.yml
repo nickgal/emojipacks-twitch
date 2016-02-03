@@ -5,6 +5,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70295/1.0
 - name: clintgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/71041/1.0
+- name: clint1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82563/1.0
+- name: clintdampe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82562/1.0
+- name: clint2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82735/1.0
 - name: clintfu
   src: https://static-cdn.jtvnw.net/emoticons/v1/70297/1.0
 - name: clintluv
@@ -23,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69874/1.0
 - name: clintw
   src: https://static-cdn.jtvnw.net/emoticons/v1/79976/1.0
+- name: clints
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82820/1.0

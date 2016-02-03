@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41420/1.0
 - name: retroslice
   src: https://static-cdn.jtvnw.net/emoticons/v1/41419/1.0
-- name: retrothose
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59025/1.0
 - name: retropu
   src: https://static-cdn.jtvnw.net/emoticons/v1/58825/1.0
 - name: retrohy
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58823/1.0
 - name: retrow
   src: https://static-cdn.jtvnw.net/emoticons/v1/58838/1.0
+- name: retroww
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82989/1.0

@@ -13,7 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37438/1.0
 - name: mlcsong
   src: https://static-cdn.jtvnw.net/emoticons/v1/37491/1.0
-- name: mlcc9
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37490/1.0
 - name: mlcfriend
   src: https://static-cdn.jtvnw.net/emoticons/v1/38944/1.0
+- name: mlczone
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83160/1.0
+- name: mlcw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83162/1.0
+- name: mlcsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83103/1.0

@@ -3,16 +3,8 @@ title: Twitch Subscriber Emotes - stiannorway
 emojis:
 - name: stiangrill
   src: https://static-cdn.jtvnw.net/emoticons/v1/62949/1.0
-- name: stianlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62943/1.0
-- name: stiangodjul
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65012/1.0
-- name: stianhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61277/1.0
 - name: stianlinja
   src: https://static-cdn.jtvnw.net/emoticons/v1/65009/1.0
-- name: stianrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61279/1.0
 - name: stiannydle
   src: https://static-cdn.jtvnw.net/emoticons/v1/61289/1.0
 - name: stiancheers
@@ -21,3 +13,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62092/1.0
 - name: stiantrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/63918/1.0
+- name: stianstemning
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82957/1.0
+- name: stiankjelleren
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82984/1.0
+- name: stianbronze
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82991/1.0

@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - czechcloud
 emojis:
-- name: zaludrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48997/1.0
-- name: zaludrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49823/1.0
 - name: zaludhearthy
   src: https://static-cdn.jtvnw.net/emoticons/v1/49824/1.0
 - name: zaludlethal
   src: https://static-cdn.jtvnw.net/emoticons/v1/39779/1.0
 - name: zaludw
   src: https://static-cdn.jtvnw.net/emoticons/v1/48300/1.0
-- name: zaludhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49098/1.0
-- name: zaludowl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82030/1.0
 - name: zaludzalud
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82028/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82826/1.0
+- name: zaludvev
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82829/1.0
+- name: zaludowl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83234/1.0

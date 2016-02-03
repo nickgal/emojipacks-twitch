@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - veerdose
 emojis:
 - name: babtousub
   src: https://static-cdn.jtvnw.net/emoticons/v1/53903/1.0
-- name: babtoufrite
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55925/1.0
 - name: babtougg
   src: https://static-cdn.jtvnw.net/emoticons/v1/54411/1.0
 - name: babtouthug
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64838/1.0
 - name: babtougameur
   src: https://static-cdn.jtvnw.net/emoticons/v1/69834/1.0
+- name: babtousalut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82715/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - goronguy
 emojis:
+- name: guyhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82761/1.0
+- name: guymagic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82566/1.0
 - name: guythebird
   src: https://static-cdn.jtvnw.net/emoticons/v1/73281/1.0
-- name: guysuspicious
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80799/1.0
+- name: guyayy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83313/1.0

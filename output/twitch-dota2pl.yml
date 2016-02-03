@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - dota2pl
 emojis:
-- name: d2ploczy
+- name: dota2pladam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82661/1.0
+- name: dota2ploczy
   src: https://static-cdn.jtvnw.net/emoticons/v1/79819/1.0

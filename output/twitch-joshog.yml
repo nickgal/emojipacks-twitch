@@ -49,10 +49,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58058/1.0
 - name: weedlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/45028/1.0
-- name: weedclaus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74656/1.0
-- name: weedfadeds
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74657/1.0
 - name: weedbomb
   src: https://static-cdn.jtvnw.net/emoticons/v1/58062/1.0
 - name: weedcarry
@@ -87,3 +83,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78851/1.0
 - name: weedtop
   src: https://static-cdn.jtvnw.net/emoticons/v1/81740/1.0
+- name: weedctop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82942/1.0
+- name: weedcool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83293/1.0
+- name: weedsmurf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83073/1.0

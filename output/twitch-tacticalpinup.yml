@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - tacticalpinup
 emojis:
+- name: pinupsalute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82500/1.0
 - name: pinuprage
   src: https://static-cdn.jtvnw.net/emoticons/v1/79476/1.0
 - name: pinuplove
@@ -11,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78940/1.0
 - name: pinupkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/79488/1.0
+- name: pinuprip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82502/1.0
+- name: pinuplewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82501/1.0

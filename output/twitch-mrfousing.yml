@@ -3,7 +3,11 @@ title: Twitch Subscriber Emotes - mrfousing
 emojis:
 - name: mrfsubgoal
   src: https://static-cdn.jtvnw.net/emoticons/v1/75934/1.0
+- name: mrfsubgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82423/1.0
 - name: mrfsubsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/74595/1.0
 - name: mrfsubgm
   src: https://static-cdn.jtvnw.net/emoticons/v1/74697/1.0
+- name: mrfsubwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82268/1.0

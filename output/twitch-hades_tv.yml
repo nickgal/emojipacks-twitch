@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - hades_tv
 emojis:
+- name: hadeshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82659/1.0
 - name: hadeseh
   src: https://static-cdn.jtvnw.net/emoticons/v1/24345/1.0
 - name: hadesflex

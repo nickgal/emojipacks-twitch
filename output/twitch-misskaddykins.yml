@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47603/1.0
 - name: kadbooty
   src: https://static-cdn.jtvnw.net/emoticons/v1/47605/1.0
-- name: kadspecklez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47604/1.0
 - name: kadhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/46995/1.0
 - name: kadsassy
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48937/1.0
 - name: kadhoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/65762/1.0
+- name: kadwot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82814/1.0

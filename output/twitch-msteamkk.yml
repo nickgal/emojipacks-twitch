@@ -13,6 +13,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64897/1.0
 - name: mskkhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68400/1.0
+- name: mskkcute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82751/1.0
 - name: mskksloth
   src: https://static-cdn.jtvnw.net/emoticons/v1/72587/1.0
 - name: mskklove
@@ -35,8 +37,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74558/1.0
 - name: mskkostrich
   src: https://static-cdn.jtvnw.net/emoticons/v1/74560/1.0
-- name: mskkcute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75272/1.0
 - name: mskkscared
   src: https://static-cdn.jtvnw.net/emoticons/v1/75278/1.0
 - name: mskkhug

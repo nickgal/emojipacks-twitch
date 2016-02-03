@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39397/1.0
 - name: clamsword
   src: https://static-cdn.jtvnw.net/emoticons/v1/47167/1.0
-- name: clamheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61637/1.0
 - name: claml
   src: https://static-cdn.jtvnw.net/emoticons/v1/62297/1.0
 - name: clamaugh
@@ -20,4 +18,6 @@ emojis:
 - name: clamgirl
   src: https://static-cdn.jtvnw.net/emoticons/v1/77785/1.0
 - name: clamfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77788/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83339/1.0
+- name: clamlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83340/1.0

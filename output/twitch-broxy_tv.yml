@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - broxy_tv
 emojis:
 - name: broxyanele
   src: https://static-cdn.jtvnw.net/emoticons/v1/60502/1.0
-- name: broxyr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61188/1.0
 - name: broxynullminati
   src: https://static-cdn.jtvnw.net/emoticons/v1/60516/1.0
 - name: broxys
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63464/1.0
 - name: broxyd
   src: https://static-cdn.jtvnw.net/emoticons/v1/63463/1.0
+- name: broxyr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82822/1.0

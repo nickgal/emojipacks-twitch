@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - annialis
 emojis:
-- name: annilewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65231/1.0
 - name: annisip
   src: https://static-cdn.jtvnw.net/emoticons/v1/64554/1.0
+- name: annicute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82614/1.0
 - name: annirage
   src: https://static-cdn.jtvnw.net/emoticons/v1/76398/1.0
 - name: annihi
@@ -13,7 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76399/1.0
 - name: annilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/76397/1.0
-- name: annilol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76396/1.0
 - name: annihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/76395/1.0
+- name: annigasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82613/1.0
+- name: annifeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82611/1.0
+- name: annilol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83315/1.0

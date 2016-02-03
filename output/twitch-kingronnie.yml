@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - kingronnie
 emojis:
-- name: ryx80ping
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29075/1.0
 - name: ryxflexin
   src: https://static-cdn.jtvnw.net/emoticons/v1/29074/1.0
-- name: ryxdealwithit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29073/1.0
 - name: ryxace
   src: https://static-cdn.jtvnw.net/emoticons/v1/29072/1.0
+- name: ryxfox
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82749/1.0
+- name: ryxspray
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82748/1.0
+- name: ryxlift
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82747/1.0
+- name: ryxp90
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82746/1.0

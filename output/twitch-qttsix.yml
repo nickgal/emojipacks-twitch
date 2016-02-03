@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - qttsix
 emojis:
+- name: qttcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82397/1.0
 - name: qttsleepy
   src: https://static-cdn.jtvnw.net/emoticons/v1/81851/1.0
 - name: qttno
@@ -11,3 +13,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81827/1.0
 - name: qttgold
   src: https://static-cdn.jtvnw.net/emoticons/v1/82166/1.0
+- name: qttwa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82398/1.0

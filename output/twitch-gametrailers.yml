@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - gametrailers
 emojis:
 - name: gatmustbenice
   src: https://static-cdn.jtvnw.net/emoticons/v1/59217/1.0
+- name: gataintright
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82717/1.0
 - name: gatianhair
   src: https://static-cdn.jtvnw.net/emoticons/v1/29835/1.0
 - name: gatmichaelcaine
@@ -15,5 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29172/1.0
 - name: gathuberhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/45701/1.0
+- name: gatcrunch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82463/1.0
 - name: gatsmugkyle
   src: https://static-cdn.jtvnw.net/emoticons/v1/50778/1.0

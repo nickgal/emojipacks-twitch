@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - kjhovey
 emojis:
+- name: hoveynlb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82493/1.0
+- name: hoveyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82494/1.0
 - name: hoveyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/62331/1.0
 - name: hoveysnipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/62855/1.0
 - name: hoveybot
   src: https://static-cdn.jtvnw.net/emoticons/v1/62503/1.0
+- name: hoveyclutch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82492/1.0

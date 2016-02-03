@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45573/1.0
 - name: wittzhax
   src: https://static-cdn.jtvnw.net/emoticons/v1/22124/1.0
-- name: wittzko
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24173/1.0
 - name: wittzlonk
   src: https://static-cdn.jtvnw.net/emoticons/v1/25264/1.0
 - name: wittzcouch
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59125/1.0
 - name: wittzgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/76026/1.0
+- name: wittzcatch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82600/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - delordione
 emojis:
-- name: delordrock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55592/1.0
 - name: delordrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/50361/1.0
 - name: delordmlyn
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79643/1.0
 - name: delordk
   src: https://static-cdn.jtvnw.net/emoticons/v1/79593/1.0
+- name: delordz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82779/1.0

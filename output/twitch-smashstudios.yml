@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - smashstudios
 emojis:
-- name: smashduna
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12922/1.0
 - name: smashd1
   src: https://static-cdn.jtvnw.net/emoticons/v1/8998/1.0
 - name: smashyouwin

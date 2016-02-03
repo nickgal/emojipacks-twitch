@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - crank
 emojis:
-- name: cranky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6329/1.0
 - name: crankoli
   src: https://static-cdn.jtvnw.net/emoticons/v1/22829/1.0
 - name: crankhigh5
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50482/1.0
 - name: crankclam
   src: https://static-cdn.jtvnw.net/emoticons/v1/80564/1.0
+- name: crankdoing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83094/1.0

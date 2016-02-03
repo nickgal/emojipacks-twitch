@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - alpharadtv
 emojis:
+- name: artvluma
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82772/1.0
+- name: artvcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82773/1.0
+- name: artv20xx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82775/1.0
 - name: artvnotech
   src: https://static-cdn.jtvnw.net/emoticons/v1/60810/1.0
 - name: artvsd
   src: https://static-cdn.jtvnw.net/emoticons/v1/60812/1.0
 - name: artvairhorn
   src: https://static-cdn.jtvnw.net/emoticons/v1/60808/1.0
-- name: artvcapeop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60814/1.0
-- name: artvfraud
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61285/1.0
-- name: artvcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61283/1.0
+- name: artvcape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83151/1.0
+- name: artvmars
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83142/1.0

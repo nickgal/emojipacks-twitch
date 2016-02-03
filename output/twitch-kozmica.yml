@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - kozmica
 emojis:
 - name: kozchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/81427/1.0
-- name: kozxd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81192/1.0
+- name: kozhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83023/1.0
+- name: kozpac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83024/1.0
+- name: kozbarrio
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83025/1.0

@@ -1,9 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - tonkaaaap
 emojis:
+- name: tonkhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82718/1.0
 - name: tonkface
   src: https://static-cdn.jtvnw.net/emoticons/v1/81198/1.0
 - name: tonkbooty
   src: https://static-cdn.jtvnw.net/emoticons/v1/81197/1.0
+- name: tonkchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82424/1.0
 - name: tonkconor
   src: https://static-cdn.jtvnw.net/emoticons/v1/81820/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ptken
 emojis:
-- name: ptkahe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70959/1.0
 - name: ptken
   src: https://static-cdn.jtvnw.net/emoticons/v1/66084/1.0
 - name: ptkez
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70844/1.0
 - name: ptksashao
   src: https://static-cdn.jtvnw.net/emoticons/v1/78044/1.0
+- name: ptkpbanana
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83201/1.0

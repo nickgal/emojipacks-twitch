@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - sp00nerism
 emojis:
+- name: sp00nlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82476/1.0
 - name: sp00nsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/10529/1.0
 - name: sp00ngood
@@ -21,8 +23,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53807/1.0
 - name: sp00nomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/63946/1.0
-- name: sp00nchair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64157/1.0
 - name: sp00nrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/69555/1.0
 - name: sp00nrip

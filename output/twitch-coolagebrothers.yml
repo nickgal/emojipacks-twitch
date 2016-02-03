@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33311/1.0
 - name: cbsg
   src: https://static-cdn.jtvnw.net/emoticons/v1/31794/1.0
-- name: cbskkk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33335/1.0
 - name: cbst
   src: https://static-cdn.jtvnw.net/emoticons/v1/33334/1.0
 - name: cbskk
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45822/1.0
 - name: cbsj
   src: https://static-cdn.jtvnw.net/emoticons/v1/45826/1.0
+- name: cbsp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82800/1.0

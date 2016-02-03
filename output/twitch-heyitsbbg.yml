@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - heyitsbbg
 emojis:
-- name: bbghorn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59899/1.0
 - name: bbgfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/59872/1.0
 - name: bbgtryhard
@@ -31,3 +29,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76308/1.0
 - name: bbgdab
   src: https://static-cdn.jtvnw.net/emoticons/v1/76402/1.0
+- name: bbglogic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82460/1.0
+- name: bbgsavage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82335/1.0
+- name: bbgroast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82334/1.0
+- name: bbgdrink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82333/1.0
+- name: bbgchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82342/1.0
+- name: bbgtrouble
+  src: https://static-cdn.jtvnw.net/emoticons/v1/82336/1.0

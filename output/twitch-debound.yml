@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - debound
 emojis:
-- name: deboundgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55077/1.0
-- name: deboundkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50957/1.0
 - name: deboundface
   src: https://static-cdn.jtvnw.net/emoticons/v1/50816/1.0
-- name: deboundflame
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54740/1.0
 - name: deboundthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/55124/1.0
-- name: deboundfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55126/1.0
+- name: deboundsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83306/1.0
+- name: deboundgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83307/1.0
+- name: deboundw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83309/1.0
+- name: deboundhs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83303/1.0
