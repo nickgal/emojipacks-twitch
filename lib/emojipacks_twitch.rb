@@ -7,7 +7,7 @@ class EmojipacksTwitch
   def self.build
     # from https://twitchemotes.com/apidocs
     # currently ~ 67,000 emotes
-    json_file = open('http://twitchemotes.com/api_cache/v2/images.json')
+    json_file = open('https://twitchemotes.com/api_cache/v2/images.json')
     images_hash = JSON.parse json_file.read
     output_hash = {
       'title' => 'Twitch'
@@ -24,7 +24,7 @@ class EmojipacksTwitch
   end
 
   def self.build_global
-    url = 'http://twitchemotes.com/api_cache/v2/global.json'
+    url = 'https://twitchemotes.com/api_cache/v2/global.json'
     global_json = JSON.parse open(url).read
 
     build_hash global_json, 'Twitch Global Emotes', 'global'
@@ -32,7 +32,7 @@ class EmojipacksTwitch
 
   def self.build_subscriber
     channels = (ENV['CHANNELS'] || '').split(' ')
-    url = "http://twitchemotes.com/api_cache/v2/subscriber.json"
+    url = "https://twitchemotes.com/api_cache/v2/subscriber.json"
     subscriber_json = JSON.parse open(url).read
     channel_json = if channels.empty?
       subscriber_json['channels']
