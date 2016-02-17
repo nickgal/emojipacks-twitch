@@ -1,11 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - workthespace
 emojis:
-- name: perrywall
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7733/1.0
 - name: perryvan
   src: https://static-cdn.jtvnw.net/emoticons/v1/7731/1.0
 - name: perrygasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/7732/1.0
-- name: perryperry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7036/1.0
+- name: perrycurry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84186/1.0

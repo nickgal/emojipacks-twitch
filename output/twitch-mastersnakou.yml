@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mastersnakou
 emojis:
+- name: masterboom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84432/1.0
 - name: masterrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/65491/1.0
 - name: mastergenius
@@ -9,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/13453/1.0
 - name: mastergifle
   src: https://static-cdn.jtvnw.net/emoticons/v1/52358/1.0
-- name: masterpoutrance
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52366/1.0
 - name: masterlourd
   src: https://static-cdn.jtvnw.net/emoticons/v1/52373/1.0
 - name: masterdon

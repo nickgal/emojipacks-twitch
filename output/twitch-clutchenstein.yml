@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - clutchenstein
 emojis:
-- name: clutchgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11732/1.0
 - name: clutchshark
   src: https://static-cdn.jtvnw.net/emoticons/v1/10973/1.0
 - name: clutchcat

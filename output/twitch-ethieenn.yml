@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82382/1.0
 - name: ethieencuca
   src: https://static-cdn.jtvnw.net/emoticons/v1/32686/1.0
-- name: ethieencarlito
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34541/1.0
 - name: ethieenpatata
   src: https://static-cdn.jtvnw.net/emoticons/v1/35708/1.0
 - name: ethieengumio
@@ -19,5 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83036/1.0
 - name: ethieenflamer
   src: https://static-cdn.jtvnw.net/emoticons/v1/83125/1.0
+- name: ethieentemazo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84140/1.0
 - name: ethieencositi
   src: https://static-cdn.jtvnw.net/emoticons/v1/83126/1.0

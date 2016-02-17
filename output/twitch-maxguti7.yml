@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - maxguti7
 emojis:
-- name: vorobeygg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66012/1.0
+- name: vorobeygenius
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83602/1.0
 - name: vorobeyvv
   src: https://static-cdn.jtvnw.net/emoticons/v1/66011/1.0
 - name: vorobeygood
   src: https://static-cdn.jtvnw.net/emoticons/v1/66010/1.0
 - name: vorobeymax
   src: https://static-cdn.jtvnw.net/emoticons/v1/66003/1.0
+- name: vorobeysub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83601/1.0
+- name: vorobeyplus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83600/1.0

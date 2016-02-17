@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - oxyjenn
 emojis:
 - name: jennmilk
   src: https://static-cdn.jtvnw.net/emoticons/v1/12292/1.0
-- name: jennrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23699/1.0
 - name: jennrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/24178/1.0
 - name: jennkappa
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80665/1.0
 - name: jennhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/80055/1.0
+- name: jennrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83690/1.0

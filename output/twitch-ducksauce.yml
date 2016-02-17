@@ -17,10 +17,20 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/28697/1.0
 - name: duckmama
   src: https://static-cdn.jtvnw.net/emoticons/v1/13458/1.0
+- name: duckfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83842/1.0
 - name: duckquappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/22720/1.0
 - name: duckinverted
   src: https://static-cdn.jtvnw.net/emoticons/v1/69321/1.0
+- name: ducktu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83573/1.0
+- name: ducksleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83572/1.0
+- name: ducknerd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83571/1.0
+- name: duckbot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83570/1.0
 - name: ducksad
   src: https://static-cdn.jtvnw.net/emoticons/v1/68790/1.0
 - name: duckaim

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - anynoobstream
 emojis:
 - name: ansrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/63585/1.0
-- name: ansrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63861/1.0
 - name: ansfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/64184/1.0
 - name: anshype
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65714/1.0
 - name: anssad
   src: https://static-cdn.jtvnw.net/emoticons/v1/66262/1.0
+- name: anssleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84885/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - jablol
 emojis:
 - name: jabh
   src: https://static-cdn.jtvnw.net/emoticons/v1/39951/1.0
-- name: jabscum
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39954/1.0
 - name: jabboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/40157/1.0
 - name: jabroar
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72660/1.0
 - name: jabhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/69879/1.0
+- name: jabhl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84047/1.0

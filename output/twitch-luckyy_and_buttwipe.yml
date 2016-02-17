@@ -1,10 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - luckyy_and_buttwipe
 emojis:
+- name: labsmart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83846/1.0
+- name: labwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83847/1.0
 - name: labsuccess
   src: https://static-cdn.jtvnw.net/emoticons/v1/64656/1.0
-- name: labsmart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82750/1.0
 - name: labfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/78487/1.0
 - name: labmlg

@@ -1,17 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - therealjclaw
 emojis:
-- name: clawlawd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51013/1.0
-- name: clawbruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51012/1.0
+- name: clawlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84463/1.0
 - name: clawhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51010/1.0
-- name: clawtrash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51701/1.0
-- name: clawcheese
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51552/1.0
-- name: clawomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56592/1.0
-- name: clawgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61619/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84461/1.0

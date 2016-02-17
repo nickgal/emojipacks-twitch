@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - lokys96
 emojis:
+- name: lokysgrr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84666/1.0
+- name: lokyslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84803/1.0
 - name: lokyspie
   src: https://static-cdn.jtvnw.net/emoticons/v1/81896/1.0
 - name: lokysunlokys

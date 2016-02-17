@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - sequisha
 emojis:
 - name: seqleye
   src: https://static-cdn.jtvnw.net/emoticons/v1/74828/1.0
+- name: seqluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83507/1.0
 - name: seqreye
   src: https://static-cdn.jtvnw.net/emoticons/v1/74829/1.0
 - name: seqrip

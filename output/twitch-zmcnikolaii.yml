@@ -3,3 +3,7 @@ title: Twitch Subscriber Emotes - zmcnikolaii
 emojis:
 - name: zmcstats
   src: https://static-cdn.jtvnw.net/emoticons/v1/73311/1.0
+- name: zmcball
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84928/1.0
+- name: zmccarry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85050/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - zerobydivide
 emojis:
+- name: zbdchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85284/1.0
 - name: zbdkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/79194/1.0
 - name: zbdthump

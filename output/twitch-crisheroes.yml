@@ -3,9 +3,9 @@ title: Twitch Subscriber Emotes - crisheroes
 emojis:
 - name: crisw
   src: https://static-cdn.jtvnw.net/emoticons/v1/58420/1.0
-- name: crisr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58419/1.0
 - name: cristl
   src: https://static-cdn.jtvnw.net/emoticons/v1/82836/1.0
 - name: cristhrow
   src: https://static-cdn.jtvnw.net/emoticons/v1/83141/1.0
+- name: crisorb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85052/1.0

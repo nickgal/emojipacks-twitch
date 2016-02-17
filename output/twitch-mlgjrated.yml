@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81424/1.0
 - name: jratelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/81137/1.0
-- name: jratechanged
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80597/1.0
 - name: jratefeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/81073/1.0
 - name: jratehype
@@ -17,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82689/1.0
 - name: jratechamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/82688/1.0
+- name: jratem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84982/1.0
+- name: jratepleb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84980/1.0
+- name: jratec
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85262/1.0

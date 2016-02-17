@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - pooksie
 emojis:
+- name: pambeau
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83891/1.0
 - name: pamnom
   src: https://static-cdn.jtvnw.net/emoticons/v1/35615/1.0
 - name: pamoliver
@@ -17,7 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72179/1.0
 - name: pamsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/72180/1.0
-- name: pamtea
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72181/1.0
 - name: pamyay
   src: https://static-cdn.jtvnw.net/emoticons/v1/72182/1.0

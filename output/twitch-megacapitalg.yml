@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - megacapitalg
 emojis:
+- name: capreadchet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83918/1.0
 - name: capreadrobbiechan
   src: https://static-cdn.jtvnw.net/emoticons/v1/83289/1.0
 - name: capreadcapcantread

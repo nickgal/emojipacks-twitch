@@ -3,11 +3,13 @@ title: Twitch Subscriber Emotes - kaypikefashion
 emojis:
 - name: kaypikebd
   src: https://static-cdn.jtvnw.net/emoticons/v1/80018/1.0
+- name: kaypikefte
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84804/1.0
+- name: kaypikeftf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84806/1.0
 - name: kaypikesnort
   src: https://static-cdn.jtvnw.net/emoticons/v1/82001/1.0
-- name: kaypikeftc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81576/1.0
-- name: kaypikefte
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81573/1.0
 - name: kaypikemoose
   src: https://static-cdn.jtvnw.net/emoticons/v1/82015/1.0
+- name: kaypikefth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84820/1.0

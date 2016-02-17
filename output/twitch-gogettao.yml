@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - gogettao
 emojis:
+- name: goggg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83831/1.0
+- name: gogbreja
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83830/1.0
 - name: gogkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/81362/1.0
 - name: gogmadeira

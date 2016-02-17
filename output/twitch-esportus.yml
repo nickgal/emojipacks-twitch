@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - esportus
 emojis:
-- name: esportsuslogo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60867/1.0
 - name: esportsusrigged
   src: https://static-cdn.jtvnw.net/emoticons/v1/60873/1.0
+- name: esportsustf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85007/1.0

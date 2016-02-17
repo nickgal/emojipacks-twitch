@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - w84328
 emojis:
-- name: pipoopant
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61900/1.0
 - name: pipoodog
   src: https://static-cdn.jtvnw.net/emoticons/v1/73768/1.0
-- name: pipooeating
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65228/1.0
 - name: pipooyee
   src: https://static-cdn.jtvnw.net/emoticons/v1/73202/1.0
+- name: pipooomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85151/1.0
+- name: pipoohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85150/1.0

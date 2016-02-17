@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - pyyyour
 emojis:
-- name: bigbadbradface
+- name: pureface
   src: https://static-cdn.jtvnw.net/emoticons/v1/74022/1.0
+- name: purepotato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84198/1.0

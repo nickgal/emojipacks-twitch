@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75524/1.0
 - name: ekzpls
   src: https://static-cdn.jtvnw.net/emoticons/v1/74878/1.0
-- name: ekzsave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74800/1.0
 - name: ekzgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/74667/1.0
 - name: ekzrage
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75523/1.0
 - name: ekzlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/74888/1.0
+- name: ekzhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84827/1.0

@@ -3,22 +3,16 @@ title: Twitch Subscriber Emotes - montanablack88
 emojis:
 - name: montewww
   src: https://static-cdn.jtvnw.net/emoticons/v1/64739/1.0
-- name: monteklein
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47869/1.0
 - name: monteultraaktiv
   src: https://static-cdn.jtvnw.net/emoticons/v1/27769/1.0
 - name: montepassiv
   src: https://static-cdn.jtvnw.net/emoticons/v1/27864/1.0
 - name: montecry
   src: https://static-cdn.jtvnw.net/emoticons/v1/47975/1.0
-- name: monteloser1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47969/1.0
 - name: montetaschentuch
   src: https://static-cdn.jtvnw.net/emoticons/v1/48271/1.0
 - name: montefacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/49997/1.0
-- name: monteafro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54190/1.0
 - name: montedulli
   src: https://static-cdn.jtvnw.net/emoticons/v1/54651/1.0
 - name: monteguckstdu
@@ -27,3 +21,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59056/1.0
 - name: monteaffe
   src: https://static-cdn.jtvnw.net/emoticons/v1/70785/1.0
+- name: montehallo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84774/1.0
+- name: montekyle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84773/1.0
+- name: montelogik
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84936/1.0

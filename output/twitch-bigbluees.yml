@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - bigbluees
 emojis:
 - name: bbessquib
   src: https://static-cdn.jtvnw.net/emoticons/v1/73501/1.0
+- name: bbeswave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83860/1.0
 - name: bbesmafkrey
   src: https://static-cdn.jtvnw.net/emoticons/v1/82994/1.0
 - name: bbesklaptain

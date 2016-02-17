@@ -1,18 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - brotatoe
 emojis:
+- name: brohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83790/1.0
 - name: brow
   src: https://static-cdn.jtvnw.net/emoticons/v1/51815/1.0
 - name: brolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/4952/1.0
 - name: brolewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/70306/1.0
-- name: brodingus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70316/1.0
-- name: broz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70320/1.0
-- name: bro6
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70312/1.0
 - name: brohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/70317/1.0
 - name: brono
@@ -23,21 +19,31 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70313/1.0
 - name: brogasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/70310/1.0
-- name: brobutt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70309/1.0
-- name: brohi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70308/1.0
-- name: brolate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70307/1.0
 - name: broxd
   src: https://static-cdn.jtvnw.net/emoticons/v1/70302/1.0
+- name: brodead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83888/1.0
 - name: bromini
   src: https://static-cdn.jtvnw.net/emoticons/v1/73491/1.0
 - name: brosup
   src: https://static-cdn.jtvnw.net/emoticons/v1/80609/1.0
 - name: brocry
   src: https://static-cdn.jtvnw.net/emoticons/v1/80610/1.0
+- name: brobosco
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85537/1.0
+- name: brodingus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85538/1.0
 - name: broh
   src: https://static-cdn.jtvnw.net/emoticons/v1/82016/1.0
 - name: broriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/82018/1.0
+- name: broflynn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85539/1.0
+- name: brogasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85541/1.0
+- name: brolate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85542/1.0
+- name: brono
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85543/1.0
+- name: broxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85544/1.0

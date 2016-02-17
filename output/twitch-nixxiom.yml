@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - nixxiom
 emojis:
+- name: casualshappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83462/1.0
+- name: casualslol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83666/1.0
+- name: casualssad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84426/1.0
 - name: casualsdk
   src: https://static-cdn.jtvnw.net/emoticons/v1/82946/1.0
+- name: casualsdodo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84427/1.0
 - name: casualshead
   src: https://static-cdn.jtvnw.net/emoticons/v1/83138/1.0

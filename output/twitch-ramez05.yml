@@ -9,10 +9,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32228/1.0
 - name: rmzlurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/80359/1.0
-- name: rmzfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80356/1.0
 - name: rmzlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/80355/1.0
+- name: rmzfine
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84677/1.0
 - name: rmzlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/48563/1.0
 - name: rmzpls

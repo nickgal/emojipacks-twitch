@@ -25,8 +25,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/20655/1.0
 - name: trkpcane
   src: https://static-cdn.jtvnw.net/emoticons/v1/4352/1.0
-- name: trkbeast
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54542/1.0
 - name: trkpopcorn
   src: https://static-cdn.jtvnw.net/emoticons/v1/11590/1.0
 - name: trkboom
@@ -53,10 +51,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44236/1.0
 - name: trklyfe
   src: https://static-cdn.jtvnw.net/emoticons/v1/46367/1.0
+- name: trkrot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83963/1.0
 - name: trk2g
   src: https://static-cdn.jtvnw.net/emoticons/v1/45143/1.0
-- name: trkuseless
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54470/1.0
 - name: trkbaby
   src: https://static-cdn.jtvnw.net/emoticons/v1/54474/1.0
 - name: trkbows
@@ -101,3 +99,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80690/1.0
 - name: trkss
   src: https://static-cdn.jtvnw.net/emoticons/v1/81102/1.0
+- name: trkdorito
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84099/1.0

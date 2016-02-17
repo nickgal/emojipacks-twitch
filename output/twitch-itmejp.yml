@@ -61,13 +61,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62141/1.0
 - name: itmejploot
   src: https://static-cdn.jtvnw.net/emoticons/v1/62160/1.0
-- name: itmejpd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77882/1.0
-- name: itmejphappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77883/1.0
 - name: itmejpsoul
   src: https://static-cdn.jtvnw.net/emoticons/v1/77884/1.0
-- name: itmejpking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77885/1.0
 - name: itmejpded
   src: https://static-cdn.jtvnw.net/emoticons/v1/77886/1.0
+- name: itmejphappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85199/1.0
+- name: itmejpking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85196/1.0
+- name: itmejpd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85201/1.0

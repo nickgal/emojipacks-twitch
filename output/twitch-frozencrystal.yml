@@ -5,7 +5,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82713/1.0
 - name: marysub
   src: https://static-cdn.jtvnw.net/emoticons/v1/82711/1.0
-- name: maryamwa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82712/1.0
 - name: maryhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/82474/1.0
+- name: maryargent
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84331/1.0
+- name: maryvin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84332/1.0
+- name: maryamwa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84191/1.0

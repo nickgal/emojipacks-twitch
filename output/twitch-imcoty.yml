@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33162/1.0
 - name: cotyrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/14555/1.0
-- name: cotyc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59119/1.0
 - name: cotyup
   src: https://static-cdn.jtvnw.net/emoticons/v1/61896/1.0
 - name: cotyhype
@@ -21,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/24893/1.0
 - name: cotylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/29827/1.0
-- name: cotyh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59896/1.0
 - name: cotygg
   src: https://static-cdn.jtvnw.net/emoticons/v1/34005/1.0
 - name: cotysub
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59140/1.0
 - name: cotylit
   src: https://static-cdn.jtvnw.net/emoticons/v1/60437/1.0
+- name: cotysuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84372/1.0
+- name: cotylick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84373/1.0

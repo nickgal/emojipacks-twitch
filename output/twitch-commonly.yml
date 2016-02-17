@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - commonly
 emojis:
+- name: commonlyface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83928/1.0
+- name: commonlygold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83911/1.0
 - name: commonlynlt
   src: https://static-cdn.jtvnw.net/emoticons/v1/79006/1.0
 - name: commonlyflys

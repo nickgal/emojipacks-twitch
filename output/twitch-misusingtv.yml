@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65696/1.0
 - name: mtvw
   src: https://static-cdn.jtvnw.net/emoticons/v1/67054/1.0
-- name: mtvdolphin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42258/1.0
 - name: mtvrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/43685/1.0
 - name: mtvcoob
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79505/1.0
 - name: mtvluv
   src: https://static-cdn.jtvnw.net/emoticons/v1/79889/1.0
+- name: mtvdolphin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83780/1.0

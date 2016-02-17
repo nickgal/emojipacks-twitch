@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - lindsan
 emojis:
 - name: lindsanw
   src: https://static-cdn.jtvnw.net/emoticons/v1/64939/1.0
+- name: lindsanfeelsgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83581/1.0
+- name: lindsanfeelsbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83582/1.0
 - name: lindsanlol
   src: https://static-cdn.jtvnw.net/emoticons/v1/64714/1.0
 - name: lindsanhi

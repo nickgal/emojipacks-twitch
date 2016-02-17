@@ -3,3 +3,7 @@ title: Twitch Subscriber Emotes - tastymintsna
 emojis:
 - name: tastypotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/15262/1.0
+- name: tastyall
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84161/1.0
+- name: tastyfaded
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84026/1.0

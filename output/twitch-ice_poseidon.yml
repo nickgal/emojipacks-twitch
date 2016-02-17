@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - ice_poseidon
 emojis:
 - name: purplenose
   src: https://static-cdn.jtvnw.net/emoticons/v1/65152/1.0
+- name: purplearm2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84533/1.0
 - name: purplebrio
   src: https://static-cdn.jtvnw.net/emoticons/v1/72948/1.0
 - name: purpleice
@@ -21,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77050/1.0
 - name: purplefrank
   src: https://static-cdn.jtvnw.net/emoticons/v1/76640/1.0
+- name: purplearm1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84687/1.0
+- name: purplewoah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84104/1.0
+- name: purpleahhh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84107/1.0
+- name: purplecx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84534/1.0

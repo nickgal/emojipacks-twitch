@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - glhrmzz
 emojis:
-- name: glzlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81834/1.0
-- name: glzhot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81887/1.0
-- name: glzclassic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81838/1.0
-- name: glzrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81889/1.0
-- name: glzgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83213/1.0
+- name: glzhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84115/1.0
+- name: glzhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84925/1.0
 - name: glzhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82670/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84920/1.0
+- name: glzrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84915/1.0
+- name: glzlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84927/1.0
+- name: glzlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84916/1.0
+- name: glzclassic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84922/1.0
+- name: glzhot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84918/1.0

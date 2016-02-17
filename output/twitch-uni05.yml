@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - uni05
 emojis:
-- name: uni05rr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71567/1.0
 - name: uni05salt
   src: https://static-cdn.jtvnw.net/emoticons/v1/69569/1.0
 - name: uni05gasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/69513/1.0
 - name: uni05fail
   src: https://static-cdn.jtvnw.net/emoticons/v1/69566/1.0
-- name: uni05nips
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69553/1.0
+- name: uni05lulz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83874/1.0
 - name: uni05snipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/69568/1.0
 - name: uni05stroke
   src: https://static-cdn.jtvnw.net/emoticons/v1/74645/1.0
-- name: uni05rekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71503/1.0
+- name: uni05cry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83733/1.0
+- name: uni05wtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83732/1.0

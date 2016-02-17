@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - goosebreeder
 emojis:
-- name: goobreadgobbless
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69033/1.0
 - name: goobreadrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/68697/1.0
-- name: goobreadayylmao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77647/1.0
 - name: goobreadsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/77425/1.0
+- name: goobreadwingattack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83662/1.0
+- name: goobreadayylmao
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83661/1.0
 - name: goobreadnomnom
   src: https://static-cdn.jtvnw.net/emoticons/v1/80500/1.0
-- name: goobreadgangordie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80493/1.0
+- name: goobreadderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83712/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - kikettestar
 emojis:
 - name: kikettefashion
   src: https://static-cdn.jtvnw.net/emoticons/v1/8631/1.0
-- name: kikettebb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8887/1.0
 - name: kiketteloubard
   src: https://static-cdn.jtvnw.net/emoticons/v1/8586/1.0
 - name: kikettehs
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66130/1.0
 - name: kikettes
   src: https://static-cdn.jtvnw.net/emoticons/v1/76401/1.0
+- name: kikettetfou
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84487/1.0

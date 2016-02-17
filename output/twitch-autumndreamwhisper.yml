@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - autumndreamwhisper
 emojis:
-- name: authaha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80291/1.0
+- name: autrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84656/1.0
+- name: autfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84655/1.0
 - name: autthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/81678/1.0
 - name: autgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/81507/1.0
 - name: authey
   src: https://static-cdn.jtvnw.net/emoticons/v1/81689/1.0
+- name: autfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84383/1.0

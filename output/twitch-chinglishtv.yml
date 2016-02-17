@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65976/1.0
 - name: chingd
   src: https://static-cdn.jtvnw.net/emoticons/v1/65974/1.0
-- name: chingbear
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54767/1.0
 - name: chinggrump
   src: https://static-cdn.jtvnw.net/emoticons/v1/55747/1.0
 - name: chinghype
@@ -39,3 +37,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75769/1.0
 - name: chingsenpai
   src: https://static-cdn.jtvnw.net/emoticons/v1/75763/1.0
+- name: chinghey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85016/1.0

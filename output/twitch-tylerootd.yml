@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - tylerootd
 emojis:
+- name: tylsellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83431/1.0
 - name: tylpo
   src: https://static-cdn.jtvnw.net/emoticons/v1/82901/1.0
 - name: tyldruid

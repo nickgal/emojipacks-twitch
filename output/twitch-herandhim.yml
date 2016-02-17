@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - herandhim
 emojis:
+- name: hahshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83934/1.0
+- name: hahrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83933/1.0
 - name: hahcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/81989/1.0
 - name: hahgasm

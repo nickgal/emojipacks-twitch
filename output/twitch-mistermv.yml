@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mistermv
 emojis:
+- name: mrmvbm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85281/1.0
 - name: mrmvmarufa
   src: https://static-cdn.jtvnw.net/emoticons/v1/2238/1.0
 - name: mrmvdraco
@@ -19,6 +21,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/2307/1.0
 - name: mrmvrene
   src: https://static-cdn.jtvnw.net/emoticons/v1/4056/1.0
+- name: mrmv1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85285/1.0
 - name: mrmvwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/72713/1.0
 - name: mrmvgaming

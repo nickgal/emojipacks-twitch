@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - terenasiii
 emojis:
-- name: terenasragingbad
+- name: terechecosa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84729/1.0
+- name: tereragingbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/21216/1.0
-- name: terenasrumble
+- name: tererumble
   src: https://static-cdn.jtvnw.net/emoticons/v1/21656/1.0
-- name: terenaspagah
+- name: terepagah
   src: https://static-cdn.jtvnw.net/emoticons/v1/29160/1.0
-- name: terenaschecosa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78297/1.0
-- name: terenasmorte
+- name: teremorte
   src: https://static-cdn.jtvnw.net/emoticons/v1/78298/1.0
-- name: terenasminore3
+- name: tereminore3
   src: https://static-cdn.jtvnw.net/emoticons/v1/78299/1.0
-- name: terenasporcozeus
+- name: tereporcozeus
   src: https://static-cdn.jtvnw.net/emoticons/v1/78300/1.0
-- name: terenasface
+- name: tereface
   src: https://static-cdn.jtvnw.net/emoticons/v1/78301/1.0

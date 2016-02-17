@@ -1,19 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - pietsmiet
 emojis:
-- name: pietpiet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33966/1.0
-- name: pietchris
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22474/1.0
-- name: pietsep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22478/1.0
 - name: pietpedda
   src: https://static-cdn.jtvnw.net/emoticons/v1/22898/1.0
 - name: pietmeth
   src: https://static-cdn.jtvnw.net/emoticons/v1/22899/1.0
-- name: pietlogo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33969/1.0
-- name: pietbr4mm3n
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33965/1.0
+- name: pietsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84316/1.0
+- name: pietpiet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84318/1.0
+- name: pietsep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84319/1.0
+- name: pietchris
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84321/1.0
+- name: pietrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84315/1.0
+- name: pietbrammen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84322/1.0
 - name: pietjay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33964/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84323/1.0

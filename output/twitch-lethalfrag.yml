@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/1009/1.0
 - name: fraghalp
   src: https://static-cdn.jtvnw.net/emoticons/v1/3603/1.0
-- name: fragshock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15519/1.0
 - name: fragup
   src: https://static-cdn.jtvnw.net/emoticons/v1/17465/1.0
 - name: fragdown
@@ -19,35 +17,37 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/17468/1.0
 - name: fragright
   src: https://static-cdn.jtvnw.net/emoticons/v1/17469/1.0
-- name: fragstare
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58133/1.0
-- name: fragcheeze
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24745/1.0
 - name: fraghuman
   src: https://static-cdn.jtvnw.net/emoticons/v1/24748/1.0
 - name: fragtilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/58132/1.0
-- name: fragurn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26835/1.0
-- name: fragdr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26902/1.0
-- name: fraginsert
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26903/1.0
 - name: fragsissy
   src: https://static-cdn.jtvnw.net/emoticons/v1/29645/1.0
 - name: fragscum
   src: https://static-cdn.jtvnw.net/emoticons/v1/29649/1.0
 - name: fraglurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/46793/1.0
-- name: fragroxie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46794/1.0
-- name: fragrubie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46800/1.0
 - name: fragjames
   src: https://static-cdn.jtvnw.net/emoticons/v1/48565/1.0
-- name: fragknife
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49978/1.0
-- name: fragfoxy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49979/1.0
 - name: fragcute
   src: https://static-cdn.jtvnw.net/emoticons/v1/58371/1.0
+- name: fragruined
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85001/1.0
+- name: fragq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84997/1.0
+- name: fragwanston
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85002/1.0
+- name: fragrun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84998/1.0
+- name: fraglf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84994/1.0
+- name: fragtt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84999/1.0
+- name: fragrf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84995/1.0
+- name: fragwinston
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85003/1.0
+- name: fragshuttle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85000/1.0
+- name: fragmove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84996/1.0

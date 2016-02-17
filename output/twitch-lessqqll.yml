@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - lessqqll
 emojis:
 - name: lesssalz
   src: https://static-cdn.jtvnw.net/emoticons/v1/81172/1.0
-- name: lessrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81169/1.0
 - name: lesstroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/80007/1.0
 - name: lessbad
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75193/1.0
 - name: lesssir
   src: https://static-cdn.jtvnw.net/emoticons/v1/75208/1.0
+- name: lessrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85100/1.0

@@ -5,16 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30547/1.0
 - name: jerface
   src: https://static-cdn.jtvnw.net/emoticons/v1/4741/1.0
-- name: jerchins
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4851/1.0
 - name: jervip
   src: https://static-cdn.jtvnw.net/emoticons/v1/5216/1.0
-- name: jerpurdy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5672/1.0
-- name: jergp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5673/1.0
-- name: jerew
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5730/1.0
 - name: jerbirthday
   src: https://static-cdn.jtvnw.net/emoticons/v1/75731/1.0
 - name: jerfeels
@@ -39,5 +31,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67138/1.0
 - name: jerdoit
   src: https://static-cdn.jtvnw.net/emoticons/v1/54960/1.0
+- name: jernote
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84598/1.0
+- name: jerw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84597/1.0
 - name: jeraim
   src: https://static-cdn.jtvnw.net/emoticons/v1/73947/1.0

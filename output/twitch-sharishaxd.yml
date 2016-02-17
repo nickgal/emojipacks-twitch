@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - sharishaxd
 emojis:
+- name: sharishacry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83546/1.0
 - name: sharisharage
   src: https://static-cdn.jtvnw.net/emoticons/v1/83326/1.0
 - name: sharishaeat
@@ -9,6 +11,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83328/1.0
 - name: sharishamilota
   src: https://static-cdn.jtvnw.net/emoticons/v1/83329/1.0
+- name: sharishadealwithit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84125/1.0
+- name: sharishasup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84126/1.0
 - name: sharishalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/83323/1.0
 - name: sharishaoscar

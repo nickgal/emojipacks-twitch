@@ -1,8 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - tempin
 emojis:
+- name: tempincyler
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83504/1.0
+- name: tempinbegrateful
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83508/1.0
 - name: tempinslasher
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80976/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83740/1.0
+- name: tempintj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83945/1.0
+- name: tempinpsycho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83514/1.0
 - name: tempinwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/80982/1.0
 - name: tempinsubhype

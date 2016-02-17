@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - kaitlyn
 emojis:
-- name: kaitpo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6209/1.0
-- name: kaitnoob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7997/1.0
+- name: kaitwat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83443/1.0
+- name: kaitk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83444/1.0
 - name: kaitrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/51747/1.0
 - name: kaitspooky
@@ -17,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59723/1.0
 - name: kaitomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/60495/1.0
+- name: kaitwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84117/1.0
+- name: kaitfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84118/1.0

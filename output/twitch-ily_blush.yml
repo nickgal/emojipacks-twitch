@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - ily_blush
 emojis:
 - name: blushhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/43771/1.0
+- name: blushnugget
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83738/1.0
 - name: blushchair
   src: https://static-cdn.jtvnw.net/emoticons/v1/51271/1.0
 - name: blushcri
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74087/1.0
-- name: blushrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74088/1.0
-- name: blushlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74089/1.0
-- name: blushwave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74090/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84334/1.0
 - name: blushfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74095/1.0
-- name: blushcats
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74094/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84335/1.0
+- name: blushlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84336/1.0
+- name: blushrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84337/1.0
+- name: blushwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84338/1.0

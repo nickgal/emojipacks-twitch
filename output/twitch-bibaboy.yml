@@ -3,24 +3,16 @@ title: Twitch Subscriber Emotes - bibaboy
 emojis:
 - name: bibaschlips
   src: https://static-cdn.jtvnw.net/emoticons/v1/81100/1.0
-- name: bibaheadset
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23099/1.0
 - name: bibasucks
   src: https://static-cdn.jtvnw.net/emoticons/v1/11679/1.0
 - name: bibasub
   src: https://static-cdn.jtvnw.net/emoticons/v1/11695/1.0
-- name: bibaya
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29166/1.0
 - name: bibadsb
   src: https://static-cdn.jtvnw.net/emoticons/v1/29164/1.0
-- name: bibaay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29165/1.0
 - name: bibascheich
   src: https://static-cdn.jtvnw.net/emoticons/v1/29161/1.0
 - name: bibareddit
   src: https://static-cdn.jtvnw.net/emoticons/v1/31316/1.0
-- name: bibaswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31317/1.0
 - name: bibambeezy
   src: https://static-cdn.jtvnw.net/emoticons/v1/29163/1.0
 - name: bibafly
@@ -41,13 +33,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37178/1.0
 - name: bibakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/47454/1.0
-- name: bibagabe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47453/1.0
+- name: bibaheadset
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83866/1.0
+- name: bibaya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83864/1.0
+- name: bibaay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83863/1.0
 - name: bibalecker
   src: https://static-cdn.jtvnw.net/emoticons/v1/78158/1.0
+- name: bibaantim8
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83861/1.0
 - name: bibavac
   src: https://static-cdn.jtvnw.net/emoticons/v1/78157/1.0
 - name: bibaapplaus
   src: https://static-cdn.jtvnw.net/emoticons/v1/78155/1.0
 - name: bibarage
   src: https://static-cdn.jtvnw.net/emoticons/v1/78554/1.0
+- name: bibamlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84805/1.0

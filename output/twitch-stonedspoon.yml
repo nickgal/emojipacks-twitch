@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - stonedspoon
 emojis:
+- name: stonesrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83931/1.0
 - name: stonessweety
   src: https://static-cdn.jtvnw.net/emoticons/v1/71076/1.0
 - name: stonesbeliefteam
@@ -11,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71084/1.0
 - name: stonesstonesquad
   src: https://static-cdn.jtvnw.net/emoticons/v1/71083/1.0
+- name: stonescase
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83451/1.0
+- name: stonesleston
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83449/1.0

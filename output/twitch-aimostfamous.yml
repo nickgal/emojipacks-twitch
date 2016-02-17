@@ -35,6 +35,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73780/1.0
 - name: boatydrugs
   src: https://static-cdn.jtvnw.net/emoticons/v1/41673/1.0
+- name: boatythump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84303/1.0
 - name: boatyrnginger
   src: https://static-cdn.jtvnw.net/emoticons/v1/49522/1.0
 - name: boatyh
@@ -45,8 +47,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62642/1.0
 - name: boatymajakka
   src: https://static-cdn.jtvnw.net/emoticons/v1/62641/1.0
-- name: boatyt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73385/1.0
 - name: boatylate
   src: https://static-cdn.jtvnw.net/emoticons/v1/73381/1.0
 - name: boatywd

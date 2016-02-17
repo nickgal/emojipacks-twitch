@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - srchincheto77
 emojis:
 - name: chinchetofeliz
   src: https://static-cdn.jtvnw.net/emoticons/v1/16614/1.0
+- name: chinchetoalfondo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84560/1.0
+- name: chinchetogalleta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84561/1.0
 - name: chinchetobrazo
   src: https://static-cdn.jtvnw.net/emoticons/v1/32968/1.0
-- name: chincheto7512
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35180/1.0
-- name: chinchetodjango
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35181/1.0
+- name: chinchetopakete
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84761/1.0
+- name: chinchetollora
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84762/1.0

@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/13626/1.0
 - name: singstarbucks
   src: https://static-cdn.jtvnw.net/emoticons/v1/13627/1.0
-- name: singgasm2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82362/1.0
 - name: singgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/82360/1.0
 - name: singsinged
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82194/1.0
 - name: singcherry
   src: https://static-cdn.jtvnw.net/emoticons/v1/82208/1.0
+- name: singgasm2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84116/1.0

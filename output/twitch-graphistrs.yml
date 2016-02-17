@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - graphistrs
 emojis:
 - name: graphspectele
   src: https://static-cdn.jtvnw.net/emoticons/v1/62779/1.0
-- name: graphcasket
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59884/1.0
 - name: graphloud
   src: https://static-cdn.jtvnw.net/emoticons/v1/59885/1.0
 - name: graphbanger
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60315/1.0
 - name: graphprayer
   src: https://static-cdn.jtvnw.net/emoticons/v1/62738/1.0
+- name: graphkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84296/1.0

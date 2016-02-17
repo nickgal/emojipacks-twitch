@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - emk_krauser
 emojis:
-- name: krauchancla
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80549/1.0
-- name: kraurage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80550/1.0
 - name: kraulove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80548/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84950/1.0
+- name: kraurage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84941/1.0
 - name: kraugg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80547/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84947/1.0
+- name: krauhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84948/1.0

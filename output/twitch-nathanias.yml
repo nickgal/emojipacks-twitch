@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/5844/1.0
 - name: sirgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/77590/1.0
-- name: sirbased
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19688/1.0
 - name: sirply
   src: https://static-cdn.jtvnw.net/emoticons/v1/29556/1.0
 - name: sirpika
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78848/1.0
 - name: sirdank
   src: https://static-cdn.jtvnw.net/emoticons/v1/82240/1.0
+- name: sirmemed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84224/1.0

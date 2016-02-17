@@ -1,5 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - skyhook
 emojis:
+- name: skyhz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83810/1.0
+- name: skyhhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83809/1.0
+- name: skyhlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83808/1.0
+- name: skyhcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83806/1.0
+- name: skyhrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83807/1.0
 - name: skyhpup
   src: https://static-cdn.jtvnw.net/emoticons/v1/81921/1.0

@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - yolotvstream
 emojis:
 - name: yololag
   src: https://static-cdn.jtvnw.net/emoticons/v1/20843/1.0
-- name: yolowelcome
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20844/1.0
 - name: yoloheadshot
   src: https://static-cdn.jtvnw.net/emoticons/v1/58179/1.0
-- name: yolohater
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25405/1.0
 - name: yoloansigt
   src: https://static-cdn.jtvnw.net/emoticons/v1/64128/1.0
 - name: yolohype
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72659/1.0
 - name: yolorekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/70955/1.0
+- name: yolorip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84248/1.0
+- name: yologo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84250/1.0

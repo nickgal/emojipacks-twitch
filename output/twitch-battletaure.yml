@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/22200/1.0
 - name: taurew
   src: https://static-cdn.jtvnw.net/emoticons/v1/46828/1.0
-- name: tauresnipe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44416/1.0
 - name: taureteen
   src: https://static-cdn.jtvnw.net/emoticons/v1/60686/1.0
 - name: taurehey
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68293/1.0
 - name: taurehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68295/1.0
+- name: taurel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84785/1.0

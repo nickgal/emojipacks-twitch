@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mr_wuco
 emojis:
-- name: wucodou
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81555/1.0
 - name: wucosai
   src: https://static-cdn.jtvnw.net/emoticons/v1/75702/1.0
 - name: wucodu
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77414/1.0
 - name: wucokappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/81656/1.0
+- name: wucogi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85278/1.0

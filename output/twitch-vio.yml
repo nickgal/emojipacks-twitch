@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - vio
 emojis:
 - name: violost
   src: https://static-cdn.jtvnw.net/emoticons/v1/79344/1.0
-- name: viohi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77365/1.0
-- name: violove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77366/1.0
-- name: viorip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77367/1.0
+- name: viol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85447/1.0
 - name: viobb
   src: https://static-cdn.jtvnw.net/emoticons/v1/77583/1.0
 - name: viohype
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77226/1.0
 - name: viogasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/77227/1.0
+- name: vios
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84206/1.0
+- name: viopf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84207/1.0

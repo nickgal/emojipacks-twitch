@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - meloonie
 emojis:
+- name: looniepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83797/1.0
+- name: loonierip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83796/1.0
 - name: loonietroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/77837/1.0
 - name: loonierage

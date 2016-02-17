@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - skillspecs
 emojis:
 - name: skillsnake
   src: https://static-cdn.jtvnw.net/emoticons/v1/4196/1.0
-- name: skillskull
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4236/1.0
 - name: skillrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/4253/1.0
 - name: skillsmorc
@@ -19,5 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30545/1.0
 - name: skill73
   src: https://static-cdn.jtvnw.net/emoticons/v1/51913/1.0
-- name: skillopie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83104/1.0
+- name: skillvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84269/1.0
+- name: skillspecs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84898/1.0

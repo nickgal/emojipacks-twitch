@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - fazonhd
 emojis:
-- name: fazonrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70596/1.0
+- name: fazonaim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85036/1.0
+- name: fazonheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85193/1.0

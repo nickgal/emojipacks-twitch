@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - tm2225
 emojis:
 - name: themanduck
   src: https://static-cdn.jtvnw.net/emoticons/v1/52330/1.0
+- name: themanrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83792/1.0
 - name: themandad
   src: https://static-cdn.jtvnw.net/emoticons/v1/59866/1.0
 - name: themanimback
@@ -15,5 +17,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52067/1.0
 - name: themanrespect
   src: https://static-cdn.jtvnw.net/emoticons/v1/52068/1.0
-- name: theman180
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57994/1.0

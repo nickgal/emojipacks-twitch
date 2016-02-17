@@ -7,11 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73906/1.0
 - name: tenserkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/73547/1.0
-- name: tenserbucko
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79303/1.0
 - name: tenserderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/80834/1.0
 - name: tenserlit
   src: https://static-cdn.jtvnw.net/emoticons/v1/80839/1.0
 - name: tenserfake
   src: https://static-cdn.jtvnw.net/emoticons/v1/79041/1.0
+- name: tenserserious
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84962/1.0
+- name: tenseranotha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84956/1.0

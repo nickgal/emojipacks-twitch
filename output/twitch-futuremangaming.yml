@@ -23,11 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39286/1.0
 - name: fmghy
   src: https://static-cdn.jtvnw.net/emoticons/v1/39285/1.0
-- name: fmgkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39253/1.0
 - name: fmglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/39123/1.0
 - name: fmgslice
   src: https://static-cdn.jtvnw.net/emoticons/v1/52141/1.0
 - name: fmgmoves
   src: https://static-cdn.jtvnw.net/emoticons/v1/68821/1.0
+- name: fmgcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84483/1.0

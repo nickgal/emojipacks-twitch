@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - sceneofactionmusic
 emojis:
+- name: soat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83503/1.0
+- name: soalh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83505/1.0
 - name: soap
   src: https://static-cdn.jtvnw.net/emoticons/v1/65541/1.0
 - name: soago

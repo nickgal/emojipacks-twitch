@@ -3,12 +3,12 @@ title: Twitch Subscriber Emotes - theadapting
 emojis:
 - name: adapttap
   src: https://static-cdn.jtvnw.net/emoticons/v1/77357/1.0
+- name: adaptblubb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83525/1.0
 - name: adaptking
   src: https://static-cdn.jtvnw.net/emoticons/v1/66686/1.0
 - name: adapthype
   src: https://static-cdn.jtvnw.net/emoticons/v1/48086/1.0
-- name: adaptplays
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47963/1.0
 - name: adaptrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/56513/1.0
 - name: adaptpprn

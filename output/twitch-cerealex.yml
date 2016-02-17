@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - cerealex
 emojis:
+- name: cereparty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83919/1.0
+- name: cerekrew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83917/1.0
 - name: cerefamta
   src: https://static-cdn.jtvnw.net/emoticons/v1/78775/1.0
 - name: cerechamp

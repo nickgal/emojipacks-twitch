@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27646/1.0
 - name: fendeals
   src: https://static-cdn.jtvnw.net/emoticons/v1/74864/1.0
-- name: fengotem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36492/1.0
 - name: fencrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/41103/1.0
 - name: fendavid
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52310/1.0
 - name: fendumpster
   src: https://static-cdn.jtvnw.net/emoticons/v1/71298/1.0
+- name: fenrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84682/1.0

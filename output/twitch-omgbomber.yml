@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64880/1.0
 - name: bombfire
   src: https://static-cdn.jtvnw.net/emoticons/v1/64879/1.0
-- name: bombcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61370/1.0
 - name: bombheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/64892/1.0
 - name: bombthump
@@ -15,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65273/1.0
 - name: bombrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/64870/1.0
+- name: bombap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84277/1.0
+- name: bombfl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84278/1.0

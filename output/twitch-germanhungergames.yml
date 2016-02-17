@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - germanhungergames
 emojis:
+- name: zickzackapfeldieb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83724/1.0
 - name: zickzackghg
   src: https://static-cdn.jtvnw.net/emoticons/v1/79598/1.0
 - name: zickzacknase
@@ -13,3 +15,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81751/1.0
 - name: zickzacksad
   src: https://static-cdn.jtvnw.net/emoticons/v1/82780/1.0
+- name: zickzackdia
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84177/1.0
+- name: zickzacklenkrad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85094/1.0

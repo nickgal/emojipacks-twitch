@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - legendary_qstor
 emojis:
+- name: legendaryrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83970/1.0
 - name: legendarysugarbun
   src: https://static-cdn.jtvnw.net/emoticons/v1/80108/1.0
 - name: legendarygoodgame
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80830/1.0
 - name: legendaryletsride
   src: https://static-cdn.jtvnw.net/emoticons/v1/80196/1.0
+- name: legendarywow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83404/1.0

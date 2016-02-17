@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - hollyylive_
 emojis:
+- name: holsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83540/1.0
+- name: holhd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83530/1.0
 - name: holchoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/78779/1.0
 - name: holsub

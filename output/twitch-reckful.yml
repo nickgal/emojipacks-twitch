@@ -11,10 +11,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/1462/1.0
 - name: reckt
   src: https://static-cdn.jtvnw.net/emoticons/v1/1463/1.0
+- name: reckgl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84049/1.0
 - name: reckf
   src: https://static-cdn.jtvnw.net/emoticons/v1/61954/1.0
 - name: reckw
   src: https://static-cdn.jtvnw.net/emoticons/v1/31837/1.0
+- name: reckgr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84050/1.0
 - name: reckj
   src: https://static-cdn.jtvnw.net/emoticons/v1/81136/1.0
 - name: reckrage
@@ -33,11 +37,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76267/1.0
 - name: reckddos
   src: https://static-cdn.jtvnw.net/emoticons/v1/77110/1.0
-- name: reckgl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79885/1.0
 - name: reckp
   src: https://static-cdn.jtvnw.net/emoticons/v1/81728/1.0
 - name: reckliar
   src: https://static-cdn.jtvnw.net/emoticons/v1/81160/1.0
-- name: reckhappy
+- name: reckh
   src: https://static-cdn.jtvnw.net/emoticons/v1/83335/1.0

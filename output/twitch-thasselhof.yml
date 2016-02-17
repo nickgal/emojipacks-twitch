@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - thasselhof
 emojis:
+- name: thassawita
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83814/1.0
 - name: thassllorando
   src: https://static-cdn.jtvnw.net/emoticons/v1/82385/1.0
 - name: thassrico
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82383/1.0
 - name: thassclub
   src: https://static-cdn.jtvnw.net/emoticons/v1/82386/1.0
+- name: thasskappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83816/1.0

@@ -13,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62178/1.0
 - name: weedkobe
   src: https://static-cdn.jtvnw.net/emoticons/v1/16751/1.0
-- name: weedlife
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16761/1.0
 - name: weedsurf
   src: https://static-cdn.jtvnw.net/emoticons/v1/18329/1.0
 - name: weedducks
@@ -41,8 +39,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30708/1.0
 - name: weedwhale
   src: https://static-cdn.jtvnw.net/emoticons/v1/40047/1.0
-- name: weedmotto
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40046/1.0
 - name: weedgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/45811/1.0
 - name: weedafk
@@ -71,8 +67,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58061/1.0
 - name: weedbanana
   src: https://static-cdn.jtvnw.net/emoticons/v1/60433/1.0
-- name: weedduckh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61627/1.0
 - name: weedyoutube
   src: https://static-cdn.jtvnw.net/emoticons/v1/62180/1.0
 - name: weedgl
@@ -83,8 +77,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78851/1.0
 - name: weedtop
   src: https://static-cdn.jtvnw.net/emoticons/v1/81740/1.0
+- name: weed1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84018/1.0
 - name: weedctop
   src: https://static-cdn.jtvnw.net/emoticons/v1/82942/1.0
+- name: weed2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84019/1.0
+- name: weed3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84020/1.0
+- name: weed4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84022/1.0
 - name: weedcool
   src: https://static-cdn.jtvnw.net/emoticons/v1/83293/1.0
 - name: weedsmurf

@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - kylerelizabeth
 emojis:
-- name: kylercry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55910/1.0
-- name: kylergb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55909/1.0
-- name: kylerrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55908/1.0
-- name: kylerlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52137/1.0
 - name: kylerrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55443/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83722/1.0
 - name: kylercreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/53922/1.0
-- name: kylerfp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55844/1.0
 - name: kylermolly
   src: https://static-cdn.jtvnw.net/emoticons/v1/75649/1.0
+- name: kylerrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83723/1.0
+- name: kylerhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83721/1.0
+- name: kylerlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83720/1.0
+- name: kylersteve
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83719/1.0
+- name: kylerfp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83718/1.0

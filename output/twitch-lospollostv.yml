@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60006/1.0
 - name: los3
   src: https://static-cdn.jtvnw.net/emoticons/v1/44227/1.0
-- name: lostroll
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44374/1.0
 - name: loslbj
   src: https://static-cdn.jtvnw.net/emoticons/v1/51525/1.0
 - name: losson
@@ -27,3 +25,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77726/1.0
 - name: losexposed
   src: https://static-cdn.jtvnw.net/emoticons/v1/77729/1.0
+- name: losmeat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84199/1.0
+- name: losgoldengate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84163/1.0

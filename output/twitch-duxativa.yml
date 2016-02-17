@@ -3,11 +3,13 @@ title: Twitch Subscriber Emotes - duxativa
 emojis:
 - name: duxakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/38653/1.0
-- name: duxarata
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39063/1.0
 - name: duxagato
   src: https://static-cdn.jtvnw.net/emoticons/v1/44493/1.0
 - name: duxaqueso
   src: https://static-cdn.jtvnw.net/emoticons/v1/52539/1.0
 - name: duxawebon
   src: https://static-cdn.jtvnw.net/emoticons/v1/56036/1.0
+- name: duxahigato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84481/1.0
+- name: duxarata
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84535/1.0

@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - margaretkrohn
 emojis:
-- name: magchibi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14490/1.0
 - name: magkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/18722/1.0
-- name: magcatbeast
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40045/1.0
-- name: maggg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40069/1.0
 - name: magrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/40057/1.0
 - name: maghype
   src: https://static-cdn.jtvnw.net/emoticons/v1/40056/1.0
-- name: magfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66590/1.0
+- name: magfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83634/1.0
 - name: maglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/66708/1.0
+- name: magcatbeast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85086/1.0
+- name: maglol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85087/1.0
+- name: maghi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85085/1.0

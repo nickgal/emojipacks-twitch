@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - zoomwebg
 emojis:
-- name: zoomarmy1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64850/1.0
+- name: zoomarmyplay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84904/1.0
+- name: zoomarmylike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84709/1.0

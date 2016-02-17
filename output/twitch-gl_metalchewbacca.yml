@@ -1,15 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - gl_metalchewbacca
 emojis:
-- name: chewieragepouf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68958/1.0
-- name: chewieragekramp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70951/1.0
-- name: chewieragechewierage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56743/1.0
+- name: chewieragejenjare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84549/1.0
 - name: chewieragepyrax
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61543/1.0
-- name: chewieragebabtou
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70765/1.0
-- name: chewierageconasse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70766/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84484/1.0
+- name: chewieragefun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84494/1.0
+- name: chewierageshiny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84970/1.0
+- name: chewieragechock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84814/1.0

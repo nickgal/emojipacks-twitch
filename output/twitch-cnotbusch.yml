@@ -3,17 +3,13 @@ title: Twitch Subscriber Emotes - cnotbusch
 emojis:
 - name: cnottroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/2362/1.0
+- name: cnotfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83469/1.0
 - name: cnothype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50972/1.0
-- name: cnotshipit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41662/1.0
-- name: cnotham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41659/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83470/1.0
 - name: cnotbardiche
   src: https://static-cdn.jtvnw.net/emoticons/v1/41656/1.0
-- name: cnotlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49754/1.0
-- name: cnotsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49755/1.0
 - name: cnotsaddie
   src: https://static-cdn.jtvnw.net/emoticons/v1/52275/1.0
+- name: cnotlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83471/1.0

@@ -1,7 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - ancientpriest
 emojis:
+- name: ancientsleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83896/1.0
+- name: ancientplease
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83897/1.0
+- name: ancientangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83899/1.0
+- name: ancientlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84070/1.0
 - name: ancientpriest
   src: https://static-cdn.jtvnw.net/emoticons/v1/63201/1.0
 - name: ancientcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/67044/1.0
+- name: ancientlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84358/1.0

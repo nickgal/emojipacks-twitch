@@ -2,10 +2,14 @@
 title: Twitch Subscriber Emotes - goldenboyftw
 emojis:
 - name: ftwhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30066/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84330/1.0
 - name: ftwgoldface
   src: https://static-cdn.jtvnw.net/emoticons/v1/31654/1.0
 - name: ftwyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41488/1.0
-- name: ftwbars
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60724/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83925/1.0
+- name: ftwbean
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83757/1.0
+- name: ftwlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83758/1.0
+- name: ftwshade
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84328/1.0

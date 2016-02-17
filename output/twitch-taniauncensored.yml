@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - taniauncensored
 emojis:
 - name: taniarekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/81186/1.0
+- name: tanialove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83489/1.0
+- name: taniaten
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83481/1.0
 - name: taniaderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/80916/1.0
 - name: taniahype

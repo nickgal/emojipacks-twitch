@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/6779/1.0
 - name: elotrixkappatrix
   src: https://static-cdn.jtvnw.net/emoticons/v1/6782/1.0
-- name: elotrix3likes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28687/1.0
 - name: elotrixcree
   src: https://static-cdn.jtvnw.net/emoticons/v1/28686/1.0
 - name: elotrixabgehoben
@@ -25,6 +23,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29144/1.0
 - name: elotrixk
   src: https://static-cdn.jtvnw.net/emoticons/v1/79175/1.0
+- name: elotrixrofl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84873/1.0
 - name: elotrixcash
   src: https://static-cdn.jtvnw.net/emoticons/v1/78864/1.0
 - name: elotrixh

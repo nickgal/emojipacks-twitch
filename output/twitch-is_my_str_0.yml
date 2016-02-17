@@ -15,6 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35809/1.0
 - name: fauxgrill
   src: https://static-cdn.jtvnw.net/emoticons/v1/67814/1.0
+- name: fauxking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84615/1.0
 - name: fauxsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/45869/1.0
 - name: faux4
@@ -27,7 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67718/1.0
 - name: fauxwahey
   src: https://static-cdn.jtvnw.net/emoticons/v1/67717/1.0
-- name: fauxkaiya
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67716/1.0
 - name: fauxskull
   src: https://static-cdn.jtvnw.net/emoticons/v1/71413/1.0

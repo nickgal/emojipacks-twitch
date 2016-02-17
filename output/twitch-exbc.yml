@@ -7,8 +7,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73721/1.0
 - name: exbcomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/71042/1.0
-- name: exbcfired
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73720/1.0
+- name: exbc2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83568/1.0
+- name: exbc1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83959/1.0
+- name: exbccuz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83958/1.0
 - name: exbcfree
   src: https://static-cdn.jtvnw.net/emoticons/v1/72186/1.0
 - name: exbcsoju

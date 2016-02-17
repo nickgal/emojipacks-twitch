@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - espn__d
 emojis:
-- name: espnsubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46476/1.0
+- name: espnhammer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84548/1.0
+- name: espn4z
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84547/1.0
+- name: espntd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84643/1.0
 - name: espnbaitcity
   src: https://static-cdn.jtvnw.net/emoticons/v1/46475/1.0
-- name: espnfours
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46883/1.0
-- name: espncmonson
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46884/1.0
-- name: espnslapnutz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47623/1.0
 - name: espnd
   src: https://static-cdn.jtvnw.net/emoticons/v1/51548/1.0
-- name: espngotem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51549/1.0
-- name: espntd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56912/1.0
+- name: espndsubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84644/1.0
+- name: espnespnfam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84523/1.0
+- name: espnespnmike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84526/1.0

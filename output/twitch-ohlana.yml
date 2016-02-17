@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - ohlana
 emojis:
 - name: ohlanaa
   src: https://static-cdn.jtvnw.net/emoticons/v1/65498/1.0
-- name: ohlanaeat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65502/1.0
 - name: ohlanala
   src: https://static-cdn.jtvnw.net/emoticons/v1/52742/1.0
 - name: ohlanacry
@@ -13,7 +11,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53197/1.0
 - name: ohlanahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/53196/1.0
-- name: ohlanalove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53198/1.0
-- name: ohlanachips
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66765/1.0

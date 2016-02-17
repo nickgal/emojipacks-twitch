@@ -5,10 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77025/1.0
 - name: masterslurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/40769/1.0
-- name: mastershambino
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42057/1.0
-- name: mastersrawman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81312/1.0
 - name: masterssmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/54417/1.0
 - name: mastersmvp
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77020/1.0
 - name: mastersl
   src: https://static-cdn.jtvnw.net/emoticons/v1/79013/1.0
+- name: mastersmex
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84511/1.0
+- name: masterseazy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84510/1.0

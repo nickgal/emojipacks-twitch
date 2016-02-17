@@ -7,6 +7,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56729/1.0
 - name: bbqs
   src: https://static-cdn.jtvnw.net/emoticons/v1/57981/1.0
+- name: bbqt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83922/1.0
 - name: bbqe
   src: https://static-cdn.jtvnw.net/emoticons/v1/63317/1.0
 - name: bbqo
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69753/1.0
 - name: bbql
   src: https://static-cdn.jtvnw.net/emoticons/v1/69842/1.0
+- name: bbqr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84016/1.0

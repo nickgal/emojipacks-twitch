@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - slickblackjesus
 emojis:
-- name: slickslurp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46161/1.0
 - name: slickhold
   src: https://static-cdn.jtvnw.net/emoticons/v1/46160/1.0
 - name: slickgnome
@@ -13,7 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46157/1.0
 - name: slickrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/46156/1.0
-- name: slickgasm2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83159/1.0
 - name: slickgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82719/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83576/1.0
+- name: slicklewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83675/1.0

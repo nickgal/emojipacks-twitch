@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39293/1.0
 - name: viesub
   src: https://static-cdn.jtvnw.net/emoticons/v1/39311/1.0
-- name: view
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39332/1.0
 - name: vieriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/39971/1.0
 - name: vierip
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76350/1.0
 - name: vieperfect
   src: https://static-cdn.jtvnw.net/emoticons/v1/81791/1.0
+- name: viehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83373/1.0

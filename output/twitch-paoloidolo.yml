@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41056/1.0
 - name: grabdritto
   src: https://static-cdn.jtvnw.net/emoticons/v1/40408/1.0
-- name: grabcucciolo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41057/1.0
 - name: grabvbb
   src: https://static-cdn.jtvnw.net/emoticons/v1/45223/1.0
 - name: grabrekt
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73325/1.0
 - name: grab22
   src: https://static-cdn.jtvnw.net/emoticons/v1/73326/1.0
+- name: grabwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84503/1.0

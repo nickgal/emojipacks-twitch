@@ -3,7 +3,9 @@ title: Twitch Subscriber Emotes - themainmanswe
 emojis:
 - name: tmmrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/52354/1.0
-- name: tmmbutton
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52570/1.0
-- name: tmmforsaken
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52572/1.0
+- name: tmmlingeddy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83445/1.0
+- name: tmmlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83430/1.0
+- name: tmmsheep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83410/1.0

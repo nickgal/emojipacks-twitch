@@ -2,7 +2,7 @@
 title: Twitch Subscriber Emotes - angrypug_
 emojis:
 - name: pugdono
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58131/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83516/1.0
 - name: puglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/55101/1.0
 - name: pughype
@@ -37,3 +37,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77433/1.0
 - name: pugsas
   src: https://static-cdn.jtvnw.net/emoticons/v1/77451/1.0
+- name: pugnana
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83472/1.0

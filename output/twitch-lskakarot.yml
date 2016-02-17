@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77969/1.0
 - name: lskcringe
   src: https://static-cdn.jtvnw.net/emoticons/v1/77966/1.0
-- name: lsklol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81391/1.0
 - name: lskl
   src: https://static-cdn.jtvnw.net/emoticons/v1/77392/1.0
 - name: lskcarrot
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76281/1.0
 - name: lskgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/76279/1.0
+- name: lskrivet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84457/1.0

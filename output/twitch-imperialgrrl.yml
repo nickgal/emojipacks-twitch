@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - imperialgrrl
 emojis:
+- name: impgrrlhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83921/1.0
 - name: impgrrlhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/79251/1.0
 - name: impgrrlcookie

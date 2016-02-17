@@ -1,9 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - twobiers
 emojis:
+- name: biersgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84416/1.0
+- name: biershype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85122/1.0
 - name: bierslethal
   src: https://static-cdn.jtvnw.net/emoticons/v1/83093/1.0
 - name: biersbeers
   src: https://static-cdn.jtvnw.net/emoticons/v1/82936/1.0
 - name: bierslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/82934/1.0
+- name: bierstasse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85079/1.0
+- name: biersbaby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85127/1.0

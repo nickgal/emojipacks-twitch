@@ -7,6 +7,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/9742/1.0
 - name: indieeyes
   src: https://static-cdn.jtvnw.net/emoticons/v1/12090/1.0
+- name: indielove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84553/1.0
 - name: indiehunnies
   src: https://static-cdn.jtvnw.net/emoticons/v1/21094/1.0
 - name: indiebeard
@@ -19,5 +21,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/26928/1.0
 - name: indierekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/26929/1.0
-- name: indiedie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26926/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - cwelth
 emojis:
+- name: zthdalek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83975/1.0
 - name: zthchip
   src: https://static-cdn.jtvnw.net/emoticons/v1/73345/1.0
 - name: zthcorwin
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76435/1.0
 - name: zthgears
   src: https://static-cdn.jtvnw.net/emoticons/v1/76434/1.0
+- name: zthooipe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84119/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - chandyland
 emojis:
+- name: chandyh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83413/1.0
 - name: chandyw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68057/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83416/1.0
+- name: chandymisha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83417/1.0
 - name: chandyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/82466/1.0

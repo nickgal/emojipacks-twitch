@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - kiwion
 emojis:
-- name: kiwobeet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14585/1.0
 - name: kiwokiwi
   src: https://static-cdn.jtvnw.net/emoticons/v1/14401/1.0
 - name: kiwolemon
@@ -17,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31328/1.0
 - name: kiwoderailed
   src: https://static-cdn.jtvnw.net/emoticons/v1/32932/1.0
-- name: kiwoiron
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36418/1.0
 - name: kiwolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/36417/1.0
 - name: kiwoheart
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44458/1.0
 - name: kiwobeer
   src: https://static-cdn.jtvnw.net/emoticons/v1/44478/1.0
+- name: kiwoiron
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84780/1.0
+- name: kiwobeet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84923/1.0

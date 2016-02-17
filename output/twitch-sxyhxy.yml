@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - sxyhxy
 emojis:
 - name: sxytato
   src: https://static-cdn.jtvnw.net/emoticons/v1/32045/1.0
-- name: sxyts
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22407/1.0
-- name: sxyd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22433/1.0
 - name: sxyh
   src: https://static-cdn.jtvnw.net/emoticons/v1/25941/1.0
 - name: sxyw
@@ -23,14 +19,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49385/1.0
 - name: sxythump
   src: https://static-cdn.jtvnw.net/emoticons/v1/54489/1.0
-- name: sxy1tap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61151/1.0
 - name: sxyvape
   src: https://static-cdn.jtvnw.net/emoticons/v1/61138/1.0
 - name: sxygo
   src: https://static-cdn.jtvnw.net/emoticons/v1/65016/1.0
-- name: sxygreed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64756/1.0
 - name: sxy1
   src: https://static-cdn.jtvnw.net/emoticons/v1/66044/1.0
 - name: sxyrip
@@ -41,3 +33,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70496/1.0
 - name: sxyhax
   src: https://static-cdn.jtvnw.net/emoticons/v1/75312/1.0
+- name: sxyt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84347/1.0
+- name: sxyfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84349/1.0
+- name: sxysalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84351/1.0
+- name: sxyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84521/1.0

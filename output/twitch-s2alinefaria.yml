@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - s2alinefaria
 emojis:
+- name: linexampson
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83747/1.0
 - name: lineoff
   src: https://static-cdn.jtvnw.net/emoticons/v1/66617/1.0
 - name: lineon

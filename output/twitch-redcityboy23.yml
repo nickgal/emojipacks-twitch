@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - redcityboy23
 emojis:
 - name: redcityclamps
   src: https://static-cdn.jtvnw.net/emoticons/v1/58672/1.0
-- name: redcitytea
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58678/1.0
 - name: redcitydab
   src: https://static-cdn.jtvnw.net/emoticons/v1/76648/1.0
-- name: redcity3ball
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76905/1.0
 - name: redcityrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/76900/1.0
 - name: redcitygang
@@ -17,7 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77096/1.0
 - name: redcityankles
   src: https://static-cdn.jtvnw.net/emoticons/v1/78498/1.0
+- name: redcitystrapped
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84592/1.0
 - name: redcityrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/78957/1.0
 - name: redcitylit
   src: https://static-cdn.jtvnw.net/emoticons/v1/78958/1.0
+- name: redcityhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84438/1.0

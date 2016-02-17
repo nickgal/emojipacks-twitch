@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - decepticon2012
 emojis:
 - name: decegoblin
   src: https://static-cdn.jtvnw.net/emoticons/v1/79087/1.0
+- name: decew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84054/1.0
 - name: decechallenge
   src: https://static-cdn.jtvnw.net/emoticons/v1/79090/1.0
 - name: decegive
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80031/1.0
 - name: decekappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/80030/1.0
+- name: decefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84055/1.0

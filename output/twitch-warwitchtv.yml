@@ -23,11 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50522/1.0
 - name: wwtvfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/50679/1.0
-- name: wwtvhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50788/1.0
 - name: wwtvpizza
   src: https://static-cdn.jtvnw.net/emoticons/v1/66209/1.0
 - name: wwtvlurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/66083/1.0
 - name: wwtvpanic
   src: https://static-cdn.jtvnw.net/emoticons/v1/70478/1.0
+- name: wwtvhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83875/1.0

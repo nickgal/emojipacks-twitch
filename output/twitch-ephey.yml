@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - ephey
 emojis:
-- name: mirarektt
+- name: epheyr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83569/1.0
+- name: epheyp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83655/1.0
+- name: epheyt
   src: https://static-cdn.jtvnw.net/emoticons/v1/82795/1.0
-- name: mirarektb
+- name: epheyb
   src: https://static-cdn.jtvnw.net/emoticons/v1/82808/1.0
-- name: mirarekts
+- name: epheys
   src: https://static-cdn.jtvnw.net/emoticons/v1/82798/1.0
-- name: mirarektw
+- name: epheyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/82796/1.0

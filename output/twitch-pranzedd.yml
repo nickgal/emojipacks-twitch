@@ -1,10 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - pranzedd
 emojis:
+- name: pranzfir
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84374/1.0
 - name: pranzhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/80962/1.0
 - name: pranzhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/80961/1.0
+- name: pranzcofi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84369/1.0
 - name: pranzderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/83065/1.0
 - name: pranzrage

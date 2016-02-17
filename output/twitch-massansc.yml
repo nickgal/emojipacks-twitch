@@ -5,8 +5,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/12760/1.0
 - name: maskappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/35600/1.0
+- name: masx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83615/1.0
 - name: masbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/68498/1.0
+- name: masfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83616/1.0
 - name: mashey
   src: https://static-cdn.jtvnw.net/emoticons/v1/54065/1.0
 - name: mashype
@@ -19,10 +23,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62683/1.0
 - name: maspeta
   src: https://static-cdn.jtvnw.net/emoticons/v1/70183/1.0
-- name: masx
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70181/1.0
-- name: masfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68499/1.0
 - name: masrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/70429/1.0
 - name: masgame

@@ -1,24 +1,22 @@
 ---
 title: Twitch Subscriber Emotes - docgotgame
 emojis:
-- name: doclady
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77983/1.0
-- name: docluv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25437/1.0
-- name: docmedic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46345/1.0
 - name: docboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/46026/1.0
 - name: doccry
   src: https://static-cdn.jtvnw.net/emoticons/v1/62900/1.0
 - name: docmoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/62901/1.0
-- name: docyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48457/1.0
-- name: docsen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50693/1.0
+- name: docwoah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83736/1.0
 - name: docrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/62899/1.0
+- name: docshots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83613/1.0
+- name: docpeace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83612/1.0
+- name: docluv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83598/1.0
 - name: docsalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/67436/1.0
 - name: doccreep
@@ -31,3 +29,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74529/1.0
 - name: docoops
   src: https://static-cdn.jtvnw.net/emoticons/v1/74150/1.0
+- name: docfired
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83739/1.0
+- name: docgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83737/1.0
+- name: dockappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83735/1.0
+- name: docfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83734/1.0
+- name: docno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85236/1.0
+- name: docyes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85237/1.0

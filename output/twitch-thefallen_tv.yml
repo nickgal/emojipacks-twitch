@@ -1,9 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - thefallen_tv
 emojis:
-- name: thefallensparkyg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55515/1.0
-- name: thefallenrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55516/1.0
-- name: thefallensparky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53336/1.0
+- name: thefallens
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84232/1.0
+- name: thefallensg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84233/1.0
+- name: thefallenj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84869/1.0
+- name: thefallensn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84868/1.0

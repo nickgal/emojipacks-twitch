@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - shaperka
 emojis:
+- name: shapers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84537/1.0
 - name: shaperjew
   src: https://static-cdn.jtvnw.net/emoticons/v1/61109/1.0
 - name: shaperhype
@@ -9,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60778/1.0
 - name: shaperfam
   src: https://static-cdn.jtvnw.net/emoticons/v1/68144/1.0
-- name: shaperrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68142/1.0
 - name: shapershoecat
   src: https://static-cdn.jtvnw.net/emoticons/v1/68141/1.0
 - name: shaperdu

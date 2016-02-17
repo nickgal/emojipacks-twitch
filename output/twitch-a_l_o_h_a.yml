@@ -7,10 +7,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44069/1.0
 - name: alohaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/72142/1.0
-- name: alohah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72074/1.0
 - name: alohajuicy
   src: https://static-cdn.jtvnw.net/emoticons/v1/72075/1.0
+- name: alohadwh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83862/1.0
 - name: alohagoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/75391/1.0
 - name: alohayeah
@@ -19,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77804/1.0
 - name: alohapotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/78352/1.0
+- name: alohah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85032/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - cubulous
 emojis:
-- name: cubedance
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34056/1.0
-- name: cubelighter
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34182/1.0
+- name: cuberage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83524/1.0
+- name: cuberock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83523/1.0
+- name: cubefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83521/1.0
+- name: cubehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83695/1.0

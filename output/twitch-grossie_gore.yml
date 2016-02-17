@@ -9,12 +9,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/5514/1.0
 - name: grossfeet
   src: https://static-cdn.jtvnw.net/emoticons/v1/55595/1.0
-- name: grossrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58037/1.0
 - name: grossgold
   src: https://static-cdn.jtvnw.net/emoticons/v1/55596/1.0
 - name: grossok
   src: https://static-cdn.jtvnw.net/emoticons/v1/70899/1.0
+- name: grossface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83559/1.0
 - name: grossfp
   src: https://static-cdn.jtvnw.net/emoticons/v1/82487/1.0
 - name: grosskappa
@@ -25,6 +25,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58909/1.0
 - name: grossshutup
   src: https://static-cdn.jtvnw.net/emoticons/v1/63055/1.0
+- name: grossrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83563/1.0
+- name: grossnotbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83562/1.0
+- name: grosswut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83561/1.0
+- name: grossexnosed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83560/1.0
+- name: grossright
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83558/1.0
 - name: gross33
   src: https://static-cdn.jtvnw.net/emoticons/v1/82485/1.0
 - name: grossja

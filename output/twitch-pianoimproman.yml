@@ -1,12 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - pianoimproman
 emojis:
-- name: bernierocks2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76128/1.0
 - name: bernielove
   src: https://static-cdn.jtvnw.net/emoticons/v1/76129/1.0
 - name: berniebravo
   src: https://static-cdn.jtvnw.net/emoticons/v1/76130/1.0
+- name: bernieross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83941/1.0
 - name: bernienote
   src: https://static-cdn.jtvnw.net/emoticons/v1/73465/1.0
 - name: bernieface
@@ -19,5 +19,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71536/1.0
 - name: bernieclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/76131/1.0
-- name: bernierocks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76127/1.0
+- name: berniekazoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84008/1.0
+- name: bernielike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84013/1.0

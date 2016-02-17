@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31813/1.0
 - name: chillinfoxshine
   src: https://static-cdn.jtvnw.net/emoticons/v1/31814/1.0
-- name: chillinsign
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37380/1.0
 - name: chillinmyb
   src: https://static-cdn.jtvnw.net/emoticons/v1/38973/1.0
 - name: chillinpushups
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47942/1.0
 - name: chillinwhoa
   src: https://static-cdn.jtvnw.net/emoticons/v1/47814/1.0
+- name: chillindataz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84440/1.0

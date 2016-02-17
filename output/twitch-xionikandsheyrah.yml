@@ -11,5 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83227/1.0
 - name: xionsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/83292/1.0
-- name: xionsniped
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83218/1.0
+- name: xionfarm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84103/1.0
+- name: xionsnipe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84110/1.0
+- name: xionmusic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84111/1.0

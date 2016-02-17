@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - tensterakdary
 emojis:
+- name: sterakdary
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85290/1.0
+- name: sterah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85289/1.0
+- name: steras
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85288/1.0
+- name: sterach
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85287/1.0
+- name: sterak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85286/1.0
 - name: steraapproves
   src: https://static-cdn.jtvnw.net/emoticons/v1/33411/1.0
 - name: steraoggy
   src: https://static-cdn.jtvnw.net/emoticons/v1/33402/1.0
 - name: sterapalce
   src: https://static-cdn.jtvnw.net/emoticons/v1/44373/1.0
-- name: sterarip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62531/1.0
-- name: steraborec
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62530/1.0
-- name: sterasupak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62529/1.0

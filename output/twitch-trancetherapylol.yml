@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - trancetherapylol
 emojis:
-- name: trancebait
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36900/1.0
 - name: tranceready
   src: https://static-cdn.jtvnw.net/emoticons/v1/36901/1.0
 - name: trancedj
   src: https://static-cdn.jtvnw.net/emoticons/v1/40183/1.0
 - name: trancewoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/40180/1.0
+- name: trancenlt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84986/1.0

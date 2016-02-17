@@ -1,6 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - elajjaz
 emojis:
+- name: ela3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83820/1.0
+- name: ela2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83819/1.0
+- name: ela1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83818/1.0
 - name: elaglod
   src: https://static-cdn.jtvnw.net/emoticons/v1/13690/1.0
 - name: elacry
@@ -19,8 +25,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33483/1.0
 - name: elao
   src: https://static-cdn.jtvnw.net/emoticons/v1/33542/1.0
-- name: ela3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82436/1.0
 - name: elacreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/35611/1.0
 - name: elaeek
@@ -33,10 +37,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46945/1.0
 - name: elac
   src: https://static-cdn.jtvnw.net/emoticons/v1/82543/1.0
-- name: ela2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82433/1.0
-- name: ela1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82431/1.0
 - name: ela13
   src: https://static-cdn.jtvnw.net/emoticons/v1/83014/1.0
 - name: elapd

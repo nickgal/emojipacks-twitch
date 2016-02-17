@@ -3,31 +3,29 @@ title: Twitch Subscriber Emotes - rotterdam08
 emojis:
 - name: rottip
   src: https://static-cdn.jtvnw.net/emoticons/v1/5632/1.0
-- name: rottil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12117/1.0
-- name: rottib
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12118/1.0
 - name: rottichamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/57124/1.0
 - name: rottibuild
   src: https://static-cdn.jtvnw.net/emoticons/v1/35332/1.0
 - name: rotticheeky
   src: https://static-cdn.jtvnw.net/emoticons/v1/35331/1.0
-- name: rottiemozealot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47193/1.0
 - name: rottidonkey
   src: https://static-cdn.jtvnw.net/emoticons/v1/46944/1.0
 - name: rottiarmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/47012/1.0
 - name: rottiwall
   src: https://static-cdn.jtvnw.net/emoticons/v1/47106/1.0
-- name: rottimicro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47107/1.0
 - name: rottimask
   src: https://static-cdn.jtvnw.net/emoticons/v1/50630/1.0
-- name: rottistalker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50845/1.0
-- name: rottising
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51282/1.0
 - name: rottirace
   src: https://static-cdn.jtvnw.net/emoticons/v1/57263/1.0
+- name: rottibull
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84057/1.0
+- name: rotticlub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84056/1.0
+- name: rottigasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84516/1.0
+- name: rottibo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84515/1.0
+- name: rottihi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84514/1.0

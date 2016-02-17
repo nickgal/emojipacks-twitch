@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - cillidbaaang
 emojis:
+- name: cilliddeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84591/1.0
+- name: cillidsmoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83405/1.0
+- name: cillidbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83456/1.0
+- name: cillidfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83656/1.0
+- name: cillidlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84621/1.0
 - name: cillidrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/83337/1.0
 - name: cillidabgehoben
   src: https://static-cdn.jtvnw.net/emoticons/v1/83338/1.0
+- name: cillidhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83403/1.0

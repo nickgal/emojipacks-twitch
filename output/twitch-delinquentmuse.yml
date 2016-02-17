@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - delinquentmuse
 emojis:
-- name: musehi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65690/1.0
 - name: musenottoday
   src: https://static-cdn.jtvnw.net/emoticons/v1/64979/1.0
 - name: musesarc
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65293/1.0
 - name: musepanic
   src: https://static-cdn.jtvnw.net/emoticons/v1/72970/1.0
+- name: musehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85170/1.0

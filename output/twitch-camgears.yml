@@ -11,13 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57447/1.0
 - name: camboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/57623/1.0
-- name: camturtle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57448/1.0
-- name: camair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57444/1.0
 - name: camdunk
   src: https://static-cdn.jtvnw.net/emoticons/v1/57445/1.0
-- name: camgarb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58205/1.0
-- name: camreject
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58206/1.0
+- name: camw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85267/1.0
+- name: camturtle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85263/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - zwetschke___
 emojis:
-- name: zwettroll
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82377/1.0
 - name: zwethype
   src: https://static-cdn.jtvnw.net/emoticons/v1/82376/1.0
 - name: zwethi
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82379/1.0
 - name: zwetfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/82378/1.0
+- name: zwetrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84725/1.0
+- name: zwetrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84723/1.0
+- name: zwetherz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84721/1.0

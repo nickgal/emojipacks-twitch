@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40708/1.0
 - name: dfieldrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/20567/1.0
-- name: dfieldlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25996/1.0
 - name: dfieldxray
   src: https://static-cdn.jtvnw.net/emoticons/v1/29136/1.0
 - name: dfieldrip
@@ -21,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74850/1.0
 - name: dfieldfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/74851/1.0
-- name: dfieldclap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74919/1.0
 - name: dfieldcage
   src: https://static-cdn.jtvnw.net/emoticons/v1/74920/1.0
 - name: dfielddad
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74922/1.0
 - name: dfieldfbm
   src: https://static-cdn.jtvnw.net/emoticons/v1/80523/1.0
+- name: dfieldlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84821/1.0
+- name: dfieldo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84897/1.0

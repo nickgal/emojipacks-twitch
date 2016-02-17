@@ -3,9 +3,9 @@ title: Twitch Subscriber Emotes - bloody_elf
 emojis:
 - name: bloodsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/79342/1.0
-- name: bloodqueen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74206/1.0
 - name: bloodlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74207/1.0
-- name: bloodhappybirthday
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78147/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84458/1.0
+- name: bloodgrust
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84459/1.0
+- name: bloodrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84460/1.0

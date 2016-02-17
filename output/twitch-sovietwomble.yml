@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - sovietwomble
 emojis:
 - name: womblepew
   src: https://static-cdn.jtvnw.net/emoticons/v1/72420/1.0
-- name: womblesad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79124/1.0
 - name: wombleshoots
   src: https://static-cdn.jtvnw.net/emoticons/v1/79125/1.0
 - name: wombledrunk
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74182/1.0
 - name: wombleshocked
   src: https://static-cdn.jtvnw.net/emoticons/v1/74261/1.0
+- name: womblenepgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83522/1.0

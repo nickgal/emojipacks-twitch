@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - alwayseagles69
 emojis:
-- name: eaglehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29221/1.0
 - name: eaglereallydoe
   src: https://static-cdn.jtvnw.net/emoticons/v1/33504/1.0
 - name: eaglenest
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71987/1.0
 - name: eagleh
   src: https://static-cdn.jtvnw.net/emoticons/v1/71988/1.0
+- name: eaglehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84030/1.0

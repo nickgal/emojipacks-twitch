@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67765/1.0
 - name: dethey
   src: https://static-cdn.jtvnw.net/emoticons/v1/60837/1.0
-- name: detgrill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64862/1.0
 - name: detrespekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/65621/1.0
 - name: detcry
@@ -21,3 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78135/1.0
 - name: detno
   src: https://static-cdn.jtvnw.net/emoticons/v1/78908/1.0
+- name: detw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84135/1.0
+- name: detew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84143/1.0
+- name: det1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84298/1.0
+- name: det2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84299/1.0
+- name: det3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84300/1.0
+- name: det4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84301/1.0

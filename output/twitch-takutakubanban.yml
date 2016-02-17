@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - takutakubanban
 emojis:
-- name: aratankdogeza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83022/1.0
-- name: aratankozama
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83166/1.0
+- name: aratankcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/83920/1.0
+- name: aratankzamasu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84114/1.0
+- name: aratankdeden
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85019/1.0

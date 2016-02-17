@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - tonkaaaap
 emojis:
 - name: tonkhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/82718/1.0
+- name: tonkweird
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84401/1.0
+- name: tonknever
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84400/1.0
 - name: tonkface
   src: https://static-cdn.jtvnw.net/emoticons/v1/81198/1.0
 - name: tonkbooty

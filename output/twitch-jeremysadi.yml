@@ -1,15 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - jeremysadi
 emojis:
-- name: jeremysadictm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77532/1.0
 - name: jeremysadivulbis
   src: https://static-cdn.jtvnw.net/emoticons/v1/43547/1.0
-- name: jeremysadinoob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47848/1.0
 - name: jeremysadinewsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/53794/1.0
-- name: jeremysadikappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58698/1.0
-- name: jeremysadiwoy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76375/1.0
+- name: jeremysaditm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84378/1.0
+- name: jeremysadirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84377/1.0
+- name: jeremysadidon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/84376/1.0

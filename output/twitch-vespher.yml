@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - vespher
 emojis:
-- name: getroasted
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62113/1.0
 - name: getsleepy
   src: https://static-cdn.jtvnw.net/emoticons/v1/81120/1.0
 - name: getglad
   src: https://static-cdn.jtvnw.net/emoticons/v1/58153/1.0
-- name: gettoasted
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62015/1.0
 - name: getminty
   src: https://static-cdn.jtvnw.net/emoticons/v1/62023/1.0
 - name: gethype
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83139/1.0
 - name: getthoroughlymemedupon
   src: https://static-cdn.jtvnw.net/emoticons/v1/83140/1.0
+- name: getcute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85270/1.0
+- name: getsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85260/1.0

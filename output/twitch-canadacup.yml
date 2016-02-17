@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - canadacup
 emojis:
-- name: gdlk
+- name: canadacupgdlk
   src: https://static-cdn.jtvnw.net/emoticons/v1/249/1.0
-- name: choker
+- name: canadacupchoker
   src: https://static-cdn.jtvnw.net/emoticons/v1/251/1.0
-- name: us
+- name: canadacupus
   src: https://static-cdn.jtvnw.net/emoticons/v1/257/1.0
-- name: nl
+- name: canadacupnl
   src: https://static-cdn.jtvnw.net/emoticons/v1/265/1.0
-- name: sg
+- name: canadacupsg
   src: https://static-cdn.jtvnw.net/emoticons/v1/267/1.0
 - name: ccgoldbossmaaaan
   src: https://static-cdn.jtvnw.net/emoticons/v1/2806/1.0
 - name: ccgoldcomback
   src: https://static-cdn.jtvnw.net/emoticons/v1/2808/1.0
-- name: dld
+- name: canadacupdld
   src: https://static-cdn.jtvnw.net/emoticons/v1/1435/1.0
-- name: dat895
+- name: canadacupdat895
   src: https://static-cdn.jtvnw.net/emoticons/v1/1436/1.0
 - name: ccgoldcollusion
   src: https://static-cdn.jtvnw.net/emoticons/v1/2809/1.0
@@ -37,15 +37,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/2816/1.0
 - name: ccgoldirock
   src: https://static-cdn.jtvnw.net/emoticons/v1/2817/1.0
-- name: ca
+- name: canadacupca
   src: https://static-cdn.jtvnw.net/emoticons/v1/254/1.0
-- name: jp
+- name: canadacupjp
   src: https://static-cdn.jtvnw.net/emoticons/v1/258/1.0
-- name: hk
+- name: canadacuphk
   src: https://static-cdn.jtvnw.net/emoticons/v1/261/1.0
-- name: tw
+- name: canadacuptw
   src: https://static-cdn.jtvnw.net/emoticons/v1/262/1.0
-- name: kr
+- name: canadacupkr
   src: https://static-cdn.jtvnw.net/emoticons/v1/264/1.0
 - name: ccgold895
   src: https://static-cdn.jtvnw.net/emoticons/v1/70457/1.0
