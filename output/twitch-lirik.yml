@@ -41,6 +41,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29049/1.0
 - name: lirikten
   src: https://static-cdn.jtvnw.net/emoticons/v1/29569/1.0
+- name: lirikgreat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85609/1.0
 - name: lirikpoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/37748/1.0
 - name: liriknice

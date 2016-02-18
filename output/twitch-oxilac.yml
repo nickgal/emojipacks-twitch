@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - oxilac
 emojis:
+- name: oxilacrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85446/1.0
 - name: oxilacface
   src: https://static-cdn.jtvnw.net/emoticons/v1/65307/1.0
 - name: oxilacsub

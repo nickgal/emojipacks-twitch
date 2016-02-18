@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81536/1.0
 - name: icontree
   src: https://static-cdn.jtvnw.net/emoticons/v1/77280/1.0
+- name: iconzeek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85563/1.0
 - name: iconinigo
   src: https://static-cdn.jtvnw.net/emoticons/v1/76725/1.0
 - name: iconcru
@@ -27,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84260/1.0
 - name: iconscam
   src: https://static-cdn.jtvnw.net/emoticons/v1/84261/1.0
+- name: iconsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85564/1.0

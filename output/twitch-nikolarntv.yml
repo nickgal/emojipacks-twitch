@@ -15,12 +15,18 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47784/1.0
 - name: nikohater
   src: https://static-cdn.jtvnw.net/emoticons/v1/47783/1.0
+- name: nikotired
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85355/1.0
+- name: nikowhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85372/1.0
 - name: nikorip
   src: https://static-cdn.jtvnw.net/emoticons/v1/53234/1.0
 - name: nikovac
   src: https://static-cdn.jtvnw.net/emoticons/v1/66880/1.0
 - name: nikofeel
   src: https://static-cdn.jtvnw.net/emoticons/v1/66879/1.0
+- name: nikostache
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85371/1.0
 - name: nikoace
   src: https://static-cdn.jtvnw.net/emoticons/v1/82705/1.0
 - name: nikoh
@@ -31,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82584/1.0
 - name: niko2
   src: https://static-cdn.jtvnw.net/emoticons/v1/82582/1.0
+- name: nikoscript
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85358/1.0
+- name: nikoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85357/1.0

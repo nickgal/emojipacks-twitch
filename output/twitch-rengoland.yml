@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - rengoland
 emojis:
+- name: rengodeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85523/1.0
+- name: rengorekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85522/1.0
 - name: rengojanna
   src: https://static-cdn.jtvnw.net/emoticons/v1/79796/1.0
 - name: rengobola

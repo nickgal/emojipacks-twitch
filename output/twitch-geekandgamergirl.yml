@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - geekandgamergirl
 emojis:
 - name: gggirlbacon
   src: https://static-cdn.jtvnw.net/emoticons/v1/69586/1.0
-- name: gggirlthirst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70259/1.0
 - name: gggirlpcake
   src: https://static-cdn.jtvnw.net/emoticons/v1/71121/1.0
 - name: gggirlregrets
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71396/1.0
 - name: gggirlbutts
   src: https://static-cdn.jtvnw.net/emoticons/v1/71397/1.0
+- name: gggirlpika
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85602/1.0

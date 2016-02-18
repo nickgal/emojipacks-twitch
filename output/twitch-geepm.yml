@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79190/1.0
 - name: gpmbuff
   src: https://static-cdn.jtvnw.net/emoticons/v1/84663/1.0
+- name: gpmbanned
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85520/1.0
 - name: gpmriku
   src: https://static-cdn.jtvnw.net/emoticons/v1/78752/1.0
 - name: gpmdog

@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - ggtvmk
 emojis:
+- name: ggtvmkneon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85430/1.0
+- name: ggtvmkgoc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85427/1.0
+- name: ggtvmkbobi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85426/1.0
 - name: ggtvmkgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/31870/1.0
+- name: ggtvmkdane
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85425/1.0
 - name: ggtvmkbobo
   src: https://static-cdn.jtvnw.net/emoticons/v1/68595/1.0

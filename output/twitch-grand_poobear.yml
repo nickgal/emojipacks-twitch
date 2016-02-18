@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - grand_poobear
 emojis:
+- name: poolumanati
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85438/1.0
 - name: pooblock
   src: https://static-cdn.jtvnw.net/emoticons/v1/75565/1.0
 - name: pooyatta

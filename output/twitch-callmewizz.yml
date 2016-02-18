@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - callmewizz
 emojis:
+- name: wizzyw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85343/1.0
 - name: wizzylurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/49015/1.0
 - name: wizzyhype

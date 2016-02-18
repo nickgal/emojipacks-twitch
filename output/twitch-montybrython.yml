@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - montybrython
 emojis:
-- name: montykappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68761/1.0
 - name: montybomb
   src: https://static-cdn.jtvnw.net/emoticons/v1/68591/1.0
 - name: montyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68594/1.0
 - name: montylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/68590/1.0
-- name: montybae
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68589/1.0
 - name: montyo
   src: https://static-cdn.jtvnw.net/emoticons/v1/73258/1.0
-- name: montyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73259/1.0
-- name: montythump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73260/1.0
+- name: montyh8
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85645/1.0
+- name: montyrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85648/1.0

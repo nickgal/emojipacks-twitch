@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/19164/1.0
 - name: omgaion
   src: https://static-cdn.jtvnw.net/emoticons/v1/19281/1.0
-- name: omgannoy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55934/1.0
 - name: omgbunny
   src: https://static-cdn.jtvnw.net/emoticons/v1/55935/1.0
 - name: omgevil
@@ -51,3 +49,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31806/1.0
 - name: omgkirby
   src: https://static-cdn.jtvnw.net/emoticons/v1/66655/1.0
+- name: omgtiny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85573/1.0

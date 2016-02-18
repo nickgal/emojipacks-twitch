@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - spiidiwhaam
 emojis:
+- name: spiidisexy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85331/1.0
+- name: spiidigeistig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85327/1.0
 - name: spiididunno
   src: https://static-cdn.jtvnw.net/emoticons/v1/76564/1.0
 - name: spiidix

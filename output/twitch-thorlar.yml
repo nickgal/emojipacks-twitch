@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/8044/1.0
 - name: thorlarmeh
   src: https://static-cdn.jtvnw.net/emoticons/v1/8147/1.0
-- name: thorlarcookie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8947/1.0
 - name: thorlarpony
   src: https://static-cdn.jtvnw.net/emoticons/v1/16214/1.0
 - name: thorlarbaby
@@ -17,6 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52167/1.0
 - name: thorlargg
   src: https://static-cdn.jtvnw.net/emoticons/v1/51233/1.0
+- name: thorlarcookie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85671/1.0
 - name: thorlarmjolnir
   src: https://static-cdn.jtvnw.net/emoticons/v1/84911/1.0
 - name: thorlarhype

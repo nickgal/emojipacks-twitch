@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - gogcom
 emojis:
+- name: gogcomspoopy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85605/1.0
 - name: gogcomded
   src: https://static-cdn.jtvnw.net/emoticons/v1/83677/1.0
 - name: gogcomfree

@@ -3,3 +3,5 @@ title: Twitch Subscriber Emotes - tsrzombies
 emojis:
 - name: tsrhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/57523/1.0
+- name: tsrfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85528/1.0

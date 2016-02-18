@@ -3,6 +3,12 @@ title: Twitch Subscriber Emotes - wolverous
 emojis:
 - name: wolvpacwolvpac
   src: https://static-cdn.jtvnw.net/emoticons/v1/17099/1.0
+- name: wolvpachype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85311/1.0
+- name: wolvpacgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85310/1.0
+- name: wolvpac180
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85309/1.0
 - name: wolvpacanl
   src: https://static-cdn.jtvnw.net/emoticons/v1/26599/1.0
 - name: wolvpacbier
