@@ -41,6 +41,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/4057/1.0
 - name: buddhabar
   src: https://static-cdn.jtvnw.net/emoticons/v1/27602/1.0
+- name: cheffrank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90129/1.0
 - name: cmonbruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/84608/1.0
 - name: coolcat
@@ -73,8 +75,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/20/1.0
 - name: elegiggle
   src: https://static-cdn.jtvnw.net/emoticons/v1/4339/1.0
-- name: evilfetus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72/1.0
 - name: failfish
   src: https://static-cdn.jtvnw.net/emoticons/v1/360/1.0
 - name: fpsmarksman
@@ -145,6 +145,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29/1.0
 - name: ninjatroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/45/1.0
+- name: nomnom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90075/1.0
 - name: nonospot
   src: https://static-cdn.jtvnw.net/emoticons/v1/44/1.0
 - name: notatk
@@ -225,6 +227,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/87/1.0
 - name: shibez
   src: https://static-cdn.jtvnw.net/emoticons/v1/27903/1.0
+- name: smoocherz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89945/1.0
 - name: smorc
   src: https://static-cdn.jtvnw.net/emoticons/v1/52/1.0
 - name: smskull
@@ -237,6 +241,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/14706/1.0
 - name: ssssss
   src: https://static-cdn.jtvnw.net/emoticons/v1/46/1.0
+- name: stinkycheese
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90076/1.0
 - name: stonelightning
   src: https://static-cdn.jtvnw.net/emoticons/v1/17/1.0
 - name: strawbeary
@@ -245,6 +251,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31/1.0
 - name: swiftrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/34/1.0
+- name: tbcheesepull
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94039/1.0
+- name: tbtacoleft
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94038/1.0
+- name: tbtacoright
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94040/1.0
 - name: tf2john
   src: https://static-cdn.jtvnw.net/emoticons/v1/1899/1.0
 - name: theringer
