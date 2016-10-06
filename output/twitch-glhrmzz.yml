@@ -5,15 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84115/1.0
 - name: glzhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/84925/1.0
-- name: glzhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84920/1.0
 - name: glzrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/84915/1.0
-- name: glzlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84927/1.0
-- name: glzlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84916/1.0
-- name: glzclassic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84922/1.0
 - name: glzhot
   src: https://static-cdn.jtvnw.net/emoticons/v1/84918/1.0
+- name: glzfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102926/1.0
+- name: glzlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102925/1.0
+- name: glzhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102924/1.0
+- name: glzevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116277/1.0

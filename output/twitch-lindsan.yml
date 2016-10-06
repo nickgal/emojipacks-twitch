@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lindsan
 emojis:
-- name: lindsanw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64939/1.0
-- name: lindsanfeelsgood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83581/1.0
-- name: lindsanfeelsbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83582/1.0
-- name: lindsanlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64714/1.0
-- name: lindsanhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45761/1.0
-- name: lindsanbro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78955/1.0
+- name: lindsane
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116306/1.0
+- name: lindsanwat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112858/1.0
+- name: lindsang
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112865/1.0
+- name: lindsanlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112862/1.0
+- name: lindsanso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112861/1.0
+- name: lindsan7
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112860/1.0
+- name: lindsant
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112859/1.0
+- name: lindsanhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112882/1.0

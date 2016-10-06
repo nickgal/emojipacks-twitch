@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - jless
 emojis:
-- name: jfamfow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47235/1.0
 - name: jfamlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/47358/1.0
 - name: jfamsalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56346/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91009/1.0
 - name: jfamhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54332/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90968/1.0
+- name: jfamg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104968/1.0
 - name: jfampotato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65783/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91329/1.0
 - name: jfamlurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67587/1.0
-- name: jfamkobe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82178/1.0
-- name: jfamstare
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82177/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94487/1.0
+- name: jfamwat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95252/1.0
+- name: jfamfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103679/1.0

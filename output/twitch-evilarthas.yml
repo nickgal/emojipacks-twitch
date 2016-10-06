@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - evilarthas
 emojis:
+- name: roflanhiddenpool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90896/1.0
 - name: roflantsar
   src: https://static-cdn.jtvnw.net/emoticons/v1/43996/1.0
+- name: roflantigran
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86331/1.0
 - name: roflanpapich
   src: https://static-cdn.jtvnw.net/emoticons/v1/41134/1.0
 - name: roflanpomoika
   src: https://static-cdn.jtvnw.net/emoticons/v1/41135/1.0
 - name: roflanmicro
   src: https://static-cdn.jtvnw.net/emoticons/v1/59918/1.0
-- name: roflanmusor
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79462/1.0
+- name: roflanebalo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90817/1.0
+- name: roflanhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117092/1.0

@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - seinhor9
 emojis:
-- name: teamtruiteteamtruite
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80809/1.0
 - name: teamtruitewouallez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80628/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99615/1.0
+- name: teamtruiteteamtruite
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99616/1.0
+- name: teamtruiterip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104161/1.0
+- name: teamtruitegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104160/1.0
+- name: teamtruitepls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107977/1.0
+- name: teamtruitetruite
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108250/1.0

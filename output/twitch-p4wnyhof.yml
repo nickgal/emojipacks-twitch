@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61252/1.0
 - name: pownyhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/65294/1.0
-- name: pownyrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73217/1.0
 - name: pownyb
   src: https://static-cdn.jtvnw.net/emoticons/v1/73210/1.0
 - name: pownyl
@@ -19,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75515/1.0
 - name: pownyhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/76782/1.0
-- name: pownyt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80718/1.0
 - name: pownyh
   src: https://static-cdn.jtvnw.net/emoticons/v1/80987/1.0
 - name: pownyg
@@ -31,3 +27,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82770/1.0
 - name: pownymug
   src: https://static-cdn.jtvnw.net/emoticons/v1/85307/1.0
+- name: pownylethal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86157/1.0
+- name: pownyd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93076/1.0
+- name: pownypride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107698/1.0
+- name: pownysanta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116138/1.0
+- name: pownyrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111745/1.0
+- name: pownya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111747/1.0

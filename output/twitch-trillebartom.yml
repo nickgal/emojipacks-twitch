@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - trillebartom
 emojis:
-- name: trillechup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5891/1.0
 - name: trillewhale
   src: https://static-cdn.jtvnw.net/emoticons/v1/7416/1.0
 - name: trillemoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/9812/1.0
-- name: trillegotem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9813/1.0
-- name: trillekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14587/1.0
 - name: trillehug
   src: https://static-cdn.jtvnw.net/emoticons/v1/14586/1.0
 - name: trilleh
   src: https://static-cdn.jtvnw.net/emoticons/v1/28784/1.0
-- name: trilley
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29223/1.0
+- name: trillethump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86547/1.0
+- name: trillebaby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87637/1.0
+- name: trillet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88127/1.0
+- name: trillekappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87958/1.0

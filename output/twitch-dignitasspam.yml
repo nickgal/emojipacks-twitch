@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - dignitasspam
 emojis:
-- name: spmww
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68946/1.0
-- name: spmrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68943/1.0
+- name: spmlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111059/1.0
 - name: spmhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68930/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88532/1.0
+- name: spmbm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88533/1.0
+- name: spmww
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100734/1.0
+- name: spmrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100733/1.0
+- name: spmhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100798/1.0

@@ -1,19 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - shauntpetro
 emojis:
-- name: uwotssj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55477/1.0
-- name: uwotm8
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17991/1.0
-- name: uwotgotem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26603/1.0
+- name: uwotxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89847/1.0
+- name: uwotdie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113867/1.0
 - name: uwotears
   src: https://static-cdn.jtvnw.net/emoticons/v1/44679/1.0
-- name: uwotsmug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52527/1.0
-- name: uwotdafuq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57463/1.0
-- name: uwotfiona
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57462/1.0
-- name: uwotlit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69061/1.0
+- name: uwotlmao
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110392/1.0
+- name: uwotd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113866/1.0
+- name: uwotg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105963/1.0
+- name: uwots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105964/1.0

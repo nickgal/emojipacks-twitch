@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - phallofphariss
 emojis:
 - name: phallthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/70991/1.0
-- name: phallrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70990/1.0
 - name: phallhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/38380/1.0
 - name: phalllove
   src: https://static-cdn.jtvnw.net/emoticons/v1/38381/1.0
-- name: phallfatty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77056/1.0
 - name: phallshrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/79039/1.0
+- name: phallcringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112582/1.0
+- name: phalldab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112583/1.0

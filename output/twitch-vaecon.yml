@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - vaecon
 emojis:
-- name: baecon69
+- name: vae69
   src: https://static-cdn.jtvnw.net/emoticons/v1/68316/1.0
-- name: baeconbubbles
+- name: vaebubbles
   src: https://static-cdn.jtvnw.net/emoticons/v1/68317/1.0
-- name: baeconhype
+- name: vaehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68318/1.0
-- name: baeconsalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68319/1.0
-- name: baeconcry
+- name: vaecry
   src: https://static-cdn.jtvnw.net/emoticons/v1/68320/1.0
-- name: baecondonation
+- name: vaedonation
   src: https://static-cdn.jtvnw.net/emoticons/v1/68321/1.0
-- name: baeconlove
+- name: vaelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/68322/1.0
-- name: baeconoh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68323/1.0
+- name: vaeroast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106987/1.0
+- name: vaeoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115236/1.0

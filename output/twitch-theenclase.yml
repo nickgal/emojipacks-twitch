@@ -1,23 +1,41 @@
 ---
 title: Twitch Subscriber Emotes - theenclase
 emojis:
-- name: enclaseghost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4401/1.0
-- name: enclaserage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36819/1.0
-- name: enclasebibletrump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36818/1.0
 - name: enclasewombart
   src: https://static-cdn.jtvnw.net/emoticons/v1/36816/1.0
 - name: enclasewombicoin
   src: https://static-cdn.jtvnw.net/emoticons/v1/38140/1.0
-- name: enclasezombat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38141/1.0
-- name: enclasewombat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38901/1.0
-- name: enclasewombinchen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49529/1.0
-- name: enclaselove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77614/1.0
+- name: enclaserage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117000/1.0
+- name: enclaseny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116940/1.0
+- name: enclaseboden
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117052/1.0
+- name: enclasean
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116939/1.0
+- name: enclasesad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116828/1.0
+- name: enclaseyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109422/1.0
 - name: enclasehihi
   src: https://static-cdn.jtvnw.net/emoticons/v1/82273/1.0
+- name: enclasesellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114281/1.0
+- name: enclasehey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114280/1.0
+- name: enclaselol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110542/1.0
+- name: enclasetja
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110543/1.0
+- name: enclasederp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109423/1.0
+- name: enclasefat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109424/1.0
+- name: enclasesalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117033/1.0
+- name: enclaselove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110883/1.0
+- name: enclasefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114352/1.0
+- name: enclasegasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114353/1.0

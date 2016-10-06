@@ -3,14 +3,6 @@ title: Twitch Subscriber Emotes - tehjamjar
 emojis:
 - name: jamjamjar
   src: https://static-cdn.jtvnw.net/emoticons/v1/23320/1.0
-- name: jamwhiteleather
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23321/1.0
-- name: jamcrumpet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23322/1.0
-- name: jamjarhead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23324/1.0
-- name: jamnodice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31993/1.0
 - name: jamlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/31992/1.0
 - name: jamrip
@@ -21,13 +13,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/26043/1.0
 - name: jamdark
   src: https://static-cdn.jtvnw.net/emoticons/v1/26044/1.0
-- name: jamyeyeah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26046/1.0
-- name: jamnailedit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26180/1.0
 - name: jambeer
   src: https://static-cdn.jtvnw.net/emoticons/v1/26397/1.0
 - name: jambbp
   src: https://static-cdn.jtvnw.net/emoticons/v1/31918/1.0
 - name: jamwaow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63253/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102730/1.0
+- name: jamthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102732/1.0
+- name: jamhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102733/1.0
+- name: jamroast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102731/1.0
+- name: jamtru
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102729/1.0
+- name: jamnail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102728/1.0
+- name: jamfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102727/1.0

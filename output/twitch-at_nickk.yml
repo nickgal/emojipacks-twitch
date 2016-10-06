@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - at_nickk
 emojis:
+- name: nickkgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96775/1.0
 - name: nickksalty
   src: https://static-cdn.jtvnw.net/emoticons/v1/26614/1.0
 - name: nickkrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/62083/1.0
 - name: nickkwat
   src: https://static-cdn.jtvnw.net/emoticons/v1/41085/1.0
-- name: nickkhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62176/1.0
 - name: nickkwoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/76186/1.0
+- name: nickkhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97045/1.0

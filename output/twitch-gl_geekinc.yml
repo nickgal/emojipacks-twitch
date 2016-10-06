@@ -1,11 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - gl_geekinc
 emojis:
-- name: gplaycasque
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82367/1.0
-- name: gplaycarre
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65469/1.0
 - name: gplayfaisan
   src: https://static-cdn.jtvnw.net/emoticons/v1/80109/1.0
 - name: gplayinternet
   src: https://static-cdn.jtvnw.net/emoticons/v1/84379/1.0
+- name: gplayced
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85772/1.0
+- name: gplaygmz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95504/1.0
+- name: gplayfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95516/1.0
+- name: gplaypls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95517/1.0
+- name: gplaygeekinc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116557/1.0

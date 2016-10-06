@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - blackufa_twitch
 emojis:
-- name: blackufawtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77309/1.0
-- name: blackufafacepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77308/1.0
-- name: blackufacthulhu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65951/1.0
+- name: blackufazloi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109822/1.0
+- name: blackufamlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109820/1.0
+- name: blackufaklevo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109819/1.0
+- name: blackufabivaet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109817/1.0
 - name: blackufatosya
   src: https://static-cdn.jtvnw.net/emoticons/v1/68360/1.0
-- name: blackufamlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83980/1.0
-- name: blackufadumb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84088/1.0
+- name: blackufawtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109821/1.0
+- name: blackufaok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109818/1.0
+- name: blackufapride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112399/1.0

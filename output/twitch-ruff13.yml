@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - ruff13
 emojis:
-- name: ruffghost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18483/1.0
 - name: ruffruffd
   src: https://static-cdn.jtvnw.net/emoticons/v1/18531/1.0
-- name: ruffsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74215/1.0
 - name: ruffrocket
   src: https://static-cdn.jtvnw.net/emoticons/v1/76151/1.0
 - name: ruffcockpit
   src: https://static-cdn.jtvnw.net/emoticons/v1/76152/1.0
 - name: ruffbody
   src: https://static-cdn.jtvnw.net/emoticons/v1/76153/1.0
+- name: ruffrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88632/1.0
+- name: ruffghost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113350/1.0

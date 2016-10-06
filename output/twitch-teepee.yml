@@ -1,27 +1,31 @@
 ---
 title: Twitch Subscriber Emotes - teepee
 emojis:
+- name: teeppalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91639/1.0
 - name: teepohyeah
   src: https://static-cdn.jtvnw.net/emoticons/v1/76497/1.0
-- name: teeparmy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76513/1.0
 - name: teepglasses
   src: https://static-cdn.jtvnw.net/emoticons/v1/68392/1.0
-- name: teeprekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83772/1.0
 - name: teepkms
   src: https://static-cdn.jtvnw.net/emoticons/v1/71030/1.0
 - name: teepsellout
   src: https://static-cdn.jtvnw.net/emoticons/v1/82577/1.0
 - name: teepworldchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/73487/1.0
-- name: teepenvy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73495/1.0
-- name: teepgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81961/1.0
 - name: teepsubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/81952/1.0
+- name: teepgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91647/1.0
 - name: teep3bar
   src: https://static-cdn.jtvnw.net/emoticons/v1/82898/1.0
 - name: teepnerdnade
   src: https://static-cdn.jtvnw.net/emoticons/v1/83087/1.0
+- name: teeprekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91173/1.0
+- name: teepgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91174/1.0
+- name: teeptroop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91175/1.0
+- name: teepwashed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96491/1.0

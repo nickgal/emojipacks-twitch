@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - nilatarion
 emojis:
-- name: nilrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59231/1.0
-- name: nilswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59090/1.0
+- name: nilbezblednie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87302/1.0
+- name: nilrng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91785/1.0
+- name: nilrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91786/1.0
+- name: nilbrawo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91787/1.0

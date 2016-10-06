@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - dagamer2323
 emojis:
-- name: dagamertrash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48976/1.0
-- name: dagamerstrc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30950/1.0
-- name: dagamerhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30947/1.0
-- name: dagamerthirst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33648/1.0
-- name: dagamerholdthis
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75495/1.0
+- name: dagamercreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105227/1.0
+- name: dagamerdoge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105159/1.0
 - name: dagamerlit
   src: https://static-cdn.jtvnw.net/emoticons/v1/77124/1.0
+- name: dagamermad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114758/1.0
+- name: dagamerhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114759/1.0
+- name: dagamersubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114762/1.0

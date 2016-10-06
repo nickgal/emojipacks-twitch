@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - tomwild1995
 emojis:
 - name: tomwild7
   src: https://static-cdn.jtvnw.net/emoticons/v1/52671/1.0
-- name: tomwildgasp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52665/1.0
-- name: tomwildhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52568/1.0
 - name: tomwildgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/52646/1.0
-- name: tomwildderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53822/1.0
+- name: tomwildkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103157/1.0
+- name: tomwildfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103149/1.0
 - name: tomwildsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/53860/1.0
-- name: tomwildfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53862/1.0
 - name: tomwildh
   src: https://static-cdn.jtvnw.net/emoticons/v1/52519/1.0
+- name: tomwildhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88748/1.0
+- name: tomwildbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103043/1.0

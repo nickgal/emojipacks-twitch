@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - night_affinity
 emojis:
-- name: realmdown
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69069/1.0
 - name: realmeye
   src: https://static-cdn.jtvnw.net/emoticons/v1/69068/1.0
 - name: realmbling
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69198/1.0
 - name: realmbreak
   src: https://static-cdn.jtvnw.net/emoticons/v1/69197/1.0
+- name: realmgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94138/1.0

@@ -1,9 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - xnestorio
 emojis:
+- name: ngalfiddlesticks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104723/1.0
+- name: ngalxray
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91513/1.0
 - name: ngalshotem
   src: https://static-cdn.jtvnw.net/emoticons/v1/68355/1.0
-- name: ngalsaddle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68354/1.0
 - name: ngaldolphin
   src: https://static-cdn.jtvnw.net/emoticons/v1/68353/1.0
+- name: ngalonetap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90708/1.0
+- name: ngalsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90709/1.0
+- name: ngalnylarzz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100836/1.0
+- name: ngalsinner
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112818/1.0

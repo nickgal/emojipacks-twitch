@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - etalyx
 emojis:
 - name: etalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/37419/1.0
-- name: etallove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39573/1.0
 - name: etalx
   src: https://static-cdn.jtvnw.net/emoticons/v1/38706/1.0
 - name: etalfail

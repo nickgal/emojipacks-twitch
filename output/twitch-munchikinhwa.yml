@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - munchikinhwa
 emojis:
-- name: munchikin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85482/1.0
-- name: munchikinhwa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79768/1.0
+- name: munchisoso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105613/1.0
+- name: munchiokay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105614/1.0
+- name: munchigood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105615/1.0
+- name: munchisad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105616/1.0

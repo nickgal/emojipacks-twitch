@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - studenalbatroz
 emojis:
 - name: studenpride
   src: https://static-cdn.jtvnw.net/emoticons/v1/81166/1.0
-- name: studentimer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78712/1.0
 - name: studengasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/78732/1.0
 - name: studenshoe
@@ -15,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79827/1.0
 - name: studenjesus
   src: https://static-cdn.jtvnw.net/emoticons/v1/79607/1.0
+- name: studenneverlucky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95011/1.0
+- name: studenlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94693/1.0
+- name: studenhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96111/1.0
+- name: studenswe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110904/1.0

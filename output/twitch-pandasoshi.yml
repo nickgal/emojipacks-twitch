@@ -1,7 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - pandasoshi
 emojis:
+- name: pandcuddle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104706/1.0
+- name: pandbleach
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104794/1.0
 - name: pandduchess
   src: https://static-cdn.jtvnw.net/emoticons/v1/70613/1.0
 - name: pandmomo
   src: https://static-cdn.jtvnw.net/emoticons/v1/70614/1.0
+- name: pandshivers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104635/1.0
+- name: pandlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103103/1.0
+- name: pandheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103107/1.0
+- name: pandthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103530/1.0
+- name: pandhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112744/1.0

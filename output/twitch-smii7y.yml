@@ -1,9 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - smii7y
 emojis:
-- name: smii7ykrappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63718/1.0
+- name: smii7ysub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102332/1.0
+- name: smii7yohgod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103834/1.0
+- name: smii7ynetg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108757/1.0
 - name: smii7ymilkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/62390/1.0
 - name: smii7y3d
   src: https://static-cdn.jtvnw.net/emoticons/v1/62391/1.0
+- name: smii7ylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102690/1.0
+- name: smii7ykg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102909/1.0
+- name: smii7ybob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103297/1.0
+- name: smii7ynetb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108828/1.0

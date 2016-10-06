@@ -1,33 +1,39 @@
 ---
 title: Twitch Subscriber Emotes - c_a_k_e
 emojis:
-- name: cakehello
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30731/1.0
-- name: cakegoodoq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12886/1.0
-- name: cakels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12964/1.0
-- name: cakelol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29664/1.0
-- name: cakelion
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27170/1.0
 - name: cakenyan
   src: https://static-cdn.jtvnw.net/emoticons/v1/27374/1.0
-- name: cakewow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27373/1.0
 - name: cakecry
   src: https://static-cdn.jtvnw.net/emoticons/v1/27415/1.0
-- name: cakejoke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26988/1.0
-- name: cakeez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28844/1.0
 - name: cakefp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29085/1.0
-- name: cakeship
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30564/1.0
-- name: cakesniper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30578/1.0
-- name: cakegasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30566/1.0
-- name: cake10
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30680/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105595/1.0
+- name: cakelion
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89076/1.0
+- name: cakehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89075/1.0
+- name: cakedans
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114624/1.0
+- name: cakelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90833/1.0
+- name: cake1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102173/1.0
+- name: cakepus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106533/1.0
+- name: cakehey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106532/1.0
+- name: cakerage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106534/1.0
+- name: cakeback
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106531/1.0
+- name: cakewhy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96744/1.0
+- name: cake2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102174/1.0
+- name: cakekappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116193/1.0
+- name: cakerevolver
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116935/1.0
+- name: cakels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116936/1.0
+- name: cakerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116934/1.0

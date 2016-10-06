@@ -3,41 +3,39 @@ title: Twitch Subscriber Emotes - bibixhd
 emojis:
 - name: bibcsta
   src: https://static-cdn.jtvnw.net/emoticons/v1/65867/1.0
-- name: bibwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65863/1.0
-- name: bibvnr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65862/1.0
 - name: bibmdr
   src: https://static-cdn.jtvnw.net/emoticons/v1/18189/1.0
 - name: bibnewsubs
   src: https://static-cdn.jtvnw.net/emoticons/v1/24259/1.0
-- name: bibmort
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34267/1.0
 - name: bibdon
   src: https://static-cdn.jtvnw.net/emoticons/v1/27526/1.0
-- name: bibfdp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27665/1.0
 - name: bibragdol
   src: https://static-cdn.jtvnw.net/emoticons/v1/27807/1.0
-- name: bibenculey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27814/1.0
 - name: bibretard
   src: https://static-cdn.jtvnw.net/emoticons/v1/77270/1.0
-- name: bibtg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30110/1.0
-- name: bibameno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77267/1.0
+- name: bibpleure
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88269/1.0
 - name: bibgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/36981/1.0
 - name: bibsalut
   src: https://static-cdn.jtvnw.net/emoticons/v1/48661/1.0
-- name: bibmerd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55817/1.0
 - name: bibjust
   src: https://static-cdn.jtvnw.net/emoticons/v1/55818/1.0
-- name: bibresub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62040/1.0
+- name: bibkarma
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95967/1.0
+- name: bibevilz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89201/1.0
+- name: bibrespect
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88430/1.0
+- name: bibsouleve
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104820/1.0
 - name: bibjk
   src: https://static-cdn.jtvnw.net/emoticons/v1/77573/1.0
+- name: bibbrain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88142/1.0
+- name: bibfullstuf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97288/1.0
 - name: bibinfo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82284/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98339/1.0
+- name: bibmenteur
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98707/1.0

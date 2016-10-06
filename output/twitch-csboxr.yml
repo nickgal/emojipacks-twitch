@@ -5,19 +5,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64704/1.0
 - name: boxrart
   src: https://static-cdn.jtvnw.net/emoticons/v1/23622/1.0
-- name: boxrs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64689/1.0
 - name: boxryes
   src: https://static-cdn.jtvnw.net/emoticons/v1/23792/1.0
-- name: boxrew
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23793/1.0
-- name: boxrthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24326/1.0
 - name: boxro
   src: https://static-cdn.jtvnw.net/emoticons/v1/64571/1.0
-- name: boxrlogo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44916/1.0
 - name: boxrcandle
   src: https://static-cdn.jtvnw.net/emoticons/v1/44915/1.0
+- name: boxrno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109564/1.0
+- name: boxrsleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109561/1.0
+- name: boxrl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109559/1.0
 - name: boxrgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/68171/1.0
+- name: boxry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109578/1.0

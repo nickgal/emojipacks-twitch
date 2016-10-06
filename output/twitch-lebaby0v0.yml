@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lebaby0v0
 emojis:
-- name: lebabyblush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45947/1.0
-- name: lebabycute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45948/1.0
+- name: lebabybu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95543/1.0
+- name: lebabypinch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88384/1.0
 - name: lebabylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/46063/1.0
-- name: lebabywink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46064/1.0
-- name: lebabycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46218/1.0
-- name: lebabyovo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46935/1.0
+- name: lebabyheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86563/1.0
+- name: lebabywa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95542/1.0
+- name: lebaby6
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86901/1.0
+- name: lebabymeow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86899/1.0
+- name: lebabyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86898/1.0

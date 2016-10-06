@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - deadlegacy1337
 emojis:
-- name: legacyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27022/1.0
 - name: legacyaim
   src: https://static-cdn.jtvnw.net/emoticons/v1/27024/1.0
-- name: legacyherz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32517/1.0
-- name: legacykappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57203/1.0
+- name: legacyr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90333/1.0
+- name: legacyh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90334/1.0
+- name: legacyt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90335/1.0

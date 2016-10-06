@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32714/1.0
 - name: herdynkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/32713/1.0
-- name: herdyncoco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35539/1.0
 - name: herdyncry
   src: https://static-cdn.jtvnw.net/emoticons/v1/35536/1.0
 - name: herdynw
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78924/1.0
 - name: herdynlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/82564/1.0
+- name: herdyngasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107687/1.0

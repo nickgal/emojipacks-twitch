@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - bixentehs
 emojis:
+- name: bixajasz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112675/1.0
 - name: bixbeard
   src: https://static-cdn.jtvnw.net/emoticons/v1/37538/1.0
 - name: bixbanderas
   src: https://static-cdn.jtvnw.net/emoticons/v1/37584/1.0
-- name: bixfacepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40153/1.0
-- name: bixparowa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48400/1.0
-- name: bixw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60256/1.0
-- name: bixlampa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60258/1.0
-- name: bixpasieka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64267/1.0
+- name: bixsalty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91628/1.0
 - name: bixszansa
   src: https://static-cdn.jtvnw.net/emoticons/v1/69387/1.0
+- name: bixnever
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92132/1.0
+- name: bixlazarz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112406/1.0
+- name: bix03
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116047/1.0
+- name: bixlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116042/1.0
+- name: bixoplul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116518/1.0

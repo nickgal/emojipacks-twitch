@@ -1,17 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - trikslyr
 emojis:
-- name: trikplays
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54353/1.0
 - name: trikhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/42053/1.0
-- name: trikduck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42175/1.0
+- name: trik1mo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95031/1.0
 - name: trikhunt
   src: https://static-cdn.jtvnw.net/emoticons/v1/44260/1.0
-- name: trikpg13
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45036/1.0
+- name: trikfeed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85341/1.0
 - name: trikhyuk
   src: https://static-cdn.jtvnw.net/emoticons/v1/67728/1.0
 - name: trikhamper
   src: https://static-cdn.jtvnw.net/emoticons/v1/84131/1.0
+- name: trik100
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105952/1.0
+- name: trikpg13
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105953/1.0
+- name: trikplays
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105954/1.0
+- name: triktt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105955/1.0

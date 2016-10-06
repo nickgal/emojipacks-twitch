@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - brobq
 emojis:
 - name: bbqk
   src: https://static-cdn.jtvnw.net/emoticons/v1/60091/1.0
-- name: bbqf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56729/1.0
 - name: bbqs
   src: https://static-cdn.jtvnw.net/emoticons/v1/57981/1.0
 - name: bbqt
@@ -13,11 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63317/1.0
 - name: bbqo
   src: https://static-cdn.jtvnw.net/emoticons/v1/64026/1.0
-- name: bbqa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69130/1.0
 - name: bbqc
   src: https://static-cdn.jtvnw.net/emoticons/v1/69753/1.0
 - name: bbql
   src: https://static-cdn.jtvnw.net/emoticons/v1/69842/1.0
 - name: bbqr
   src: https://static-cdn.jtvnw.net/emoticons/v1/84016/1.0
+- name: bbqw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87408/1.0
+- name: bbqh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104183/1.0

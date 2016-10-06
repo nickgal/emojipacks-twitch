@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - joshjepson
 emojis:
+- name: jepsonmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115055/1.0
+- name: jepsondorf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115054/1.0
 - name: jepsonjiggy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47030/1.0
-- name: jepsonstache
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47031/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115976/1.0
 - name: jepsonhaters
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51277/1.0
-- name: jepson64
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51278/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115977/1.0
+- name: jepsonyeah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115978/1.0
+- name: jepsonpizza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95811/1.0
+- name: jepsonmeat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115905/1.0
+- name: jepsonroad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116120/1.0

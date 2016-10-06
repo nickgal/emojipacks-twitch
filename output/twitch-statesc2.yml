@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - statesc2
 emojis:
 - name: statesammich
   src: https://static-cdn.jtvnw.net/emoticons/v1/73573/1.0
-- name: statehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80332/1.0
 - name: statearchon
   src: https://static-cdn.jtvnw.net/emoticons/v1/80326/1.0
 - name: stategg
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75216/1.0
 - name: statereps
   src: https://static-cdn.jtvnw.net/emoticons/v1/76973/1.0
+- name: statepoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99538/1.0

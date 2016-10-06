@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - girlherolori
 emojis:
+- name: ghlrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101058/1.0
 - name: ghlrita
   src: https://static-cdn.jtvnw.net/emoticons/v1/66646/1.0
+- name: ghlgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101064/1.0
 - name: ghllove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77829/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101062/1.0
+- name: ghlrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101057/1.0
 - name: ghlhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77826/1.0
-- name: ghlreks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77702/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101056/1.0
 - name: ghlhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77446/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101055/1.0
 - name: ghlkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/77449/1.0

@@ -21,20 +21,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35805/1.0
 - name: faceyhorse
   src: https://static-cdn.jtvnw.net/emoticons/v1/32557/1.0
-- name: faceyp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36274/1.0
-- name: faceyw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36273/1.0
-- name: faceya
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36272/1.0
 - name: faceydbl
   src: https://static-cdn.jtvnw.net/emoticons/v1/40077/1.0
 - name: faceydbr
   src: https://static-cdn.jtvnw.net/emoticons/v1/40078/1.0
 - name: faceyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/54915/1.0
-- name: faceymaster
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49424/1.0
 - name: faceytop
   src: https://static-cdn.jtvnw.net/emoticons/v1/49423/1.0
 - name: faceyh
@@ -51,3 +43,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49294/1.0
 - name: faceythoorin
   src: https://static-cdn.jtvnw.net/emoticons/v1/49250/1.0
+- name: faceymaster
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100722/1.0

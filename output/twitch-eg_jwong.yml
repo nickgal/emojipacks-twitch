@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/7453/1.0
 - name: jwongwongnation
   src: https://static-cdn.jtvnw.net/emoticons/v1/23152/1.0
-- name: jwongfactor
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20743/1.0
 - name: jwongletsgo
   src: https://static-cdn.jtvnw.net/emoticons/v1/22541/1.0
 - name: jwongnevergiveup
@@ -15,9 +13,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47577/1.0
 - name: jwongking
   src: https://static-cdn.jtvnw.net/emoticons/v1/47361/1.0
-- name: jwongnorice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49374/1.0
-- name: jwongdumpling
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85652/1.0
 - name: jwongkarin
   src: https://static-cdn.jtvnw.net/emoticons/v1/85546/1.0
+- name: jwongyipes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88120/1.0
+- name: jwongface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88025/1.0

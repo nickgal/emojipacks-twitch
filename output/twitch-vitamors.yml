@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - vitamors
 emojis:
-- name: vitasub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47217/1.0
-- name: vitagg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68038/1.0
 - name: vitaarmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/48071/1.0
+- name: vitahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98251/1.0
+- name: vitasub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98248/1.0
 - name: vitalove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58940/1.0
-- name: vitasweg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58942/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98245/1.0
 - name: vitaletsgo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58939/1.0
-- name: vitafail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68039/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98244/1.0
 - name: vitahi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81848/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98243/1.0
+- name: vitadonate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98242/1.0
+- name: vitagarmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108802/1.0

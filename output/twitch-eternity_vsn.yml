@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - eternity_vsn
 emojis:
 - name: etepopo
   src: https://static-cdn.jtvnw.net/emoticons/v1/71858/1.0
+- name: etekappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95927/1.0
 - name: etehaaa
   src: https://static-cdn.jtvnw.net/emoticons/v1/79657/1.0
 - name: eteos
   src: https://static-cdn.jtvnw.net/emoticons/v1/83152/1.0
 - name: etehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/83314/1.0
+- name: etel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98652/1.0

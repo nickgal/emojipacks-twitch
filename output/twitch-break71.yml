@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - break71
 emojis:
-- name: brkraid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35356/1.0
 - name: brkfive
   src: https://static-cdn.jtvnw.net/emoticons/v1/14661/1.0
 - name: brkeyes
@@ -17,17 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30083/1.0
 - name: brkbye
   src: https://static-cdn.jtvnw.net/emoticons/v1/29488/1.0
+- name: brkthor
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105396/1.0
 - name: brkheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/40983/1.0
-- name: brkrp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40985/1.0
 - name: brkblind
   src: https://static-cdn.jtvnw.net/emoticons/v1/73784/1.0
-- name: brkhunt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41636/1.0
 - name: brkgazm
   src: https://static-cdn.jtvnw.net/emoticons/v1/41635/1.0
 - name: brkrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/49356/1.0
 - name: brkturnip
   src: https://static-cdn.jtvnw.net/emoticons/v1/73659/1.0
+- name: brkfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115000/1.0
+- name: brkgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115028/1.0

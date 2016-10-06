@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - popskyy
 emojis:
-- name: poppop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11738/1.0
-- name: popteh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12985/1.0
-- name: popluv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12224/1.0
 - name: popds
   src: https://static-cdn.jtvnw.net/emoticons/v1/62354/1.0
 - name: popjam
   src: https://static-cdn.jtvnw.net/emoticons/v1/30825/1.0
+- name: popluv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99577/1.0
+- name: popcute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99581/1.0
+- name: poprage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99582/1.0
 - name: poplood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34803/1.0
-- name: pophype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62098/1.0
-- name: popw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53160/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99583/1.0

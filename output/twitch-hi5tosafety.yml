@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - hi5tosafety
 emojis:
-- name: hi5cry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83584/1.0
-- name: hi5pound
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83588/1.0
+- name: hi5derp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113507/1.0
 - name: hi5hi5
   src: https://static-cdn.jtvnw.net/emoticons/v1/84360/1.0
-- name: hi5hype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84133/1.0
-- name: hi5cheese
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84479/1.0
-- name: hi5f
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84938/1.0
+- name: hi5salute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91258/1.0
+- name: hi5cry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113506/1.0
+- name: hi5o
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106434/1.0
+- name: hi5ugh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113403/1.0
+- name: hi5creep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113505/1.0
+- name: hi5blush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113504/1.0

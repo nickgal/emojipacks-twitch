@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - geezerthegozerian
 emojis:
-- name: gzrcone
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64615/1.0
-- name: gzrgassy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40928/1.0
-- name: gzrape
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41537/1.0
-- name: gzrgzr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64379/1.0
-- name: gzrluv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73403/1.0
+- name: gzrlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96957/1.0
+- name: gzrlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96956/1.0
 - name: gzrhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73407/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97195/1.0
+- name: gzrdance
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97196/1.0

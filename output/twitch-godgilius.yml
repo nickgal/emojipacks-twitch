@@ -1,9 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - godgilius
 emojis:
-- name: giliuskappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36716/1.0
-- name: giliusgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48816/1.0
-- name: giliuswe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68389/1.0
+- name: giliusboosted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98791/1.0
+- name: giliuslee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98796/1.0

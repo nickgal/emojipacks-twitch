@@ -3,13 +3,25 @@ title: Twitch Subscriber Emotes - kaypikefashion
 emojis:
 - name: kaypikebd
   src: https://static-cdn.jtvnw.net/emoticons/v1/80018/1.0
-- name: kaypikefte
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84804/1.0
-- name: kaypikeftf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84806/1.0
 - name: kaypikesnort
   src: https://static-cdn.jtvnw.net/emoticons/v1/82001/1.0
 - name: kaypikemoose
   src: https://static-cdn.jtvnw.net/emoticons/v1/82015/1.0
-- name: kaypikefth
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84820/1.0
+- name: kaypikecoffee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107787/1.0
+- name: kaypikecowbell
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107788/1.0
+- name: kaypikelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107790/1.0
+- name: kaypikestars
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107791/1.0
+- name: kaypikegn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107868/1.0
+- name: kaypikehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108920/1.0
+- name: kaypikeskeletears
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116327/1.0
+- name: kaypikerainbow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116332/1.0
+- name: kaypikeallthethings
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114991/1.0

@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mojoonpc
 emojis:
+- name: mojokappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93740/1.0
 - name: mojolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/64819/1.0
-- name: mojosad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64820/1.0
+- name: mojobot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94120/1.0
+- name: mojoisha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94119/1.0
+- name: mojofaze
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94118/1.0
+- name: mojorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94117/1.0

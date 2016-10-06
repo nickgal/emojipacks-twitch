@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - tim885885
 emojis:
+- name: tutoutoolman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114493/1.0
+- name: tutounotalk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114495/1.0
+- name: tutouopk4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114478/1.0
+- name: tutouopk3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114476/1.0
+- name: tutouopk1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114474/1.0
+- name: tutouopk2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114475/1.0
 - name: tutou66
   src: https://static-cdn.jtvnw.net/emoticons/v1/60346/1.0
 - name: tutou87
   src: https://static-cdn.jtvnw.net/emoticons/v1/60215/1.0
-- name: tutoukuku
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65981/1.0
-- name: tutouininider
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66108/1.0

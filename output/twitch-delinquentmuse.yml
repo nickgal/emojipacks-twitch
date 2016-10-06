@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - delinquentmuse
 emojis:
-- name: musenottoday
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64979/1.0
-- name: musesarc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72969/1.0
+- name: muselove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105241/1.0
 - name: musecool
   src: https://static-cdn.jtvnw.net/emoticons/v1/65168/1.0
-- name: muselove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65293/1.0
 - name: musepanic
   src: https://static-cdn.jtvnw.net/emoticons/v1/72970/1.0
-- name: musehi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85170/1.0
+- name: musederp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91317/1.0
+- name: musekawaii
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102269/1.0
+- name: musesad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117035/1.0
+- name: musecheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105311/1.0
+- name: muserip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105219/1.0

@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - hbomb94
 emojis:
 - name: hbomb94burrito
   src: https://static-cdn.jtvnw.net/emoticons/v1/41770/1.0
+- name: hbomb94happy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90521/1.0
 - name: hbomb94sad
   src: https://static-cdn.jtvnw.net/emoticons/v1/85552/1.0
+- name: hbomb94love
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90520/1.0

@@ -1,15 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - tryhard_clan
 emojis:
-- name: trydna
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38705/1.0
-- name: tryhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38899/1.0
 - name: trymad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39169/1.0
-- name: trylogo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41142/1.0
-- name: tryyh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41351/1.0
-- name: trytr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41350/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86017/1.0
+- name: tryhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86018/1.0

@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - slethzockt
 emojis:
 - name: slethfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/60697/1.0
-- name: slethgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49121/1.0
-- name: slethrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49120/1.0
 - name: slethpraise
   src: https://static-cdn.jtvnw.net/emoticons/v1/48705/1.0
-- name: slethfist
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48707/1.0
 - name: slethmops
   src: https://static-cdn.jtvnw.net/emoticons/v1/48886/1.0
 - name: slethwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/60698/1.0
+- name: slethrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91936/1.0
 - name: slethestus
   src: https://static-cdn.jtvnw.net/emoticons/v1/81923/1.0
+- name: slethgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92103/1.0
+- name: slethfist
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94243/1.0

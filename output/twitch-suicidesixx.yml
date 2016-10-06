@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - suicidesixx
 emojis:
-- name: shizzyhead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39202/1.0
-- name: shizzyfreezie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43635/1.0
-- name: shizzyayy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43636/1.0
-- name: shizzybars
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43633/1.0
-- name: shizzyfoh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43634/1.0
+- name: shizzynasty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86286/1.0
+- name: shizzysens
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86024/1.0
+- name: shizzywave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88192/1.0
 - name: shizzyboi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73951/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88201/1.0
+- name: shizzywhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92761/1.0
+- name: shizzybaby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115428/1.0
+- name: shizzymad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115430/1.0
+- name: shizzyffff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115433/1.0
+- name: shizzysleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116044/1.0
+- name: shizzypred
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116046/1.0

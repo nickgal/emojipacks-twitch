@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59413/1.0
 - name: maschamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/62683/1.0
-- name: maspeta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70183/1.0
 - name: masrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/70429/1.0
 - name: masgame
@@ -31,3 +29,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71432/1.0
 - name: masrng
   src: https://static-cdn.jtvnw.net/emoticons/v1/71433/1.0
+- name: masfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86496/1.0
+- name: masrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86497/1.0
+- name: masroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86498/1.0
+- name: mass
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86499/1.0
+- name: maswin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86500/1.0
+- name: masgl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87711/1.0

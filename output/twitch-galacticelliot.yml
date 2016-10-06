@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - galacticelliot
 emojis:
-- name: galacticluck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49959/1.0
 - name: galacticriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/51148/1.0
 - name: galacticlove
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73164/1.0
 - name: galacticrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/73235/1.0
+- name: galacticluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104113/1.0

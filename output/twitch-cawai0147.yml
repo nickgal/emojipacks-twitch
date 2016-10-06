@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - cawai0147
 emojis:
-- name: riryteemo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32186/1.0
-- name: rirylala
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32184/1.0
+- name: riryrrr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91501/1.0
+- name: riryha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91527/1.0
+- name: rirywhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91525/1.0
+- name: rirybye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88090/1.0
 - name: rirycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34492/1.0
-- name: riryangry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34491/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88089/1.0
+- name: riryteemo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88061/1.0
+- name: rirylala
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88227/1.0
+- name: rirysing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89880/1.0

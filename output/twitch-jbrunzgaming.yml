@@ -1,19 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - jbrunzgaming
 emojis:
-- name: jbgrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36626/1.0
-- name: jbggo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82457/1.0
 - name: jbglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/82472/1.0
-- name: jbgout
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66838/1.0
 - name: jbgnuke
   src: https://static-cdn.jtvnw.net/emoticons/v1/66954/1.0
-- name: jbghow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76783/1.0
-- name: jbgrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83148/1.0
 - name: jbghype
   src: https://static-cdn.jtvnw.net/emoticons/v1/83153/1.0
+- name: jbgfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85828/1.0
+- name: jbghow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85929/1.0
+- name: jbgsquad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85928/1.0
+- name: jbgrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86275/1.0
+- name: jbggtfo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93703/1.0
+- name: jbgdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94172/1.0
+- name: jbgrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93696/1.0
+- name: jbgsavage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93697/1.0
+- name: jbglit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93698/1.0
+- name: jbggasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93699/1.0
+- name: jbgletsgo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93700/1.0
+- name: jbgeasy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93701/1.0

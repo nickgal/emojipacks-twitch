@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - mori09tv
 emojis:
+- name: moripuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116891/1.0
 - name: morioee
   src: https://static-cdn.jtvnw.net/emoticons/v1/44614/1.0
 - name: moriroar
   src: https://static-cdn.jtvnw.net/emoticons/v1/44606/1.0
+- name: moritasty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116888/1.0

@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - camgears
 emojis:
 - name: camdance
   src: https://static-cdn.jtvnw.net/emoticons/v1/75556/1.0
-- name: camhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57624/1.0
 - name: cambrazil
   src: https://static-cdn.jtvnw.net/emoticons/v1/57625/1.0
-- name: camshpt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57447/1.0
-- name: camboom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57623/1.0
-- name: camdunk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57445/1.0
 - name: camw
   src: https://static-cdn.jtvnw.net/emoticons/v1/85267/1.0
 - name: camturtle
   src: https://static-cdn.jtvnw.net/emoticons/v1/85263/1.0
+- name: camnice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86859/1.0
+- name: camhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86861/1.0
+- name: camshot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86860/1.0
+- name: camfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110541/1.0

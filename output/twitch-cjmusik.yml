@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - cjmusik
 emojis:
-- name: cjmkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66653/1.0
-- name: cjmcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54690/1.0
-- name: cjmover
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73922/1.0
-- name: cjmhypu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73923/1.0
+- name: cjmdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109700/1.0
+- name: cjmfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91443/1.0
+- name: cjmbruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105031/1.0
+- name: cjmsquad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97682/1.0
 - name: cjmtea
   src: https://static-cdn.jtvnw.net/emoticons/v1/73406/1.0
-- name: cjmfire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73455/1.0
-- name: cjmbruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81676/1.0
+- name: cjmlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109701/1.0
+- name: cjmmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105243/1.0
 - name: cjml
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79703/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109975/1.0

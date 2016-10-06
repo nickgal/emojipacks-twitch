@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - qpad
 emojis:
-- name: konhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52083/1.0
-- name: konhyking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68484/1.0
+- name: konmax
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99316/1.0
+- name: kondk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98136/1.0
+- name: konno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98028/1.0
+- name: konkreativ
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104805/1.0
+- name: konse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98029/1.0
+- name: konfi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98027/1.0

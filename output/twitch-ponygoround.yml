@@ -1,5 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - ponygoround
 emojis:
-- name: wallcatnyan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71667/1.0
+- name: ponygrcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103173/1.0
+- name: ponygrhansim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89629/1.0
+- name: ponygrkk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102767/1.0
+- name: ponygrcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102772/1.0
+- name: ponygrgoza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116857/1.0

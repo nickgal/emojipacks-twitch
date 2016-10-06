@@ -1,13 +1,29 @@
 ---
 title: Twitch Subscriber Emotes - kw_ranzratte
 emojis:
+- name: ratterip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109536/1.0
+- name: rattesad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109537/1.0
+- name: ratteherz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109535/1.0
+- name: rattegrins
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109534/1.0
+- name: rattesalz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111422/1.0
 - name: ratterage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32907/1.0
-- name: rattekachel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37015/1.0
-- name: rattewitz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55543/1.0
-- name: ratteschmatz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55544/1.0
-- name: rattescope
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55545/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111421/1.0
+- name: rattelol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111420/1.0
+- name: ratteburp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109606/1.0
+- name: rattehallo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109878/1.0
+- name: rattefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109880/1.0
+- name: rattehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110794/1.0
+- name: rattesrsly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109881/1.0
+- name: rattewtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110796/1.0

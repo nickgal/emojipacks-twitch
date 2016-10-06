@@ -15,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/8460/1.0
 - name: wolvheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/12051/1.0
-- name: wolvbc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27467/1.0
 - name: wolvhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/27463/1.0
 - name: wolvfail
@@ -29,3 +27,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31173/1.0
 - name: wolvlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/32456/1.0
+- name: wolvbc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105179/1.0

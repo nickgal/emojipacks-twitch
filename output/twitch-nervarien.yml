@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - nervarien
 emojis:
 - name: nervsmrut
   src: https://static-cdn.jtvnw.net/emoticons/v1/60592/1.0
-- name: nerv210
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9769/1.0
 - name: nervbuldog
   src: https://static-cdn.jtvnw.net/emoticons/v1/11971/1.0
 - name: nervtyle
@@ -15,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30278/1.0
 - name: nervmorton
   src: https://static-cdn.jtvnw.net/emoticons/v1/29149/1.0
-- name: nervco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81544/1.0
 - name: nervrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/81543/1.0
 - name: nervile
@@ -25,7 +21,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38430/1.0
 - name: nervfranek
   src: https://static-cdn.jtvnw.net/emoticons/v1/66234/1.0
+- name: nervboo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107039/1.0
+- name: nervsted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107040/1.0
 - name: nervriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/80244/1.0
-- name: nervlatwo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80929/1.0
+- name: nervmop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107105/1.0

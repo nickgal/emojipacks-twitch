@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - and_im_gone
 emojis:
+- name: gonebike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89039/1.0
 - name: gonewarrior
   src: https://static-cdn.jtvnw.net/emoticons/v1/45279/1.0
 - name: gone1

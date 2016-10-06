@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - kingbalor
 emojis:
-- name: kbalorfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61235/1.0
-- name: kbalorban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61261/1.0
-- name: kbalorwat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61242/1.0
 - name: kbalorrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/61233/1.0
 - name: kbalorhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/61141/1.0
-- name: kbalorbee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61644/1.0
+- name: kbalorfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109714/1.0
+- name: kbalorban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109715/1.0
 - name: kbalorhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62587/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109716/1.0
+- name: kbalorbee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109717/1.0
 - name: kbalorlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63498/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109718/1.0
+- name: kbalorrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109719/1.0
+- name: kbalorgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113676/1.0
+- name: kbalorwat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113361/1.0

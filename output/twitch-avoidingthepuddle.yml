@@ -3,18 +3,20 @@ title: Twitch Subscriber Emotes - avoidingthepuddle
 emojis:
 - name: atpchar
   src: https://static-cdn.jtvnw.net/emoticons/v1/2072/1.0
-- name: atpg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38313/1.0
 - name: atphorns
   src: https://static-cdn.jtvnw.net/emoticons/v1/2075/1.0
 - name: atplook
   src: https://static-cdn.jtvnw.net/emoticons/v1/2076/1.0
-- name: atpmistake
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7975/1.0
 - name: atpstude
   src: https://static-cdn.jtvnw.net/emoticons/v1/55709/1.0
 - name: atpdog
   src: https://static-cdn.jtvnw.net/emoticons/v1/53853/1.0
+- name: atprtsd4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88402/1.0
+- name: atprtsd3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88401/1.0
+- name: atprtsd2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88400/1.0
 - name: atpfeelsbeardman
   src: https://static-cdn.jtvnw.net/emoticons/v1/62793/1.0
 - name: atpsolid
@@ -27,7 +29,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66929/1.0
 - name: atpgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/67982/1.0
+- name: atpwind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90212/1.0
 - name: atpcop
   src: https://static-cdn.jtvnw.net/emoticons/v1/74568/1.0
 - name: atprtsd
   src: https://static-cdn.jtvnw.net/emoticons/v1/84499/1.0
+- name: atprtsd1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88399/1.0
+- name: atpmistake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89682/1.0
+- name: atplaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98699/1.0

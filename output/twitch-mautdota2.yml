@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - mautdota2
 emojis:
-- name: mautnotes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28726/1.0
 - name: mautmanly
   src: https://static-cdn.jtvnw.net/emoticons/v1/24242/1.0
 - name: mautmark
   src: https://static-cdn.jtvnw.net/emoticons/v1/40951/1.0
 - name: mautbodied
   src: https://static-cdn.jtvnw.net/emoticons/v1/40941/1.0
+- name: mautism
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91426/1.0

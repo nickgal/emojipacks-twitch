@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - chudatz
 emojis:
-- name: chudatgfuel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40763/1.0
 - name: chudatyayuhhzz
   src: https://static-cdn.jtvnw.net/emoticons/v1/40762/1.0
 - name: chudatpose
   src: https://static-cdn.jtvnw.net/emoticons/v1/43903/1.0
 - name: chudathugs
   src: https://static-cdn.jtvnw.net/emoticons/v1/58879/1.0
+- name: chudatgfuel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93243/1.0
+- name: chudatalex
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108459/1.0
+- name: chudatkirby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108458/1.0

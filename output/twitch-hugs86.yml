@@ -1,17 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - hugs86
 emojis:
-- name: hugssocal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49036/1.0
-- name: hugsbro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27098/1.0
-- name: hugscricket
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29838/1.0
 - name: hugsniceshot
   src: https://static-cdn.jtvnw.net/emoticons/v1/31771/1.0
-- name: hugschoke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46324/1.0
-- name: hugsbibbitybopped
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71954/1.0
+- name: hugsw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90981/1.0
+- name: hugsalex19dotcom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98275/1.0
 - name: hugscraft
   src: https://static-cdn.jtvnw.net/emoticons/v1/84231/1.0
+- name: hugswedidit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91278/1.0
+- name: hugsroasted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96597/1.0
+- name: hugsbibbitybopped
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96190/1.0
+- name: hugssamusw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94654/1.0
+- name: hugstriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106985/1.0
+- name: hugsmoneyshot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106986/1.0

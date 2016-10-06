@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - keysjore
 emojis:
+- name: sbroscena
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87106/1.0
 - name: sbrosnogger
   src: https://static-cdn.jtvnw.net/emoticons/v1/75563/1.0
 - name: sbrosrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/78379/1.0
 - name: sbrosmob
   src: https://static-cdn.jtvnw.net/emoticons/v1/78377/1.0
+- name: sbrosroyal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87104/1.0
 - name: sbroszombiehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/67394/1.0
+- name: sbrosmexiko
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90905/1.0
+- name: sbrosfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90904/1.0

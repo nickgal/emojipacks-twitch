@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - semulin
 emojis:
-- name: semdutch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21376/1.0
-- name: semjeah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21522/1.0
-- name: semjuan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58616/1.0
 - name: semfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58778/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99027/1.0
+- name: semdutch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99026/1.0
+- name: semhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99025/1.0
+- name: sembarf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99024/1.0
+- name: semgoat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99022/1.0
+- name: semghost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99021/1.0

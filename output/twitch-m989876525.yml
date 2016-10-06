@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - m989876525
 emojis:
-- name: esohh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34314/1.0
-- name: esobb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32647/1.0
-- name: esowoo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34459/1.0
-- name: esooo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36556/1.0
+- name: esodie3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115861/1.0
+- name: esodo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92253/1.0
 - name: esocat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36657/1.0
-- name: esoamy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38162/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92319/1.0
+- name: esodie1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115808/1.0
+- name: esodie2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115809/1.0
+- name: esodie6
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115864/1.0
+- name: esodie5
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115863/1.0
+- name: esodie4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115862/1.0

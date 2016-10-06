@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - hmkilla
 emojis:
+- name: hmkgrin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116802/1.0
 - name: hmkdaddysbelt
   src: https://static-cdn.jtvnw.net/emoticons/v1/77488/1.0
 - name: hmksalt
@@ -9,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75620/1.0
 - name: hmkyooo
   src: https://static-cdn.jtvnw.net/emoticons/v1/75618/1.0
+- name: hmkrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94465/1.0
+- name: hmkganny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116769/1.0
+- name: hmkmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116771/1.0

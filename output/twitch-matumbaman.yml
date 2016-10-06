@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - matumbaman
 emojis:
+- name: matuwin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104976/1.0
 - name: matubased
   src: https://static-cdn.jtvnw.net/emoticons/v1/36572/1.0
 - name: matucat

@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - iskys
 emojis:
-- name: skysgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56056/1.0
-- name: skyslewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56631/1.0
-- name: skyshype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54930/1.0
-- name: skysgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54929/1.0
+- name: skyss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88317/1.0
+- name: skysp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112014/1.0
+- name: skysf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112013/1.0
+- name: skysrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93757/1.0
 - name: skysdoit
   src: https://static-cdn.jtvnw.net/emoticons/v1/58342/1.0
-- name: skyssad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58248/1.0
+- name: skysr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99700/1.0
+- name: skysyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111721/1.0
+- name: skyst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114850/1.0

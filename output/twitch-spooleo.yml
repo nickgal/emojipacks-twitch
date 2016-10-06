@@ -7,9 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34578/1.0
 - name: spoolecreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/34576/1.0
-- name: spoolebrb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34581/1.0
 - name: spooletxt
   src: https://static-cdn.jtvnw.net/emoticons/v1/49275/1.0
+- name: spooleburp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97282/1.0
 - name: spoolefish
   src: https://static-cdn.jtvnw.net/emoticons/v1/61058/1.0
+- name: spoolebrb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97287/1.0
+- name: spoolerage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104085/1.0

@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - devolore
 emojis:
 - name: devokatpa
   src: https://static-cdn.jtvnw.net/emoticons/v1/56626/1.0
+- name: devoskey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105827/1.0
 - name: devoflag
   src: https://static-cdn.jtvnw.net/emoticons/v1/65587/1.0
 - name: devow
@@ -11,5 +13,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71990/1.0
 - name: devoderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/71991/1.0
-- name: devoskey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82630/1.0

@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - wolverous
 emojis:
-- name: wolvpacwolvpac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17099/1.0
 - name: wolvpachype
   src: https://static-cdn.jtvnw.net/emoticons/v1/85311/1.0
 - name: wolvpacgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85310/1.0
-- name: wolvpac180
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85309/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112785/1.0
 - name: wolvpacanl
   src: https://static-cdn.jtvnw.net/emoticons/v1/26599/1.0
 - name: wolvpacbier
   src: https://static-cdn.jtvnw.net/emoticons/v1/26600/1.0
-- name: wolvpacgodlike
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26601/1.0
-- name: wolvpaccalling
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62514/1.0
 - name: wolvpacreally
   src: https://static-cdn.jtvnw.net/emoticons/v1/85113/1.0
 - name: wolvpacrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/85131/1.0
+- name: wolvpacfamily
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87615/1.0
+- name: wolvpacsun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98176/1.0
+- name: wolvpacgodlike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106337/1.0
+- name: wolvpacnie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112732/1.0

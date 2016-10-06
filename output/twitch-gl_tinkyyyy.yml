@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - gl_tinkyyyy
 emojis:
+- name: tinkychisu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90973/1.0
 - name: tinkyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/72573/1.0
-- name: tinkygwak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68110/1.0
-- name: tinkygusta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68108/1.0
 - name: tinkyluminati
   src: https://static-cdn.jtvnw.net/emoticons/v1/84572/1.0
+- name: tinkyblush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86709/1.0
+- name: tinkyorgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93424/1.0

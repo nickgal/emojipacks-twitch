@@ -3,16 +3,12 @@ title: Twitch Subscriber Emotes - ehhgony
 emojis:
 - name: agonywot
   src: https://static-cdn.jtvnw.net/emoticons/v1/50876/1.0
-- name: agonypremium
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50872/1.0
-- name: agonyomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50871/1.0
+- name: agonyew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106488/1.0
 - name: agonyhitmarker
   src: https://static-cdn.jtvnw.net/emoticons/v1/73847/1.0
 - name: agonylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/73850/1.0
-- name: agonylegend
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73853/1.0
 - name: agonysub
   src: https://static-cdn.jtvnw.net/emoticons/v1/73852/1.0
 - name: agonyrip
@@ -31,3 +27,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80832/1.0
 - name: agonysad
   src: https://static-cdn.jtvnw.net/emoticons/v1/81411/1.0
+- name: agonyheuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106320/1.0
+- name: agonyturnt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87350/1.0
+- name: agonyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106367/1.0
+- name: agonyohmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106324/1.0
+- name: agonywhaddup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106323/1.0
+- name: agonydevin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106322/1.0
+- name: agonylit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106321/1.0

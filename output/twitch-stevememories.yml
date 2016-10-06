@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - stevememories
 emojis:
-- name: stevehug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51831/1.0
 - name: stevecry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54455/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99802/1.0
 - name: steveporo
   src: https://static-cdn.jtvnw.net/emoticons/v1/53468/1.0
 - name: stevelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70002/1.0
-- name: steveunlucky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70001/1.0
-- name: stevehey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70000/1.0
-- name: steve10
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77661/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97575/1.0
+- name: stevefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98629/1.0
 - name: stevegasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77660/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97577/1.0
+- name: stevehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97578/1.0
+- name: steve10
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98633/1.0
+- name: steveunlucky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98632/1.0

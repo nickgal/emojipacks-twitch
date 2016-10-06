@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - pelikuni
 emojis:
-- name: imakrappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38858/1.0
+- name: imabobito
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108801/1.0
 - name: imawhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/38863/1.0
 - name: imanuggie
@@ -13,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52988/1.0
 - name: imabees
   src: https://static-cdn.jtvnw.net/emoticons/v1/54685/1.0
+- name: imamistake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88001/1.0
+- name: imamad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92254/1.0

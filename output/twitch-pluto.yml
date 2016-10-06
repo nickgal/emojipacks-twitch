@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - pluto
 emojis:
-- name: plutogotem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45925/1.0
+- name: plutothump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94927/1.0
+- name: plutogasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94942/1.0
 - name: plutosquid
   src: https://static-cdn.jtvnw.net/emoticons/v1/45919/1.0
+- name: plutoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94260/1.0
+- name: plutogotem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94261/1.0
+- name: plutofirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110651/1.0

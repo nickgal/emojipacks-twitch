@@ -3,15 +3,19 @@ title: Twitch Subscriber Emotes - spartanthedogg
 emojis:
 - name: spartyface
   src: https://static-cdn.jtvnw.net/emoticons/v1/36256/1.0
-- name: spartyidiot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36283/1.0
 - name: spartypug
   src: https://static-cdn.jtvnw.net/emoticons/v1/47997/1.0
-- name: spartyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47998/1.0
 - name: spartykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/48951/1.0
-- name: spartyrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83851/1.0
+- name: spartyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85688/1.0
+- name: spartyohmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85681/1.0
 - name: spartylove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83849/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97311/1.0
+- name: spartyliquid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97312/1.0
+- name: spartyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97313/1.0
+- name: spartygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97314/1.0

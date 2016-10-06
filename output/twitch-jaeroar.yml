@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - jaeroar
 emojis:
-- name: roarlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75531/1.0
 - name: roarwoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/57451/1.0
-- name: roarthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75532/1.0
-- name: roarhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76771/1.0
-- name: roarwhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76764/1.0
 - name: roarrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/82122/1.0
+- name: roarlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107254/1.0
+- name: roarfg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101973/1.0
+- name: roarfb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101747/1.0
+- name: roarw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107158/1.0
+- name: roarhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105661/1.0
+- name: roarrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107156/1.0

@@ -3,7 +3,11 @@ title: Twitch Subscriber Emotes - gamerbee
 emojis:
 - name: gmbsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/21632/1.0
+- name: gmbgmb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95675/1.0
 - name: gmbryoumad
   src: https://static-cdn.jtvnw.net/emoticons/v1/77629/1.0
 - name: gmbwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/78331/1.0
+- name: gmbflag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95371/1.0

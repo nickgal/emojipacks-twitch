@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/18243/1.0
 - name: stodrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/24235/1.0
-- name: stodayy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34565/1.0
 - name: stodf
   src: https://static-cdn.jtvnw.net/emoticons/v1/52718/1.0
 - name: stodhype
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64441/1.0
 - name: stodh
   src: https://static-cdn.jtvnw.net/emoticons/v1/64436/1.0
+- name: stodayy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103254/1.0

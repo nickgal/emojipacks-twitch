@@ -1,18 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - librizzilol
 emojis:
-- name: brizzirip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9025/1.0
 - name: brizzibrizzi
   src: https://static-cdn.jtvnw.net/emoticons/v1/8664/1.0
-- name: brizziwiff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8862/1.0
 - name: brizzibark
   src: https://static-cdn.jtvnw.net/emoticons/v1/8863/1.0
 - name: brizziderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/8865/1.0
-- name: brizzibb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8666/1.0
 - name: brizzibooty
   src: https://static-cdn.jtvnw.net/emoticons/v1/14076/1.0
 - name: brizzigasm
@@ -21,3 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30334/1.0
 - name: brizzipp
   src: https://static-cdn.jtvnw.net/emoticons/v1/29466/1.0
+- name: brizzirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105793/1.0
+- name: brizzibm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105366/1.0
+- name: brizzihey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90488/1.0
+- name: brizzithump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95601/1.0
+- name: brizzichair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95417/1.0
+- name: brizziwc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95418/1.0
+- name: brizzilurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95363/1.0
+- name: brizziblind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99251/1.0

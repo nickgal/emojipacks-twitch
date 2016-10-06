@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - 5hizzle
 emojis:
-- name: shizwook
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2523/1.0
+- name: shizhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109887/1.0
 - name: shizboop
   src: https://static-cdn.jtvnw.net/emoticons/v1/6636/1.0
 - name: shizloot
@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/22228/1.0
 - name: shizscience
   src: https://static-cdn.jtvnw.net/emoticons/v1/22192/1.0
-- name: shizfoil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29106/1.0
 - name: shiznips
   src: https://static-cdn.jtvnw.net/emoticons/v1/35572/1.0
 - name: shizcheese
@@ -27,3 +25,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35573/1.0
 - name: shizthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/62549/1.0
+- name: shizlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109885/1.0

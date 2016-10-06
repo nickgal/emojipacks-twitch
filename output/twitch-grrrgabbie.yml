@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64590/1.0
 - name: grrrwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/72578/1.0
-- name: grrrhug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63449/1.0
 - name: grrrlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/72577/1.0
 - name: grrrhi
@@ -15,5 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72575/1.0
 - name: grrrsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/72790/1.0
-- name: grrrreka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78453/1.0
+- name: grrrhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99080/1.0
+- name: grrrcool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92815/1.0
+- name: grrrtea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99113/1.0
+- name: grrrps
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98790/1.0

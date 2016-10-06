@@ -5,15 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73512/1.0
 - name: pkxboost
   src: https://static-cdn.jtvnw.net/emoticons/v1/27216/1.0
-- name: pkxbiscuit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27298/1.0
 - name: pkxsmirk
   src: https://static-cdn.jtvnw.net/emoticons/v1/28790/1.0
-- name: pkxlag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33236/1.0
 - name: pkx13
   src: https://static-cdn.jtvnw.net/emoticons/v1/35162/1.0
 - name: pkxplus
   src: https://static-cdn.jtvnw.net/emoticons/v1/51423/1.0
 - name: pkxeggs
   src: https://static-cdn.jtvnw.net/emoticons/v1/73511/1.0
+- name: pkxdone
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89648/1.0
+- name: pkxwelp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89647/1.0

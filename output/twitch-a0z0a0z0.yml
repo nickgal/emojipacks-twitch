@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - a0z0a0z0
 emojis:
+- name: a0z0a0z0eat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89869/1.0
+- name: a0z0a0z0bye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89868/1.0
 - name: a0z0a0z0smart
   src: https://static-cdn.jtvnw.net/emoticons/v1/83715/1.0
 - name: a0z0a0z0pig

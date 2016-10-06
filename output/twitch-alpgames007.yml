@@ -1,7 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - alpgames007
 emojis:
+- name: antiolen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93926/1.0
+- name: antifire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93914/1.0
 - name: antiwat
   src: https://static-cdn.jtvnw.net/emoticons/v1/39844/1.0
 - name: antilal
   src: https://static-cdn.jtvnw.net/emoticons/v1/73984/1.0
+- name: antipoc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91991/1.0
+- name: antiserb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101025/1.0
+- name: antikak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101024/1.0

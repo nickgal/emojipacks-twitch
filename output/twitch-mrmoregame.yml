@@ -1,9 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - mrmoregame
 emojis:
-- name: morefreude
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22491/1.0
 - name: moreface
   src: https://static-cdn.jtvnw.net/emoticons/v1/22497/1.0
 - name: morebad
   src: https://static-cdn.jtvnw.net/emoticons/v1/30579/1.0
+- name: morekappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113509/1.0
+- name: morecat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112357/1.0

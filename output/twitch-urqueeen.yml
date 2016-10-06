@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72937/1.0
 - name: urqh
   src: https://static-cdn.jtvnw.net/emoticons/v1/72922/1.0
-- name: urqevil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73194/1.0
 - name: urqboost
   src: https://static-cdn.jtvnw.net/emoticons/v1/73127/1.0
 - name: urqmlg
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81670/1.0
 - name: urqfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/82074/1.0
+- name: urq18
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101662/1.0

@@ -1,22 +1,28 @@
 ---
 title: Twitch Subscriber Emotes - the_happy_hobbit
 emojis:
+- name: hobbnever
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103725/1.0
+- name: hobbbrit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103723/1.0
 - name: hobbrings
   src: https://static-cdn.jtvnw.net/emoticons/v1/67756/1.0
+- name: hobbh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103234/1.0
 - name: hobbhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/65569/1.0
+- name: hobbstab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101473/1.0
 - name: hobbderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/63681/1.0
 - name: hobbcray
   src: https://static-cdn.jtvnw.net/emoticons/v1/63736/1.0
 - name: hobbwow
   src: https://static-cdn.jtvnw.net/emoticons/v1/63737/1.0
+- name: hobbnan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94833/1.0
 - name: hobbhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/65710/1.0
-- name: hobbh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65702/1.0
-- name: hobbsting
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65570/1.0
 - name: hobbluck
   src: https://static-cdn.jtvnw.net/emoticons/v1/67369/1.0
 - name: hobbcry
@@ -25,3 +31,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/85081/1.0
 - name: hobbket
   src: https://static-cdn.jtvnw.net/emoticons/v1/85082/1.0
+- name: hobbrif
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87513/1.0
+- name: hobbned
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96334/1.0
+- name: hobbmorg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93093/1.0
+- name: hobbfgn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108806/1.0
+- name: hobbkeys
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107966/1.0

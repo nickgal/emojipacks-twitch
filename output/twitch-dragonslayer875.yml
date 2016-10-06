@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - dragonslayer875
 emojis:
+- name: dragonsez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86589/1.0
 - name: dragonslevelup
   src: https://static-cdn.jtvnw.net/emoticons/v1/63062/1.0
 - name: dragonsgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/63058/1.0
-- name: dragonsyoudead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62526/1.0
 - name: dragonsnewsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/62524/1.0
+- name: dragonsnorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86590/1.0
+- name: dragonsrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86591/1.0

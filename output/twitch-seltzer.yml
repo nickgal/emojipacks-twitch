@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - seltzer
 emojis:
+- name: plzw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89035/1.0
 - name: plzsquall
   src: https://static-cdn.jtvnw.net/emoticons/v1/79988/1.0
 - name: plzcloud
@@ -11,5 +13,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54014/1.0
 - name: plzmedic
   src: https://static-cdn.jtvnw.net/emoticons/v1/53324/1.0
-- name: plzw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54605/1.0

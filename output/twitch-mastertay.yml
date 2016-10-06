@@ -1,19 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - mastertay
 emojis:
-- name: tayronrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64985/1.0
+- name: tayronschrei
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93726/1.0
+- name: tayronsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93725/1.0
 - name: tayronhatta
   src: https://static-cdn.jtvnw.net/emoticons/v1/64647/1.0
-- name: tayronban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67358/1.0
-- name: tayronbedo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71644/1.0
 - name: tayroncrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/71645/1.0
 - name: tayronfood
   src: https://static-cdn.jtvnw.net/emoticons/v1/71650/1.0
-- name: tayronsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71640/1.0
 - name: tayronlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/71641/1.0
+- name: tayronfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89584/1.0
+- name: tayronmoin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93544/1.0
+- name: tayronrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104875/1.0
+- name: tayronpizza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93358/1.0
+- name: tayronmoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93357/1.0
+- name: tayronban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93354/1.0
+- name: tayronanti
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104008/1.0
+- name: tayronan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107998/1.0
+- name: tayronsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107768/1.0
+- name: tayronrp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107999/1.0
+- name: tayronvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108000/1.0
+- name: tayrontop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108001/1.0
+- name: tayrontn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108002/1.0
+- name: tayronhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108618/1.0

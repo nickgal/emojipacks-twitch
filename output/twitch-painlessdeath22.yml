@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68422/1.0
 - name: painlessfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/68421/1.0
-- name: painlessdodge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68419/1.0
 - name: painlessguys
   src: https://static-cdn.jtvnw.net/emoticons/v1/65328/1.0
 - name: painlesslost
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68506/1.0
 - name: painlesspotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/68199/1.0
+- name: painlesslewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96615/1.0

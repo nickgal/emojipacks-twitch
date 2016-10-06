@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - tm2225
 emojis:
-- name: themanduck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52330/1.0
-- name: themanrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83792/1.0
 - name: themandad
   src: https://static-cdn.jtvnw.net/emoticons/v1/59866/1.0
-- name: themanimback
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51608/1.0
 - name: themanw
   src: https://static-cdn.jtvnw.net/emoticons/v1/59865/1.0
-- name: themansub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52528/1.0
 - name: themanlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/52067/1.0
 - name: themanrespect
   src: https://static-cdn.jtvnw.net/emoticons/v1/52068/1.0
+- name: themanrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100166/1.0
+- name: themanbald
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100165/1.0
+- name: themanfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100313/1.0
+- name: themanrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101457/1.0

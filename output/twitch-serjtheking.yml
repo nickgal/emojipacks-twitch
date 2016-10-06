@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - serjtheking
 emojis:
-- name: serjking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60863/1.0
 - name: serjmaska
   src: https://static-cdn.jtvnw.net/emoticons/v1/60864/1.0
+- name: serjpelmen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96023/1.0
+- name: serjrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96356/1.0

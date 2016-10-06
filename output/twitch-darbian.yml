@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - darbian
 emojis:
-- name: darbrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72604/1.0
+- name: darbcantwait
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99526/1.0
+- name: darbchump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98685/1.0
 - name: darbhr
   src: https://static-cdn.jtvnw.net/emoticons/v1/72605/1.0
-- name: darballrise
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72607/1.0
 - name: darbsayno
   src: https://static-cdn.jtvnw.net/emoticons/v1/73936/1.0
 - name: darbcoincash
   src: https://static-cdn.jtvnw.net/emoticons/v1/82813/1.0
+- name: darbrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96331/1.0
+- name: darbsubpipe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95098/1.0
+- name: darbtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114229/1.0
+- name: darbholycow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116123/1.0
 - name: darbbone
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83693/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116125/1.0

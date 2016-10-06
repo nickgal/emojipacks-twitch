@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - professor_milk
 emojis:
+- name: milkpapa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108780/1.0
 - name: milkw
   src: https://static-cdn.jtvnw.net/emoticons/v1/82739/1.0
 - name: milkbottle

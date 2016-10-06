@@ -1,9 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - rhykker
 emojis:
+- name: rhyrigged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98284/1.0
 - name: rhycain
   src: https://static-cdn.jtvnw.net/emoticons/v1/82977/1.0
 - name: rhyraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/84280/1.0
 - name: rhychoppa
   src: https://static-cdn.jtvnw.net/emoticons/v1/85006/1.0
+- name: rhycreepy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87830/1.0
+- name: rhycoin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87288/1.0
+- name: rhykraken
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98401/1.0

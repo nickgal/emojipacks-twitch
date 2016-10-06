@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - app1ecrisp
 emojis:
-- name: gubrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64956/1.0
-- name: gubkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71947/1.0
-- name: gublove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64268/1.0
 - name: gubger
   src: https://static-cdn.jtvnw.net/emoticons/v1/64269/1.0
+- name: gublove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107050/1.0
+- name: gubs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100506/1.0
+- name: gubcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100504/1.0
+- name: gubthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88579/1.0
 - name: gubhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66696/1.0
-- name: gubwheel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66697/1.0
-- name: gubgerk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71946/1.0
-- name: gubclap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76387/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107346/1.0
+- name: gubw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111699/1.0
+- name: gubfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108362/1.0
+- name: gubh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113094/1.0
+- name: gubgold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110826/1.0

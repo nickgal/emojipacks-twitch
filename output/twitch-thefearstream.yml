@@ -1,18 +1,18 @@
 ---
 title: Twitch Subscriber Emotes - thefearstream
 emojis:
-- name: fearstreambomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23432/1.0
 - name: fearstreamfist
   src: https://static-cdn.jtvnw.net/emoticons/v1/59740/1.0
-- name: fearstreamface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24987/1.0
+- name: fearstreamo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109680/1.0
 - name: fearstreamcream
   src: https://static-cdn.jtvnw.net/emoticons/v1/27469/1.0
-- name: fearstreamrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27470/1.0
-- name: fearstreamoi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27471/1.0
+- name: fearstreamd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109560/1.0
+- name: fearstreamf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109558/1.0
+- name: fearstreamem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109552/1.0
 - name: fearstreamcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/75928/1.0
 - name: fearstreamsal

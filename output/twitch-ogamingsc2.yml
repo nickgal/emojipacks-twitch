@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - ogamingsc2
 emojis:
-- name: ogsccmt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39238/1.0
+- name: ogscdayshi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96778/1.0
 - name: ogsccheese
   src: https://static-cdn.jtvnw.net/emoticons/v1/39654/1.0
-- name: ogscwallez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29402/1.0
-- name: ogscanoss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29397/1.0
 - name: ogscfunka
   src: https://static-cdn.jtvnw.net/emoticons/v1/29398/1.0
 - name: ogsckapomf
@@ -17,27 +13,41 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29400/1.0
 - name: ogscmoman
   src: https://static-cdn.jtvnw.net/emoticons/v1/29401/1.0
-- name: ogscfantasy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37090/1.0
 - name: ogscgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38319/1.0
-- name: ogscglhf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40569/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93302/1.0
 - name: ogscstorm
   src: https://static-cdn.jtvnw.net/emoticons/v1/41151/1.0
 - name: ogscop
   src: https://static-cdn.jtvnw.net/emoticons/v1/43629/1.0
 - name: ogscbag
   src: https://static-cdn.jtvnw.net/emoticons/v1/46858/1.0
-- name: ogsctchoutchou
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48004/1.0
-- name: ogscloco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48884/1.0
-- name: ogscgnou
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51087/1.0
-- name: ogscwp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52639/1.0
+- name: ogscdenver
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96779/1.0
 - name: ogsckoka
   src: https://static-cdn.jtvnw.net/emoticons/v1/52640/1.0
+- name: ogscfantasy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96012/1.0
+- name: ogsclilbow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96781/1.0
 - name: ogscimre
   src: https://static-cdn.jtvnw.net/emoticons/v1/60848/1.0
+- name: ogsccmt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93298/1.0
+- name: ogscyogo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93307/1.0
+- name: ogscteckel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93305/1.0
+- name: ogscjoin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93304/1.0
+- name: ogscglhf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93303/1.0
+- name: ogscdreinark
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93299/1.0
+- name: ogscwouallez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93308/1.0
+- name: ogscpeuneuneu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98794/1.0
+- name: ogscmlord
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98793/1.0
+- name: ogsckeepcalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98792/1.0

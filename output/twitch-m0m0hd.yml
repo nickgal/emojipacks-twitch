@@ -3,11 +3,17 @@ title: Twitch Subscriber Emotes - m0m0hd
 emojis:
 - name: m0m0rip
   src: https://static-cdn.jtvnw.net/emoticons/v1/81118/1.0
-- name: m0m0gasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81117/1.0
-- name: m0m0love
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78467/1.0
+- name: m0m0poop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102216/1.0
 - name: m0m0wtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/80269/1.0
 - name: m0m0hey
   src: https://static-cdn.jtvnw.net/emoticons/v1/83164/1.0
+- name: m0m0swag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86769/1.0
+- name: m0m0gasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98122/1.0
+- name: m0m0love
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100216/1.0
+- name: m0m0sad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105050/1.0

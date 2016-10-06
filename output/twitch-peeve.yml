@@ -3,16 +3,10 @@ title: Twitch Subscriber Emotes - peeve
 emojis:
 - name: pvpgrav
   src: https://static-cdn.jtvnw.net/emoticons/v1/1237/1.0
-- name: pvpurn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1306/1.0
-- name: pvpburrito
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1236/1.0
 - name: pvpnope
   src: https://static-cdn.jtvnw.net/emoticons/v1/4355/1.0
 - name: pvpallowme
   src: https://static-cdn.jtvnw.net/emoticons/v1/4403/1.0
-- name: pvppraise
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5464/1.0
 - name: pvpgankerz
   src: https://static-cdn.jtvnw.net/emoticons/v1/8170/1.0
 - name: pvpgreed
@@ -23,10 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39861/1.0
 - name: pvpthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/39866/1.0
-- name: pvpbell
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46839/1.0
-- name: pvplove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40522/1.0
 - name: pvphype
   src: https://static-cdn.jtvnw.net/emoticons/v1/40519/1.0
 - name: pvpyee
@@ -37,7 +27,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45858/1.0
 - name: pvp1
   src: https://static-cdn.jtvnw.net/emoticons/v1/45859/1.0
-- name: pvpmom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46874/1.0
 - name: pvppatcha
   src: https://static-cdn.jtvnw.net/emoticons/v1/47423/1.0
+- name: pvpzen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98261/1.0
+- name: pvpfeelsradman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96833/1.0
+- name: pvppraise
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93023/1.0
+- name: pvppaarl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93057/1.0
+- name: pvpchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93056/1.0
+- name: pvpfeelsredman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96754/1.0

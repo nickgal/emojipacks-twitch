@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - pk191
 emojis:
 - name: kemptea
   src: https://static-cdn.jtvnw.net/emoticons/v1/46155/1.0
-- name: kempcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46164/1.0
 - name: kempbrick
   src: https://static-cdn.jtvnw.net/emoticons/v1/49200/1.0
 - name: kemprage
@@ -13,3 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57496/1.0
 - name: kemp191
   src: https://static-cdn.jtvnw.net/emoticons/v1/84605/1.0
+- name: kempcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96968/1.0
+- name: kempwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96948/1.0

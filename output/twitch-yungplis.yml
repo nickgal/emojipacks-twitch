@@ -1,11 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - yungplis
 emojis:
-- name: yung49
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14861/1.0
-- name: yungpaul
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14216/1.0
-- name: yungrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14243/1.0
-- name: yunggentry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14419/1.0
+- name: yungkha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109987/1.0
+- name: yungriven
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109988/1.0

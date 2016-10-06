@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lolwingz
 emojis:
-- name: fachakiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72964/1.0
-- name: fachaiug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72962/1.0
-- name: fachahey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69398/1.0
+- name: fachabk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113428/1.0
 - name: fachachamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/69397/1.0
+- name: fachaxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113427/1.0
+- name: fachaf8
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113426/1.0
+- name: fachafg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113425/1.0
 - name: fachabreak
   src: https://static-cdn.jtvnw.net/emoticons/v1/71712/1.0
-- name: fachaaweonao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78587/1.0
+- name: fachazz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111585/1.0
+- name: fachalul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111586/1.0

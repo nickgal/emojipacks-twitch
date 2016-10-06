@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - tobiwan
 emojis:
+- name: twanhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96815/1.0
 - name: twanhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/45208/1.0
-- name: twanw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45207/1.0
+- name: twanmusic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96814/1.0
+- name: twannoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96813/1.0
+- name: twannigma
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96812/1.0
+- name: twanhole
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96811/1.0

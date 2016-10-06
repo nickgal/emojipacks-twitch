@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - original_gamester
 emojis:
-- name: ogsrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71336/1.0
-- name: ogsmlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71334/1.0
+- name: ogsl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103711/1.0
 - name: ogshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71333/1.0
+- name: ogsfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98776/1.0
 - name: ogslove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74734/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98777/1.0
+- name: ogsrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104092/1.0
+- name: ogsrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104093/1.0

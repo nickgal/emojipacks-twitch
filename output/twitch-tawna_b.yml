@@ -3,9 +3,17 @@ title: Twitch Subscriber Emotes - tawna_b
 emojis:
 - name: tawvren
   src: https://static-cdn.jtvnw.net/emoticons/v1/35765/1.0
-- name: tawpoker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36710/1.0
 - name: tawrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/40016/1.0
-- name: tawblz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40014/1.0
+- name: tawpao
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110388/1.0
+- name: tawcake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104962/1.0
+- name: tawdown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100732/1.0
+- name: tawuni
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104961/1.0
+- name: tawpe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110188/1.0
+- name: tawboto
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110184/1.0

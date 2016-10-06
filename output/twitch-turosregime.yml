@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - turosregime
 emojis:
 - name: turolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/54855/1.0
-- name: turosweat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54853/1.0
 - name: turothirst
   src: https://static-cdn.jtvnw.net/emoticons/v1/41981/1.0
 - name: turohi
   src: https://static-cdn.jtvnw.net/emoticons/v1/62583/1.0
 - name: turorage
   src: https://static-cdn.jtvnw.net/emoticons/v1/62582/1.0
-- name: turograffe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81257/1.0
+- name: turofire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87487/1.0
+- name: turowut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116104/1.0

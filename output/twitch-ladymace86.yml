@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - ladymace86
 emojis:
+- name: siclucky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86443/1.0
 - name: sicshipit
   src: https://static-cdn.jtvnw.net/emoticons/v1/83123/1.0
 - name: sicsosick
   src: https://static-cdn.jtvnw.net/emoticons/v1/83112/1.0
+- name: sicnutella
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86645/1.0

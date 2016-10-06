@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - itssofrosty
 emojis:
-- name: sofrostyclg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81503/1.0
+- name: sofrostysuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88023/1.0
+- name: sofrostyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88022/1.0
 - name: sofrostycat
   src: https://static-cdn.jtvnw.net/emoticons/v1/85466/1.0
+- name: sofrostyfbm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87255/1.0
+- name: sofrostytilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87256/1.0
+- name: sofrostyog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114123/1.0

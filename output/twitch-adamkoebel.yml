@@ -1,24 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - adamkoebel
 emojis:
-- name: mathsquadtyga
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62258/1.0
 - name: mathsquadwizard
   src: https://static-cdn.jtvnw.net/emoticons/v1/40299/1.0
-- name: mathsquadbleh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44207/1.0
-- name: mathsquadrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44206/1.0
-- name: mathsquadstoked
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44205/1.0
-- name: mathsquadgriffin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45942/1.0
-- name: mathsquadheavy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49138/1.0
-- name: mathsquadmuted
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49139/1.0
-- name: mathsquadjet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49560/1.0
 - name: mathsquadhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/49561/1.0
 - name: mathsquadwheel
@@ -27,3 +11,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61599/1.0
 - name: mathsquadric
   src: https://static-cdn.jtvnw.net/emoticons/v1/61506/1.0
+- name: mathsquadnodad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100848/1.0
+- name: mathsquadflort
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100849/1.0
+- name: mathsquadhorse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100851/1.0
+- name: mathsquadcute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100852/1.0
+- name: mathsquadlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100853/1.0
+- name: mathsquadqueer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100854/1.0
+- name: mathsquadwar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100855/1.0
+- name: mathsquadwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100856/1.0
+- name: mathsquadhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100857/1.0
+- name: mathsquadgm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101316/1.0

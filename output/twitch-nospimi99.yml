@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - nospimi99
 emojis:
-- name: nossywat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62007/1.0
-- name: nossysplit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62008/1.0
 - name: nossyhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/62322/1.0
 - name: nossylove
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62005/1.0
 - name: nossyparty
   src: https://static-cdn.jtvnw.net/emoticons/v1/83004/1.0
+- name: nossylewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88513/1.0
+- name: nossyw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97333/1.0

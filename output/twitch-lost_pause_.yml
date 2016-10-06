@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - lost_pause_
 emojis:
-- name: doypanterbell
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54551/1.0
-- name: doyhelicopter
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55317/1.0
+- name: doycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112703/1.0
 - name: doynep
   src: https://static-cdn.jtvnw.net/emoticons/v1/55313/1.0
 - name: doyfacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/55311/1.0
 - name: doynoble
   src: https://static-cdn.jtvnw.net/emoticons/v1/54552/1.0
-- name: doyboosto
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56878/1.0
-- name: doyexcalibur
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57628/1.0
-- name: doydelay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57631/1.0
 - name: doyneko
   src: https://static-cdn.jtvnw.net/emoticons/v1/83763/1.0
 - name: doyblanc
   src: https://static-cdn.jtvnw.net/emoticons/v1/82337/1.0
+- name: doylag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88219/1.0
+- name: doytsun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112702/1.0
+- name: doylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112617/1.0
+- name: doygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112618/1.0

@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - tonacho
 emojis:
-- name: tonrey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78443/1.0
+- name: tonole
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89042/1.0
+- name: tonemo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89041/1.0
 - name: toncr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79228/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89040/1.0
+- name: toncu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89054/1.0
 - name: tonbr
   src: https://static-cdn.jtvnw.net/emoticons/v1/81686/1.0
 - name: tonmc
   src: https://static-cdn.jtvnw.net/emoticons/v1/81687/1.0
+- name: tonplvt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93663/1.0
+- name: tontmz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96349/1.0

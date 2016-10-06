@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - fnc_spirit
 emojis:
+- name: fncspiritw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87277/1.0
 - name: fncspiritwoot
   src: https://static-cdn.jtvnw.net/emoticons/v1/83841/1.0
 - name: fncspiritdeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/83840/1.0
+- name: fncspiritshibal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90827/1.0

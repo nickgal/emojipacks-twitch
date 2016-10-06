@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - tehsmileys
 emojis:
-- name: smileyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50735/1.0
-- name: smileylove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50734/1.0
-- name: smileyw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53322/1.0
-- name: smileylurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61743/1.0
-- name: smileyhug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61744/1.0
 - name: smileyqq
   src: https://static-cdn.jtvnw.net/emoticons/v1/61618/1.0
-- name: smileywave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62874/1.0
-- name: smileywtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62871/1.0
+- name: smileyhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114921/1.0
+- name: smileypls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114919/1.0
+- name: smileylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114918/1.0
+- name: smileylewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115123/1.0
+- name: smileywat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115122/1.0

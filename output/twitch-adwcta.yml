@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - adwcta
 emojis:
-- name: gotcoop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62193/1.0
-- name: gotriot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77343/1.0
 - name: gotgoat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77333/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101214/1.0
+- name: gotomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102302/1.0
 - name: gotvalue
   src: https://static-cdn.jtvnw.net/emoticons/v1/57102/1.0
 - name: gotsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/57104/1.0
-- name: gotu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57597/1.0
-- name: gotrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57528/1.0
-- name: gotsoda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62474/1.0
+- name: got12
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99014/1.0
+- name: gotfine
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102381/1.0
+- name: gotriot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106926/1.0
+- name: gotgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106927/1.0
+- name: gotcoop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116102/1.0
+- name: gotsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116103/1.0

@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - tvsboh
 emojis:
-- name: tvswhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46316/1.0
-- name: tvscry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46085/1.0
 - name: tvslighter
   src: https://static-cdn.jtvnw.net/emoticons/v1/46086/1.0
-- name: tvsmusic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46088/1.0
-- name: tvsrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46090/1.0
 - name: tvssupreme
   src: https://static-cdn.jtvnw.net/emoticons/v1/46091/1.0
 - name: tvslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/46147/1.0
+- name: tvscry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97068/1.0
+- name: tvsevade
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97069/1.0
+- name: tvsmusic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97070/1.0
+- name: tvsrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97071/1.0
+- name: tvswhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97072/1.0
+- name: tvshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100785/1.0
 - name: tvsrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46148/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100786/1.0

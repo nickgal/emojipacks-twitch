@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mrcomtruise
 emojis:
-- name: comtbomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83595/1.0
-- name: comtgasm
+- name: marsgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/74610/1.0
-- name: comtdealwithit
+- name: marslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104666/1.0
+- name: marsdealwithit
   src: https://static-cdn.jtvnw.net/emoticons/v1/83596/1.0
-- name: comtrekt
+- name: marsrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/74343/1.0
-- name: comtdarkarmy
+- name: marsdarkarmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/84969/1.0
-- name: comtlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84967/1.0
+- name: marsbooty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105200/1.0

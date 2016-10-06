@@ -5,11 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38803/1.0
 - name: jmfnuggie
   src: https://static-cdn.jtvnw.net/emoticons/v1/43789/1.0
-- name: jmfbat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48777/1.0
 - name: jmfcrab
   src: https://static-cdn.jtvnw.net/emoticons/v1/48774/1.0
 - name: jmfmvp
   src: https://static-cdn.jtvnw.net/emoticons/v1/55436/1.0
 - name: jmfgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/54659/1.0
+- name: jmfflow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96487/1.0
+- name: jmfsquirt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99356/1.0
+- name: jmfbandit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99360/1.0

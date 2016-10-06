@@ -1,8 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - mrcreeep
 emojis:
-- name: creeepspore
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83028/1.0
+- name: creeepwingr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87067/1.0
+- name: creeepwingl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87066/1.0
+- name: creeepup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87065/1.0
 - name: creeephey
   src: https://static-cdn.jtvnw.net/emoticons/v1/83009/1.0
 - name: creeeppeep

@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - blahblahlps
 emojis:
-- name: blafiarip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69453/1.0
-- name: blafiaprizes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69474/1.0
 - name: blafiakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/54602/1.0
-- name: blafiahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69456/1.0
 - name: blafiaskip
   src: https://static-cdn.jtvnw.net/emoticons/v1/69452/1.0
-- name: blafiabruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69477/1.0
+- name: blafiathirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91343/1.0
+- name: blafiahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91342/1.0

@@ -1,23 +1,31 @@
 ---
 title: Twitch Subscriber Emotes - shadypenguinn
 emojis:
-- name: shadypsubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26221/1.0
-- name: shadyplove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26257/1.0
-- name: shadyptips
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26259/1.0
-- name: shadyptears
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26256/1.0
-- name: shadypshady
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26258/1.0
-- name: shadypcrit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26220/1.0
 - name: shadypskrelp
   src: https://static-cdn.jtvnw.net/emoticons/v1/26273/1.0
 - name: shadypdrama
   src: https://static-cdn.jtvnw.net/emoticons/v1/39094/1.0
-- name: shadyplanta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46836/1.0
-- name: shadypbars
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46528/1.0
+- name: shadypthumb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112689/1.0
+- name: shadyplove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114857/1.0
+- name: shadypbaby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112438/1.0
+- name: shadypchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112439/1.0
+- name: shadypparty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112440/1.0
+- name: shadypcrit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112441/1.0
+- name: shadypraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112442/1.0
+- name: shadypcheeksup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112443/1.0
+- name: shadypsweat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112444/1.0
+- name: shadyptalent
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112445/1.0
+- name: shadyppretty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112688/1.0
+- name: shadyptears
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112687/1.0

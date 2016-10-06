@@ -5,23 +5,29 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/12542/1.0
 - name: pausedealwithit
   src: https://static-cdn.jtvnw.net/emoticons/v1/12156/1.0
-- name: pausecry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15269/1.0
-- name: pausesub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45915/1.0
-- name: pausecaptain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45917/1.0
 - name: pauselove
   src: https://static-cdn.jtvnw.net/emoticons/v1/45936/1.0
 - name: pausechiblee
   src: https://static-cdn.jtvnw.net/emoticons/v1/45937/1.0
 - name: pausezelda
   src: https://static-cdn.jtvnw.net/emoticons/v1/45151/1.0
-- name: pausecake
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52181/1.0
-- name: pauseblaze
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56274/1.0
-- name: pausenoballs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69169/1.0
 - name: pausebaby
   src: https://static-cdn.jtvnw.net/emoticons/v1/70869/1.0
+- name: pausegrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92105/1.0
+- name: pauserip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92109/1.0
+- name: pausecry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95217/1.0
+- name: pause4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95216/1.0
+- name: pause3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95215/1.0
+- name: pause2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95214/1.0
+- name: pause1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95213/1.0
+- name: pausesellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95201/1.0
+- name: pausepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95203/1.0

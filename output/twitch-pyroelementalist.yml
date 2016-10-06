@@ -3,21 +3,21 @@ title: Twitch Subscriber Emotes - pyroelementalist
 emojis:
 - name: andyphs
   src: https://static-cdn.jtvnw.net/emoticons/v1/41698/1.0
-- name: andypcs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41835/1.0
-- name: andypboss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41593/1.0
-- name: andyphype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43816/1.0
-- name: andypgaben
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76817/1.0
 - name: andypjuan
   src: https://static-cdn.jtvnw.net/emoticons/v1/76935/1.0
 - name: andypvac
   src: https://static-cdn.jtvnw.net/emoticons/v1/76819/1.0
+- name: andypwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110232/1.0
 - name: andyprage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78441/1.0
-- name: andypfin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78452/1.0
-- name: andypace
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78445/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110233/1.0
+- name: andyphype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110234/1.0
+- name: andypsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110235/1.0
+- name: andypbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110230/1.0
+- name: andypfire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110231/1.0
+- name: andypboss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110229/1.0

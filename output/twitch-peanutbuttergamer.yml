@@ -3,3 +3,13 @@ title: Twitch Subscriber Emotes - peanutbuttergamer
 emojis:
 - name: pbgsmoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/14760/1.0
+- name: pbgadv1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101700/1.0
+- name: pbgadv2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101701/1.0
+- name: pbgsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101702/1.0
+- name: pbgsmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101703/1.0
+- name: pbgspook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99199/1.0

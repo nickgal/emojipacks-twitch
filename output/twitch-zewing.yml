@@ -1,11 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - zewing
 emojis:
-- name: zewwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4151/1.0
-- name: zewfox
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4128/1.0
 - name: zewwolf
   src: https://static-cdn.jtvnw.net/emoticons/v1/3623/1.0
-- name: zewsteps
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4150/1.0
+- name: zewfox
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110456/1.0

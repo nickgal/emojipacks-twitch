@@ -1,13 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - squishy
 emojis:
-- name: squishsaltstorm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69155/1.0
 - name: squishpandaidz
   src: https://static-cdn.jtvnw.net/emoticons/v1/69161/1.0
-- name: squishdesu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69402/1.0
-- name: squishzeke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71740/1.0
-- name: squishrays
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71741/1.0
+- name: squishwoof
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100344/1.0
+- name: squishpandaidz2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110820/1.0
+- name: squishjovo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89919/1.0

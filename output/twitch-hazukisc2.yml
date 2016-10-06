@@ -1,15 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - hazukisc2
 emojis:
-- name: hazumen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15675/1.0
-- name: hazubm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17066/1.0
-- name: hazuez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27929/1.0
-- name: hazutaladro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37487/1.0
-- name: hazunegro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20513/1.0
-- name: hazudross
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20514/1.0
+- name: hazuchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114095/1.0
+- name: hazuw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114106/1.0

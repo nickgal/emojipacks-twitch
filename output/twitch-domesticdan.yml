@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - domesticdan
 emojis:
-- name: domesticbutts
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65035/1.0
+- name: domesticsass
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91849/1.0
+- name: domesticpepper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91845/1.0
 - name: domesticlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/65019/1.0
 - name: domestichey
   src: https://static-cdn.jtvnw.net/emoticons/v1/65013/1.0
-- name: domesticdance
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65641/1.0
-- name: domesticdamn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65249/1.0
 - name: domestichype
   src: https://static-cdn.jtvnw.net/emoticons/v1/65639/1.0
 - name: domesticlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/68538/1.0
 - name: domesticdrool
   src: https://static-cdn.jtvnw.net/emoticons/v1/68537/1.0
+- name: domesticcorgi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103433/1.0
+- name: domesticw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105960/1.0
+- name: domesticdentures
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113088/1.0

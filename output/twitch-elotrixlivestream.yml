@@ -3,24 +3,12 @@ title: Twitch Subscriber Emotes - elotrixlivestream
 emojis:
 - name: elotrixdollar
   src: https://static-cdn.jtvnw.net/emoticons/v1/28685/1.0
-- name: elotrixnuke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6779/1.0
 - name: elotrixkappatrix
   src: https://static-cdn.jtvnw.net/emoticons/v1/6782/1.0
-- name: elotrixcree
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28686/1.0
 - name: elotrixabgehoben
   src: https://static-cdn.jtvnw.net/emoticons/v1/28975/1.0
-- name: elotrixunangenehm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28974/1.0
 - name: elotrix247
   src: https://static-cdn.jtvnw.net/emoticons/v1/28971/1.0
-- name: elotrixischoer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28973/1.0
-- name: elotrixeinenoch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28972/1.0
-- name: elotrixanzeige
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29144/1.0
 - name: elotrixk
   src: https://static-cdn.jtvnw.net/emoticons/v1/79175/1.0
 - name: elotrixrofl
@@ -29,5 +17,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78864/1.0
 - name: elotrixh
   src: https://static-cdn.jtvnw.net/emoticons/v1/78863/1.0
-- name: elotrixr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78862/1.0
+- name: elotrixno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109309/1.0
+- name: elotrixwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109308/1.0
+- name: elotrixkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109307/1.0
+- name: elotrixbarcode
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108958/1.0
+- name: elotrixlel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109233/1.0
+- name: elotrixpog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116012/1.0
+- name: elotrixkappa2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116013/1.0

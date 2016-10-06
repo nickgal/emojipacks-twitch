@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81423/1.0
 - name: dicswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/13398/1.0
-- name: dicsass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23448/1.0
 - name: diccat2
   src: https://static-cdn.jtvnw.net/emoticons/v1/81422/1.0
 - name: dicwave
@@ -17,27 +15,29 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81420/1.0
 - name: diccheers
   src: https://static-cdn.jtvnw.net/emoticons/v1/81418/1.0
-- name: dicgodlike
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81417/1.0
-- name: dicbut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81416/1.0
 - name: dichug
   src: https://static-cdn.jtvnw.net/emoticons/v1/36147/1.0
-- name: dicfist
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60784/1.0
 - name: dickappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/60785/1.0
-- name: dicsalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60787/1.0
 - name: dicfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/60789/1.0
 - name: dicpuke
   src: https://static-cdn.jtvnw.net/emoticons/v1/60791/1.0
 - name: dicdrunk
   src: https://static-cdn.jtvnw.net/emoticons/v1/60793/1.0
-- name: dicmaggie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60795/1.0
-- name: dicgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60796/1.0
+- name: dicraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94867/1.0
 - name: dicdik
   src: https://static-cdn.jtvnw.net/emoticons/v1/81415/1.0
+- name: dicyas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94866/1.0
+- name: dicvape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95082/1.0
+- name: dicvandyke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100994/1.0
+- name: dicnield
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101921/1.0
+- name: dicgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102411/1.0
+- name: diclove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113626/1.0

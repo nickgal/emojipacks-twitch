@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - gaminglive_inderetro
 emojis:
+- name: gltv3goal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87886/1.0
+- name: gltv3robot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87884/1.0
 - name: gltv3savestate
   src: https://static-cdn.jtvnw.net/emoticons/v1/57344/1.0
 - name: gltv3raffle

@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - surrenderhs
 emojis:
-- name: surrenderrope
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66396/1.0
-- name: surrendermind
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84737/1.0
+- name: surrenderw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98166/1.0
+- name: surrenderwk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112577/1.0
+- name: surrendersig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97202/1.0
+- name: surrendertina
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112747/1.0
+- name: surrendertrail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116547/1.0
+- name: surrenderchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116606/1.0

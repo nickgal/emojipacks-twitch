@@ -11,9 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10220/1.0
 - name: nukemhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/10293/1.0
-- name: nukemdrink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34801/1.0
 - name: nukemrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/34951/1.0
 - name: nukemscare
   src: https://static-cdn.jtvnw.net/emoticons/v1/34972/1.0
+- name: nukemdrink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106549/1.0
+- name: nukemlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105551/1.0
+- name: nukemfood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105552/1.0

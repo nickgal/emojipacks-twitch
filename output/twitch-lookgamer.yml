@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - lookgamer
 emojis:
-- name: lookgsubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29668/1.0
-- name: lookgnocamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26602/1.0
-- name: lookgmove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26635/1.0
-- name: lookgchicken
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30216/1.0
-- name: lookghype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33676/1.0
 - name: lookgchoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/33738/1.0
+- name: lookgsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89790/1.0
+- name: lookghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89789/1.0
+- name: lookglurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89815/1.0

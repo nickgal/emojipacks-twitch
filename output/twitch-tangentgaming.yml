@@ -3,24 +3,34 @@ title: Twitch Subscriber Emotes - tangentgaming
 emojis:
 - name: tanggong
   src: https://static-cdn.jtvnw.net/emoticons/v1/8984/1.0
-- name: tangkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7807/1.0
-- name: tanghit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8985/1.0
 - name: tangrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/11854/1.0
-- name: tangluna
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13858/1.0
-- name: tanggasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17313/1.0
+- name: tangducklikethis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108137/1.0
+- name: tangspit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108138/1.0
+- name: tangtwoface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108139/1.0
 - name: tangshock
   src: https://static-cdn.jtvnw.net/emoticons/v1/46750/1.0
+- name: tangcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108140/1.0
+- name: tangv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108141/1.0
+- name: tangi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108142/1.0
+- name: tangm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108143/1.0
+- name: tangwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108144/1.0
+- name: tangbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108145/1.0
+- name: tanghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108146/1.0
 - name: tangmage
   src: https://static-cdn.jtvnw.net/emoticons/v1/29291/1.0
 - name: tangball
   src: https://static-cdn.jtvnw.net/emoticons/v1/29341/1.0
-- name: tangmomo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29346/1.0
 - name: tanglewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/32080/1.0
 - name: tangham
@@ -29,15 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34490/1.0
 - name: tango
   src: https://static-cdn.jtvnw.net/emoticons/v1/37287/1.0
-- name: tangsigh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46252/1.0
-- name: tangsen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45787/1.0
-- name: tangwoah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45770/1.0
-- name: tangthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50550/1.0
 - name: tangsalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/53525/1.0
-- name: tangcheck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53523/1.0

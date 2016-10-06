@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40792/1.0
 - name: mitchisir
   src: https://static-cdn.jtvnw.net/emoticons/v1/41649/1.0
-- name: mitchiblood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67539/1.0
 - name: mitchihate
   src: https://static-cdn.jtvnw.net/emoticons/v1/67537/1.0
 - name: mitchimitchi
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78637/1.0
 - name: mitchiward
   src: https://static-cdn.jtvnw.net/emoticons/v1/78638/1.0
+- name: mitchipalmer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101508/1.0

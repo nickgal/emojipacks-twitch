@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - curvyllama
 emojis:
+- name: curvyshot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92052/1.0
 - name: curvyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/54836/1.0
 - name: curvyeugene
@@ -21,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54133/1.0
 - name: curvyrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/58476/1.0
+- name: curvygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90609/1.0
+- name: curvychichi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92975/1.0
+- name: curvysuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97875/1.0
+- name: curvyomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96869/1.0

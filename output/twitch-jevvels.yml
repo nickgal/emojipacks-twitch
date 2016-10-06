@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - jevvels
 emojis:
 - name: jevspeace
   src: https://static-cdn.jtvnw.net/emoticons/v1/22610/1.0
-- name: jevsleedle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67098/1.0
+- name: jevstilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88630/1.0
 - name: jevslove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46442/1.0
-- name: jevsgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63818/1.0
-- name: jevstroll
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72525/1.0
-- name: jevsspoopy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72228/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89254/1.0
+- name: jevsrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89351/1.0
+- name: jevslee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89255/1.0
+- name: jevssub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89256/1.0
+- name: jevsult
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92264/1.0
+- name: jevsblush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92265/1.0

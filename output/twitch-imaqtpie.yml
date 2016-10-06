@@ -3,48 +3,36 @@ title: Twitch Subscriber Emotes - imaqtpie
 emojis:
 - name: qtpspooky
   src: https://static-cdn.jtvnw.net/emoticons/v1/3176/1.0
-- name: qtpbrojob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71789/1.0
 - name: qtpswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/19673/1.0
 - name: qtpblessed
   src: https://static-cdn.jtvnw.net/emoticons/v1/12576/1.0
-- name: qtpheim
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14774/1.0
 - name: qtpusa
   src: https://static-cdn.jtvnw.net/emoticons/v1/14303/1.0
 - name: qtpdong
   src: https://static-cdn.jtvnw.net/emoticons/v1/17218/1.0
-- name: qtpham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17220/1.0
 - name: qtpculled
   src: https://static-cdn.jtvnw.net/emoticons/v1/19671/1.0
 - name: qtpstfu
   src: https://static-cdn.jtvnw.net/emoticons/v1/22127/1.0
-- name: qtpmeme
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25587/1.0
 - name: qtppotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/27309/1.0
 - name: qtppleb
   src: https://static-cdn.jtvnw.net/emoticons/v1/71790/1.0
 - name: qtppaid
   src: https://static-cdn.jtvnw.net/emoticons/v1/31292/1.0
-- name: qtp2can
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31002/1.0
 - name: qtplemonkey
   src: https://static-cdn.jtvnw.net/emoticons/v1/31003/1.0
-- name: qtprobot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31927/1.0
 - name: qtpwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/32438/1.0
-- name: qtpkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32641/1.0
+- name: qtpb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86538/1.0
 - name: qtptilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/35064/1.0
+- name: qtpa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86537/1.0
 - name: qtpurgod
   src: https://static-cdn.jtvnw.net/emoticons/v1/40894/1.0
-- name: qtprekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44079/1.0
 - name: qtpassist
   src: https://static-cdn.jtvnw.net/emoticons/v1/40895/1.0
 - name: qtpmoist
@@ -65,9 +53,37 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68195/1.0
 - name: qtpbaked
   src: https://static-cdn.jtvnw.net/emoticons/v1/69729/1.0
-- name: qtpspooked
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69728/1.0
 - name: qtpfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/69731/1.0
 - name: qtpmellow
   src: https://static-cdn.jtvnw.net/emoticons/v1/73073/1.0
+- name: qtplul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116948/1.0
+- name: qtp2nd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116947/1.0
+- name: qtpweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99081/1.0
+- name: qtpowo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99039/1.0
+- name: qtpthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99038/1.0
+- name: qtpmeme
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99037/1.0
+- name: qtp1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100186/1.0
+- name: qtp2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100187/1.0
+- name: qtp3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100188/1.0
+- name: qtp4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100189/1.0
+- name: qtpspooked
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116989/1.0
+- name: qtpthinking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117009/1.0
+- name: qtpcool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116984/1.0
+- name: qtpw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114091/1.0
+- name: qtpnlt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114093/1.0

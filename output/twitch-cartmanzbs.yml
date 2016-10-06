@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - cartmanzbs
 emojis:
-- name: zbsdog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19711/1.0
+- name: zbsyshi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110262/1.0
+- name: zbsrofl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110276/1.0
 - name: zbs8k
   src: https://static-cdn.jtvnw.net/emoticons/v1/79082/1.0
 - name: zbssub
   src: https://static-cdn.jtvnw.net/emoticons/v1/79948/1.0
-- name: zbsloh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54020/1.0
+- name: zbsminys50
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116911/1.0
 - name: zbsart
   src: https://static-cdn.jtvnw.net/emoticons/v1/51939/1.0
-- name: zbsihniy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79132/1.0
 - name: zbsoh
   src: https://static-cdn.jtvnw.net/emoticons/v1/74872/1.0
-- name: zbskyrluk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79869/1.0
+- name: zbsoivse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110275/1.0
+- name: zbskeepo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116735/1.0
+- name: zbsskip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116734/1.0

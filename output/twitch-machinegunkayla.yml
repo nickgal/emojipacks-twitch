@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - machinegunkayla
 emojis:
-- name: mgkhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41734/1.0
-- name: mgkthirst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37915/1.0
-- name: mgkwot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50518/1.0
 - name: mgklove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50517/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112660/1.0
+- name: mgkkek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111218/1.0
 - name: mgksavage
   src: https://static-cdn.jtvnw.net/emoticons/v1/50553/1.0
 - name: mgksalt
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50516/1.0
 - name: mgkrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/50515/1.0
+- name: mgkdf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110185/1.0
+- name: mgkhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97021/1.0

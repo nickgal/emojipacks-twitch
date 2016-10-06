@@ -1,6 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - lifewithlaughs
 emojis:
+- name: lwlwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101275/1.0
+- name: lwlmeme
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101272/1.0
+- name: lwlfrank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101271/1.0
 - name: lwllove
   src: https://static-cdn.jtvnw.net/emoticons/v1/73592/1.0
 - name: lwlr
@@ -9,25 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73892/1.0
 - name: lwlcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/76067/1.0
-- name: lwl9000
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74254/1.0
 - name: lwlsenpai
   src: https://static-cdn.jtvnw.net/emoticons/v1/73897/1.0
-- name: lwlfrank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75063/1.0
-- name: lwlart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76069/1.0
 - name: lwlkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/75064/1.0
 - name: lwlhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/73490/1.0
 - name: lwlsoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/73489/1.0
-- name: lwlbloon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74070/1.0
-- name: lwlhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76073/1.0
 - name: lwlsmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/76068/1.0
 - name: lwldance
   src: https://static-cdn.jtvnw.net/emoticons/v1/76066/1.0
+- name: lwlhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101382/1.0
+- name: lwlunsure
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101385/1.0

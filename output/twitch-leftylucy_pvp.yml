@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - leftylucy_pvp
 emojis:
-- name: leftylucyrock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81131/1.0
-- name: leftylucyww
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78900/1.0
-- name: leftylucyhappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78899/1.0
-- name: leftylucyrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79433/1.0
-- name: leftylucyqq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79434/1.0
-- name: leftylucyl2p
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79032/1.0
 - name: leftylucydrank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79031/1.0
-- name: leftylucyjoule
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81132/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111879/1.0
+- name: leftylucymetal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111880/1.0
+- name: leftylucylmao
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111881/1.0
+- name: leftylucyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111882/1.0
+- name: leftylucyrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111883/1.0
+- name: leftylucyqq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111884/1.0

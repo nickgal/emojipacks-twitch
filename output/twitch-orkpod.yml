@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - orkpod
 emojis:
-- name: orkdonate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55504/1.0
-- name: orksurprise
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50196/1.0
-- name: orkheymakevideo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50197/1.0
-- name: orknina
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58427/1.0
 - name: orkkhadgar
   src: https://static-cdn.jtvnw.net/emoticons/v1/58470/1.0
 - name: orkegor
   src: https://static-cdn.jtvnw.net/emoticons/v1/58581/1.0
+- name: orkcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115366/1.0
+- name: orkkalit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115367/1.0
+- name: orknina
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110131/1.0
+- name: orkpetuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109333/1.0
+- name: orkhead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109736/1.0
+- name: orkneck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110001/1.0
+- name: orkgus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109202/1.0
+- name: orkdonut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109203/1.0

@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mrhocku
 emojis:
-- name: s13angry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46607/1.0
-- name: s13haha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46608/1.0
+- name: s13sad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104378/1.0
+- name: s13grr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104044/1.0
+- name: s13omg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104043/1.0
+- name: s13mindblow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115550/1.0
+- name: s13lol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104375/1.0
+- name: s13pride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115755/1.0

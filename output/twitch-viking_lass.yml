@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - viking_lass
 emojis:
-- name: vikinglurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62334/1.0
+- name: vikingbutts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98298/1.0
 - name: vikingbrown
   src: https://static-cdn.jtvnw.net/emoticons/v1/62335/1.0
 - name: vikingrage
@@ -15,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62393/1.0
 - name: vikingwhip
   src: https://static-cdn.jtvnw.net/emoticons/v1/62394/1.0
+- name: vikinglurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100269/1.0

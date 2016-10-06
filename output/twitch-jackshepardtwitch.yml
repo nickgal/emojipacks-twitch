@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - jackshepardtwitch
 emojis:
-- name: js19rusmlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65590/1.0
-- name: js19rusangry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65588/1.0
-- name: js19ruswat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76956/1.0
-- name: js19rusyeah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76955/1.0
 - name: js19rustim
   src: https://static-cdn.jtvnw.net/emoticons/v1/65589/1.0
+- name: js19ruswat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102206/1.0
+- name: js19rusmojito
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102205/1.0
+- name: js19rusangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102196/1.0
 - name: js19rusevil
   src: https://static-cdn.jtvnw.net/emoticons/v1/66601/1.0
 - name: js19rustop
   src: https://static-cdn.jtvnw.net/emoticons/v1/65592/1.0
-- name: js19russmile
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77061/1.0
+- name: js19rusmoshna
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102092/1.0
+- name: js19ruspride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102091/1.0

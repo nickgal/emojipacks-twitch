@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - therainman
 emojis:
-- name: trmdorans
-  src: https://static-cdn.jtvnw.net/emoticons/v1/653/1.0
-- name: trmshroom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16035/1.0
-- name: trmtrm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16191/1.0
-- name: trmafro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16192/1.0
-- name: trmsally
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16238/1.0
-- name: trmkeemo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17377/1.0
-- name: trmdunk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59892/1.0
-- name: trmhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38766/1.0
+- name: trmpc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114898/1.0
+- name: trmgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114862/1.0
+- name: trmoops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114866/1.0
+- name: trmpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114863/1.0
+- name: trmlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114865/1.0
+- name: trmgo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114864/1.0

@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - byangerine
 emojis:
+- name: digilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90174/1.0
 - name: digihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/67954/1.0
-- name: digilove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64434/1.0
 - name: digiok
   src: https://static-cdn.jtvnw.net/emoticons/v1/64440/1.0
+- name: digiderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88426/1.0
+- name: digidwl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88428/1.0
+- name: digichamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88427/1.0

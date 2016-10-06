@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - joefudge91
 emojis:
 - name: fudgewtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/69408/1.0
-- name: fudgehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69399/1.0
 - name: fudgekappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/72875/1.0
-- name: fudgerip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72874/1.0
-- name: fudgethump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72872/1.0
-- name: fudgecarrot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73279/1.0
 - name: fudgelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/73139/1.0
-- name: fudgesundae
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73137/1.0
+- name: fudgeboris
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112041/1.0
+- name: fudgepfft
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112042/1.0
+- name: fudgefish
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112043/1.0
+- name: fudgehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112044/1.0
+- name: fudgeomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112045/1.0

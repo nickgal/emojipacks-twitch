@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - shaskolive
 emojis:
-- name: shaskokill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38228/1.0
-- name: shaskorip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49090/1.0
-- name: shaskorekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74501/1.0
-- name: shaskocry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74523/1.0
+- name: shaskogasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108116/1.0
 - name: shaskohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74545/1.0
-- name: shaskofiora
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74418/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108115/1.0
+- name: shaskoaim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108118/1.0
+- name: shaskochamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108117/1.0

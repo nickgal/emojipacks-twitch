@@ -3,16 +3,10 @@ title: Twitch Subscriber Emotes - fairlight_excalibur
 emojis:
 - name: fairbro
   src: https://static-cdn.jtvnw.net/emoticons/v1/18491/1.0
-- name: fairdunk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18493/1.0
 - name: fairtemp
   src: https://static-cdn.jtvnw.net/emoticons/v1/18494/1.0
-- name: fairsit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18530/1.0
 - name: fairkatana
   src: https://static-cdn.jtvnw.net/emoticons/v1/28049/1.0
-- name: fairlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33878/1.0
 - name: fairsword
   src: https://static-cdn.jtvnw.net/emoticons/v1/33877/1.0
 - name: fairheadshot
@@ -23,9 +17,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32957/1.0
 - name: fairdice
   src: https://static-cdn.jtvnw.net/emoticons/v1/34827/1.0
-- name: fairroice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38345/1.0
+- name: fairlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109515/1.0
 - name: fairrawr
   src: https://static-cdn.jtvnw.net/emoticons/v1/53266/1.0
-- name: fairw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77940/1.0
+- name: fairrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88450/1.0
+- name: fairtroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90346/1.0
+- name: fairpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89879/1.0
+- name: fairchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90004/1.0
+- name: fairrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89886/1.0
+- name: fairhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89878/1.0
+- name: fairevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89876/1.0
+- name: fairwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105937/1.0

@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - sintilla
 emojis:
 - name: sintoverit
   src: https://static-cdn.jtvnw.net/emoticons/v1/74790/1.0
-- name: sinthey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72616/1.0
-- name: sintlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72994/1.0
-- name: sintthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72995/1.0
-- name: sintrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73402/1.0
+- name: sinthype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100524/1.0
 - name: sintwhiff
   src: https://static-cdn.jtvnw.net/emoticons/v1/77819/1.0
+- name: sinttilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109078/1.0
+- name: sintlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109236/1.0
+- name: sintthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109237/1.0
+- name: sinthey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110077/1.0
+- name: sintlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110078/1.0

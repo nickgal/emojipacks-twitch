@@ -33,8 +33,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54151/1.0
 - name: cowpoker
   src: https://static-cdn.jtvnw.net/emoticons/v1/54152/1.0
-- name: cowdere
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61461/1.0
 - name: cowpout
   src: https://static-cdn.jtvnw.net/emoticons/v1/61460/1.0
 - name: cowfused
@@ -51,3 +49,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61470/1.0
 - name: cowsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/54153/1.0
+- name: cowfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109070/1.0

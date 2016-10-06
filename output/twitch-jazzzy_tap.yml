@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - jazzzy_tap
 emojis:
-- name: jazzhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71254/1.0
-- name: jazzlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71252/1.0
-- name: jazzh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71251/1.0
-- name: jazzgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47125/1.0
 - name: jazzwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/52617/1.0
-- name: jazzbae
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48357/1.0
 - name: jazzhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/56350/1.0
+- name: jazzl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104520/1.0
+- name: jazzm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103090/1.0
+- name: jazzcute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107413/1.0
+- name: jazzsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108516/1.0
+- name: jazzdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108517/1.0
 - name: jazzeww
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61740/1.0
-- name: jazzc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80458/1.0
-- name: jazzf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85572/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112179/1.0
+- name: jazzg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114563/1.0
+- name: jazzh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114440/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - susanaandradee
 emojis:
+- name: suhcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104956/1.0
 - name: suhlado
   src: https://static-cdn.jtvnw.net/emoticons/v1/80192/1.0
 - name: suhclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/80583/1.0
+- name: suhb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98678/1.0

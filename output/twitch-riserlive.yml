@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - riserlive
 emojis:
-- name: riserchar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83709/1.0
 - name: risergasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/85570/1.0
+- name: riserfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86871/1.0

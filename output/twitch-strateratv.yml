@@ -1,7 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - strateratv
 emojis:
-- name: doranmuhtar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62123/1.0
-- name: doranthug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73433/1.0
+- name: doranfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99941/1.0
+- name: doranrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102632/1.0
+- name: doranoley
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99942/1.0
+- name: doranmlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100134/1.0
+- name: doranagla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99478/1.0

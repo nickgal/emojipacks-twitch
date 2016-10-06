@@ -1,11 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - antonstreamt
 emojis:
-- name: antonh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69129/1.0
-- name: antona
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69150/1.0
-- name: antonk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69151/1.0
-- name: antonralf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70096/1.0
+- name: antonb2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110327/1.0
+- name: antonbox
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113139/1.0
+- name: antonb1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110326/1.0

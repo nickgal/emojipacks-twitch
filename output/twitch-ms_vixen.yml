@@ -1,25 +1,31 @@
 ---
 title: Twitch Subscriber Emotes - ms_vixen
 emojis:
-- name: vixenezio
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3006/1.0
 - name: vixenbaxter
   src: https://static-cdn.jtvnw.net/emoticons/v1/3008/1.0
-- name: vixensubparty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4782/1.0
 - name: vixenpup
   src: https://static-cdn.jtvnw.net/emoticons/v1/7970/1.0
 - name: vixenmusichype
   src: https://static-cdn.jtvnw.net/emoticons/v1/8192/1.0
 - name: vixenbomb
   src: https://static-cdn.jtvnw.net/emoticons/v1/16224/1.0
-- name: vixengg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16225/1.0
-- name: vixenomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16226/1.0
-- name: vixenshmangle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16228/1.0
-- name: vixenbang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18414/1.0
+- name: vixenhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88262/1.0
+- name: vixensprinkler
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91524/1.0
 - name: vixenkitty
   src: https://static-cdn.jtvnw.net/emoticons/v1/74906/1.0
+- name: vixenperv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88502/1.0
+- name: vixentip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113995/1.0
+- name: vixenrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113994/1.0
+- name: vixenrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115514/1.0
+- name: vixenlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115515/1.0
+- name: vixengg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115516/1.0
+- name: vixenfollow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115517/1.0

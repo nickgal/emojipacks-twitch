@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65858/1.0
 - name: lucymaehello
   src: https://static-cdn.jtvnw.net/emoticons/v1/65855/1.0
-- name: lucymaeugh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24486/1.0
 - name: lucymaebaby
   src: https://static-cdn.jtvnw.net/emoticons/v1/64020/1.0
 - name: lucymaenope
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63919/1.0
 - name: lucymaelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/80980/1.0
+- name: lucymaekappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110765/1.0

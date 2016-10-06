@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - kakumei2012
 emojis:
-- name: kakulove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72549/1.0
-- name: kakuhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72548/1.0
+- name: kakueat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111930/1.0
+- name: kakurage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111966/1.0
+- name: kakupimp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112283/1.0
+- name: kakuheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113175/1.0

@@ -3,15 +3,33 @@ title: Twitch Subscriber Emotes - aiekillu
 emojis:
 - name: aieb
   src: https://static-cdn.jtvnw.net/emoticons/v1/5360/1.0
-- name: aiel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72808/1.0
 - name: aiela
   src: https://static-cdn.jtvnw.net/emoticons/v1/72810/1.0
 - name: aiec
   src: https://static-cdn.jtvnw.net/emoticons/v1/72809/1.0
+- name: aietrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86191/1.0
+- name: aiepotato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86190/1.0
+- name: aiehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86189/1.0
 - name: aiesven
   src: https://static-cdn.jtvnw.net/emoticons/v1/35147/1.0
 - name: aielel
   src: https://static-cdn.jtvnw.net/emoticons/v1/35150/1.0
 - name: aierip
   src: https://static-cdn.jtvnw.net/emoticons/v1/35148/1.0
+- name: aie10
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86187/1.0
+- name: aierage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86188/1.0
+- name: aieg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88747/1.0
+- name: aiem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85813/1.0
+- name: aiel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85321/1.0
+- name: aies
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85320/1.0
+- name: aieyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85317/1.0

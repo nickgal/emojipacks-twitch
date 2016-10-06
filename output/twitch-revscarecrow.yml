@@ -7,9 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67863/1.0
 - name: revmask
   src: https://static-cdn.jtvnw.net/emoticons/v1/32104/1.0
-- name: revkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35915/1.0
 - name: revday
   src: https://static-cdn.jtvnw.net/emoticons/v1/35310/1.0
-- name: revjoker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55189/1.0
+- name: revgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96453/1.0
+- name: revweed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98906/1.0
+- name: revconcern
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108951/1.0
+- name: revmomo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108952/1.0

@@ -9,18 +9,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/287/1.0
 - name: phantomc1
   src: https://static-cdn.jtvnw.net/emoticons/v1/54528/1.0
+- name: phantomkiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102829/1.0
 - name: phantomc2
   src: https://static-cdn.jtvnw.net/emoticons/v1/54529/1.0
 - name: phantomc3
   src: https://static-cdn.jtvnw.net/emoticons/v1/54530/1.0
 - name: phantomc4
   src: https://static-cdn.jtvnw.net/emoticons/v1/54531/1.0
-- name: phantomgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2987/1.0
 - name: phantomcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/2280/1.0
-- name: phantommad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2614/1.0
 - name: phantomwalrus
   src: https://static-cdn.jtvnw.net/emoticons/v1/4050/1.0
 - name: phantomheadshot
@@ -29,18 +27,30 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37946/1.0
 - name: phantomgive
   src: https://static-cdn.jtvnw.net/emoticons/v1/37947/1.0
+- name: phantomskull
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102830/1.0
+- name: phantomlore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102831/1.0
 - name: phantomcreeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/11974/1.0
 - name: phantomwow
   src: https://static-cdn.jtvnw.net/emoticons/v1/12243/1.0
+- name: phantomwoman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102835/1.0
+- name: phantoma
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102837/1.0
 - name: phantompalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/16785/1.0
 - name: phantomrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/16786/1.0
 - name: phantomhappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/16331/1.0
-- name: phantomrkey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23653/1.0
+- name: phantomo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102839/1.0
+- name: phantomn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102840/1.0
+- name: phantompog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102841/1.0
 - name: phantomlol
   src: https://static-cdn.jtvnw.net/emoticons/v1/25338/1.0
 - name: phantomkappa
@@ -49,10 +59,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30970/1.0
 - name: phantomkong
   src: https://static-cdn.jtvnw.net/emoticons/v1/30971/1.0
-- name: phantomwat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33811/1.0
-- name: phantomkiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33813/1.0
+- name: phantomrigged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102842/1.0
+- name: phantomcandle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102843/1.0
+- name: phantomfish
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102844/1.0
 - name: phantomgnar
   src: https://static-cdn.jtvnw.net/emoticons/v1/34593/1.0
 - name: phantomsoon
@@ -61,5 +73,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36451/1.0
 - name: phantomthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/36464/1.0
-- name: phantomshuffle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76285/1.0
+- name: phantomcute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102824/1.0
+- name: phantomloss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102825/1.0
+- name: phantomwat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102826/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - omg_love
 emojis:
-- name: lovepeach
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56250/1.0
 - name: loveegghead
   src: https://static-cdn.jtvnw.net/emoticons/v1/56251/1.0
 - name: lovehype

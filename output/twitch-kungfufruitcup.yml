@@ -5,10 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/16907/1.0
 - name: kffccheer
   src: https://static-cdn.jtvnw.net/emoticons/v1/17130/1.0
-- name: kffcthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17317/1.0
-- name: kffcohmy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18944/1.0
 - name: kffcsnug
   src: https://static-cdn.jtvnw.net/emoticons/v1/19837/1.0
 - name: kffctoto
@@ -21,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44908/1.0
 - name: kffcaww
   src: https://static-cdn.jtvnw.net/emoticons/v1/48099/1.0
-- name: kffcwhoa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48100/1.0
 - name: kffcfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/48101/1.0
 - name: kffcpuke
@@ -31,3 +25,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61707/1.0
 - name: kffccheese
   src: https://static-cdn.jtvnw.net/emoticons/v1/80697/1.0
+- name: kffcwhoa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96277/1.0
+- name: kffcomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101606/1.0
+- name: kffcb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101607/1.0

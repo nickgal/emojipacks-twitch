@@ -5,12 +5,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/7382/1.0
 - name: minkooh
   src: https://static-cdn.jtvnw.net/emoticons/v1/11167/1.0
-- name: minkarkham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19289/1.0
-- name: minkbert
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19284/1.0
 - name: minkrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/27265/1.0
+- name: minkwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85922/1.0
 - name: minkgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/35990/1.0
 - name: minklucy
@@ -23,5 +21,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73352/1.0
 - name: minkhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/73486/1.0
+- name: minkmatt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98240/1.0
 - name: minkspin
   src: https://static-cdn.jtvnw.net/emoticons/v1/84500/1.0
+- name: minkllama
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85905/1.0

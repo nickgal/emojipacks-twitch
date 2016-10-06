@@ -5,18 +5,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/5632/1.0
 - name: rottichamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/57124/1.0
+- name: rottifs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93783/1.0
 - name: rottibuild
   src: https://static-cdn.jtvnw.net/emoticons/v1/35332/1.0
 - name: rotticheeky
   src: https://static-cdn.jtvnw.net/emoticons/v1/35331/1.0
-- name: rottig
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85410/1.0
 - name: rottidonkey
   src: https://static-cdn.jtvnw.net/emoticons/v1/46944/1.0
-- name: rottiarmy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47012/1.0
-- name: rottiwall
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47106/1.0
 - name: rottimask
   src: https://static-cdn.jtvnw.net/emoticons/v1/50630/1.0
 - name: rottirace
@@ -27,7 +23,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84056/1.0
 - name: rottigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/84516/1.0
-- name: rottibo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84515/1.0
 - name: rottihi
   src: https://static-cdn.jtvnw.net/emoticons/v1/84514/1.0
+- name: rottiph
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90679/1.0
+- name: rottiluv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92198/1.0

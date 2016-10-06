@@ -3,31 +3,41 @@ title: Twitch Subscriber Emotes - dfieldmark
 emojis:
 - name: dfieldsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/40708/1.0
-- name: dfieldrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20567/1.0
 - name: dfieldxray
   src: https://static-cdn.jtvnw.net/emoticons/v1/29136/1.0
 - name: dfieldrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/74951/1.0
 - name: dfieldgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/35219/1.0
+- name: dfieldhullo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101950/1.0
 - name: dfieldvevo
   src: https://static-cdn.jtvnw.net/emoticons/v1/59297/1.0
 - name: dfieldpern
   src: https://static-cdn.jtvnw.net/emoticons/v1/59298/1.0
-- name: dfieldrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74850/1.0
+- name: dfieldso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102014/1.0
+- name: dfieldlit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101946/1.0
+- name: dfieldvibes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102127/1.0
+- name: dfieldrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102125/1.0
 - name: dfieldfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/74851/1.0
 - name: dfieldcage
   src: https://static-cdn.jtvnw.net/emoticons/v1/74920/1.0
 - name: dfielddad
   src: https://static-cdn.jtvnw.net/emoticons/v1/75361/1.0
-- name: dfieldmum
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74922/1.0
 - name: dfieldfbm
   src: https://static-cdn.jtvnw.net/emoticons/v1/80523/1.0
 - name: dfieldlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/84821/1.0
 - name: dfieldo
   src: https://static-cdn.jtvnw.net/emoticons/v1/84897/1.0
+- name: dfieldrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102605/1.0
+- name: dfieldsavage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101923/1.0
+- name: dfieldyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112410/1.0

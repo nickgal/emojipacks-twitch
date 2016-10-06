@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mikehazegaming
 emojis:
-- name: mhazeread
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53629/1.0
-- name: mhazedoit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66093/1.0
 - name: mhazefree
   src: https://static-cdn.jtvnw.net/emoticons/v1/53817/1.0
+- name: mhazew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93947/1.0
 - name: mhazeblend
   src: https://static-cdn.jtvnw.net/emoticons/v1/54051/1.0
-- name: mhazeextrav
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66094/1.0
 - name: mhazepups
   src: https://static-cdn.jtvnw.net/emoticons/v1/66071/1.0
-- name: mhazenutty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66073/1.0
 - name: mhazenugs
   src: https://static-cdn.jtvnw.net/emoticons/v1/76057/1.0
+- name: mhazevape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102941/1.0

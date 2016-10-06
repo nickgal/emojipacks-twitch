@@ -1,15 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - hzyokbeolm
 emojis:
-- name: yokgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56425/1.0
 - name: yokbeolm
   src: https://static-cdn.jtvnw.net/emoticons/v1/56474/1.0
-- name: yokfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62705/1.0
-- name: yokrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64233/1.0
-- name: yokpuua
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65131/1.0
+- name: yokbayrak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89634/1.0
 - name: yokgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77006/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103483/1.0
+- name: yokhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114357/1.0
+- name: yokrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114358/1.0
+- name: yokgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114359/1.0
+- name: yokafk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114361/1.0

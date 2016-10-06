@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - tmg_tv
 emojis:
-- name: tmgtix
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13231/1.0
-- name: tmgnew
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51571/1.0
 - name: tmgarmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/51570/1.0
 - name: tmgrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/51629/1.0
+- name: tmgtete
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86244/1.0
+- name: tmgjeu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86256/1.0
+- name: tmgrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93212/1.0
+- name: tmgpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93300/1.0
+- name: tmgoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105316/1.0
+- name: tmgm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105310/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - themattayahu
 emojis:
-- name: quinndemi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71560/1.0
-- name: quinncont
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71511/1.0
+- name: mattamongol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108126/1.0
+- name: mattahum
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96820/1.0
+- name: mattapride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96806/1.0
+- name: mattazero
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109435/1.0

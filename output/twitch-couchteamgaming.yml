@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - couchteamgaming
 emojis:
-- name: couchwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39475/1.0
-- name: couchrly
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39476/1.0
 - name: couchwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/47710/1.0
-- name: couchcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47711/1.0
 - name: couchhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/47712/1.0
 - name: couchchuckle
   src: https://static-cdn.jtvnw.net/emoticons/v1/48161/1.0
-- name: couchh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52536/1.0
 - name: couchs
   src: https://static-cdn.jtvnw.net/emoticons/v1/53744/1.0
+- name: couchsword
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87564/1.0
+- name: couchbooty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87565/1.0

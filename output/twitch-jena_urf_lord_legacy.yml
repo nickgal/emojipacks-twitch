@@ -1,33 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - jena_urf_lord_legacy
 emojis:
-- name: jenaurfgn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29700/1.0
-- name: jenaurfcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15869/1.0
-- name: jenaurflord
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15990/1.0
 - name: jenaurfbamgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/17816/1.0
-- name: jenaurfhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19512/1.0
-- name: jenaurfurf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20887/1.0
-- name: jenaurfface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29965/1.0
-- name: jenaurfcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29210/1.0
+- name: jenaurfgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111372/1.0
 - name: jenaurfrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/29202/1.0
-- name: jenaurflove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29312/1.0
 - name: jenaurfcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/43820/1.0
 - name: jenaurffru
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43814/1.0
-- name: jenaurfdirty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44230/1.0
-- name: jenaurfomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44605/1.0
-- name: jenaurfchair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44604/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110601/1.0
+- name: jenaurflove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110604/1.0
+- name: jenaurfwink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110605/1.0
+- name: jenaurfweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110606/1.0
+- name: jenaurfhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110607/1.0
+- name: jenaurfurf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110608/1.0
+- name: jenaurfgn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110610/1.0
+- name: jenaurfez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110611/1.0
+- name: jenaurfpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110612/1.0
+- name: jenaurfcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110613/1.0
+- name: jenaurflord
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110614/1.0

@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - clamtaco
 emojis:
-- name: clamcookie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24253/1.0
-- name: clamjackson
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25294/1.0
 - name: clamfish
   src: https://static-cdn.jtvnw.net/emoticons/v1/39397/1.0
 - name: clamsword
   src: https://static-cdn.jtvnw.net/emoticons/v1/47167/1.0
 - name: claml
   src: https://static-cdn.jtvnw.net/emoticons/v1/62297/1.0
-- name: clamaugh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77780/1.0
 - name: clamr
   src: https://static-cdn.jtvnw.net/emoticons/v1/77782/1.0
-- name: clamgirl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77785/1.0
-- name: clamfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83339/1.0
+- name: clamcringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112527/1.0
+- name: clamcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112492/1.0
 - name: clamlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/83340/1.0
+- name: clambronson
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94171/1.0
+- name: clamfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116286/1.0
+- name: clamazing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116287/1.0

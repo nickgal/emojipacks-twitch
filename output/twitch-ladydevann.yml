@@ -1,17 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - ladydevann
 emojis:
-- name: devannpls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80025/1.0
+- name: devannh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111656/1.0
+- name: devannt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111658/1.0
+- name: devannuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113792/1.0
 - name: devannhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/77137/1.0
-- name: devannh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80043/1.0
 - name: devannhome
   src: https://static-cdn.jtvnw.net/emoticons/v1/75472/1.0
-- name: devannbp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76772/1.0
-- name: devannrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80208/1.0
 - name: devannl
   src: https://static-cdn.jtvnw.net/emoticons/v1/84087/1.0
+- name: devanncat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104552/1.0
+- name: devannr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111657/1.0
+- name: devanncry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111655/1.0
+- name: devannbp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111654/1.0
+- name: devanng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95199/1.0
+- name: devanndfd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112721/1.0
+- name: devannatk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112720/1.0
+- name: devannp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112722/1.0
+- name: devannrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112723/1.0

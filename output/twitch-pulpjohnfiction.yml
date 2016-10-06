@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - pulpjohnfiction
 emojis:
-- name: pulpyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84567/1.0
-- name: pulpno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84566/1.0
-- name: pulphype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84564/1.0
-- name: pulphug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84563/1.0
-- name: pulpb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84562/1.0
 - name: pulpheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/38503/1.0
-- name: pulpdisco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76174/1.0
 - name: pulpgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/79606/1.0
+- name: pulpjudge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100466/1.0
+- name: pulpoops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113303/1.0
+- name: pulphype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113304/1.0
+- name: pulplove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113305/1.0
+- name: pulpcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113306/1.0
+- name: pulphi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113307/1.0

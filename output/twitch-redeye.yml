@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - redeye
 emojis:
-- name: redeyeomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37480/1.0
-- name: redeyejd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37478/1.0
+- name: redeyenahazface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97633/1.0
+- name: redeyehehe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88677/1.0
+- name: redeyerekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88662/1.0

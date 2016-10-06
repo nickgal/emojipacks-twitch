@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - akimgames
 emojis:
-- name: akimcraftgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44361/1.0
-- name: akimcraftrata
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68054/1.0
-- name: akimcraftlloro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68776/1.0
 - name: akimcrafthype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68404/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114904/1.0
+- name: akimcraftepic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113152/1.0
+- name: akimcraftrata
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115555/1.0
+- name: akimcraftlloro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115554/1.0
+- name: akimcraftgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115556/1.0
 - name: akimcraftrisa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71575/1.0
-- name: akimcraftizi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70214/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115552/1.0
+- name: akimcraftez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115557/1.0
 - name: akimcraftfacepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76228/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115553/1.0

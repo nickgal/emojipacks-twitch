@@ -2,6 +2,10 @@
 title: Twitch Subscriber Emotes - sweetily
 emojis:
 - name: sweetilyhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78043/1.0
-- name: sweetilyoh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78614/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100649/1.0
+- name: sweetilyrem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110700/1.0
+- name: sweetilyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111507/1.0
+- name: sweetilygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115770/1.0

@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - vespher
 emojis:
-- name: getsleepy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81120/1.0
+- name: getmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86595/1.0
 - name: getglad
   src: https://static-cdn.jtvnw.net/emoticons/v1/58153/1.0
-- name: getminty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62023/1.0
+- name: getgot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86594/1.0
+- name: getloved
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86598/1.0
+- name: getgreeted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107937/1.0
 - name: gethype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80251/1.0
-- name: getlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83139/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117068/1.0
 - name: getthoroughlymemedupon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83140/1.0
-- name: getcute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85270/1.0
-- name: getsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85260/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117070/1.0
+- name: getsleepy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117071/1.0

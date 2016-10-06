@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - manpons
 emojis:
-- name: ponst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79848/1.0
-- name: pons10
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79849/1.0
+- name: ponslul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108151/1.0
+- name: ponswut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109638/1.0
 - name: ponsg
   src: https://static-cdn.jtvnw.net/emoticons/v1/68442/1.0
 - name: ponso
   src: https://static-cdn.jtvnw.net/emoticons/v1/64506/1.0
-- name: ponsrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69195/1.0
 - name: ponsw
   src: https://static-cdn.jtvnw.net/emoticons/v1/71565/1.0
 - name: ponslig
   src: https://static-cdn.jtvnw.net/emoticons/v1/78196/1.0
 - name: ponsh
   src: https://static-cdn.jtvnw.net/emoticons/v1/79847/1.0
-- name: ponshold
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84417/1.0
-- name: ponsr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84415/1.0
+- name: ponsm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104676/1.0
+- name: ponsomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107903/1.0
+- name: ponsbd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107891/1.0

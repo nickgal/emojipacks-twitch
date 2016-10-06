@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - corimon
 emojis:
-- name: coriblip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82498/1.0
-- name: coriheybayo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83868/1.0
+- name: corihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90209/1.0
 - name: coriyas
   src: https://static-cdn.jtvnw.net/emoticons/v1/82953/1.0
 - name: corihadouken
   src: https://static-cdn.jtvnw.net/emoticons/v1/85577/1.0
+- name: coriheybayo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85838/1.0
 - name: coridango
   src: https://static-cdn.jtvnw.net/emoticons/v1/85581/1.0
+- name: corifireball
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85692/1.0

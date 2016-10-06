@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - eddieruckus
 emojis:
 - name: btrglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/11196/1.0
-- name: btrcute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48334/1.0
-- name: btrsalute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59525/1.0
-- name: btrswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59526/1.0
-- name: btrsuit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59528/1.0
 - name: btrlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/59524/1.0
-- name: btrlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60488/1.0
 - name: btrameno
   src: https://static-cdn.jtvnw.net/emoticons/v1/80720/1.0
+- name: btrcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112365/1.0
+- name: btrcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112366/1.0
+- name: btrcute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112367/1.0
+- name: btrmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112368/1.0
+- name: btrshock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112369/1.0

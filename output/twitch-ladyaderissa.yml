@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - ladyaderissa
 emojis:
+- name: adercrit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88040/1.0
+- name: adertroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88039/1.0
 - name: aderhorn
   src: https://static-cdn.jtvnw.net/emoticons/v1/80629/1.0
 - name: aderhype
@@ -9,7 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80631/1.0
 - name: aderraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/80632/1.0
-- name: aderrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80633/1.0
-- name: aderdoge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80634/1.0
+- name: aderaxe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106727/1.0
+- name: aderhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109902/1.0
+- name: aderlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112988/1.0
+- name: adercry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112989/1.0

@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - queen_jelz
 emojis:
+- name: jelzfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98142/1.0
+- name: jelzwhip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98424/1.0
 - name: jelzw
   src: https://static-cdn.jtvnw.net/emoticons/v1/71173/1.0
 - name: jelzhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59335/1.0
-- name: jelzpom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59337/1.0
-- name: jelzrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59336/1.0
-- name: jelzluv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59334/1.0
-- name: jelzsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66285/1.0
-- name: jelzrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66284/1.0
-- name: jelzfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71118/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98143/1.0
+- name: jelzlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98144/1.0
+- name: jelzhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98145/1.0
+- name: jelzoldman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98146/1.0
+- name: jelzpee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98147/1.0

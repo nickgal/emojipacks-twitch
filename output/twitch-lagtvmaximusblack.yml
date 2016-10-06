@@ -11,6 +11,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74050/1.0
 - name: bousegreatest
   src: https://static-cdn.jtvnw.net/emoticons/v1/30827/1.0
+- name: bousewalter
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90479/1.0
 - name: bouseprime
   src: https://static-cdn.jtvnw.net/emoticons/v1/64257/1.0
 - name: bousefail
@@ -35,9 +37,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64263/1.0
 - name: bousesebri
   src: https://static-cdn.jtvnw.net/emoticons/v1/64254/1.0
-- name: bouseshred
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64255/1.0
 - name: bousecash
   src: https://static-cdn.jtvnw.net/emoticons/v1/64265/1.0
-- name: bousestand
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70809/1.0

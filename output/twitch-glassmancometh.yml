@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - glassmancometh
 emojis:
 - name: goonduck
   src: https://static-cdn.jtvnw.net/emoticons/v1/73010/1.0
-- name: goonghost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72429/1.0
 - name: goonfeet
   src: https://static-cdn.jtvnw.net/emoticons/v1/72037/1.0
-- name: goonacorn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72039/1.0
 - name: goonlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/72098/1.0
 - name: goonstory
   src: https://static-cdn.jtvnw.net/emoticons/v1/76924/1.0
-- name: goondrop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73929/1.0
 - name: goonkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/74297/1.0
+- name: gooncreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86380/1.0
+- name: goonpd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104602/1.0
+- name: goonghost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109740/1.0

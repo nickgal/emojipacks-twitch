@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - notmes
 emojis:
+- name: messleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99327/1.0
 - name: mesrainbow
   src: https://static-cdn.jtvnw.net/emoticons/v1/22690/1.0
 - name: meskiwi

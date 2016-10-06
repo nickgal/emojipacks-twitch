@@ -3,17 +3,31 @@ title: Twitch Subscriber Emotes - alpharadtv
 emojis:
 - name: artvluma
   src: https://static-cdn.jtvnw.net/emoticons/v1/82772/1.0
+- name: artvpeach
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95049/1.0
 - name: artvcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/82773/1.0
-- name: artv20xx
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82775/1.0
 - name: artvnotech
   src: https://static-cdn.jtvnw.net/emoticons/v1/60810/1.0
-- name: artvsd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60812/1.0
 - name: artvairhorn
   src: https://static-cdn.jtvnw.net/emoticons/v1/60808/1.0
-- name: artvcape
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83151/1.0
+- name: artvvilly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97497/1.0
+- name: artvwitch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93902/1.0
+- name: artvsd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93903/1.0
+- name: artvoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93905/1.0
 - name: artvmars
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83142/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93904/1.0
+- name: artvamerica
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94515/1.0
+- name: artvwhoops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96834/1.0
+- name: artvrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96827/1.0
+- name: artvkyu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96826/1.0
+- name: artvcheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98937/1.0

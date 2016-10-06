@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - blackoutgamingtv
 emojis:
 - name: boghl
   src: https://static-cdn.jtvnw.net/emoticons/v1/59444/1.0
-- name: bogtoucan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81870/1.0
+- name: bogscoped
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97013/1.0
+- name: bogtrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97023/1.0
+- name: bogsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97024/1.0

@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - ruinclanlive
 emojis:
-- name: ruinpk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70099/1.0
+- name: ruinthug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111425/1.0
 - name: ruinhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/65888/1.0
+- name: ruinteam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108426/1.0
 - name: ruinseal
   src: https://static-cdn.jtvnw.net/emoticons/v1/61004/1.0
 - name: ruinhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/61092/1.0
-- name: ruindownie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60801/1.0
-- name: ruinddos
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73291/1.0
-- name: ruinschluck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81329/1.0
 - name: ruinglatze
   src: https://static-cdn.jtvnw.net/emoticons/v1/85004/1.0
+- name: ruinrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97009/1.0
+- name: ruinspuck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101679/1.0
+- name: ruinbatman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105862/1.0
+- name: ruincave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108423/1.0

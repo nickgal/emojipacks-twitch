@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - abathur1613
 emojis:
-- name: abathurdiablo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73574/1.0
+- name: abathurhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91927/1.0
 - name: abathurlocust
   src: https://static-cdn.jtvnw.net/emoticons/v1/73598/1.0
 - name: abathursir
@@ -11,5 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72609/1.0
 - name: abathurkitty
   src: https://static-cdn.jtvnw.net/emoticons/v1/78482/1.0
-- name: abathurwombo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78466/1.0
+- name: abathurhoi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94876/1.0
+- name: abathurjustice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92153/1.0
+- name: abathurlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94887/1.0

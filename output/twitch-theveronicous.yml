@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - theveronicous
 emojis:
-- name: thevochello
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84183/1.0
+- name: thevsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96864/1.0
+- name: thevlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96865/1.0
 - name: thevshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/82922/1.0
 - name: thevoops
   src: https://static-cdn.jtvnw.net/emoticons/v1/82923/1.0
-- name: thevchivo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84038/1.0
+- name: thevrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88006/1.0
+- name: thevfp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96863/1.0

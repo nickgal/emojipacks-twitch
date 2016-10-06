@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78353/1.0
 - name: stomprage
   src: https://static-cdn.jtvnw.net/emoticons/v1/16814/1.0
-- name: stompsexy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23774/1.0
 - name: stompgood
   src: https://static-cdn.jtvnw.net/emoticons/v1/78354/1.0
 - name: stomptang
@@ -15,9 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39321/1.0
 - name: stompcos
   src: https://static-cdn.jtvnw.net/emoticons/v1/36100/1.0
-- name: stomppvp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39031/1.0
+- name: stompbig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87190/1.0
 - name: stompfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/60423/1.0
 - name: stompgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/61841/1.0
+- name: stomprofl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86986/1.0

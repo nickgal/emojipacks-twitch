@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - x2__
 emojis:
+- name: sx2sball
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112514/1.0
 - name: sx2upper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68425/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112520/1.0
+- name: sx2break
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112515/1.0
 - name: sx2ko
   src: https://static-cdn.jtvnw.net/emoticons/v1/66471/1.0
-- name: sx2lizard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73982/1.0
 - name: sx2mew2
   src: https://static-cdn.jtvnw.net/emoticons/v1/73977/1.0
+- name: sx2lizard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114975/1.0

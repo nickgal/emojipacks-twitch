@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - bananaslamjamma
 emojis:
+- name: bsjfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89819/1.0
 - name: bsjcough
   src: https://static-cdn.jtvnw.net/emoticons/v1/44395/1.0
 - name: bsjpower
   src: https://static-cdn.jtvnw.net/emoticons/v1/44398/1.0
-- name: bsjrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44935/1.0
 - name: bsjsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/50760/1.0
 - name: bsjdump
   src: https://static-cdn.jtvnw.net/emoticons/v1/72773/1.0
+- name: bsjtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86779/1.0
+- name: bsjsmooth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98673/1.0
+- name: bsjlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109630/1.0

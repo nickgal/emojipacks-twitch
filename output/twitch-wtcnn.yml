@@ -1,23 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - wtcnn
 emojis:
-- name: wtcnkespir
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64935/1.0
+- name: wtcnkor
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112657/1.0
+- name: wtcns
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112656/1.0
+- name: wtcnlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112654/1.0
 - name: wtcnplayboy
   src: https://static-cdn.jtvnw.net/emoticons/v1/11552/1.0
-- name: wtcnweed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22318/1.0
-- name: wtcnnur
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32838/1.0
-- name: wtcnhaha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32835/1.0
+- name: wtcnkespir
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112655/1.0
 - name: wtcnkaka
   src: https://static-cdn.jtvnw.net/emoticons/v1/67152/1.0
-- name: wtcngasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65281/1.0
 - name: wtcnpride
   src: https://static-cdn.jtvnw.net/emoticons/v1/65285/1.0
-- name: wtcnvac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65282/1.0
-- name: wtcnun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66088/1.0
+- name: wtcnrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107064/1.0
+- name: wtcnw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107063/1.0
+- name: wtcnfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107062/1.0
+- name: wtcnrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107820/1.0
+- name: wtcngood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107765/1.0
+- name: wtcnagla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107761/1.0
+- name: wtcnrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107764/1.0
+- name: wtcngasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107762/1.0
+- name: wtcnchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107763/1.0
+- name: wtcnbam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108043/1.0
+- name: wtcnozur
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108048/1.0
+- name: wtcnkol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112270/1.0
+- name: wtcnyak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112273/1.0

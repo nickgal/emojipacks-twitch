@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/4643/1.0
 - name: oddonepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/15399/1.0
-- name: oddonewurf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11303/1.0
 - name: oddonegreen
   src: https://static-cdn.jtvnw.net/emoticons/v1/15364/1.0
 - name: oddonesleeper
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55343/1.0
 - name: oddoneclown
   src: https://static-cdn.jtvnw.net/emoticons/v1/44250/1.0
+- name: oddonewaifu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101533/1.0

@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - toxitina
 emojis:
-- name: toxinoob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65884/1.0
-- name: toxigosh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73636/1.0
+- name: toxiloca
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116851/1.0
+- name: toxikiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116849/1.0
 - name: toxicry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73637/1.0
-- name: toximate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62743/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116850/1.0
 - name: toxigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/65752/1.0
 - name: toxirage
   src: https://static-cdn.jtvnw.net/emoticons/v1/73535/1.0
+- name: toxilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116973/1.0

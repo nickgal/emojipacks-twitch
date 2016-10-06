@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - medved_ede
 emojis:
-- name: medwiwa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85091/1.0
-- name: medunkucky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85092/1.0
+- name: medkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111395/1.0
+- name: medpes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111390/1.0
+- name: medxolodoc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110644/1.0
+- name: medhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110645/1.0

@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - gl_necro
 emojis:
+- name: necrobisous
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89964/1.0
 - name: necrothug
   src: https://static-cdn.jtvnw.net/emoticons/v1/56681/1.0
-- name: necrosurprise
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56682/1.0
 - name: necromad
   src: https://static-cdn.jtvnw.net/emoticons/v1/64855/1.0
 - name: necrogasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/64856/1.0
+- name: necrorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89974/1.0
+- name: necroligotage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89961/1.0

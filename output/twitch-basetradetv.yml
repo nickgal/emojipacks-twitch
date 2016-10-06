@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - basetradetv
 emojis:
+- name: acert
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87050/1.0
 - name: aceda
   src: https://static-cdn.jtvnw.net/emoticons/v1/30133/1.0
 - name: acefb
@@ -28,10 +30,20 @@ emojis:
 - name: ace2
   src: https://static-cdn.jtvnw.net/emoticons/v1/35792/1.0
 - name: acep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45997/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114667/1.0
+- name: acevampire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87166/1.0
+- name: acefood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87167/1.0
+- name: aceban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87168/1.0
 - name: acezg
   src: https://static-cdn.jtvnw.net/emoticons/v1/68481/1.0
 - name: acet
   src: https://static-cdn.jtvnw.net/emoticons/v1/77097/1.0
 - name: acematch
   src: https://static-cdn.jtvnw.net/emoticons/v1/77098/1.0
+- name: aceguncheck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86671/1.0
+- name: acelewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87038/1.0

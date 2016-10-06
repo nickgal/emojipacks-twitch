@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - djtechlive
 emojis:
+- name: techlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85479/1.0
 - name: techgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/47182/1.0
-- name: techhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51123/1.0
+- name: techlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101218/1.0
 - name: techhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52284/1.0
-- name: techcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67487/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86473/1.0
+- name: techhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86477/1.0
 - name: techrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/67465/1.0
 - name: techderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/78224/1.0
+- name: techlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86475/1.0
+- name: techcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101083/1.0
+- name: techluc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101082/1.0

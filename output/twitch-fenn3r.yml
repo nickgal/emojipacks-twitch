@@ -3,21 +3,21 @@ title: Twitch Subscriber Emotes - fenn3r
 emojis:
 - name: fenbooty
   src: https://static-cdn.jtvnw.net/emoticons/v1/24607/1.0
-- name: fenhost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25886/1.0
 - name: fengasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/27646/1.0
-- name: fendeals
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74864/1.0
-- name: fencrash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41103/1.0
-- name: fendavid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41104/1.0
 - name: fenheyguys
   src: https://static-cdn.jtvnw.net/emoticons/v1/41100/1.0
 - name: fenheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52310/1.0
-- name: fendumpster
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71298/1.0
-- name: fenrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84682/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90987/1.0
+- name: fencree
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101393/1.0
+- name: fentracer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101400/1.0
+- name: fenhog3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106218/1.0
+- name: fenhog1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106220/1.0
+- name: fensad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110583/1.0
+- name: fenlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111303/1.0

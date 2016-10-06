@@ -5,14 +5,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/12390/1.0
 - name: kayptroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/12387/1.0
-- name: kaypkp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12388/1.0
 - name: kaypcaptainmaple
   src: https://static-cdn.jtvnw.net/emoticons/v1/12389/1.0
 - name: kaypronin
   src: https://static-cdn.jtvnw.net/emoticons/v1/15752/1.0
-- name: kaypghost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44913/1.0
 - name: kaypbatlogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/44911/1.0
 - name: kayphey
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75126/1.0
 - name: kayplol
   src: https://static-cdn.jtvnw.net/emoticons/v1/75017/1.0
+- name: kayptilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87554/1.0
+- name: kaypgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97809/1.0

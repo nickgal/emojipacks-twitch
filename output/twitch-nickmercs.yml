@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - nickmercs
 emojis:
-- name: nickmercssub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18266/1.0
 - name: nickmercsrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/17396/1.0
 - name: nickmercslfg
@@ -51,7 +49,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80687/1.0
 - name: nickmercsl
   src: https://static-cdn.jtvnw.net/emoticons/v1/85070/1.0
-- name: nickmercsc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85072/1.0
 - name: nickmercsss
   src: https://static-cdn.jtvnw.net/emoticons/v1/85071/1.0
+- name: nickmercssh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87360/1.0
+- name: nickmercsc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86138/1.0
+- name: nickmercsya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90745/1.0
+- name: nickmercshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90756/1.0
+- name: nickmercsly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96083/1.0

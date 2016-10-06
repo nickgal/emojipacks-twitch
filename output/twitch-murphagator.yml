@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - murphagator
 emojis:
-- name: mphmash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74625/1.0
 - name: mphbucket
   src: https://static-cdn.jtvnw.net/emoticons/v1/74626/1.0
+- name: mphcontra
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88574/1.0
+- name: mphuhh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88575/1.0
+- name: mphderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111871/1.0

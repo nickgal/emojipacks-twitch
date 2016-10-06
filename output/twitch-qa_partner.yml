@@ -1,9 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - qa_partner
 emojis:
-- name: qa_partner2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16532/1.0
-- name: qa_partner
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13565/1.0
-- name: qa_partner
+- name: qatest1qa_partner
   src: https://static-cdn.jtvnw.net/emoticons/v1/13566/1.0
+- name: qatest1qa7
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110000/1.0

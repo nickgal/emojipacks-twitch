@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - jenzkiwr
 emojis:
+- name: jenzkihi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85945/1.0
 - name: jenzkisp
   src: https://static-cdn.jtvnw.net/emoticons/v1/78771/1.0
 - name: jenzkihype
@@ -11,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72317/1.0
 - name: jenzkiw
   src: https://static-cdn.jtvnw.net/emoticons/v1/72154/1.0
-- name: jenzkids
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72156/1.0
 - name: jenzkiderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/72213/1.0
 - name: jenzkiajj

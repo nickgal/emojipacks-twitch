@@ -1,23 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - jewelxo
 emojis:
-- name: jewelban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80930/1.0
-- name: jeweldonation
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66751/1.0
 - name: jewelking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66752/1.0
-- name: jewelsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66753/1.0
-- name: jewelchoke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80931/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111257/1.0
+- name: jewellove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111259/1.0
+- name: jeweldory
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111260/1.0
+- name: jeweldonation
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111258/1.0
+- name: jewelgems
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111256/1.0
+- name: jewelhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111255/1.0
 - name: jewelrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80932/1.0
-- name: jewelrigged
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80933/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111253/1.0
+- name: jewelfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111252/1.0
 - name: jewelwave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80934/1.0
-- name: jewelheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80927/1.0
-- name: jewelthirsty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80928/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111251/1.0

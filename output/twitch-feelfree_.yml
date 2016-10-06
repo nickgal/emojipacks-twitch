@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - feelfree_
 emojis:
+- name: feelfreetrap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103680/1.0
 - name: feelfreeiceblock
   src: https://static-cdn.jtvnw.net/emoticons/v1/73324/1.0
 - name: feelfreesl

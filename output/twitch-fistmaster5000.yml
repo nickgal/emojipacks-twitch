@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - fistmaster5000
 emojis:
 - name: fist5krng
   src: https://static-cdn.jtvnw.net/emoticons/v1/67787/1.0
-- name: fist5ksalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70969/1.0
 - name: fist5kfist
   src: https://static-cdn.jtvnw.net/emoticons/v1/68063/1.0
 - name: fist5ksub
@@ -15,5 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67451/1.0
 - name: fist5kparrot
   src: https://static-cdn.jtvnw.net/emoticons/v1/70724/1.0
-- name: fist5kegg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78995/1.0
+- name: fist5kset
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110187/1.0
+- name: fist5kraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107908/1.0

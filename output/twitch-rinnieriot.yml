@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - rinnieriot
 emojis:
-- name: rriotscream
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79073/1.0
-- name: rriothi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47507/1.0
-- name: rriotdoge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32436/1.0
 - name: rriotpantsu
   src: https://static-cdn.jtvnw.net/emoticons/v1/69315/1.0
 - name: rriotheadpantsu
   src: https://static-cdn.jtvnw.net/emoticons/v1/69314/1.0
 - name: rriotchair
   src: https://static-cdn.jtvnw.net/emoticons/v1/41076/1.0
-- name: rriotexcite
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79271/1.0
-- name: rriotblush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78872/1.0
+- name: rriotgasp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99876/1.0
+- name: rriotcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99872/1.0
+- name: rriothi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99870/1.0
+- name: rriotdiva
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99879/1.0
+- name: rriotsuhdude
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101287/1.0
+- name: rriottable
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101298/1.0
+- name: rriotflip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101296/1.0

@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - lecpkim
 emojis:
-- name: bootyke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76644/1.0
 - name: bootyiuu
   src: https://static-cdn.jtvnw.net/emoticons/v1/76643/1.0
-- name: bootycactus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20891/1.0
 - name: bootylara
   src: https://static-cdn.jtvnw.net/emoticons/v1/20892/1.0
+- name: bootybo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90135/1.0
+- name: bootygg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102699/1.0
+- name: bootyva
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102698/1.0
+- name: bootyrg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102697/1.0

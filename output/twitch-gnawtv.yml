@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - gnawtv
 emojis:
-- name: gnawpassive
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16767/1.0
 - name: gnawtiger
   src: https://static-cdn.jtvnw.net/emoticons/v1/16674/1.0
 - name: gnawface
   src: https://static-cdn.jtvnw.net/emoticons/v1/16768/1.0
+- name: gnawcree
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111461/1.0
+- name: gnawchill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93017/1.0
 - name: gnawdump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16668/1.0
-- name: gnawgimmick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17627/1.0
-- name: gnawnuke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18508/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93194/1.0
+- name: gnawgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99193/1.0
+- name: gnawbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107886/1.0
 - name: gnawrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19976/1.0
-- name: gnawnation
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19977/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111589/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - jonahlobe
 emojis:
+- name: jolohip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90200/1.0
 - name: jolotakingnotes
   src: https://static-cdn.jtvnw.net/emoticons/v1/81285/1.0
 - name: jolomindblown

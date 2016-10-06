@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - barbiegirll
 emojis:
 - name: barbieggasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/70275/1.0
+- name: barbieg1337
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87204/1.0
 - name: barbiegdoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/66650/1.0
 - name: barbieglove
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67463/1.0
 - name: barbiegrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/74417/1.0
+- name: barbiegfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86686/1.0

@@ -1,14 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - swip3rrr
 emojis:
-- name: swipswipe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66772/1.0
 - name: swiphype
   src: https://static-cdn.jtvnw.net/emoticons/v1/66774/1.0
 - name: swipsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/66773/1.0
 - name: swipface
   src: https://static-cdn.jtvnw.net/emoticons/v1/61060/1.0
+- name: swipbig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101255/1.0
 - name: swipchief
   src: https://static-cdn.jtvnw.net/emoticons/v1/60887/1.0
 - name: swiptilt

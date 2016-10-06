@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - deadlyslob
 emojis:
-- name: deadlydeal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71262/1.0
-- name: deadlyvest
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71261/1.0
 - name: deadlyelite
   src: https://static-cdn.jtvnw.net/emoticons/v1/44064/1.0
 - name: deadlybomb
@@ -17,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62554/1.0
 - name: deadlyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/64853/1.0
+- name: deadlywat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105325/1.0
+- name: deadlybanjoman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109909/1.0
+- name: deadlylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110046/1.0
+- name: deadlyaim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112636/1.0

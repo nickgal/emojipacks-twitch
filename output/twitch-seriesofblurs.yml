@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - seriesofblurs
 emojis:
 - name: serieslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/84683/1.0
+- name: seriesthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91916/1.0
 - name: serieswave
   src: https://static-cdn.jtvnw.net/emoticons/v1/83154/1.0
 - name: seriesrage
@@ -13,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84097/1.0
 - name: seriesthirst
   src: https://static-cdn.jtvnw.net/emoticons/v1/84102/1.0
+- name: seriesgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92892/1.0
+- name: serieschamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114038/1.0
+- name: seriessmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114039/1.0

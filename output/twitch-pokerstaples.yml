@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - pokerstaples
 emojis:
-- name: stapbink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29957/1.0
-- name: stapchili
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29958/1.0
 - name: stapheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/31853/1.0
 - name: stapvamos
@@ -19,15 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34994/1.0
 - name: stapjaime
   src: https://static-cdn.jtvnw.net/emoticons/v1/34993/1.0
-- name: stapahya
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41439/1.0
 - name: stapsick
   src: https://static-cdn.jtvnw.net/emoticons/v1/41684/1.0
-- name: stapgamble
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41683/1.0
 - name: stapeasy
   src: https://static-cdn.jtvnw.net/emoticons/v1/41682/1.0
 - name: staplion
   src: https://static-cdn.jtvnw.net/emoticons/v1/41681/1.0
 - name: staplemon
   src: https://static-cdn.jtvnw.net/emoticons/v1/41680/1.0
+- name: stapinga
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98119/1.0
+- name: stapreally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97796/1.0
+- name: stappg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104685/1.0
+- name: stapdot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104684/1.0

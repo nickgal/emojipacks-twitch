@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - gobgg
 emojis:
 - name: gobfpalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/62032/1.0
-- name: gobwag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60029/1.0
 - name: gobhappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/58956/1.0
-- name: gobggwp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58955/1.0
-- name: gobswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41038/1.0
 - name: gobchair
   src: https://static-cdn.jtvnw.net/emoticons/v1/59923/1.0
-- name: gobthrow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61062/1.0
+- name: gobrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113715/1.0
 - name: gobgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/78199/1.0
+- name: gobkippi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96108/1.0
+- name: gobmetal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96113/1.0
+- name: gobddh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97136/1.0
+- name: gobsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113717/1.0
+- name: gobbait
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113714/1.0

@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - gamerrocko
 emojis:
+- name: rockobye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93467/1.0
+- name: rockok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93465/1.0
 - name: rockoselam
   src: https://static-cdn.jtvnw.net/emoticons/v1/49842/1.0
 - name: rockopro

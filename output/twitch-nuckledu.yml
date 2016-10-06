@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - nuckledu
 emojis:
-- name: nuckledujustduit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35941/1.0
-- name: nuckledushades
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48225/1.0
 - name: nuckledukappadu
   src: https://static-cdn.jtvnw.net/emoticons/v1/52549/1.0
-- name: nuckleduelsa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52552/1.0
+- name: nuckledurespek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99558/1.0
+- name: nuckledushrug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99305/1.0
+- name: nuckleduduit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99219/1.0

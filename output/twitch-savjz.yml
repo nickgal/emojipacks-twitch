@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/6748/1.0
 - name: savjzthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/21813/1.0
-- name: savjzkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20510/1.0
 - name: savjzpalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/36163/1.0
 - name: savjzchair
@@ -15,19 +13,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36245/1.0
 - name: savjzsleeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/45674/1.0
+- name: savjzb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114204/1.0
 - name: savjzfeelsbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/60509/1.0
-- name: savjzroar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60510/1.0
 - name: savjzreno
   src: https://static-cdn.jtvnw.net/emoticons/v1/73943/1.0
-- name: savjz4head
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75007/1.0
 - name: savjzgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/75074/1.0
-- name: savjzwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75150/1.0
 - name: savjzfeelsgood
   src: https://static-cdn.jtvnw.net/emoticons/v1/80250/1.0
 - name: savjzsmorc
   src: https://static-cdn.jtvnw.net/emoticons/v1/80257/1.0
+- name: savjzkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114205/1.0
+- name: savjzhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114569/1.0
+- name: savjzo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113236/1.0

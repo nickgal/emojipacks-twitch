@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - cirouss
 emojis:
-- name: cirorng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26652/1.0
-- name: cirollarz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26672/1.0
-- name: cirolol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53368/1.0
-- name: ciroomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54338/1.0
-- name: cirohi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54337/1.0
 - name: cirolove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53367/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104952/1.0
 - name: cirorip
   src: https://static-cdn.jtvnw.net/emoticons/v1/73158/1.0
+- name: cirobye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109609/1.0
+- name: cirothx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109608/1.0
 - name: cirogg
   src: https://static-cdn.jtvnw.net/emoticons/v1/73463/1.0
+- name: cirofbm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109586/1.0
+- name: cirofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109585/1.0
+- name: cirosad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94217/1.0
+- name: cirohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94218/1.0
+- name: cirohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103300/1.0

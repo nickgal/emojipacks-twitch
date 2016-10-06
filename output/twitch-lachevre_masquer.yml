@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lachevre_masquer
 emojis:
-- name: lcmfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48209/1.0
-- name: lcmmoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48211/1.0
-- name: lcmgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48210/1.0
+- name: lcmdouille
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90186/1.0
+- name: lcmfou
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90463/1.0
 - name: lcmsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/48212/1.0
-- name: lcmkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48511/1.0
-- name: lcmwesh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48573/1.0
+- name: lcmdon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90207/1.0
+- name: lcmbaz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90202/1.0
+- name: lcmfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90196/1.0
 - name: lcmbouffon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68635/1.0
-- name: lcmkik
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68637/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90192/1.0
+- name: lcmgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90178/1.0

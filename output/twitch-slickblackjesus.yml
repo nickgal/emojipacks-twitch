@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - slickblackjesus
 emojis:
-- name: slickgnome
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46159/1.0
-- name: slicklove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46158/1.0
-- name: slickfine
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46157/1.0
-- name: slickrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46156/1.0
+- name: slickcoffee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88047/1.0
 - name: slickgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83576/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91885/1.0
 - name: slickholdme
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85654/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86265/1.0
+- name: slicklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86694/1.0
+- name: slickhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90000/1.0
+- name: slickthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90571/1.0
 - name: slicklewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83675/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92102/1.0
+- name: slickwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92918/1.0

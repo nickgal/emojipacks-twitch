@@ -5,10 +5,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35068/1.0
 - name: quotygg
   src: https://static-cdn.jtvnw.net/emoticons/v1/35067/1.0
-- name: quotysalut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73075/1.0
 - name: quotyrot
   src: https://static-cdn.jtvnw.net/emoticons/v1/55729/1.0
+- name: quotyallez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86462/1.0
 - name: quotygta
   src: https://static-cdn.jtvnw.net/emoticons/v1/84256/1.0
 - name: quotydon

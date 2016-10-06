@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - monsterbuddys
 emojis:
-- name: urlhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63153/1.0
-- name: urlraus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63164/1.0
-- name: urlrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63155/1.0
+- name: urlfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99657/1.0
 - name: urllove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66691/1.0
-- name: urllow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65758/1.0
-- name: urlbidde
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72862/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99658/1.0
+- name: urlhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99659/1.0
+- name: urlrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99660/1.0
+- name: urlsmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99661/1.0
+- name: urlthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99662/1.0
 - name: urlnice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72825/1.0
-- name: urlban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72824/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99663/1.0
+- name: urlhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99664/1.0

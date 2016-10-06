@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - stickyrice1
 emojis:
+- name: stickybye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93815/1.0
+- name: stickysub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93812/1.0
 - name: stickygrill
   src: https://static-cdn.jtvnw.net/emoticons/v1/69473/1.0
 - name: stickyduck
@@ -11,6 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46065/1.0
 - name: stickysad
   src: https://static-cdn.jtvnw.net/emoticons/v1/47811/1.0
+- name: stickysnipe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93882/1.0
 - name: stickyhello
   src: https://static-cdn.jtvnw.net/emoticons/v1/68702/1.0
 - name: stickysenpai
@@ -21,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81658/1.0
 - name: stickyrig
   src: https://static-cdn.jtvnw.net/emoticons/v1/81661/1.0
-- name: stickysnipe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77156/1.0
 - name: stickyprank
   src: https://static-cdn.jtvnw.net/emoticons/v1/77158/1.0
 - name: stickyhype
@@ -51,3 +55,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83174/1.0
 - name: stickylurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/83175/1.0
+- name: stickyeyes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93809/1.0
+- name: stickyresub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93810/1.0
+- name: stickygl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93813/1.0
+- name: stickyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93814/1.0
+- name: stickypuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93816/1.0
+- name: stickysellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92245/1.0
+- name: stickylily
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92252/1.0
+- name: stickycool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92247/1.0

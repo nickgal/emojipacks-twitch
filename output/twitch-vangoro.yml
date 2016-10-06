@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - vangoro
 emojis:
 - name: vanghype
   src: https://static-cdn.jtvnw.net/emoticons/v1/43586/1.0
-- name: vangomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43796/1.0
 - name: vangwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/64920/1.0
 - name: vangdu
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64884/1.0
 - name: vangsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/65180/1.0
+- name: vangfear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114201/1.0

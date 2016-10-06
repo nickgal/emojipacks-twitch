@@ -5,12 +5,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/18344/1.0
 - name: nadiaface
   src: https://static-cdn.jtvnw.net/emoticons/v1/22295/1.0
-- name: nadiadeer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24934/1.0
 - name: nadiaeye
   src: https://static-cdn.jtvnw.net/emoticons/v1/24991/1.0
 - name: nadiah
   src: https://static-cdn.jtvnw.net/emoticons/v1/38057/1.0
+- name: nadiablank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91517/1.0
+- name: nadiaweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91519/1.0
 - name: nadiapotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/37737/1.0
 - name: nadiagasm
@@ -25,9 +27,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60894/1.0
 - name: nadialewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/60896/1.0
-- name: nadiaspooks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65068/1.0
 - name: nadiaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/64213/1.0
 - name: nadiaout
   src: https://static-cdn.jtvnw.net/emoticons/v1/65258/1.0
+- name: nadiawow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100362/1.0
+- name: nadiaspooks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100363/1.0
+- name: nadiawave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100364/1.0
+- name: nadia3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100365/1.0
+- name: nadiag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100366/1.0
+- name: nadiab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100368/1.0
+- name: nadiac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100367/1.0

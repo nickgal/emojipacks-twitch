@@ -3,21 +3,21 @@ title: Twitch Subscriber Emotes - suknives
 emojis:
 - name: suktroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/15825/1.0
-- name: suksub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29458/1.0
+- name: sukdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110545/1.0
 - name: sukcash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37230/1.0
-- name: sukog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58562/1.0
-- name: sukhit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58565/1.0
-- name: sukstare
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58563/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110540/1.0
 - name: sukrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/58851/1.0
+- name: sukfam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97168/1.0
 - name: sukhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58862/1.0
-- name: sukomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74267/1.0
-- name: sukjag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74268/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97063/1.0
+- name: sukstare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110547/1.0
+- name: sukmeme
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110694/1.0
+- name: suky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110640/1.0
+- name: sukhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110774/1.0

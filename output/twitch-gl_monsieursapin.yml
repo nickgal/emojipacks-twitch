@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - gl_monsieursapin
 emojis:
-- name: sapinbouk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71837/1.0
-- name: sapincat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59534/1.0
-- name: sapinfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59542/1.0
 - name: sapinrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59543/1.0
-- name: sapinalert
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61301/1.0
-- name: sapindaronne
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71839/1.0
-- name: sapinbubsy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78397/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89362/1.0
+- name: sapinswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89366/1.0
+- name: sapinmieux
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89363/1.0
+- name: sapingasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89359/1.0
+- name: sapinwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89367/1.0
+- name: sapincry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89360/1.0
+- name: sapincat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89365/1.0
 - name: sapinfun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83627/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89502/1.0

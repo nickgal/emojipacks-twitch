@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - marcusalx
 emojis:
+- name: alxhalo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87076/1.0
 - name: alxswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/83924/1.0
 - name: alxshush
   src: https://static-cdn.jtvnw.net/emoticons/v1/83993/1.0
+- name: alxchillman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85698/1.0
+- name: alxfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85777/1.0
+- name: alxlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86825/1.0

@@ -1,18 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - sandyravage
 emojis:
-- name: ravagerandy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6661/1.0
 - name: ravagemoley
   src: https://static-cdn.jtvnw.net/emoticons/v1/6364/1.0
-- name: ravagestang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6402/1.0
 - name: ravagesandy
   src: https://static-cdn.jtvnw.net/emoticons/v1/6409/1.0
 - name: ravagebigbomb
   src: https://static-cdn.jtvnw.net/emoticons/v1/6412/1.0
-- name: ravagebooyah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6603/1.0
 - name: ravagedrink
   src: https://static-cdn.jtvnw.net/emoticons/v1/7793/1.0
 - name: ravageyablewit
@@ -21,13 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30017/1.0
 - name: ravagehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/39373/1.0
-- name: ravagenuke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39370/1.0
 - name: ravagehalp
   src: https://static-cdn.jtvnw.net/emoticons/v1/44278/1.0
 - name: ravagehollywood
   src: https://static-cdn.jtvnw.net/emoticons/v1/45832/1.0
 - name: ravagefoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/45897/1.0
+- name: ravagethundah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105835/1.0
 - name: ravagegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/54646/1.0
+- name: ravagenuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105720/1.0
+- name: ravagebooyah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105721/1.0
+- name: ravagerandy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105722/1.0

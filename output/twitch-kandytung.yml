@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - kandytung
 emojis:
+- name: mushroomgirl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88027/1.0
+- name: mushroomgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88026/1.0
+- name: mushroomkuku
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107128/1.0
 - name: mushroomblack
   src: https://static-cdn.jtvnw.net/emoticons/v1/79176/1.0
 - name: mushroomchin
   src: https://static-cdn.jtvnw.net/emoticons/v1/79539/1.0
+- name: mushroomburn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107129/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - liquidwifi
 emojis:
-- name: wifiausnet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73814/1.0
 - name: wificrownbag
   src: https://static-cdn.jtvnw.net/emoticons/v1/72644/1.0
 - name: wifiwhy
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79375/1.0
 - name: wifistare
   src: https://static-cdn.jtvnw.net/emoticons/v1/79540/1.0
+- name: wifihey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103030/1.0

@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - 99damage_horstor
 emojis:
+- name: dmgdelay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93733/1.0
+- name: dmgknochenregel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93734/1.0
 - name: dmgbananex
   src: https://static-cdn.jtvnw.net/emoticons/v1/65320/1.0
 - name: dmggg

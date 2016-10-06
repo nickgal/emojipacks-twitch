@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - naniwasc2
 emojis:
-- name: naniwallof
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37290/1.0
 - name: nanipvp
   src: https://static-cdn.jtvnw.net/emoticons/v1/37797/1.0
 - name: nanichurch
@@ -11,5 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51151/1.0
 - name: naninotbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/39035/1.0
-- name: naniowl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51150/1.0
+- name: nanidown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90860/1.0
+- name: naniapproves
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93184/1.0
+- name: naniw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98669/1.0
+- name: nanifrog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101938/1.0

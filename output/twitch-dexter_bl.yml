@@ -1,12 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - dexter_bl
 emojis:
-- name: suba
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2234/1.0
-- name: subv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2231/1.0
-- name: subjuice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2261/1.0
 - name: subvic
   src: https://static-cdn.jtvnw.net/emoticons/v1/2454/1.0
 - name: subobi
@@ -15,16 +9,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/8306/1.0
 - name: subck
   src: https://static-cdn.jtvnw.net/emoticons/v1/10135/1.0
-- name: subchowda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10136/1.0
 - name: subtime
   src: https://static-cdn.jtvnw.net/emoticons/v1/10137/1.0
 - name: subdennis
   src: https://static-cdn.jtvnw.net/emoticons/v1/10139/1.0
 - name: subfree
   src: https://static-cdn.jtvnw.net/emoticons/v1/10140/1.0
-- name: subglass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10141/1.0
 - name: subfun
   src: https://static-cdn.jtvnw.net/emoticons/v1/10142/1.0
 - name: subrage
@@ -35,19 +25,29 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/23775/1.0
 - name: subemo
   src: https://static-cdn.jtvnw.net/emoticons/v1/23649/1.0
-- name: subscript
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23760/1.0
+- name: suba
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103721/1.0
+- name: subv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103722/1.0
 - name: subdjm
   src: https://static-cdn.jtvnw.net/emoticons/v1/23866/1.0
 - name: subnew
   src: https://static-cdn.jtvnw.net/emoticons/v1/28505/1.0
+- name: subswan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93521/1.0
+- name: subcringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93522/1.0
 - name: subdance
   src: https://static-cdn.jtvnw.net/emoticons/v1/34760/1.0
 - name: subwoot
   src: https://static-cdn.jtvnw.net/emoticons/v1/40601/1.0
-- name: subcirril
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78401/1.0
 - name: subkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/57010/1.0
+- name: sublove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97680/1.0
 - name: subomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/70723/1.0
+- name: subchef
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93325/1.0
+- name: suboh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106990/1.0

@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lulusoccer
 emojis:
-- name: lulussubh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77407/1.0
 - name: lulusblush
   src: https://static-cdn.jtvnw.net/emoticons/v1/77892/1.0
 - name: lulushype
   src: https://static-cdn.jtvnw.net/emoticons/v1/77893/1.0
 - name: lulusangry
   src: https://static-cdn.jtvnw.net/emoticons/v1/77894/1.0
-- name: lulusconfused
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77895/1.0
-- name: lulusrevive
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80753/1.0
-- name: luluschapstick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82469/1.0
+- name: lulusvaughn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95133/1.0
+- name: lulusexcited
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85799/1.0
+- name: lulussub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95241/1.0
+- name: lulusreaper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107276/1.0
+- name: lulusfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110969/1.0

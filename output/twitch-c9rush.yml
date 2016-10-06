@@ -1,19 +1,25 @@
 ---
 title: Twitch Subscriber Emotes - c9rush
 emojis:
-- name: c9rushtim
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82968/1.0
-- name: c9rushleesin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82969/1.0
-- name: c9rushw
+- name: pvmanboom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111920/1.0
+- name: pvmanleesin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111918/1.0
+- name: pvmannocounter
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111919/1.0
+- name: pvmanw
   src: https://static-cdn.jtvnw.net/emoticons/v1/82970/1.0
-- name: c9rushkappa
+- name: pvmankappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/82972/1.0
-- name: c9rushnidalee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82973/1.0
-- name: c9rushhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82974/1.0
-- name: c9rushkindboy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82965/1.0
-- name: c9rushunlucky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82966/1.0
+- name: pvmannonono
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115997/1.0
+- name: pvmanyesyesyes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115998/1.0
+- name: pvmannoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111574/1.0
+- name: pvmanmonkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111902/1.0
+- name: pvmanweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116782/1.0
+- name: pvmanks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116781/1.0

@@ -1,23 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - dethridgecraft
 emojis:
-- name: dethbarry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77986/1.0
-- name: dethmlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63606/1.0
-- name: dethsword
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63322/1.0
-- name: dethrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63326/1.0
 - name: dethbooty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67260/1.0
-- name: dethgood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83098/1.0
-- name: dethbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83100/1.0
-- name: dethlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83163/1.0
-- name: dethmeh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83102/1.0
-- name: dethfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84150/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104478/1.0
+- name: dethsword
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100623/1.0
+- name: dethham
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98025/1.0

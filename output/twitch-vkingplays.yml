@@ -1,5 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - vkingplays
 emojis:
+- name: vkingcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103132/1.0
 - name: vkingrp
   src: https://static-cdn.jtvnw.net/emoticons/v1/81017/1.0
+- name: vkingpolice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114838/1.0
+- name: vkingraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114839/1.0
+- name: vkingdeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101419/1.0
+- name: vkinglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109153/1.0
+- name: vkingrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110934/1.0

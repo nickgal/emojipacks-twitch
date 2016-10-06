@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - weallplaycast
 emojis:
 - name: wapcpoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/56311/1.0
+- name: wapcdz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103726/1.0
 - name: wapcrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/63722/1.0
 - name: wapcsub
@@ -15,5 +17,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55203/1.0
 - name: wapcheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/55167/1.0
-- name: wapchat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75658/1.0

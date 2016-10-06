@@ -9,15 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/15126/1.0
 - name: sickmate
   src: https://static-cdn.jtvnw.net/emoticons/v1/14279/1.0
-- name: sickcya
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15404/1.0
-- name: sickkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22643/1.0
-- name: sicksalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32203/1.0
 - name: sickcamel
   src: https://static-cdn.jtvnw.net/emoticons/v1/32318/1.0
-- name: sickidiot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45810/1.0
 - name: sickvoice
   src: https://static-cdn.jtvnw.net/emoticons/v1/46419/1.0
+- name: sickwhipped
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115150/1.0
+- name: sickw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115246/1.0

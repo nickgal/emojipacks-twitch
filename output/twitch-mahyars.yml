@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mahyars
 emojis:
-- name: ninjamahyar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80726/1.0
 - name: ninjarc
   src: https://static-cdn.jtvnw.net/emoticons/v1/80727/1.0
 - name: ninjaaa
@@ -15,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80732/1.0
 - name: ninjaec
   src: https://static-cdn.jtvnw.net/emoticons/v1/81003/1.0
+- name: ninjorange
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103546/1.0
+- name: ninjbravo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103586/1.0
+- name: ninjaa22
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99418/1.0
+- name: ninjattack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99416/1.0

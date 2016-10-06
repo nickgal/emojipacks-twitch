@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72465/1.0
 - name: yuuies
   src: https://static-cdn.jtvnw.net/emoticons/v1/64612/1.0
-- name: yuuiel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64611/1.0
 - name: yuuieeeps
   src: https://static-cdn.jtvnw.net/emoticons/v1/64610/1.0
 - name: yuuierage
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69730/1.0
 - name: yuuiepoopy
   src: https://static-cdn.jtvnw.net/emoticons/v1/71936/1.0
+- name: yuuiel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110703/1.0

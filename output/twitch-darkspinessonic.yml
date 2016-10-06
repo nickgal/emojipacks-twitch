@@ -7,13 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/16501/1.0
 - name: dssclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/14119/1.0
-- name: dsspalc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15712/1.0
-- name: dssrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15713/1.0
 - name: dsssuper
   src: https://static-cdn.jtvnw.net/emoticons/v1/27117/1.0
 - name: dsstaels
   src: https://static-cdn.jtvnw.net/emoticons/v1/21037/1.0
 - name: dssm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79878/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116952/1.0
+- name: dssrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88869/1.0
+- name: dssl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100771/1.0

@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - meloonie
 emojis:
-- name: looniepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83797/1.0
-- name: loonierip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83796/1.0
+- name: looniehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114499/1.0
 - name: loonietroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/77837/1.0
 - name: loonierage
   src: https://static-cdn.jtvnw.net/emoticons/v1/77836/1.0
-- name: looniesmile
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77835/1.0
-- name: looniesad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77834/1.0
+- name: loonierip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111224/1.0
 - name: loonieshock
   src: https://static-cdn.jtvnw.net/emoticons/v1/76849/1.0
-- name: looniekiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76848/1.0
+- name: looniewtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101118/1.0
 - name: looniehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76847/1.0
-- name: looniewave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76846/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111014/1.0
+- name: loonielove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99648/1.0
+- name: looniehappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99649/1.0
+- name: looniesad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111775/1.0

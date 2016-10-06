@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - klindalol
 emojis:
-- name: klindarek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15049/1.0
-- name: klindabs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15068/1.0
+- name: klindapalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108387/1.0
+- name: klindahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108390/1.0
+- name: klindakappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108392/1.0
+- name: klindarekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108389/1.0
+- name: klindahey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108388/1.0
+- name: klindahaiku
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103671/1.0
+- name: klindalap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104128/1.0
+- name: klindashoe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104691/1.0

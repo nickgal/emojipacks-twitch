@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - likerolove
 emojis:
-- name: love003
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55589/1.0
-- name: love004
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55648/1.0
-- name: love001
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55262/1.0
-- name: love002
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55263/1.0
+- name: love00kiki
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110524/1.0
+- name: love00la
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102532/1.0
+- name: love00s
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102534/1.0
+- name: love00o
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102536/1.0
+- name: love00oo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102538/1.0
+- name: love00q
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110238/1.0

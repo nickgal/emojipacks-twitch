@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - cozzaro
 emojis:
-- name: cozcheeky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51698/1.0
 - name: cozmole
   src: https://static-cdn.jtvnw.net/emoticons/v1/50942/1.0
-- name: cozwot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53625/1.0
 - name: cozh
   src: https://static-cdn.jtvnw.net/emoticons/v1/52081/1.0
 - name: cozhype
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53122/1.0
 - name: cozw
   src: https://static-cdn.jtvnw.net/emoticons/v1/62896/1.0
+- name: cozhaa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101752/1.0
+- name: cozcheeky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101753/1.0

@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - dinossauragame
 emojis:
-- name: dinodinothor
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16363/1.0
-- name: dinodinossauro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18242/1.0
-- name: dinodino
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17866/1.0
-- name: dinoposeidon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18145/1.0
-- name: dinohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18988/1.0
-- name: dinorage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18990/1.0
+- name: flehello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105912/1.0
+- name: flehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105913/1.0
+- name: flelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105914/1.0
+- name: flerage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105915/1.0
+- name: flerekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105916/1.0
+- name: flerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105917/1.0

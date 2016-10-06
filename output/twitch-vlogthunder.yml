@@ -3,11 +3,7 @@ title: Twitch Subscriber Emotes - vlogthunder
 emojis:
 - name: vlogkalajaa
   src: https://static-cdn.jtvnw.net/emoticons/v1/6053/1.0
-- name: vlogtumppi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6240/1.0
-- name: vlogram
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11241/1.0
-- name: vlogpassi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11432/1.0
 - name: vlogkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/40581/1.0
+- name: vlogchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106258/1.0

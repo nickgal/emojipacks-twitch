@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - obby190
 emojis:
-- name: obyeye
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28455/1.0
-- name: obykappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28456/1.0
 - name: obyring
   src: https://static-cdn.jtvnw.net/emoticons/v1/28457/1.0
 - name: obycorgi
   src: https://static-cdn.jtvnw.net/emoticons/v1/28653/1.0
-- name: obyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43569/1.0
-- name: obyheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43601/1.0
-- name: obypillow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43603/1.0
-- name: obycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43570/1.0
 - name: obyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/50299/1.0
+- name: obycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91085/1.0
+- name: obyheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91087/1.0
+- name: obyw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91090/1.0
+- name: obyf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91091/1.0
+- name: obyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91088/1.0
 - name: obygasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50298/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91086/1.0
+- name: obykappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103431/1.0

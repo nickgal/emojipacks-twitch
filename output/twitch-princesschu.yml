@@ -3,14 +3,14 @@ title: Twitch Subscriber Emotes - princesschu
 emojis:
 - name: pchumom
   src: https://static-cdn.jtvnw.net/emoticons/v1/68893/1.0
-- name: pchucry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39077/1.0
-- name: pchulove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39079/1.0
 - name: pchuhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/81322/1.0
+- name: pchulove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87233/1.0
+- name: pchucheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87232/1.0
 - name: pchusub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46683/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87231/1.0
 - name: pchurub
   src: https://static-cdn.jtvnw.net/emoticons/v1/81320/1.0
 - name: pchudank

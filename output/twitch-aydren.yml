@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - aydren
 emojis:
 - name: aydlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/42123/1.0
-- name: aydcut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51856/1.0
 - name: aydshowtime
   src: https://static-cdn.jtvnw.net/emoticons/v1/44358/1.0
 - name: aydhype
@@ -13,11 +11,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50717/1.0
 - name: aydayy
   src: https://static-cdn.jtvnw.net/emoticons/v1/66348/1.0
-- name: aydsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68907/1.0
-- name: aydenergy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69190/1.0
 - name: aydgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/77831/1.0
 - name: aydnoshot
   src: https://static-cdn.jtvnw.net/emoticons/v1/74427/1.0
+- name: aydkobe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86224/1.0
+- name: aydrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97784/1.0
+- name: aydgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97869/1.0
+- name: aydfp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97785/1.0
+- name: aydrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97786/1.0
+- name: aydcut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117016/1.0
+- name: aydchoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117019/1.0
+- name: aydfsm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113381/1.0

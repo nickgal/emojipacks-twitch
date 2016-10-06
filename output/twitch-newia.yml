@@ -3,5 +3,13 @@ title: Twitch Subscriber Emotes - newia
 emojis:
 - name: kralkoruna
   src: https://static-cdn.jtvnw.net/emoticons/v1/40701/1.0
+- name: kralcrazy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86347/1.0
+- name: krallove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86348/1.0
 - name: kralsmich
   src: https://static-cdn.jtvnw.net/emoticons/v1/44608/1.0
+- name: kralwoot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86346/1.0
+- name: kralfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86276/1.0

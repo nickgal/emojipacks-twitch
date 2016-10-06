@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - minniemorgan
 emojis:
+- name: minmotom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92721/1.0
 - name: minmohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/42256/1.0
-- name: minmofail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59443/1.0
-- name: minmoscared
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58921/1.0
 - name: minmolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/58920/1.0
-- name: minmosouls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75177/1.0
 - name: minmod
   src: https://static-cdn.jtvnw.net/emoticons/v1/84170/1.0
-- name: minmohazle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84168/1.0
 - name: minmohi
   src: https://static-cdn.jtvnw.net/emoticons/v1/84172/1.0
+- name: minmogrill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104319/1.0
+- name: minmowhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105572/1.0
+- name: minmoyes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105573/1.0

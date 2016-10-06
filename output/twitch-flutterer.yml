@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - flutterer
 emojis:
-- name: flutjerky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24600/1.0
 - name: flutgoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/24640/1.0
 - name: flutcry
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/24498/1.0
 - name: fluthug
   src: https://static-cdn.jtvnw.net/emoticons/v1/25016/1.0
+- name: flutpillow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94308/1.0

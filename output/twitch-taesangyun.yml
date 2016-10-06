@@ -2,6 +2,18 @@
 title: Twitch Subscriber Emotes - taesangyun
 emojis:
 - name: taesangdraw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70029/1.0
-- name: taesangw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70027/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89246/1.0
+- name: taesangfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89277/1.0
+- name: taesanghi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115764/1.0
+- name: taesanglethal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115027/1.0
+- name: taesangsiluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116399/1.0
+- name: taesangbb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115769/1.0
+- name: taesangbeam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116121/1.0
+- name: taesanghyeja
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116495/1.0

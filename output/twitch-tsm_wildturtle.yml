@@ -1,19 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - tsm_wildturtle
 emojis:
-- name: wildturtlesmile
+- name: turtsmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/4447/1.0
-- name: wildturtleshh
+- name: turtshh
   src: https://static-cdn.jtvnw.net/emoticons/v1/4448/1.0
-- name: wildturtletsm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4450/1.0
-- name: wildturtleturtlecat
+- name: turtturtlecat
   src: https://static-cdn.jtvnw.net/emoticons/v1/4449/1.0
-- name: wildturtlewave
+- name: turtwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/17638/1.0
-- name: wildturtlekawaii
+- name: turtkawaii
   src: https://static-cdn.jtvnw.net/emoticons/v1/33262/1.0
-- name: wildturtleheart
+- name: turtheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/33263/1.0
-- name: wildturtlebird
+- name: turtbird
   src: https://static-cdn.jtvnw.net/emoticons/v1/33264/1.0

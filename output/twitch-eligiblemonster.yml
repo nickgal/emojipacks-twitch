@@ -1,11 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - eligiblemonster
 emojis:
-- name: twpfausty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56535/1.0
+- name: twprip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109890/1.0
+- name: twphype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101881/1.0
 - name: twpbenny
   src: https://static-cdn.jtvnw.net/emoticons/v1/57272/1.0
 - name: twpsal
   src: https://static-cdn.jtvnw.net/emoticons/v1/60461/1.0
 - name: twpexplained
   src: https://static-cdn.jtvnw.net/emoticons/v1/60462/1.0
+- name: twprekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101786/1.0
+- name: twpclass
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100088/1.0

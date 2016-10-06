@@ -1,19 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - zarvoxtoral
 emojis:
-- name: zarofdoom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73576/1.0
-- name: zarpulse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73739/1.0
-- name: zarnotgood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73738/1.0
-- name: zarcap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73741/1.0
 - name: zarborsk
   src: https://static-cdn.jtvnw.net/emoticons/v1/75397/1.0
 - name: zargasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/73557/1.0
-- name: zartv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73551/1.0
 - name: zarman
   src: https://static-cdn.jtvnw.net/emoticons/v1/77173/1.0
+- name: zardank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93666/1.0
+- name: zarnotgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93811/1.0
+- name: zarless
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95212/1.0
+- name: zardoom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93989/1.0
+- name: zarsmall
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93681/1.0
+- name: zargf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93687/1.0

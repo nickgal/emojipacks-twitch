@@ -1,7 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - doktorfroid
 emojis:
-- name: dokfrodont
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24063/1.0
-- name: doktrifroid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24064/1.0
+- name: dokhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90008/1.0
+- name: dokeasy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90007/1.0
+- name: dokgoodjob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90009/1.0
+- name: dokrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90010/1.0
+- name: dokdodojesus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90349/1.0

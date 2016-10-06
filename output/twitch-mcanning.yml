@@ -3,21 +3,21 @@ title: Twitch Subscriber Emotes - mcanning
 emojis:
 - name: mcanheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/77585/1.0
-- name: mcanhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44034/1.0
 - name: mcanking
   src: https://static-cdn.jtvnw.net/emoticons/v1/72041/1.0
-- name: mcandream
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79972/1.0
+- name: mcanfive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87262/1.0
 - name: mcanfist
   src: https://static-cdn.jtvnw.net/emoticons/v1/43891/1.0
 - name: mcandt
   src: https://static-cdn.jtvnw.net/emoticons/v1/44156/1.0
 - name: mcangg
   src: https://static-cdn.jtvnw.net/emoticons/v1/83900/1.0
-- name: mcanhand
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77664/1.0
 - name: mcanhold
   src: https://static-cdn.jtvnw.net/emoticons/v1/77891/1.0
 - name: mcansalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/79854/1.0
+- name: mcandream
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88485/1.0
+- name: mcanhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87524/1.0

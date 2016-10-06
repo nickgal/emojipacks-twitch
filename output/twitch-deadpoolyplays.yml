@@ -1,19 +1,31 @@
 ---
 title: Twitch Subscriber Emotes - deadpoolyplays
 emojis:
-- name: dppmug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15826/1.0
 - name: dppohh
   src: https://static-cdn.jtvnw.net/emoticons/v1/15833/1.0
 - name: dppraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/15952/1.0
 - name: dpppwn
   src: https://static-cdn.jtvnw.net/emoticons/v1/16055/1.0
-- name: dppross
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72032/1.0
+- name: dpplove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108857/1.0
+- name: dppoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108856/1.0
+- name: dppyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108855/1.0
 - name: dpphype
   src: https://static-cdn.jtvnw.net/emoticons/v1/72033/1.0
+- name: dpplurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109691/1.0
 - name: dpprip
   src: https://static-cdn.jtvnw.net/emoticons/v1/70750/1.0
-- name: dpplove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70669/1.0
+- name: dppinstinct
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106353/1.0
+- name: dppmystic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106352/1.0
+- name: dppvalor
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105617/1.0
+- name: dppmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107915/1.0
+- name: dppnb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108912/1.0

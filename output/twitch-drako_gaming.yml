@@ -3,12 +3,10 @@ title: Twitch Subscriber Emotes - drako_gaming
 emojis:
 - name: drakopalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/16777/1.0
-- name: drakoaxe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17051/1.0
 - name: drakocool
   src: https://static-cdn.jtvnw.net/emoticons/v1/19802/1.0
-- name: drakochest
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25818/1.0
+- name: drakomini
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102911/1.0
 - name: drakoded
   src: https://static-cdn.jtvnw.net/emoticons/v1/30156/1.0
 - name: drakomower
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54691/1.0
 - name: drakoh
   src: https://static-cdn.jtvnw.net/emoticons/v1/54996/1.0
+- name: drakoaxe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110044/1.0

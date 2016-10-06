@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - derick99
 emojis:
 - name: danielscat
   src: https://static-cdn.jtvnw.net/emoticons/v1/64697/1.0
+- name: danielsred
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86533/1.0
 - name: danielskawaipotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/71591/1.0
 - name: danielsmtvlw
@@ -13,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79253/1.0
 - name: danielstab
   src: https://static-cdn.jtvnw.net/emoticons/v1/83362/1.0
+- name: danielspika
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86407/1.0
+- name: danielspiranha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87655/1.0
+- name: danielscry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96156/1.0

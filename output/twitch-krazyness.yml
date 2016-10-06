@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - krazyness
 emojis:
 - name: krazydon
   src: https://static-cdn.jtvnw.net/emoticons/v1/10427/1.0
+- name: krazydh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103702/1.0
 - name: krazybang
   src: https://static-cdn.jtvnw.net/emoticons/v1/13787/1.0
 - name: krazydona
@@ -11,13 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27384/1.0
 - name: krazyrata
   src: https://static-cdn.jtvnw.net/emoticons/v1/54906/1.0
-- name: krazyrafa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54984/1.0
 - name: krazycry
   src: https://static-cdn.jtvnw.net/emoticons/v1/57423/1.0
-- name: krazyjai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78002/1.0
 - name: krazylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/83905/1.0
 - name: krazykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/77790/1.0
+- name: krazypollo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85761/1.0

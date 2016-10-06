@@ -15,5 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41965/1.0
 - name: buttongg
   src: https://static-cdn.jtvnw.net/emoticons/v1/52777/1.0
+- name: buttonno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105786/1.0
+- name: buttonwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105781/1.0
 - name: buttonheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/73697/1.0

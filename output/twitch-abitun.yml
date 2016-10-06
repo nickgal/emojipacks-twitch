@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - abitun
 emojis:
+- name: dtnabitunbana
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94684/1.0
+- name: dtnabitungorilla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94682/1.0
 - name: dtnabitunabitun
   src: https://static-cdn.jtvnw.net/emoticons/v1/78664/1.0
 - name: dtnabitunziru

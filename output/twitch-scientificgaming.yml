@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - scientificgaming
 emojis:
-- name: sciheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65907/1.0
+- name: sciwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110219/1.0
 - name: scirip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66598/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110217/1.0
 - name: scihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/67057/1.0
-- name: scihi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68507/1.0
 - name: scigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/78444/1.0
+- name: sciwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102502/1.0
 - name: scicry
   src: https://static-cdn.jtvnw.net/emoticons/v1/82531/1.0
+- name: scilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107521/1.0
+- name: scisilly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110285/1.0

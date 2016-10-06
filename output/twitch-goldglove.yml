@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/23361/1.0
 - name: goldyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/55369/1.0
-- name: goldygg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26378/1.0
 - name: goldychair
   src: https://static-cdn.jtvnw.net/emoticons/v1/26381/1.0
 - name: goldyblood
@@ -33,16 +31,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31391/1.0
 - name: goldyrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/31395/1.0
-- name: goldyleo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34874/1.0
 - name: goldythump
   src: https://static-cdn.jtvnw.net/emoticons/v1/55374/1.0
 - name: goldynoice
   src: https://static-cdn.jtvnw.net/emoticons/v1/38337/1.0
 - name: goldyblind
   src: https://static-cdn.jtvnw.net/emoticons/v1/55370/1.0
-- name: goldydab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78396/1.0
 - name: goldyperf
   src: https://static-cdn.jtvnw.net/emoticons/v1/67143/1.0
 - name: goldywhat
@@ -57,3 +51,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79040/1.0
 - name: goldyrhys
   src: https://static-cdn.jtvnw.net/emoticons/v1/83552/1.0
+- name: goldylg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95570/1.0
+- name: goldygg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95571/1.0

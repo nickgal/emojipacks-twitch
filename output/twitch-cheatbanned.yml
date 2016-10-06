@@ -1,20 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - cheatbanned
 emojis:
-- name: cbsubpudge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7939/1.0
-- name: cbsubcalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31001/1.0
 - name: cbsubpa
   src: https://static-cdn.jtvnw.net/emoticons/v1/33516/1.0
-- name: cbsubvp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33510/1.0
-- name: cbsubsh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35865/1.0
 - name: cbsuboj
   src: https://static-cdn.jtvnw.net/emoticons/v1/35864/1.0
-- name: cbsubvac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40371/1.0
 - name: cbsubdevil
   src: https://static-cdn.jtvnw.net/emoticons/v1/49671/1.0
 - name: cbsubfk
@@ -23,11 +13,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49676/1.0
 - name: cbsubdragon1
   src: https://static-cdn.jtvnw.net/emoticons/v1/49679/1.0
-- name: cbsubyou
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49675/1.0
-- name: cbsubmoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49685/1.0
 - name: cbsubdragon2
   src: https://static-cdn.jtvnw.net/emoticons/v1/49680/1.0
 - name: cbsublove
   src: https://static-cdn.jtvnw.net/emoticons/v1/49682/1.0
+- name: cbsubrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86607/1.0
+- name: cbsubrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86733/1.0
+- name: cbsubnoob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86732/1.0
+- name: cbsubreport
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86731/1.0
+- name: cbsubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86730/1.0
+- name: cbsubvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87130/1.0
+- name: cbsubmoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86772/1.0

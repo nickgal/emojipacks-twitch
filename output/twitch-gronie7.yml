@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - gronie7
 emojis:
+- name: gronie7pgm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114112/1.0
+- name: gronie7ahnan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109055/1.0
 - name: gronie7dodu
   src: https://static-cdn.jtvnw.net/emoticons/v1/61548/1.0
 - name: gronie7ggdodu
   src: https://static-cdn.jtvnw.net/emoticons/v1/82617/1.0
-- name: gronie7g7nuke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82616/1.0
 - name: gronie7nrv
   src: https://static-cdn.jtvnw.net/emoticons/v1/84810/1.0
 - name: gronie7newdodu
   src: https://static-cdn.jtvnw.net/emoticons/v1/84811/1.0
+- name: gronie7baby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95414/1.0
+- name: gronie7resub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115832/1.0

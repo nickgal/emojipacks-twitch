@@ -1,13 +1,35 @@
 ---
 title: Twitch Subscriber Emotes - nadeshot
 emojis:
-- name: face
+- name: nadeface
   src: https://static-cdn.jtvnw.net/emoticons/v1/4993/1.0
-- name: mc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4995/1.0
-- name: bruh
+- name: nadebruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/5015/1.0
-- name: grumpy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5017/1.0
-- name: choke
+- name: nadechoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/5016/1.0
+- name: nadebang
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104094/1.0
+- name: nadegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104095/1.0
+- name: nadeaim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104096/1.0
+- name: naderage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104097/1.0
+- name: nadelit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104098/1.0
+- name: nadehost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104099/1.0
+- name: naderekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104100/1.0
+- name: nadestun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104104/1.0
+- name: nadehood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104105/1.0
+- name: nadestrat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104109/1.0
+- name: nadeace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104106/1.0
+- name: nadehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104107/1.0
+- name: nadethieves
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104108/1.0

@@ -5,20 +5,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78271/1.0
 - name: fmgthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/78270/1.0
-- name: fmgnice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78269/1.0
-- name: fmgkey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78268/1.0
-- name: fmghaha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78267/1.0
-- name: fmgcmon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78266/1.0
 - name: fmgbros
   src: https://static-cdn.jtvnw.net/emoticons/v1/78265/1.0
 - name: fmgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/78264/1.0
-- name: fmgah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78263/1.0
 - name: fmgpe
   src: https://static-cdn.jtvnw.net/emoticons/v1/39286/1.0
 - name: fmghy
@@ -31,3 +21,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68821/1.0
 - name: fmgcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/84483/1.0
+- name: fmgsup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111633/1.0
+- name: fmglurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101970/1.0
+- name: fmgnice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107090/1.0
+- name: fmgwaat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107093/1.0
+- name: fmghaha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107089/1.0

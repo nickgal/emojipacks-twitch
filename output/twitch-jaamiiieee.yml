@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - jaamiiieee
 emojis:
-- name: jmehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62928/1.0
 - name: jmetroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/62931/1.0
 - name: jmelove
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63438/1.0
 - name: jmesad
   src: https://static-cdn.jtvnw.net/emoticons/v1/63435/1.0
+- name: jmefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86922/1.0
+- name: jmegasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92097/1.0
+- name: jmecringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92098/1.0

@@ -3,24 +3,16 @@ title: Twitch Subscriber Emotes - vernnotice
 emojis:
 - name: vernzipemup
   src: https://static-cdn.jtvnw.net/emoticons/v1/5379/1.0
-- name: verngoldysweg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5266/1.0
-- name: vernrev
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5258/1.0
 - name: vernrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/5497/1.0
 - name: vernkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/30738/1.0
-- name: vernwot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5687/1.0
 - name: vernwalnuts
   src: https://static-cdn.jtvnw.net/emoticons/v1/11655/1.0
 - name: verncds
   src: https://static-cdn.jtvnw.net/emoticons/v1/11555/1.0
 - name: vernsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/24315/1.0
-- name: vernkobe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26885/1.0
 - name: vernmerry
   src: https://static-cdn.jtvnw.net/emoticons/v1/29841/1.0
 - name: vernlove
@@ -37,6 +29,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36627/1.0
 - name: verngood
   src: https://static-cdn.jtvnw.net/emoticons/v1/37728/1.0
+- name: vernderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115114/1.0
+- name: verngasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115113/1.0
+- name: vernchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115112/1.0
+- name: vernsmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115111/1.0
 - name: vernw
   src: https://static-cdn.jtvnw.net/emoticons/v1/75347/1.0
 - name: vernhey

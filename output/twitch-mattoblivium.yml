@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mattoblivium
 emojis:
-- name: oblicrazy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80175/1.0
-- name: oblijesta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80182/1.0
-- name: oblihero
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80316/1.0
+- name: oblilick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99837/1.0
 - name: obligasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/82791/1.0
-- name: oblisg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82778/1.0
 - name: oblirage
   src: https://static-cdn.jtvnw.net/emoticons/v1/83694/1.0
+- name: oblilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109194/1.0
+- name: obliterated
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109195/1.0
+- name: oblivious
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109196/1.0

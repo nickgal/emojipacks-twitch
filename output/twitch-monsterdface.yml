@@ -1,31 +1,35 @@
 ---
 title: Twitch Subscriber Emotes - monsterdface
 emojis:
-- name: dfacegem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22322/1.0
 - name: dfacewut
   src: https://static-cdn.jtvnw.net/emoticons/v1/60624/1.0
 - name: dfacelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/26313/1.0
-- name: dfacespray
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85334/1.0
 - name: dfaceparty
   src: https://static-cdn.jtvnw.net/emoticons/v1/33628/1.0
+- name: dfaced
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114666/1.0
+- name: dfacedolla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103964/1.0
 - name: dfacekappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/41506/1.0
 - name: dfaceilluminacho
   src: https://static-cdn.jtvnw.net/emoticons/v1/41505/1.0
 - name: dfaceklappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/54036/1.0
-- name: dfacefeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63675/1.0
-- name: dfaceriot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63673/1.0
 - name: dfaceflex
   src: https://static-cdn.jtvnw.net/emoticons/v1/69156/1.0
-- name: dfacehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71437/1.0
+- name: dfacefeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103400/1.0
 - name: dfacerekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/84058/1.0
 - name: dfacebruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/84067/1.0
+- name: dfaceriot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104076/1.0
+- name: dfacehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104077/1.0
+- name: dfacemdf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103568/1.0
+- name: dfaceldf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110624/1.0

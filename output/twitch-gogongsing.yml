@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - gogongsing
 emojis:
+- name: gogongnoruway
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91615/1.0
+- name: gogonghi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91614/1.0
+- name: gogongbf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91613/1.0
 - name: gogongtong
   src: https://static-cdn.jtvnw.net/emoticons/v1/78524/1.0
+- name: gogong5ing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91612/1.0
 - name: gogonghoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/78681/1.0

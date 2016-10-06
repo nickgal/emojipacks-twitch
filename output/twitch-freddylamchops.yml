@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - freddylamchops
 emojis:
 - name: fredgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/59881/1.0
-- name: fredcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59879/1.0
 - name: fredsalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/59874/1.0
 - name: fredkappa
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59954/1.0
 - name: fredpound
   src: https://static-cdn.jtvnw.net/emoticons/v1/58926/1.0
+- name: fredbooty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104821/1.0

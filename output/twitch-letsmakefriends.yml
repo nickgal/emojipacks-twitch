@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - letsmakefriends
 emojis:
-- name: letsfrown
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55568/1.0
 - name: letsrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/58154/1.0
 - name: letspog
@@ -15,9 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59184/1.0
 - name: letskappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/63396/1.0
-- name: letsblush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63397/1.0
-- name: letsbiscuit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71021/1.0
 - name: letslobe
   src: https://static-cdn.jtvnw.net/emoticons/v1/71403/1.0
+- name: letspheebs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105041/1.0
+- name: letsblush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105045/1.0
+- name: letslul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108026/1.0

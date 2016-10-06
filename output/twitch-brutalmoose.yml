@@ -1,11 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - brutalmoose
 emojis:
-- name: brutaluhh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81376/1.0
 - name: brutalburger
   src: https://static-cdn.jtvnw.net/emoticons/v1/80897/1.0
-- name: brutalmoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82419/1.0
-- name: brutaloops
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84144/1.0
+- name: brutalgetit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90056/1.0
+- name: brutaldead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87821/1.0
+- name: brutalno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87021/1.0
+- name: brutalbroccoli
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95552/1.0
+- name: brutalchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97266/1.0
+- name: brutalneato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94437/1.0
+- name: brutalscrewed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97055/1.0
+- name: brutalwoah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110472/1.0
+- name: brutalhopoff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104613/1.0

@@ -9,16 +9,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46657/1.0
 - name: asmoleera
   src: https://static-cdn.jtvnw.net/emoticons/v1/46665/1.0
-- name: asmorip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46666/1.0
 - name: asmoh
   src: https://static-cdn.jtvnw.net/emoticons/v1/48624/1.0
 - name: asmobok
   src: https://static-cdn.jtvnw.net/emoticons/v1/48834/1.0
 - name: asmohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/58441/1.0
-- name: asmogasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68767/1.0
 - name: asmogrill
   src: https://static-cdn.jtvnw.net/emoticons/v1/76299/1.0
 - name: asmodj
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76390/1.0
 - name: asmow
   src: https://static-cdn.jtvnw.net/emoticons/v1/80914/1.0
+- name: asmoweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108913/1.0
+- name: asmob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108914/1.0

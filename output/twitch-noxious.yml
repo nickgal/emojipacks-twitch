@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - noxious
 emojis:
-- name: noxherohs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78838/1.0
-- name: noxherosponge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81839/1.0
+- name: noxherokappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94939/1.0
+- name: noxheroreally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100516/1.0
+- name: noxherokaioken
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95320/1.0
+- name: noxherotravel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100011/1.0

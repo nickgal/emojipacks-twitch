@@ -3,13 +3,9 @@ title: Twitch Subscriber Emotes - proacejoker
 emojis:
 - name: pajbanana
   src: https://static-cdn.jtvnw.net/emoticons/v1/58646/1.0
-- name: pajgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58651/1.0
-- name: pajrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58684/1.0
-- name: pajhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82306/1.0
 - name: pajcastle
   src: https://static-cdn.jtvnw.net/emoticons/v1/84490/1.0
 - name: pajgold
   src: https://static-cdn.jtvnw.net/emoticons/v1/85222/1.0
+- name: pajgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111735/1.0

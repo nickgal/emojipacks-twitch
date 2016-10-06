@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - letsrobot
 emojis:
+- name: robotbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111824/1.0
+- name: robotjill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111834/1.0
 - name: robotyo
   src: https://static-cdn.jtvnw.net/emoticons/v1/79805/1.0
 - name: robotgo

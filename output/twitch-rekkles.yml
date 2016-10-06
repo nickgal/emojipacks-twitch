@@ -3,19 +3,17 @@ title: Twitch Subscriber Emotes - rekkles
 emojis:
 - name: rekklesh
   src: https://static-cdn.jtvnw.net/emoticons/v1/74759/1.0
-- name: rekkleschair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72018/1.0
-- name: rekklesfreddy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77946/1.0
 - name: rekklesdj
   src: https://static-cdn.jtvnw.net/emoticons/v1/74582/1.0
 - name: rekklesrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/71604/1.0
 - name: rekklesw
   src: https://static-cdn.jtvnw.net/emoticons/v1/71952/1.0
-- name: rekklessm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71944/1.0
 - name: rekkleshey
   src: https://static-cdn.jtvnw.net/emoticons/v1/71922/1.0
-- name: rekklessalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74539/1.0
+- name: rekklessnipe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89525/1.0
+- name: rekklesc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96363/1.0
+- name: rekklesnot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114396/1.0

@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/17174/1.0
 - name: prerecjeez
   src: https://static-cdn.jtvnw.net/emoticons/v1/24407/1.0
-- name: prerectim
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25762/1.0
 - name: prereclion
   src: https://static-cdn.jtvnw.net/emoticons/v1/29056/1.0
 - name: prereccroc
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72863/1.0
 - name: prerecfbot
   src: https://static-cdn.jtvnw.net/emoticons/v1/73589/1.0
+- name: prerecjay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105021/1.0

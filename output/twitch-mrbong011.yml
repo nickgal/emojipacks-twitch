@@ -1,23 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - mrbong011
 emojis:
-- name: mrbongjappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67802/1.0
-- name: mrbongghost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67803/1.0
-- name: mrbongten
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33177/1.0
 - name: mrbongsnake
   src: https://static-cdn.jtvnw.net/emoticons/v1/32222/1.0
-- name: mrbongprison
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37507/1.0
-- name: mrbongcrash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54317/1.0
 - name: mrbongear
   src: https://static-cdn.jtvnw.net/emoticons/v1/54318/1.0
-- name: mrbongsassy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54302/1.0
 - name: mrbongsavage
   src: https://static-cdn.jtvnw.net/emoticons/v1/73863/1.0
+- name: mrbongw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86745/1.0
+- name: mrbonglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111053/1.0
+- name: mrbongtriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103480/1.0
+- name: mrbongfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103481/1.0
 - name: mrbongwl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73864/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111052/1.0

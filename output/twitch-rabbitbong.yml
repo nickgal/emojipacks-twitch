@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - rabbitbong
 emojis:
-- name: thatwhiteknight
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1577/1.0
-- name: thatbob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3183/1.0
-- name: thatthirst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4230/1.0
-- name: thatswine
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7197/1.0
 - name: thatkawaii
   src: https://static-cdn.jtvnw.net/emoticons/v1/7191/1.0
-- name: thatpls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77034/1.0
 - name: thatlol
   src: https://static-cdn.jtvnw.net/emoticons/v1/18012/1.0
+- name: thatyoni
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104850/1.0
+- name: thatrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104848/1.0
+- name: thatpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94406/1.0
+- name: thatgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104798/1.0
+- name: thatthirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105370/1.0
+- name: thatwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105365/1.0

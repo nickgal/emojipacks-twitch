@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - tiffae
 emojis:
-- name: tiffrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80068/1.0
+- name: tiffthink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113812/1.0
 - name: tifflag
   src: https://static-cdn.jtvnw.net/emoticons/v1/67036/1.0
-- name: tiffwave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67079/1.0
-- name: tiffrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67591/1.0
-- name: tifflove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67590/1.0
-- name: tiffgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67589/1.0
-- name: tifflel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80659/1.0
+- name: tiffwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113199/1.0
+- name: tifflit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113949/1.0
 - name: tiffqq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80284/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113201/1.0
+- name: tiffbae
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113685/1.0
+- name: tiffgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113878/1.0
+- name: tiffhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113366/1.0
+- name: tifflove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113522/1.0
+- name: tifflel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113521/1.0

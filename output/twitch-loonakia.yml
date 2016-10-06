@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - loonakia
 emojis:
-- name: loonahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42136/1.0
 - name: loonaderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/42165/1.0
 - name: loonabl
   src: https://static-cdn.jtvnw.net/emoticons/v1/42156/1.0
-- name: loonaherz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42160/1.0
-- name: loonarekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44507/1.0
-- name: loonahey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45074/1.0
-- name: loonafail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45078/1.0
-- name: loonacry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45148/1.0
-- name: loonakyat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59572/1.0
 - name: loonakawaii
   src: https://static-cdn.jtvnw.net/emoticons/v1/59575/1.0
+- name: loonacry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106643/1.0
+- name: loonarekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104260/1.0
+- name: loonafail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116248/1.0
+- name: loonahi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116249/1.0
+- name: loonahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116250/1.0
+- name: loonaherz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116251/1.0
+- name: loonanub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116252/1.0

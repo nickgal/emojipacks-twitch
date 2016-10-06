@@ -1,8 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - ogre2
 emojis:
-- name: ogre2clg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71218/1.0
+- name: ogre2gs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110112/1.0
+- name: ogre2banjo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110110/1.0
+- name: ogre2stk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110113/1.0
+- name: ogre2coldhands
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110111/1.0
+- name: ogre2old
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110109/1.0
 - name: ogre2goat
   src: https://static-cdn.jtvnw.net/emoticons/v1/29289/1.0
 - name: ogre2tombo

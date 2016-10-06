@@ -1,31 +1,41 @@
 ---
 title: Twitch Subscriber Emotes - yznb
 emojis:
-- name: yzn1hp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44128/1.0
 - name: yznaymen
   src: https://static-cdn.jtvnw.net/emoticons/v1/17122/1.0
-- name: yznherra
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44024/1.0
 - name: yznsnus
   src: https://static-cdn.jtvnw.net/emoticons/v1/44025/1.0
-- name: yznthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56391/1.0
-- name: yznrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56390/1.0
 - name: yznamanda
   src: https://static-cdn.jtvnw.net/emoticons/v1/56388/1.0
 - name: yznarmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/44022/1.0
-- name: yzngvibes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44132/1.0
 - name: yznace
   src: https://static-cdn.jtvnw.net/emoticons/v1/44129/1.0
 - name: yznw
   src: https://static-cdn.jtvnw.net/emoticons/v1/44152/1.0
-- name: yznbvibes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44133/1.0
 - name: yznbeng
   src: https://static-cdn.jtvnw.net/emoticons/v1/44136/1.0
 - name: yznchoke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44131/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91022/1.0
+- name: yznhere
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91023/1.0
+- name: yznsold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91028/1.0
+- name: yznbrb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91031/1.0
+- name: yzntilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91030/1.0
+- name: yznthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91029/1.0
+- name: yznrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91027/1.0
+- name: yznlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91026/1.0
+- name: yznhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91025/1.0
+- name: yznherra
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91024/1.0
+- name: yznangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91021/1.0
+- name: yzn1hp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91020/1.0

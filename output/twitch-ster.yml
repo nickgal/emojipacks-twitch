@@ -3,13 +3,31 @@ title: Twitch Subscriber Emotes - ster
 emojis:
 - name: starb
   src: https://static-cdn.jtvnw.net/emoticons/v1/1800/1.0
-- name: starhog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70941/1.0
 - name: stargenius
   src: https://static-cdn.jtvnw.net/emoticons/v1/14102/1.0
 - name: stargorbo
   src: https://static-cdn.jtvnw.net/emoticons/v1/23878/1.0
-- name: stare
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45615/1.0
+- name: starm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115386/1.0
+- name: staro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115385/1.0
+- name: starbun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90386/1.0
+- name: star1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101511/1.0
+- name: star2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101512/1.0
+- name: starice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106673/1.0
+- name: starshh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106856/1.0
+- name: starz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106857/1.0
+- name: starbaka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107163/1.0
+- name: starnice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107162/1.0
+- name: stars
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108082/1.0
 - name: starp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65238/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108084/1.0

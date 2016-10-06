@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76556/1.0
 - name: spartantp
   src: https://static-cdn.jtvnw.net/emoticons/v1/76557/1.0
-- name: spartanmic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63415/1.0
 - name: spartanrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/63278/1.0
 - name: spartanrfist
@@ -37,3 +35,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63417/1.0
 - name: spartangold
   src: https://static-cdn.jtvnw.net/emoticons/v1/63418/1.0
+- name: spartanumf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105728/1.0

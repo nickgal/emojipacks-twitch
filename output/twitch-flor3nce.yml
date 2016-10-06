@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - flor3nce
 emojis:
-- name: biggyking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55865/1.0
-- name: biggyten
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62418/1.0
+- name: biggytrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85333/1.0
+- name: biggyoooh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95238/1.0
+- name: biggyboss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107007/1.0
+- name: biggyrock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107306/1.0

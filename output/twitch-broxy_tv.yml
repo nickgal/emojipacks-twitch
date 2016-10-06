@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - broxy_tv
 emojis:
-- name: broxyanele
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60502/1.0
 - name: broxynullminati
   src: https://static-cdn.jtvnw.net/emoticons/v1/60516/1.0
 - name: broxys
   src: https://static-cdn.jtvnw.net/emoticons/v1/61189/1.0
 - name: broxyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/60494/1.0
-- name: broxyf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63465/1.0
-- name: broxyq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63464/1.0
-- name: broxyd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63463/1.0
 - name: broxyr
   src: https://static-cdn.jtvnw.net/emoticons/v1/82822/1.0
+- name: broxyf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116965/1.0
+- name: broxyree
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116966/1.0
+- name: broxypachi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97535/1.0
+- name: broxybane
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90282/1.0
+- name: broxyperu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92804/1.0
+- name: broxypepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92775/1.0

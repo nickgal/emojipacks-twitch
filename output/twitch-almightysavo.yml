@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - almightysavo
 emojis:
+- name: savo2j
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97610/1.0
 - name: savogf
   src: https://static-cdn.jtvnw.net/emoticons/v1/69431/1.0
 - name: savofire
@@ -13,7 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68332/1.0
 - name: savosavo
   src: https://static-cdn.jtvnw.net/emoticons/v1/67730/1.0
-- name: savoscrimpf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67729/1.0
 - name: savobb
   src: https://static-cdn.jtvnw.net/emoticons/v1/74885/1.0

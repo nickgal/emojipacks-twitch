@@ -5,7 +5,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59022/1.0
 - name: puzzowcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/59021/1.0
-- name: puzzohamster
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64088/1.0
 - name: puzzoface
   src: https://static-cdn.jtvnw.net/emoticons/v1/64087/1.0
+- name: puzzohamster
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106720/1.0
+- name: puzzohibye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116063/1.0
+- name: puzzopride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116066/1.0

@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - robinoyo
 emojis:
+- name: robinpema
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98877/1.0
 - name: robinone
   src: https://static-cdn.jtvnw.net/emoticons/v1/70483/1.0
-- name: robindrake
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70484/1.0
+- name: robinbags
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95827/1.0
+- name: robinrageberta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100608/1.0
+- name: robinblocked
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116236/1.0
+- name: robinsalad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116235/1.0
+- name: robinnice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111999/1.0
+- name: robintriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111998/1.0

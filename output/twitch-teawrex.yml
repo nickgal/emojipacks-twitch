@@ -1,12 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - teawrex
 emojis:
+- name: teakdino
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99733/1.0
 - name: tearage
   src: https://static-cdn.jtvnw.net/emoticons/v1/50851/1.0
 - name: teadead
   src: https://static-cdn.jtvnw.net/emoticons/v1/50850/1.0
-- name: tearekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52745/1.0
 - name: tealewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/50764/1.0
 - name: teahype
@@ -17,14 +17,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70966/1.0
 - name: teacute
   src: https://static-cdn.jtvnw.net/emoticons/v1/70968/1.0
-- name: teaformal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70967/1.0
 - name: teaflip
   src: https://static-cdn.jtvnw.net/emoticons/v1/58505/1.0
 - name: teatrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/58506/1.0
-- name: teanerd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58503/1.0
 - name: tealove
   src: https://static-cdn.jtvnw.net/emoticons/v1/58502/1.0
 - name: teahi
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81698/1.0
 - name: teagasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/81697/1.0
+- name: teawaifu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99731/1.0
+- name: teadeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99732/1.0

@@ -1,33 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - actabunnifoofoo
 emojis:
+- name: bnanrd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116841/1.0
 - name: bna1st
   src: https://static-cdn.jtvnw.net/emoticons/v1/20668/1.0
-- name: bnabeanie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10926/1.0
 - name: bnalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/60226/1.0
-- name: bnasuk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26098/1.0
-- name: bnanrd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26099/1.0
-- name: bnahello
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78127/1.0
 - name: bnascum
   src: https://static-cdn.jtvnw.net/emoticons/v1/33430/1.0
 - name: bnalurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/33429/1.0
-- name: bnacry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33457/1.0
 - name: bnarekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/33452/1.0
 - name: bnahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/33449/1.0
+- name: bnadog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101479/1.0
 - name: bnatip
   src: https://static-cdn.jtvnw.net/emoticons/v1/45931/1.0
 - name: bnalit
   src: https://static-cdn.jtvnw.net/emoticons/v1/68756/1.0
-- name: bnaface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76169/1.0
 - name: bnagasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76170/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97814/1.0
+- name: bnaface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96898/1.0
+- name: bnatilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97816/1.0
+- name: bnarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97815/1.0
+- name: bnacry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97813/1.0

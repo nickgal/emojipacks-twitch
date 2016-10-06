@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - lightofheaven
 emojis:
+- name: lightnavi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96774/1.0
+- name: lightm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96773/1.0
 - name: lightmidas
   src: https://static-cdn.jtvnw.net/emoticons/v1/39471/1.0
 - name: lightre
   src: https://static-cdn.jtvnw.net/emoticons/v1/74585/1.0
 - name: lightle
   src: https://static-cdn.jtvnw.net/emoticons/v1/74584/1.0
-- name: lightcrab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53549/1.0
-- name: lightshtani
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56943/1.0
-- name: lighthype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73915/1.0
+- name: lightfire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96952/1.0

@@ -1,13 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - amoney_tv
 emojis:
-- name: amoneysleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77195/1.0
-- name: amoneyface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77152/1.0
-- name: amoneyruined
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77153/1.0
+- name: amoneyshot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86549/1.0
+- name: amoneystern
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114240/1.0
+- name: amoneydolla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112463/1.0
+- name: amoneyguy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98586/1.0
 - name: amoneyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77154/1.0
-- name: amoneyruined
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78633/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87497/1.0
+- name: amoneyfrown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89229/1.0
+- name: amoneyblind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107603/1.0
+- name: amoneywut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101295/1.0
+- name: amoneykappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101286/1.0
+- name: amoneyderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101164/1.0

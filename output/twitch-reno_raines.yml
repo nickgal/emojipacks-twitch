@@ -7,13 +7,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57407/1.0
 - name: renomic
   src: https://static-cdn.jtvnw.net/emoticons/v1/60719/1.0
-- name: renomoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57095/1.0
 - name: renohashtag
   src: https://static-cdn.jtvnw.net/emoticons/v1/57094/1.0
-- name: renohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60553/1.0
 - name: renorip
   src: https://static-cdn.jtvnw.net/emoticons/v1/61298/1.0
+- name: renomoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88761/1.0
+- name: renogn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88760/1.0
+- name: renodj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88759/1.0
 - name: renoctya
   src: https://static-cdn.jtvnw.net/emoticons/v1/78302/1.0
+- name: renotrain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88763/1.0

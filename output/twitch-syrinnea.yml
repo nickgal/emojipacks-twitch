@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - syrinnea
 emojis:
 - name: syriffs
   src: https://static-cdn.jtvnw.net/emoticons/v1/71174/1.0
+- name: syrilul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105816/1.0
 - name: syrih
   src: https://static-cdn.jtvnw.net/emoticons/v1/39054/1.0
 - name: syrino
@@ -12,12 +14,10 @@ emojis:
 - name: syrio
   src: https://static-cdn.jtvnw.net/emoticons/v1/39131/1.0
 - name: syriw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41270/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106000/1.0
 - name: syrim
   src: https://static-cdn.jtvnw.net/emoticons/v1/41481/1.0
-- name: syriyay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68091/1.0
 - name: syrilurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/68092/1.0
-- name: syrib
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82685/1.0
+- name: syrismug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97837/1.0

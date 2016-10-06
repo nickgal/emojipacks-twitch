@@ -3,17 +3,13 @@ title: Twitch Subscriber Emotes - shunzy
 emojis:
 - name: shunhs
   src: https://static-cdn.jtvnw.net/emoticons/v1/36906/1.0
-- name: shunr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37655/1.0
 - name: shunn
   src: https://static-cdn.jtvnw.net/emoticons/v1/39552/1.0
-- name: shuncreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84797/1.0
-- name: shuntag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84800/1.0
-- name: shunw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82514/1.0
 - name: shungg
   src: https://static-cdn.jtvnw.net/emoticons/v1/84808/1.0
-- name: shunlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84799/1.0
+- name: shuntag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87164/1.0
+- name: shunhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106317/1.0
+- name: shunrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106316/1.0

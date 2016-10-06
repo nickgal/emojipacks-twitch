@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - realalchestbreach
 emojis:
-- name: goostevebutt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51644/1.0
 - name: googts
   src: https://static-cdn.jtvnw.net/emoticons/v1/51643/1.0
 - name: googoobars
   src: https://static-cdn.jtvnw.net/emoticons/v1/50260/1.0
 - name: gooharv1
   src: https://static-cdn.jtvnw.net/emoticons/v1/84159/1.0
+- name: goosteve
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112561/1.0
+- name: gooharv2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112560/1.0

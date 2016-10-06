@@ -9,11 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46826/1.0
 - name: kapanisnewsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/46125/1.0
-- name: kapanisntm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53535/1.0
-- name: kapanisgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53533/1.0
 - name: kapanismonvier
   src: https://static-cdn.jtvnw.net/emoticons/v1/66717/1.0
 - name: kapanisgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/70440/1.0
+- name: kapanistrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88140/1.0
+- name: kapanisgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103665/1.0
+- name: kapanisbonjour
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102258/1.0
+- name: kapanisresub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102259/1.0

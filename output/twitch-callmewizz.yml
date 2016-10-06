@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - callmewizz
 emojis:
-- name: wizzyw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85343/1.0
 - name: wizzylurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/49015/1.0
-- name: wizzyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76079/1.0
-- name: wizzycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76080/1.0
-- name: wizzyfam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76777/1.0
-- name: wizzylove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76779/1.0
-- name: wizzyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76780/1.0
-- name: wizzyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76781/1.0
+- name: wizzyc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114702/1.0
+- name: wizzyl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114578/1.0
+- name: wizzyr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114580/1.0
+- name: wizzyb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114582/1.0
+- name: wizzyh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114579/1.0

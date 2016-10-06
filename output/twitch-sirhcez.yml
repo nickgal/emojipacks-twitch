@@ -7,16 +7,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10677/1.0
 - name: singcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/13626/1.0
-- name: singstarbucks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13627/1.0
-- name: singgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82360/1.0
 - name: singsinged
   src: https://static-cdn.jtvnw.net/emoticons/v1/25937/1.0
 - name: singnasus
   src: https://static-cdn.jtvnw.net/emoticons/v1/25938/1.0
-- name: singtrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25942/1.0
 - name: singpillow
   src: https://static-cdn.jtvnw.net/emoticons/v1/32862/1.0
 - name: sing6
@@ -25,9 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55538/1.0
 - name: singkiss
   src: https://static-cdn.jtvnw.net/emoticons/v1/82167/1.0
-- name: singheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82194/1.0
-- name: singcherry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82208/1.0
-- name: singgasm2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84116/1.0
+- name: singfeed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98004/1.0
+- name: singgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103174/1.0
+- name: singpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103104/1.0
+- name: singlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103105/1.0
+- name: singboosted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103106/1.0
+- name: singsquid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105089/1.0

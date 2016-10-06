@@ -3,10 +3,8 @@ title: Twitch Subscriber Emotes - ashley66444
 emojis:
 - name: ashleydoit
   src: https://static-cdn.jtvnw.net/emoticons/v1/64957/1.0
-- name: ashleygreed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61084/1.0
 - name: ashleybutt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61178/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104528/1.0
 - name: ashleylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/61155/1.0
 - name: ashleysmash
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64789/1.0
 - name: ashleydance
   src: https://static-cdn.jtvnw.net/emoticons/v1/64790/1.0
+- name: ashleyhullo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104383/1.0

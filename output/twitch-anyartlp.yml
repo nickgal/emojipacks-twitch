@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - anyartlp
 emojis:
-- name: artlerking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32691/1.0
 - name: artlerwelldone
   src: https://static-cdn.jtvnw.net/emoticons/v1/35510/1.0
-- name: artlertaler
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35577/1.0
 - name: artlerhdlp
   src: https://static-cdn.jtvnw.net/emoticons/v1/35582/1.0
+- name: artlerlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97781/1.0
+- name: artlerprops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97871/1.0

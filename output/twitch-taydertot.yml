@@ -3,15 +3,17 @@ title: Twitch Subscriber Emotes - taydertot
 emojis:
 - name: tayrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/14658/1.0
-- name: tayglasses
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14460/1.0
 - name: taytot
   src: https://static-cdn.jtvnw.net/emoticons/v1/14461/1.0
 - name: taydad
   src: https://static-cdn.jtvnw.net/emoticons/v1/16891/1.0
-- name: tayrad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21152/1.0
 - name: tayheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/36893/1.0
 - name: tayspam
   src: https://static-cdn.jtvnw.net/emoticons/v1/36891/1.0
+- name: taylewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86983/1.0
+- name: tayhungry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86982/1.0
+- name: taycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86980/1.0

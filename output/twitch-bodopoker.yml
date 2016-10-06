@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - bodopoker
 emojis:
-- name: bodopokerlogo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66409/1.0
+- name: bodopokerhurts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111229/1.0
+- name: bodopokertroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110425/1.0
+- name: bodopokerstack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110424/1.0
+- name: bodopokerteddy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110427/1.0
 - name: bodopokermoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67321/1.0
-- name: bodopokerswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74485/1.0
-- name: bodopokershark
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74449/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92581/1.0

@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - alientonx
 emojis:
-- name: aliengoose
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82426/1.0
 - name: alienwah
   src: https://static-cdn.jtvnw.net/emoticons/v1/72030/1.0
 - name: aliencry
   src: https://static-cdn.jtvnw.net/emoticons/v1/72045/1.0
 - name: alienhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/80187/1.0
-- name: alienhonk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82585/1.0
 - name: alienrimshot
   src: https://static-cdn.jtvnw.net/emoticons/v1/73351/1.0
+- name: alienhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98602/1.0
+- name: alienlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97972/1.0
+- name: aliengoose
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99362/1.0
+- name: aliengasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98966/1.0

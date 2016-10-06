@@ -1,8 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - lefrenchstallion
 emojis:
+- name: lfsq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93796/1.0
+- name: lfsz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93795/1.0
+- name: lfsx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93794/1.0
 - name: lfsb
   src: https://static-cdn.jtvnw.net/emoticons/v1/37267/1.0
+- name: lfso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93793/1.0
 - name: lfsn
   src: https://static-cdn.jtvnw.net/emoticons/v1/37904/1.0
 - name: lfsr
@@ -31,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81944/1.0
 - name: lfsu
   src: https://static-cdn.jtvnw.net/emoticons/v1/82031/1.0
+- name: lfss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93797/1.0

@@ -3,17 +3,19 @@ title: Twitch Subscriber Emotes - suishomaru
 emojis:
 - name: suidancegame
   src: https://static-cdn.jtvnw.net/emoticons/v1/15173/1.0
-- name: suispottel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15175/1.0
 - name: suipsiau
   src: https://static-cdn.jtvnw.net/emoticons/v1/15177/1.0
 - name: suihammertime
   src: https://static-cdn.jtvnw.net/emoticons/v1/15174/1.0
 - name: suijan
   src: https://static-cdn.jtvnw.net/emoticons/v1/15561/1.0
-- name: suinobowser
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27878/1.0
 - name: suifacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/37580/1.0
+- name: suiservus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102917/1.0
+- name: suidonis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97407/1.0
 - name: suiwat
   src: https://static-cdn.jtvnw.net/emoticons/v1/74307/1.0
+- name: suiknilz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97177/1.0

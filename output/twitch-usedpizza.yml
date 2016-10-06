@@ -7,9 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/20213/1.0
 - name: usedmouf
   src: https://static-cdn.jtvnw.net/emoticons/v1/55855/1.0
-- name: usedbox
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71347/1.0
 - name: usedfrost
   src: https://static-cdn.jtvnw.net/emoticons/v1/70589/1.0
+- name: usedballoon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95748/1.0
 - name: usedez
   src: https://static-cdn.jtvnw.net/emoticons/v1/71738/1.0
+- name: usedfinally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98908/1.0
+- name: usedbalding
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117053/1.0

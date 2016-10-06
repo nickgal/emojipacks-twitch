@@ -3,7 +3,13 @@ title: Twitch Subscriber Emotes - streamofthehut
 emojis:
 - name: brantrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/70240/1.0
+- name: brantpotato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97486/1.0
 - name: brantkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/67659/1.0
 - name: brantrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/67665/1.0
+- name: brantpaulo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97487/1.0
+- name: branttomsleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98826/1.0

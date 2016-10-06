@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mssnowhite
 emojis:
-- name: msnown
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70058/1.0
 - name: msnowah
   src: https://static-cdn.jtvnw.net/emoticons/v1/32483/1.0
 - name: msnowh
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67514/1.0
 - name: msnowm
   src: https://static-cdn.jtvnw.net/emoticons/v1/69951/1.0
+- name: msnowrh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85723/1.0

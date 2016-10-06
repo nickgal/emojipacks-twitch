@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - sweetielise
 emojis:
-- name: elisekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6433/1.0
-- name: elisepigsfly
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6434/1.0
 - name: eliseyay
   src: https://static-cdn.jtvnw.net/emoticons/v1/8652/1.0
 - name: elisesplat
   src: https://static-cdn.jtvnw.net/emoticons/v1/79795/1.0
+- name: eliselove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98676/1.0
+- name: eliserigged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99171/1.0

@@ -9,7 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84426/1.0
 - name: casualsdk
   src: https://static-cdn.jtvnw.net/emoticons/v1/82946/1.0
-- name: casualsdodo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84427/1.0
 - name: casualshead
   src: https://static-cdn.jtvnw.net/emoticons/v1/83138/1.0
+- name: casualsjoy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97817/1.0
+- name: casualswow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97818/1.0
+- name: casualswut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107951/1.0

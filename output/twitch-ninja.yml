@@ -1,43 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - ninja
 emojis:
+- name: ninjacry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96284/1.0
+- name: ninjatilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96285/1.0
 - name: ninjaadore
   src: https://static-cdn.jtvnw.net/emoticons/v1/13588/1.0
 - name: ninjamindblown
   src: https://static-cdn.jtvnw.net/emoticons/v1/57899/1.0
+- name: ninjabits
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109002/1.0
 - name: ninjatooth
   src: https://static-cdn.jtvnw.net/emoticons/v1/23405/1.0
-- name: ninjabible
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50090/1.0
 - name: ninjaclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/26915/1.0
-- name: ninjaaim
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61966/1.0
-- name: ninjaoface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45734/1.0
 - name: ninjarekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/45243/1.0
-- name: ninjarip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53163/1.0
 - name: ninjacreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/79142/1.0
-- name: ninjajess
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64291/1.0
 - name: ninjapon
   src: https://static-cdn.jtvnw.net/emoticons/v1/64518/1.0
-- name: ninjawelcome
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70671/1.0
-- name: ninjacash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70672/1.0
-- name: ninjah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70031/1.0
-- name: ninjasalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70032/1.0
 - name: ninjakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/79912/1.0
-- name: ninjafcm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79913/1.0
-- name: ninjagg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79914/1.0
-- name: ninjarng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81788/1.0
+- name: ninjaok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87482/1.0
+- name: ninjacash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91135/1.0
+- name: ninjasalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91139/1.0
+- name: ninjah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104071/1.0
+- name: ninjahi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97801/1.0
+- name: ninjahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97802/1.0
+- name: ninjak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97803/1.0
+- name: ninja10
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104035/1.0
+- name: ninjaaim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103570/1.0

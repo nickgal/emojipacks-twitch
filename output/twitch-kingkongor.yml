@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3470/1.0
 - name: kongdo
   src: https://static-cdn.jtvnw.net/emoticons/v1/4906/1.0
-- name: kongdog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65545/1.0
 - name: kongw
   src: https://static-cdn.jtvnw.net/emoticons/v1/65546/1.0
 - name: kong10
@@ -17,11 +15,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47911/1.0
 - name: konghi
   src: https://static-cdn.jtvnw.net/emoticons/v1/47912/1.0
-- name: konglol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47913/1.0
 - name: konglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/47914/1.0
 - name: kongrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/47916/1.0
 - name: kongu
   src: https://static-cdn.jtvnw.net/emoticons/v1/47917/1.0
+- name: kongdog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105487/1.0
+- name: konghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105491/1.0

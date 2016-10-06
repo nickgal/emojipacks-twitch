@@ -1,12 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - lulalalulula
 emojis:
-- name: luluflyhamimelon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73577/1.0
+- name: luluflyloser
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86169/1.0
 - name: luluflyfat
   src: https://static-cdn.jtvnw.net/emoticons/v1/72027/1.0
-- name: luluflyhaway
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73653/1.0
 - name: luluflycheongsam
   src: https://static-cdn.jtvnw.net/emoticons/v1/50166/1.0
 - name: luluflypika87
@@ -17,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71276/1.0
 - name: luluflyeye
   src: https://static-cdn.jtvnw.net/emoticons/v1/71914/1.0
+- name: luluflyluffy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85481/1.0
+- name: luluflye04
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85480/1.0
+- name: luluflyteacher
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86167/1.0

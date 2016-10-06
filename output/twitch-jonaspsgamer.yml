@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - jonaspsgamer
 emojis:
-- name: jpslove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62927/1.0
-- name: jpscrazy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58944/1.0
-- name: jpsfailsnipe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75095/1.0
-- name: jpsrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59236/1.0
+- name: jpswtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90597/1.0
 - name: jpsrapeface
   src: https://static-cdn.jtvnw.net/emoticons/v1/59248/1.0
-- name: jpskappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73918/1.0
+- name: jpswat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102385/1.0
 - name: jpshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/78675/1.0
 - name: jpsezskins
   src: https://static-cdn.jtvnw.net/emoticons/v1/80827/1.0
+- name: jpsfacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102848/1.0
+- name: jpslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99427/1.0
+- name: jpscrazydaisy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99284/1.0

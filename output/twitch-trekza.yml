@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - trekza
 emojis:
-- name: trkzpause
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72891/1.0
+- name: trkzwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103959/1.0
+- name: trkzfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103956/1.0

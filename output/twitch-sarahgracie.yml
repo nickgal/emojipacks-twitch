@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - sarahgracie
 emojis:
-- name: sarahsass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84789/1.0
 - name: sarahwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/84726/1.0
 - name: sarahtroll
@@ -15,5 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84707/1.0
 - name: sarahface
   src: https://static-cdn.jtvnw.net/emoticons/v1/84710/1.0
-- name: sarahrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85038/1.0
+- name: sarahbooty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92932/1.0
+- name: sarahbat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110932/1.0

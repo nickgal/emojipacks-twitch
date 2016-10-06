@@ -3,8 +3,12 @@ title: Twitch Subscriber Emotes - noway4u_sir
 emojis:
 - name: nowayscripts
   src: https://static-cdn.jtvnw.net/emoticons/v1/56375/1.0
+- name: nowaypony
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90925/1.0
 - name: nowayrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/56127/1.0
+- name: nowaylanguste
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90926/1.0
 - name: nowayelo
   src: https://static-cdn.jtvnw.net/emoticons/v1/56403/1.0
 - name: nowaybalanced
@@ -15,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57495/1.0
 - name: nowayblob
   src: https://static-cdn.jtvnw.net/emoticons/v1/82089/1.0
+- name: nowaybahama
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90924/1.0

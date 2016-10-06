@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - chicha_am
 emojis:
+- name: chichaggqatari
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104787/1.0
 - name: chichagggg
   src: https://static-cdn.jtvnw.net/emoticons/v1/61502/1.0
+- name: chichagglala
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105817/1.0
 - name: chichaggnorespect
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62508/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105550/1.0

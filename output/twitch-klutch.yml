@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - klutch
 emojis:
+- name: klutchilluminati
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100092/1.0
 - name: klutchenough
   src: https://static-cdn.jtvnw.net/emoticons/v1/81454/1.0
-- name: klutchpepelluminati
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81836/1.0
+- name: klutchhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101686/1.0
+- name: klutchwat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101687/1.0
+- name: klutchhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100972/1.0
+- name: klutchsus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115803/1.0

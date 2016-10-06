@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - morikiopa
 emojis:
-- name: pizzamayo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2855/1.0
 - name: pizzamori
   src: https://static-cdn.jtvnw.net/emoticons/v1/2884/1.0
 - name: pizzavan
@@ -11,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32396/1.0
 - name: pizzacam
   src: https://static-cdn.jtvnw.net/emoticons/v1/34002/1.0
-- name: pizzaphant
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34768/1.0
 - name: pizzaex
   src: https://static-cdn.jtvnw.net/emoticons/v1/40042/1.0
 - name: pizzayak
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60212/1.0
 - name: pizzarage
   src: https://static-cdn.jtvnw.net/emoticons/v1/67052/1.0
+- name: pizzaboobear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94863/1.0
+- name: pizzaphant
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95826/1.0

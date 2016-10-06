@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - sodakite
 emojis:
-- name: sodfrown
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66647/1.0
 - name: sodlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/66645/1.0
 - name: sodsly
@@ -11,9 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66643/1.0
 - name: sodded
   src: https://static-cdn.jtvnw.net/emoticons/v1/66642/1.0
-- name: sodout
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56301/1.0
 - name: sodcult
   src: https://static-cdn.jtvnw.net/emoticons/v1/70045/1.0
 - name: sodwaii
   src: https://static-cdn.jtvnw.net/emoticons/v1/70044/1.0
+- name: soddone
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108583/1.0
+- name: sodwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111447/1.0

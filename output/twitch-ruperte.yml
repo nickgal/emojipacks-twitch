@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - ruperte
 emojis:
+- name: rupbrody
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91947/1.0
 - name: ruptomato
   src: https://static-cdn.jtvnw.net/emoticons/v1/61382/1.0
 - name: rupegg
@@ -11,5 +13,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60254/1.0
 - name: rupgin
   src: https://static-cdn.jtvnw.net/emoticons/v1/66421/1.0
-- name: rupsandwich
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66422/1.0

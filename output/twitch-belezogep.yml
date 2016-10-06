@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - belezogep
 emojis:
 - name: blzzsak
   src: https://static-cdn.jtvnw.net/emoticons/v1/27079/1.0
-- name: blzherion
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31072/1.0
 - name: blzw
   src: https://static-cdn.jtvnw.net/emoticons/v1/56372/1.0
 - name: blzlo
@@ -16,4 +14,6 @@ emojis:
 - name: blzpeppe
   src: https://static-cdn.jtvnw.net/emoticons/v1/63836/1.0
 - name: blzgazm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76361/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86721/1.0
+- name: blzfe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100680/1.0

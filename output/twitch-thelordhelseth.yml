@@ -3,9 +3,17 @@ title: Twitch Subscriber Emotes - thelordhelseth
 emojis:
 - name: lordkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/18776/1.0
-- name: lordpleb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75587/1.0
 - name: lordeek
   src: https://static-cdn.jtvnw.net/emoticons/v1/46363/1.0
+- name: lordwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91654/1.0
 - name: lordmoa
   src: https://static-cdn.jtvnw.net/emoticons/v1/79937/1.0
+- name: lordyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111365/1.0
+- name: lordfab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92138/1.0
+- name: lordgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92139/1.0
+- name: lordtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111184/1.0

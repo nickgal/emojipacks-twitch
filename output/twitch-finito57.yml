@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - finito57
 emojis:
-- name: finiksub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74093/1.0
-- name: finikapplause
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73665/1.0
-- name: finikgold
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74447/1.0
-- name: finikpride
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76617/1.0
 - name: finiksiiii
   src: https://static-cdn.jtvnw.net/emoticons/v1/77151/1.0
 - name: finikfury
   src: https://static-cdn.jtvnw.net/emoticons/v1/80557/1.0
+- name: finikomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90327/1.0
+- name: finikarbitr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90328/1.0
+- name: finiksubo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90329/1.0
+- name: finikpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90586/1.0

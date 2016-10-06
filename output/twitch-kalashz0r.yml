@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - kalashz0r
 emojis:
-- name: zorvac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48650/1.0
-- name: zorkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48625/1.0
 - name: zorpashkek
   src: https://static-cdn.jtvnw.net/emoticons/v1/56006/1.0
-- name: zorlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80565/1.0
-- name: zorcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80567/1.0
-- name: zorfire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80568/1.0
-- name: zorlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80571/1.0
+- name: zorbeer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108689/1.0
+- name: zorpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108686/1.0
 - name: zorhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/80573/1.0
+- name: zorrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108966/1.0
+- name: zorlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108967/1.0

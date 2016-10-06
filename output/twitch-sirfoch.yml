@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30478/1.0
 - name: fochcandy
   src: https://static-cdn.jtvnw.net/emoticons/v1/16099/1.0
-- name: fochweak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20243/1.0
 - name: fochsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/24364/1.0
 - name: fochten
@@ -15,9 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52612/1.0
 - name: fochace
   src: https://static-cdn.jtvnw.net/emoticons/v1/45313/1.0
-- name: fochtomato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61117/1.0
 - name: fochcheers
   src: https://static-cdn.jtvnw.net/emoticons/v1/78341/1.0
 - name: fochesports
   src: https://static-cdn.jtvnw.net/emoticons/v1/78338/1.0
+- name: fochpew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93153/1.0
+- name: fochwat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103380/1.0

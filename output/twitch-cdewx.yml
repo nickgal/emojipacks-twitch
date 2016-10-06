@@ -17,10 +17,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35152/1.0
 - name: dewditch
   src: https://static-cdn.jtvnw.net/emoticons/v1/35132/1.0
-- name: dewdoge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35171/1.0
-- name: dewsleeper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60716/1.0
+- name: dewlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105911/1.0
 - name: dewmlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/74948/1.0
 - name: dewrise
@@ -31,13 +29,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57728/1.0
 - name: dewyo
   src: https://static-cdn.jtvnw.net/emoticons/v1/65343/1.0
-- name: dewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77219/1.0
-- name: dewwashed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77222/1.0
+- name: dewdogs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99804/1.0
+- name: dewmethod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99803/1.0
 - name: dewlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/77925/1.0
-- name: dewroom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81098/1.0
 - name: dewg
   src: https://static-cdn.jtvnw.net/emoticons/v1/81097/1.0
+- name: dewrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100237/1.0
+- name: dewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100161/1.0

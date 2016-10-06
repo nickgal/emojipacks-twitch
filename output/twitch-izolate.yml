@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - izolate
 emojis:
 - name: izoblind
   src: https://static-cdn.jtvnw.net/emoticons/v1/79367/1.0
+- name: izobelib
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95993/1.0
+- name: izobeach
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95987/1.0
 - name: izoboop
   src: https://static-cdn.jtvnw.net/emoticons/v1/79366/1.0
 - name: izohey

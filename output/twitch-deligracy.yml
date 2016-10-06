@@ -1,9 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - deligracy
 emojis:
+- name: delithumbmonkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103886/1.0
+- name: delimelikey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103882/1.0
+- name: deliholladolla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103881/1.0
+- name: delibleh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103879/1.0
 - name: delihappycactus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82916/1.0
-- name: delimouth
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82919/1.0
-- name: deliwelcomefridge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82920/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103880/1.0
+- name: delifridge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103884/1.0
+- name: delisissy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103885/1.0
+- name: delitinkletime
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103887/1.0
+- name: deliyashunny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103888/1.0

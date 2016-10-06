@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - rocketjump
 emojis:
+- name: rjscheatin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88744/1.0
 - name: rjschickyboo
   src: https://static-cdn.jtvnw.net/emoticons/v1/75161/1.0
 - name: rjschickybooface
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75160/1.0
 - name: rjssadfreddie
   src: https://static-cdn.jtvnw.net/emoticons/v1/79793/1.0
+- name: rjsstreamqueen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88770/1.0

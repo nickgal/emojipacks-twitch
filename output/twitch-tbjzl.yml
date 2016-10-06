@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - tbjzl
 emojis:
+- name: tobidkhd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105206/1.0
 - name: tobibroc
   src: https://static-cdn.jtvnw.net/emoticons/v1/20033/1.0
 - name: tobipalm
@@ -15,5 +17,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79279/1.0
 - name: tobilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/79280/1.0
-- name: tobidkhd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78818/1.0

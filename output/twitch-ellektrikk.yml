@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - ellektrikk
 emojis:
-- name: ellektrikkcheer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64881/1.0
-- name: ellektrikkhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37486/1.0
 - name: ellektrikkrave
   src: https://static-cdn.jtvnw.net/emoticons/v1/37493/1.0
 - name: ellektrikkluck
   src: https://static-cdn.jtvnw.net/emoticons/v1/37820/1.0
-- name: ellektrikkmoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51043/1.0
-- name: ellektrikkrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51045/1.0
 - name: ellektrikklove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51938/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96020/1.0
+- name: ellektrikkgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96018/1.0
+- name: ellektrikkdank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110132/1.0
+- name: ellektrikkhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94146/1.0
+- name: ellektrikksalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94147/1.0
+- name: ellektrikkwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94148/1.0

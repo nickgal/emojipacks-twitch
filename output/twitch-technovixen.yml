@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - technovixen
 emojis:
-- name: vonsniffles
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51011/1.0
 - name: vongasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/80403/1.0
 - name: vonlove
@@ -15,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80322/1.0
 - name: vonmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/80323/1.0
+- name: vonyeah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96045/1.0
+- name: vonashe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97003/1.0

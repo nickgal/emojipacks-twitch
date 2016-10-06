@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - blacklightattack
 emojis:
+- name: blaparty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103347/1.0
+- name: blangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103346/1.0
+- name: blalove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103345/1.0
 - name: blahey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70115/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103344/1.0
+- name: blahaha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103343/1.0
+- name: bladosh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103342/1.0
 - name: blal
   src: https://static-cdn.jtvnw.net/emoticons/v1/70117/1.0
 - name: blar
   src: https://static-cdn.jtvnw.net/emoticons/v1/70118/1.0
-- name: blaerr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70125/1.0
-- name: blaaaa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38238/1.0
-- name: blasub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38244/1.0

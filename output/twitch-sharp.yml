@@ -3,21 +3,29 @@ title: Twitch Subscriber Emotes - sharp
 emojis:
 - name: mulletkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/8250/1.0
-- name: mulletgoonrat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8249/1.0
-- name: mulletsharp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8327/1.0
+- name: mulletpiggy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99740/1.0
 - name: mulletfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/79121/1.0
-- name: mulletnation
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58018/1.0
-- name: mulletjackpot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58005/1.0
-- name: mulletcacaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58011/1.0
 - name: mulletayylmao
   src: https://static-cdn.jtvnw.net/emoticons/v1/71848/1.0
 - name: mullettk
   src: https://static-cdn.jtvnw.net/emoticons/v1/71850/1.0
 - name: mulletdbz
   src: https://static-cdn.jtvnw.net/emoticons/v1/75904/1.0
+- name: mulletsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95960/1.0
+- name: mulletace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95941/1.0
+- name: mulletgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95934/1.0
+- name: mulletfeelsgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99535/1.0
+- name: mulletcode
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100078/1.0
+- name: mullethairline
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100081/1.0
+- name: mulletgoose
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100082/1.0
+- name: mulletlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100087/1.0

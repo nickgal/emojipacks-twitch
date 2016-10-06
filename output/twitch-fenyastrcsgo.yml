@@ -1,13 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - fenyastrcsgo
 emojis:
+- name: fenyastol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113029/1.0
 - name: fenya322
   src: https://static-cdn.jtvnw.net/emoticons/v1/75752/1.0
 - name: fenyavac
   src: https://static-cdn.jtvnw.net/emoticons/v1/75748/1.0
-- name: fenyakappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76724/1.0
 - name: fenyarage
   src: https://static-cdn.jtvnw.net/emoticons/v1/78168/1.0
 - name: fenyahands
   src: https://static-cdn.jtvnw.net/emoticons/v1/76730/1.0
+- name: fenyalol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85693/1.0
+- name: fenyaears
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85682/1.0
+- name: fenyasub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85686/1.0
+- name: fenyadoge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101052/1.0
+- name: fenyascream
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116076/1.0
+- name: fenyalol2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116077/1.0
+- name: fenyapetuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116078/1.0
+- name: fenyamoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116079/1.0
+- name: fenyarage2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116186/1.0
+- name: fenyamlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116080/1.0

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/1576/1.0
 - name: bamchew
   src: https://static-cdn.jtvnw.net/emoticons/v1/23110/1.0
-- name: bamtoast
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8396/1.0
 - name: bamgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/73691/1.0
 - name: baminati
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74505/1.0
 - name: bambunneh
   src: https://static-cdn.jtvnw.net/emoticons/v1/74454/1.0
+- name: bamw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98734/1.0

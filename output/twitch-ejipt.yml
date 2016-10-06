@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - ejipt
 emojis:
 - name: ejiptnt
   src: https://static-cdn.jtvnw.net/emoticons/v1/84754/1.0
-- name: ejiptkaya
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84753/1.0
 - name: ejipthype
   src: https://static-cdn.jtvnw.net/emoticons/v1/84752/1.0
-- name: ejiptbus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85498/1.0
 - name: ejiptlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/85499/1.0
-- name: ejiptwalk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85500/1.0
+- name: ejiptgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100270/1.0
+- name: ejiptlit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110683/1.0
+- name: ejiptsaved
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110684/1.0
+- name: ejipthi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110592/1.0
+- name: ejiptsmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110593/1.0

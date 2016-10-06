@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - smartguy316
 emojis:
-- name: smrtwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63980/1.0
-- name: smrthype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63680/1.0
-- name: smrtgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62982/1.0
-- name: smrtrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62984/1.0
 - name: smrtlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63178/1.0
-- name: smrtthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63179/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96603/1.0
+- name: smrtrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96605/1.0
 - name: smrtgum
   src: https://static-cdn.jtvnw.net/emoticons/v1/75427/1.0
+- name: smrty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96568/1.0
+- name: smrtclutch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96601/1.0
+- name: smrtw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90844/1.0
+- name: smrthype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112540/1.0
+- name: smrtguy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112539/1.0
 - name: smrta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76385/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112538/1.0
+- name: smrtpringle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111726/1.0

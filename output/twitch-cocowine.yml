@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - cocowine
 emojis:
+- name: cocowinehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94911/1.0
+- name: cocowine8
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94903/1.0
+- name: cocowineya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103133/1.0
+- name: cocowines
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103134/1.0
 - name: cocowinelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/81979/1.0
-- name: cocowinem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81983/1.0
 - name: cocowinecry
   src: https://static-cdn.jtvnw.net/emoticons/v1/81977/1.0
-- name: cocowines
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81978/1.0
-- name: cocowineeat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81976/1.0
 - name: cocowinetw
   src: https://static-cdn.jtvnw.net/emoticons/v1/83079/1.0
 - name: cocowinefat
   src: https://static-cdn.jtvnw.net/emoticons/v1/83081/1.0
-- name: cocowinebb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83082/1.0

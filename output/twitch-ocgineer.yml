@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - ocgineer
 emojis:
-- name: ocggasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62660/1.0
+- name: ocghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93454/1.0
+- name: ocgwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93453/1.0
+- name: ocglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95860/1.0
 - name: ocgyaki
   src: https://static-cdn.jtvnw.net/emoticons/v1/64498/1.0
-- name: ocghypu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80723/1.0
-- name: ocglove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80724/1.0

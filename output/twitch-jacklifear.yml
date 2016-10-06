@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - jacklifear
 emojis:
-- name: jacktyson
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39702/1.0
-- name: jacklight
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18210/1.0
 - name: jackthulu
   src: https://static-cdn.jtvnw.net/emoticons/v1/18211/1.0
-- name: jacklove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18072/1.0
-- name: jackfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18083/1.0
 - name: jackjulia
   src: https://static-cdn.jtvnw.net/emoticons/v1/19148/1.0
-- name: jacklurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21971/1.0
+- name: jacknope
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101559/1.0
 - name: jackyup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37635/1.0
-- name: jackscot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45391/1.0
-- name: jacktacbac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69836/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101558/1.0
+- name: jacklurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101557/1.0
+- name: jacklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101556/1.0
+- name: jackspam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101555/1.0
+- name: jacklight
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101554/1.0
+- name: jackhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101553/1.0
+- name: jackfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101552/1.0

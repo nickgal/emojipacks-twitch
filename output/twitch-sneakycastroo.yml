@@ -9,12 +9,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/6480/1.0
 - name: sneakylemon
   src: https://static-cdn.jtvnw.net/emoticons/v1/6481/1.0
-- name: sneakysick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49029/1.0
 - name: sneakymonte
   src: https://static-cdn.jtvnw.net/emoticons/v1/49028/1.0
-- name: sneakylmao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49027/1.0
 - name: sneakyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/49026/1.0
 - name: sneakycheese
@@ -29,9 +25,27 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49393/1.0
 - name: sneakywoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/73816/1.0
+- name: sneakyfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102195/1.0
 - name: sneakycup
   src: https://static-cdn.jtvnw.net/emoticons/v1/73443/1.0
 - name: sneakyboost
   src: https://static-cdn.jtvnw.net/emoticons/v1/73441/1.0
 - name: sneakygasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/73519/1.0
+- name: sneakyweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87835/1.0
+- name: sneakybug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108871/1.0
+- name: sneakypride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96104/1.0
+- name: sneakyfiesta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96340/1.0
+- name: sneakylemon2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96341/1.0
+- name: sneakyjack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96342/1.0
+- name: sneakyclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96343/1.0
+- name: sneakyyeehaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96348/1.0

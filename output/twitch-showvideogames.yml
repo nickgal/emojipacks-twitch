@@ -1,41 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - showvideogames
 emojis:
-- name: svgchowz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10419/1.0
 - name: svgs
   src: https://static-cdn.jtvnw.net/emoticons/v1/11663/1.0
-- name: svgcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13330/1.0
-- name: svgchu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11664/1.0
-- name: svglewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14876/1.0
 - name: svgsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/14656/1.0
-- name: svgmc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14063/1.0
+- name: svgb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114169/1.0
+- name: svggrump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115754/1.0
+- name: svghi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115741/1.0
+- name: svgc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115472/1.0
 - name: svghype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15000/1.0
-- name: svgshock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14173/1.0
-- name: svgcookie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15584/1.0
-- name: svgna
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15280/1.0
-- name: svgkawaii
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16756/1.0
-- name: svggummy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16753/1.0
-- name: svglove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16754/1.0
-- name: svgkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16755/1.0
-- name: svgpizza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16757/1.0
-- name: svgmeow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16758/1.0
-- name: svgflower
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16759/1.0
-- name: svgmusic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16760/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114128/1.0
+- name: svgyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116143/1.0
+- name: svgnom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116144/1.0
+- name: svgtip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114652/1.0

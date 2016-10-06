@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - giganterichard
 emojis:
 - name: gigantestudio
   src: https://static-cdn.jtvnw.net/emoticons/v1/67774/1.0
-- name: gigantethug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67775/1.0
 - name: gigantetear
   src: https://static-cdn.jtvnw.net/emoticons/v1/65518/1.0
 - name: gigantewar
   src: https://static-cdn.jtvnw.net/emoticons/v1/65784/1.0
-- name: gigantefear
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66038/1.0
 - name: gigantecoin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66036/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104504/1.0
 - name: gigantelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/65183/1.0
 - name: gigantebeer
   src: https://static-cdn.jtvnw.net/emoticons/v1/65182/1.0
+- name: gigantefear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104621/1.0
+- name: gigantethug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104620/1.0

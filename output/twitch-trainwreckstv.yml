@@ -1,19 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - trainwreckstv
 emojis:
+- name: squadnation
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96756/1.0
+- name: squadsheep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93510/1.0
 - name: squadspeech
   src: https://static-cdn.jtvnw.net/emoticons/v1/76658/1.0
 - name: squadroast
   src: https://static-cdn.jtvnw.net/emoticons/v1/76602/1.0
-- name: squadwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80510/1.0
-- name: squadthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80509/1.0
-- name: squadcoffee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78178/1.0
-- name: squaddate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78150/1.0
-- name: squadtrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76651/1.0
-- name: squadraid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76683/1.0

@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - theflightmiketv
 emojis:
+- name: tfmmike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94960/1.0
+- name: tfmnoodle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94959/1.0
 - name: tfmsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/74064/1.0
 - name: tfmb2r

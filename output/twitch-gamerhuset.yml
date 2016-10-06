@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - gamerhuset
 emojis:
+- name: ghdkmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94724/1.0
+- name: ghdktilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88270/1.0
 - name: ghdksub
   src: https://static-cdn.jtvnw.net/emoticons/v1/51124/1.0
 - name: ghdkwoop
@@ -9,15 +13,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37216/1.0
 - name: ghdkbeard
   src: https://static-cdn.jtvnw.net/emoticons/v1/38093/1.0
-- name: ghdkgh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38094/1.0
+- name: ghdkmace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88268/1.0
 - name: ghdksur
   src: https://static-cdn.jtvnw.net/emoticons/v1/80232/1.0
 - name: ghdkdwi
   src: https://static-cdn.jtvnw.net/emoticons/v1/80230/1.0
 - name: ghdkmmh
   src: https://static-cdn.jtvnw.net/emoticons/v1/80231/1.0
+- name: ghdkgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92842/1.0
 - name: ghdkb
   src: https://static-cdn.jtvnw.net/emoticons/v1/79604/1.0
 - name: ghdko
   src: https://static-cdn.jtvnw.net/emoticons/v1/82733/1.0
+- name: ghdkso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94723/1.0
+- name: ghdklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94722/1.0

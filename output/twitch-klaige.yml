@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - klaige
 emojis:
+- name: klaigenail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106200/1.0
 - name: klaigewmage
   src: https://static-cdn.jtvnw.net/emoticons/v1/72775/1.0
 - name: klaigefronkery

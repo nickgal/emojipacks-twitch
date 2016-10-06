@@ -1,19 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - kampyvids
 emojis:
+- name: kampy1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112659/1.0
 - name: kampynairehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/57301/1.0
 - name: kampywelcome
   src: https://static-cdn.jtvnw.net/emoticons/v1/63024/1.0
-- name: kampywaow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67019/1.0
-- name: kampyslinkyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63027/1.0
+- name: kampytater
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102845/1.0
 - name: kampydino
   src: https://static-cdn.jtvnw.net/emoticons/v1/60722/1.0
-- name: kampyjuan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62808/1.0
+- name: kampybomb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112526/1.0
 - name: kampychoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/80925/1.0
 - name: kampybungie
   src: https://static-cdn.jtvnw.net/emoticons/v1/80926/1.0
+- name: kampyninja
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91313/1.0
+- name: kampygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91314/1.0
+- name: kampychamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102855/1.0
+- name: kampyrockets
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102846/1.0
+- name: kampybronze
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102960/1.0
+- name: kampylul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102927/1.0
+- name: kampyc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102912/1.0

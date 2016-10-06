@@ -1,43 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - trihex
 emojis:
+- name: triw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110402/1.0
 - name: trilewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/26563/1.0
-- name: trithirst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53141/1.0
+- name: trit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110411/1.0
+- name: tris
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110412/1.0
+- name: trii
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110413/1.0
+- name: trif
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110414/1.0
+- name: tri4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110415/1.0
+- name: tri3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110417/1.0
+- name: tri2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110418/1.0
+- name: tri1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110420/1.0
 - name: trigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/62401/1.0
-- name: triwat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66949/1.0
-- name: triugh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66951/1.0
-- name: tricheese
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66933/1.0
-- name: triurrp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66953/1.0
-- name: tridookie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66934/1.0
 - name: tridank
   src: https://static-cdn.jtvnw.net/emoticons/v1/66935/1.0
 - name: trigiggle
   src: https://static-cdn.jtvnw.net/emoticons/v1/67444/1.0
 - name: tripantsu
   src: https://static-cdn.jtvnw.net/emoticons/v1/67445/1.0
-- name: tri1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75084/1.0
-- name: tri2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75086/1.0
-- name: tri3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75087/1.0
-- name: tri4
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75088/1.0
 - name: trisugoi
   src: https://static-cdn.jtvnw.net/emoticons/v1/75091/1.0
-- name: triwaifu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75092/1.0
-- name: tritriggered
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83019/1.0
-- name: trigrope
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83020/1.0
-- name: trinottriggered
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83007/1.0
+- name: trigropel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90474/1.0
+- name: trigroper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90473/1.0
+- name: triugh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95485/1.0
+- name: tripuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95486/1.0
+- name: trithirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105971/1.0

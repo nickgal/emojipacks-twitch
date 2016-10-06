@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - scruffur
 emojis:
-- name: ggsillyggrod
+- name: scruffurrod
   src: https://static-cdn.jtvnw.net/emoticons/v1/81250/1.0
+- name: scruffuredate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85850/1.0

@@ -1,33 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - silentsentry
 emojis:
-- name: sentryball
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71070/1.0
-- name: sentrypixel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71069/1.0
-- name: sentryalert
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59362/1.0
-- name: sentrysalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59347/1.0
-- name: sentryup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20571/1.0
+- name: sentryg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91609/1.0
 - name: sentrylo
   src: https://static-cdn.jtvnw.net/emoticons/v1/23290/1.0
 - name: sentrygo
   src: https://static-cdn.jtvnw.net/emoticons/v1/23291/1.0
-- name: sentrythump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59194/1.0
-- name: sentryheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33286/1.0
 - name: sentrycharlie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74069/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91607/1.0
+- name: sentryh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91606/1.0
+- name: sentryhs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91605/1.0
+- name: sentrysalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91604/1.0
+- name: sentrytroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91602/1.0
+- name: sentryup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91601/1.0
 - name: sentrykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/45973/1.0
-- name: sentrymawp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45976/1.0
-- name: sentryrld
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59361/1.0
-- name: sentryhorse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55103/1.0
-- name: sentryhs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58797/1.0
+- name: sentryahrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91608/1.0
+- name: sentry3d
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91610/1.0
+- name: sentryburn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101695/1.0
+- name: sentrychill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101697/1.0
+- name: sentryrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101698/1.0

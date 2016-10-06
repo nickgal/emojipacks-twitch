@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - giantchiprel
 emojis:
 - name: chipgoat
   src: https://static-cdn.jtvnw.net/emoticons/v1/40549/1.0
-- name: chipgoliath
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41839/1.0
 - name: chippug
   src: https://static-cdn.jtvnw.net/emoticons/v1/41344/1.0
 - name: chipcookie
   src: https://static-cdn.jtvnw.net/emoticons/v1/41324/1.0
 - name: chipsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/46317/1.0
-- name: chipwaow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80979/1.0
+- name: chipsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90361/1.0
+- name: chiplove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90233/1.0
+- name: chipgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96127/1.0
+- name: chiphi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96128/1.0

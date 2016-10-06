@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - fazonhd
 emojis:
+- name: fazonez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86216/1.0
+- name: fazonburn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89151/1.0
 - name: fazonaim
   src: https://static-cdn.jtvnw.net/emoticons/v1/85036/1.0
+- name: fazonhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85998/1.0
 - name: fazonheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/85193/1.0
+- name: fazonrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85997/1.0
+- name: fazondiamonds
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86215/1.0
+- name: fazonmlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90115/1.0

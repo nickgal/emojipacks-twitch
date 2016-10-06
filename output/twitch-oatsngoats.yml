@@ -7,11 +7,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38372/1.0
 - name: oatssurprise
   src: https://static-cdn.jtvnw.net/emoticons/v1/38404/1.0
-- name: oatsnumb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40260/1.0
-- name: oatspower
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77501/1.0
-- name: oatsbert
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48788/1.0
 - name: oatsrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/75123/1.0
+- name: oatshey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107657/1.0
+- name: oatsrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107640/1.0
+- name: oatspls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88197/1.0
+- name: oatssamus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107641/1.0
+- name: oatssmirk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99392/1.0
+- name: oatsbert
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107748/1.0

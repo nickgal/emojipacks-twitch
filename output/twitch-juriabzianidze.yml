@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - juriabzianidze
 emojis:
-- name: juribunny
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52626/1.0
 - name: juripedo
   src: https://static-cdn.jtvnw.net/emoticons/v1/52625/1.0
-- name: juriwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52856/1.0
-- name: juriconchita
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52809/1.0
 - name: juriarmee
   src: https://static-cdn.jtvnw.net/emoticons/v1/54905/1.0
+- name: juriwelt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107624/1.0
+- name: juri31
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96972/1.0
+- name: juribizeps
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97089/1.0
+- name: juriniert
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96971/1.0
+- name: jurimann
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107796/1.0
+- name: juriking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108525/1.0

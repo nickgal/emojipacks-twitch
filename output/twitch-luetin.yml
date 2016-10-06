@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - luetin
 emojis:
 - name: lutteam
   src: https://static-cdn.jtvnw.net/emoticons/v1/46154/1.0
+- name: lutmore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93779/1.0
+- name: luta10
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93778/1.0
 - name: lut1110
   src: https://static-cdn.jtvnw.net/emoticons/v1/46844/1.0
 - name: lutocd

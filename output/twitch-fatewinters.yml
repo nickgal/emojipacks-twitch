@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49720/1.0
 - name: fatetub
   src: https://static-cdn.jtvnw.net/emoticons/v1/49716/1.0
-- name: fateclynch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51944/1.0
 - name: fatelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/51945/1.0
 - name: fatejesus
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50179/1.0
 - name: faterip
   src: https://static-cdn.jtvnw.net/emoticons/v1/50181/1.0
+- name: fatescream
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107378/1.0

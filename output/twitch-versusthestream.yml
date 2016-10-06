@@ -1,33 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - versusthestream
 emojis:
-- name: vtslurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76418/1.0
 - name: vtsfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/68915/1.0
-- name: vtsded
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61316/1.0
 - name: vtso
   src: https://static-cdn.jtvnw.net/emoticons/v1/41865/1.0
-- name: vtsonix
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48050/1.0
-- name: vtszzz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50221/1.0
 - name: vtshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/50219/1.0
-- name: vtslol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68917/1.0
 - name: vtsboy
   src: https://static-cdn.jtvnw.net/emoticons/v1/68916/1.0
-- name: vtslove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71461/1.0
 - name: vtsayy
   src: https://static-cdn.jtvnw.net/emoticons/v1/76416/1.0
 - name: vtslewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/76417/1.0
-- name: vtsopie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79000/1.0
-- name: vtscam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84674/1.0
 - name: vtssu
   src: https://static-cdn.jtvnw.net/emoticons/v1/84917/1.0
+- name: vtsw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115323/1.0
+- name: vtsaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115316/1.0
+- name: vtsbcool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115317/1.0
+- name: vtsguala
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115318/1.0
+- name: vtsk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115319/1.0
+- name: vtslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115320/1.0
+- name: vtslul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115321/1.0
+- name: vtstrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115322/1.0

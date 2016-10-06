@@ -11,13 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77185/1.0
 - name: snapshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/77421/1.0
-- name: snapscry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77423/1.0
-- name: snapspls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79018/1.0
 - name: snapslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/79017/1.0
 - name: snapsgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/81414/1.0
 - name: snapslol
   src: https://static-cdn.jtvnw.net/emoticons/v1/81156/1.0
+- name: snapspls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110912/1.0
+- name: snapsrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110825/1.0

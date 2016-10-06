@@ -1,15 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - biggercomeharderfall
 emojis:
-- name: biggersubbugbug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72942/1.0
-- name: biggersubbiggertop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72561/1.0
-- name: biggersubbiggermo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71366/1.0
-- name: biggersubbiggerpwrr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71382/1.0
 - name: biggersubbiggerhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71315/1.0
-- name: biggersubbiggermich
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71369/1.0
+- name: biggersubboss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105549/1.0
+- name: biggersubproudpr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105525/1.0
+- name: biggersubpride2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105524/1.0
+- name: biggersubpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105473/1.0

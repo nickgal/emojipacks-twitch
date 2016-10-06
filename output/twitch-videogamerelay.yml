@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - videogamerelay
 emojis:
-- name: vgrmike
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46195/1.0
-- name: vgrcart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43862/1.0
-- name: vgrandy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44180/1.0
+- name: vgrrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112199/1.0
+- name: vgrmikechamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100091/1.0
 - name: vgrhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44167/1.0
-- name: vgrkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46193/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111652/1.0
+- name: vgrcool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103079/1.0
+- name: vgrhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107921/1.0
 - name: vgrbloopin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44690/1.0
-- name: vgrmad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44687/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107930/1.0
+- name: vgrlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107922/1.0
+- name: vgrsoiledit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108313/1.0
 - name: vgrlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48683/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112200/1.0
+- name: vgrsellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112313/1.0

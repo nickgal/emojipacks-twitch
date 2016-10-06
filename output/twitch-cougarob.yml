@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - cougarob
 emojis:
 - name: cougchill
   src: https://static-cdn.jtvnw.net/emoticons/v1/83927/1.0
+- name: cougdown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86421/1.0
 - name: cougpack
   src: https://static-cdn.jtvnw.net/emoticons/v1/84678/1.0
 - name: cougrob
@@ -11,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83689/1.0
 - name: cougflash
   src: https://static-cdn.jtvnw.net/emoticons/v1/83279/1.0
+- name: cougtrain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85914/1.0
+- name: cougcrew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100696/1.0

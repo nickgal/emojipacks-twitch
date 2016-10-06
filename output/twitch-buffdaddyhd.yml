@@ -1,19 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - buffdaddyhd
 emojis:
-- name: buffayy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76906/1.0
-- name: buffcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76907/1.0
-- name: buffgrump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76908/1.0
-- name: buffhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76911/1.0
-- name: bufflove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76912/1.0
-- name: buffhuh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76910/1.0
 - name: buffhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/81933/1.0
 - name: bufftriggered
   src: https://static-cdn.jtvnw.net/emoticons/v1/82222/1.0
+- name: buffxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89706/1.0

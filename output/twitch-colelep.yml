@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - colelep
 emojis:
+- name: coleroast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87147/1.0
+- name: colesavage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87146/1.0
 - name: colegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/83940/1.0
 - name: colerip

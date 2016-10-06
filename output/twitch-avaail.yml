@@ -1,23 +1,29 @@
 ---
 title: Twitch Subscriber Emotes - avaail
 emojis:
-- name: availlionel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12396/1.0
 - name: availdorito
   src: https://static-cdn.jtvnw.net/emoticons/v1/12474/1.0
 - name: availw
   src: https://static-cdn.jtvnw.net/emoticons/v1/77705/1.0
-- name: availrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26474/1.0
-- name: availbola
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26932/1.0
+- name: availm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103179/1.0
 - name: availbird
   src: https://static-cdn.jtvnw.net/emoticons/v1/59712/1.0
-- name: availh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78011/1.0
 - name: availlike
   src: https://static-cdn.jtvnw.net/emoticons/v1/65809/1.0
-- name: avail3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77599/1.0
 - name: availez
   src: https://static-cdn.jtvnw.net/emoticons/v1/78051/1.0
+- name: availjesus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94285/1.0
+- name: availthugga
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94617/1.0
+- name: avails
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94292/1.0
+- name: availwho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103083/1.0
+- name: availxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103288/1.0
+- name: availsip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103102/1.0
+- name: availape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103199/1.0

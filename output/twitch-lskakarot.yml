@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lskakarot
 emojis:
-- name: lsksub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77970/1.0
-- name: lskkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77969/1.0
 - name: lskcringe
   src: https://static-cdn.jtvnw.net/emoticons/v1/77966/1.0
+- name: lsksuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93927/1.0
+- name: lskhollywood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97551/1.0
+- name: lskleet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93918/1.0
 - name: lskl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77392/1.0
-- name: lskcarrot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77399/1.0
-- name: lsksalty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76281/1.0
-- name: lskgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76279/1.0
-- name: lskrivet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84457/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97553/1.0
+- name: lsklol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101949/1.0
+- name: lskchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101948/1.0
+- name: lskgang
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106918/1.0

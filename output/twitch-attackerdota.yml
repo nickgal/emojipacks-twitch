@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - attackerdota
 emojis:
-- name: atkerkunkka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26931/1.0
 - name: atkerteamilk
   src: https://static-cdn.jtvnw.net/emoticons/v1/27023/1.0
+- name: atkerw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102719/1.0
+- name: atkerkunkka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106998/1.0

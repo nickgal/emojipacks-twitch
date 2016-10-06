@@ -1,21 +1,29 @@
 ---
 title: Twitch Subscriber Emotes - barcodestreams
 emojis:
+- name: barhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95952/1.0
+- name: barheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95951/1.0
+- name: barroast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94950/1.0
 - name: barhappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/67795/1.0
-- name: barheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39466/1.0
-- name: barhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39467/1.0
 - name: barhair
   src: https://static-cdn.jtvnw.net/emoticons/v1/39468/1.0
 - name: barandy
   src: https://static-cdn.jtvnw.net/emoticons/v1/39469/1.0
-- name: barface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40055/1.0
 - name: barwaffle
   src: https://static-cdn.jtvnw.net/emoticons/v1/46663/1.0
 - name: barpalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/56256/1.0
 - name: barchill
   src: https://static-cdn.jtvnw.net/emoticons/v1/67732/1.0
+- name: barface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91409/1.0
+- name: barsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94424/1.0
+- name: barhands
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95453/1.0
+- name: barlaugh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95463/1.0

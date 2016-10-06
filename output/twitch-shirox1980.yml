@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - shirox1980
 emojis:
-- name: shiroxrly
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39661/1.0
-- name: shiroxhaha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39662/1.0
+- name: shiroxbig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97380/1.0
+- name: shiroxrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108728/1.0
 - name: shiroxomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/53023/1.0
-- name: shiroxx2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53094/1.0
+- name: shiroxchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106831/1.0
+- name: shiroxrobb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108800/1.0
+- name: shiroxfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107225/1.0

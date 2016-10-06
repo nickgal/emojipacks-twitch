@@ -5,13 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78751/1.0
 - name: brozflex
   src: https://static-cdn.jtvnw.net/emoticons/v1/78750/1.0
-- name: brozhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78730/1.0
-- name: brozbigboy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78748/1.0
 - name: brozgoodman
   src: https://static-cdn.jtvnw.net/emoticons/v1/78821/1.0
 - name: brozw
   src: https://static-cdn.jtvnw.net/emoticons/v1/78820/1.0
-- name: brozrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79409/1.0
+- name: brozlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92839/1.0
+- name: brozbigboy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109313/1.0
+- name: brozshrug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109311/1.0
+- name: brozhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109310/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - lifewithstrife
 emojis:
 - name: strifehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68029/1.0
-- name: strifeomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68026/1.0
 - name: strifelewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/68025/1.0
 - name: strifethump
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67723/1.0
 - name: striferage
   src: https://static-cdn.jtvnw.net/emoticons/v1/82461/1.0
+- name: strifewut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95350/1.0

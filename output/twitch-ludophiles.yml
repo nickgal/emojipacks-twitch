@@ -1,8 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - ludophiles
 emojis:
+- name: ludolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101234/1.0
 - name: ludobeer
   src: https://static-cdn.jtvnw.net/emoticons/v1/50963/1.0
+- name: ludorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101235/1.0
 - name: ludoscratch
   src: https://static-cdn.jtvnw.net/emoticons/v1/67705/1.0
 - name: ludosola

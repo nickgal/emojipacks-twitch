@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - jasonkaplan
 emojis:
-- name: kaplanhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14041/1.0
-- name: kaplanstorm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12072/1.0
 - name: kaplankappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/13734/1.0
-- name: kaplaneers
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14669/1.0
+- name: kaplanwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93206/1.0
+- name: kaplanc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101998/1.0
+- name: kaplanw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100036/1.0

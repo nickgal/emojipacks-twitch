@@ -1,9 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - xiceman126
 emojis:
-- name: xicesub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24618/1.0
 - name: xicerip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24680/1.0
-- name: xicecream
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24681/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92941/1.0
+- name: xicex
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92940/1.0
+- name: xicelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92939/1.0
+- name: xicehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92938/1.0

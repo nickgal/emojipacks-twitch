@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - weefz
 emojis:
-- name: weefzhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66208/1.0
 - name: weefzcrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/46289/1.0
 - name: weefzconfused
   src: https://static-cdn.jtvnw.net/emoticons/v1/46290/1.0
 - name: weefzlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/66233/1.0
+- name: weefzhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97852/1.0

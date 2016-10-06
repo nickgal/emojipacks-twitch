@@ -3,57 +3,53 @@ title: Twitch Subscriber Emotes - misterslin
 emojis:
 - name: slinface
   src: https://static-cdn.jtvnw.net/emoticons/v1/16765/1.0
+- name: slinw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89021/1.0
+- name: slinsocheesy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89022/1.0
 - name: slinrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/7988/1.0
-- name: slincop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60180/1.0
 - name: sling
   src: https://static-cdn.jtvnw.net/emoticons/v1/34392/1.0
+- name: slindab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104687/1.0
+- name: slinlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104688/1.0
+- name: slinh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103186/1.0
 - name: slinp
   src: https://static-cdn.jtvnw.net/emoticons/v1/68204/1.0
 - name: slinhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/68205/1.0
 - name: sliny
   src: https://static-cdn.jtvnw.net/emoticons/v1/59984/1.0
-- name: slinc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59991/1.0
-- name: slintalk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59992/1.0
 - name: slindrop
   src: https://static-cdn.jtvnw.net/emoticons/v1/59993/1.0
-- name: slina
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59995/1.0
-- name: slinw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59998/1.0
 - name: slinn
   src: https://static-cdn.jtvnw.net/emoticons/v1/60000/1.0
 - name: slino
   src: https://static-cdn.jtvnw.net/emoticons/v1/60169/1.0
-- name: slinsuck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68240/1.0
-- name: slin1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80093/1.0
-- name: slin2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80094/1.0
-- name: slin3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80095/1.0
-- name: slin4
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80097/1.0
-- name: slinrg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68618/1.0
 - name: slinv
   src: https://static-cdn.jtvnw.net/emoticons/v1/68299/1.0
-- name: slinbb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21482/1.0
 - name: slins
   src: https://static-cdn.jtvnw.net/emoticons/v1/68229/1.0
-- name: slinf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16748/1.0
-- name: sline
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68231/1.0
-- name: slinb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68294/1.0
 - name: slinky
   src: https://static-cdn.jtvnw.net/emoticons/v1/79383/1.0
 - name: slinez
   src: https://static-cdn.jtvnw.net/emoticons/v1/83777/1.0
+- name: slinxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86201/1.0
+- name: slinvite
+  src: https://static-cdn.jtvnw.net/emoticons/v1/16748/1.0
+- name: slintalk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90065/1.0
+- name: slindog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86150/1.0
+- name: slinp1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100801/1.0
+- name: slinp2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100802/1.0
+- name: slinp3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100803/1.0
+- name: slinp4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100804/1.0

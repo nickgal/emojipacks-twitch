@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - mithrainn
 emojis:
-- name: mitrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81441/1.0
-- name: mitluck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81440/1.0
-- name: mittakla
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66580/1.0
 - name: mitvac
   src: https://static-cdn.jtvnw.net/emoticons/v1/66265/1.0
-- name: mitrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66268/1.0
 - name: mitoley
   src: https://static-cdn.jtvnw.net/emoticons/v1/66688/1.0
 - name: mitego
   src: https://static-cdn.jtvnw.net/emoticons/v1/66266/1.0
 - name: mitaim
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67390/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109866/1.0
+- name: mitrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109876/1.0
+- name: mitagla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112542/1.0
+- name: mitstab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113339/1.0
+- name: mitkobe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113340/1.0
+- name: mitrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113347/1.0
+- name: mitwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113349/1.0

@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - wyvern_slayr
 emojis:
+- name: wyverndied
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109218/1.0
 - name: wyvernbattery
   src: https://static-cdn.jtvnw.net/emoticons/v1/64941/1.0
-- name: wyvern404
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61417/1.0
-- name: wyverndied
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61411/1.0
-- name: wyvernjar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61377/1.0
 - name: wyvernhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/62680/1.0
 - name: wyvernhype
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69589/1.0
 - name: wyvernlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/69878/1.0
+- name: wyvernderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98059/1.0
+- name: wyvernrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109224/1.0

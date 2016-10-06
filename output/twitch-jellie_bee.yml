@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - jellie_bee
 emojis:
+- name: jellieno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90912/1.0
 - name: jellielove
   src: https://static-cdn.jtvnw.net/emoticons/v1/84631/1.0
 - name: jelliesmug

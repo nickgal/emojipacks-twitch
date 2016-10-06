@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - quantum4z4
 emojis:
-- name: quantumcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30714/1.0
 - name: quantumf
   src: https://static-cdn.jtvnw.net/emoticons/v1/39565/1.0
-- name: quantumok
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40648/1.0
 - name: quantumkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/45816/1.0
 - name: quantumchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/45913/1.0
-- name: quantumw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44337/1.0
+- name: quantumc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95294/1.0
+- name: quantumevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94189/1.0
+- name: quantumlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95114/1.0

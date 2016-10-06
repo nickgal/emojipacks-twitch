@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - sonecarox
 emojis:
+- name: soneleg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91920/1.0
 - name: soneo
   src: https://static-cdn.jtvnw.net/emoticons/v1/65515/1.0
 - name: soney

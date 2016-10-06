@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - mrllamasc
 emojis:
-- name: mrllamahey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71787/1.0
 - name: mrllamagiggle
   src: https://static-cdn.jtvnw.net/emoticons/v1/73077/1.0
 - name: mrllamadrama
   src: https://static-cdn.jtvnw.net/emoticons/v1/73076/1.0
-- name: mrllamaross
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71229/1.0
 - name: mrllamaarmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/70719/1.0
 - name: mrllamarip
@@ -17,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78604/1.0
 - name: mrllamadollah
   src: https://static-cdn.jtvnw.net/emoticons/v1/78603/1.0
+- name: mrllamalewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94241/1.0
+- name: mrllamavape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94271/1.0
+- name: mrllamahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108096/1.0
+- name: mrllamaclutch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101939/1.0

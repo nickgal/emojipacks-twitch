@@ -1,0 +1,7 @@
+---
+title: Twitch Subscriber Emotes - playbook_ph
+emojis:
+- name: pberekismug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112483/1.0
+- name: pbeplaybook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112857/1.0

@@ -3,17 +3,19 @@ title: Twitch Subscriber Emotes - bytenser
 emojis:
 - name: tenserrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/66840/1.0
-- name: tensersub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73906/1.0
-- name: tenserkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73547/1.0
-- name: tenserderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80834/1.0
-- name: tenserlit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80839/1.0
-- name: tenserfake
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79041/1.0
+- name: tenseridk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87293/1.0
 - name: tenserserious
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84962/1.0
-- name: tenseranotha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84956/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86870/1.0
+- name: tenserrum
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95328/1.0
+- name: tenserhappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95331/1.0
+- name: tenserwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95333/1.0
+- name: tensersub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100603/1.0
+- name: tenserdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100604/1.0
+- name: tenserlit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106612/1.0

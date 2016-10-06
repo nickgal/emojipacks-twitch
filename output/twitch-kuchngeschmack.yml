@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - kuchngeschmack
 emojis:
+- name: kuchenfacewohli
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88293/1.0
+- name: kuchenfacedarkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88291/1.0
 - name: kuchenfacekuchenface
   src: https://static-cdn.jtvnw.net/emoticons/v1/66848/1.0
 - name: kuchenfacefn

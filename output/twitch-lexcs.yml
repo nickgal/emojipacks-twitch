@@ -1,21 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - lexcs
 emojis:
-- name: rglexsubtrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22449/1.0
-- name: rglexhead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22481/1.0
-- name: rglexbanana
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26458/1.0
-- name: rglexrip
+- name: lexcshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109266/1.0
+- name: lexcsusa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109265/1.0
+- name: lexcsnana
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109264/1.0
+- name: lexcsrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/26460/1.0
-- name: rglexbiceps
+- name: lexcsbiceps
   src: https://static-cdn.jtvnw.net/emoticons/v1/27554/1.0
-- name: rglexfade
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27552/1.0
-- name: rglexnuts
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27592/1.0
-- name: rglexbiceps2
+- name: lexcsbiceps2
   src: https://static-cdn.jtvnw.net/emoticons/v1/22450/1.0
-- name: rglexthanks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41047/1.0
+- name: lexcstilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111482/1.0
+- name: lexcspride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109097/1.0
+- name: lexcskappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109098/1.0
+- name: lexcsmythic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112758/1.0

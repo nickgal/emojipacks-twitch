@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - whiteboy7thst
 emojis:
+- name: whiteboywild
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89818/1.0
 - name: whiteboygoat
   src: https://static-cdn.jtvnw.net/emoticons/v1/4324/1.0
 - name: whiteboygold
@@ -11,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/11513/1.0
 - name: whiteboywoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/15629/1.0
-- name: whiteboyeye
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54375/1.0
 - name: whiteboymoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/53868/1.0
 - name: whiteboyone

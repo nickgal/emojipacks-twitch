@@ -7,16 +7,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/21153/1.0
 - name: iwinpow
   src: https://static-cdn.jtvnw.net/emoticons/v1/22049/1.0
-- name: iwinmonkay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26537/1.0
 - name: iwinmod
   src: https://static-cdn.jtvnw.net/emoticons/v1/26538/1.0
-- name: iwincircle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38529/1.0
 - name: iwininvasion
   src: https://static-cdn.jtvnw.net/emoticons/v1/39664/1.0
 - name: iwincactus
   src: https://static-cdn.jtvnw.net/emoticons/v1/39663/1.0
+- name: iwinsob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88360/1.0
 - name: iwinblood
   src: https://static-cdn.jtvnw.net/emoticons/v1/57251/1.0
 - name: iwinhip

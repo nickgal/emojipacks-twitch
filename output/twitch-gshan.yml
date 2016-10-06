@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - gshan
 emojis:
-- name: gshang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77320/1.0
+- name: gshand
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97444/1.0
 - name: gshan2
   src: https://static-cdn.jtvnw.net/emoticons/v1/73445/1.0
 - name: gshan1
@@ -11,3 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73558/1.0
 - name: gshan4
   src: https://static-cdn.jtvnw.net/emoticons/v1/73561/1.0
+- name: gshanw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98053/1.0
+- name: gshanm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94293/1.0

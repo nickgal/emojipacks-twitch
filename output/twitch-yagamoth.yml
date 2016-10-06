@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - yagamoth
 emojis:
-- name: yagasad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73084/1.0
-- name: yaganooo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73086/1.0
+- name: yagascare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113591/1.0
 - name: yagahromp
   src: https://static-cdn.jtvnw.net/emoticons/v1/73085/1.0
 - name: yagahappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/73083/1.0
+- name: yagasad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105836/1.0
 - name: yagaga
   src: https://static-cdn.jtvnw.net/emoticons/v1/84129/1.0
 - name: yagaderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/84130/1.0
+- name: yagafrog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96360/1.0
+- name: yagahey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113679/1.0

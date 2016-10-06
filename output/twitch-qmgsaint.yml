@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - qmgsaint
 emojis:
 - name: qmgsup
   src: https://static-cdn.jtvnw.net/emoticons/v1/4260/1.0
-- name: qmghype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12198/1.0
-- name: qmgham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38788/1.0
-- name: qmgcheers
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38786/1.0
-- name: qmgwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41623/1.0
 - name: qmgdoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/46079/1.0
-- name: qmgreal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44873/1.0
+- name: qmgfocus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91870/1.0
+- name: qmglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91869/1.0
+- name: qmgcheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91868/1.0
+- name: qmgfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91867/1.0
 - name: qmgrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44871/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91864/1.0
+- name: qmgloot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91860/1.0

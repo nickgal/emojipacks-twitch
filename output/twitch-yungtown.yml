@@ -1,5 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - yungtown
 emojis:
+- name: yungtownasagaoadorableness
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96770/1.0
+- name: yungtownooh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104426/1.0
 - name: yungtownsmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/84702/1.0
+- name: yungtownsubscribe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97379/1.0
+- name: yungtownmusic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103035/1.0
+- name: yungtownlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102765/1.0
+- name: yungtowngrief
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102766/1.0
+- name: yungtowncute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104425/1.0

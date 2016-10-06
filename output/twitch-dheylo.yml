@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - dheylo
 emojis:
-- name: dheyloswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59091/1.0
 - name: dheylokappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/59096/1.0
+- name: dheylosilla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86771/1.0
+- name: dheylohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112132/1.0
+- name: dheylol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112134/1.0

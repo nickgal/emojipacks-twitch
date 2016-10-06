@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mdz_jimmy
 emojis:
-- name: jimmycat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47859/1.0
+- name: jimmycash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97933/1.0
 - name: jimmyomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/47785/1.0
 - name: jimmydp
@@ -13,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67651/1.0
 - name: jimmyrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/67650/1.0
+- name: jimmykarin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86909/1.0
+- name: jimmyparry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93000/1.0

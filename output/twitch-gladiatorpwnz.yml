@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - gladiatorpwnz
 emojis:
+- name: valerawot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112769/1.0
 - name: valeraowned
   src: https://static-cdn.jtvnw.net/emoticons/v1/46191/1.0
 - name: valerapetrov
@@ -11,3 +13,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51018/1.0
 - name: valerakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/60400/1.0
+- name: valera35
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108453/1.0

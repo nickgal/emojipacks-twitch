@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - berylvenus
 emojis:
-- name: berilflip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84842/1.0
 - name: berilhunharca
   src: https://static-cdn.jtvnw.net/emoticons/v1/79575/1.0
 - name: berilhype
@@ -11,5 +9,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81699/1.0
 - name: berilcho
   src: https://static-cdn.jtvnw.net/emoticons/v1/81700/1.0
+- name: berilross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90831/1.0
 - name: berilsok
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82011/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90832/1.0

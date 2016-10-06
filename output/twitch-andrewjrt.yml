@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - andrewjrt
 emojis:
-- name: andrewjrtandrew
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66780/1.0
-- name: andrewjrtjane
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65667/1.0
+- name: andrewjrtoops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101988/1.0
+- name: andrewjrtrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101989/1.0
+- name: andrewjrttryhard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102073/1.0
+- name: andrewjrtsubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106261/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - herrbergmann
 emojis:
+- name: bergind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97545/1.0
 - name: bergiface
   src: https://static-cdn.jtvnw.net/emoticons/v1/19208/1.0
 - name: bergibaby

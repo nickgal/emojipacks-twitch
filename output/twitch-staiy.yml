@@ -5,14 +5,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83812/1.0
 - name: staiynice
   src: https://static-cdn.jtvnw.net/emoticons/v1/83811/1.0
-- name: staiyshots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73672/1.0
 - name: staiyban
   src: https://static-cdn.jtvnw.net/emoticons/v1/12340/1.0
 - name: staiygril
   src: https://static-cdn.jtvnw.net/emoticons/v1/84617/1.0
 - name: staiykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/40143/1.0
+- name: staiyvn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101609/1.0
 - name: staiyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/62132/1.0
 - name: staiycry
@@ -33,9 +33,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83062/1.0
 - name: staiyhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/83063/1.0
-- name: staiysalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83043/1.0
 - name: staiytweef
   src: https://static-cdn.jtvnw.net/emoticons/v1/83045/1.0
+- name: staiyshock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85861/1.0
 - name: staiyrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/85275/1.0
+- name: staiyalu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116829/1.0
+- name: staiydete
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114524/1.0

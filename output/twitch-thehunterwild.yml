@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - thehunterwild
 emojis:
+- name: muskyerbond
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93438/1.0
 - name: muskjen
   src: https://static-cdn.jtvnw.net/emoticons/v1/46182/1.0
 - name: muskrekt
@@ -21,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45524/1.0
 - name: muskkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/80986/1.0
+- name: musko
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93062/1.0
+- name: muskf2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93061/1.0
+- name: muskf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93060/1.0
+- name: muskderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93059/1.0

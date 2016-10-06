@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - gl_bifrost
 emojis:
-- name: bifpc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68483/1.0
-- name: bifbarbe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68246/1.0
+- name: bifhola
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88551/1.0
+- name: biffrancky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90704/1.0
+- name: bifinxo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112378/1.0
+- name: bifsamo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116312/1.0
+- name: bifdeloin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116322/1.0
+- name: bifzero
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116331/1.0

@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - tommey
 emojis:
 - name: tommeyemoti
   src: https://static-cdn.jtvnw.net/emoticons/v1/3762/1.0
-- name: tommeyface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8095/1.0
 - name: tommeym
   src: https://static-cdn.jtvnw.net/emoticons/v1/77554/1.0
 - name: tommeyatg
   src: https://static-cdn.jtvnw.net/emoticons/v1/20172/1.0
-- name: tommeysub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77557/1.0
-- name: tommeywhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77748/1.0
+- name: tommeydoughnut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114301/1.0
 - name: tommeyturtle
   src: https://static-cdn.jtvnw.net/emoticons/v1/78407/1.0
 - name: tommeyguv
   src: https://static-cdn.jtvnw.net/emoticons/v1/78078/1.0
+- name: tommeyangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101982/1.0
+- name: tommeycash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113882/1.0
+- name: tommeysub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113856/1.0
+- name: tommeyggwp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113853/1.0

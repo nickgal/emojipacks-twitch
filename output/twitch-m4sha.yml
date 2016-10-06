@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - m4sha
 emojis:
-- name: m4shamish
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33492/1.0
-- name: m4shatatu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34075/1.0
+- name: m4shafail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97634/1.0
+- name: m4shanope
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97572/1.0
+- name: m4shawut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97574/1.0
 - name: m4shalove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34621/1.0
-- name: m4shababa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34619/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100296/1.0
+- name: m4shabezi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100184/1.0
+- name: m4shagg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100185/1.0

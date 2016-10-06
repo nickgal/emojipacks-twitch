@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - dommmylol
 emojis:
-- name: dommysnor
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73732/1.0
+- name: dommyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98152/1.0
 - name: dommykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/48000/1.0
+- name: dommytilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99051/1.0
+- name: dommyunlucky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100741/1.0
+- name: dommyfuruy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100742/1.0
+- name: dommy6
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98773/1.0

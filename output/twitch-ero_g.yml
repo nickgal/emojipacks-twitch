@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - ero_g
 emojis:
-- name: erogping
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37271/1.0
-- name: erogolo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37272/1.0
-- name: erogcheat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38684/1.0
-- name: eroghype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38880/1.0
+- name: erogfire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93876/1.0
+- name: erogte
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93724/1.0
+- name: erogcu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93723/1.0
 - name: erogroar
   src: https://static-cdn.jtvnw.net/emoticons/v1/55891/1.0
-- name: erogrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55632/1.0
 - name: erogmoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/51410/1.0
-- name: erogking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53539/1.0
+- name: erogmiel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110010/1.0

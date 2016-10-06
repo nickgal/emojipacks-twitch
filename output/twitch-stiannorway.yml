@@ -1,16 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - stiannorway
 emojis:
-- name: stiangrill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62949/1.0
-- name: stianlinja
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65009/1.0
 - name: stiannydle
   src: https://static-cdn.jtvnw.net/emoticons/v1/61289/1.0
 - name: stiancheers
   src: https://static-cdn.jtvnw.net/emoticons/v1/61310/1.0
-- name: stianpenger
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62092/1.0
 - name: stiantrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/63918/1.0
 - name: stianstemning
@@ -19,3 +13,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82984/1.0
 - name: stianbronze
   src: https://static-cdn.jtvnw.net/emoticons/v1/82991/1.0
+- name: stianrespekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86688/1.0
+- name: stianderermeg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110621/1.0
+- name: stianswippels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110625/1.0
+- name: stianme
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110627/1.0
+- name: stian3000
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110616/1.0
+- name: stianballs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110516/1.0
+- name: stianigjen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110572/1.0
+- name: stiankarantene
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110570/1.0
+- name: stiankappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110522/1.0

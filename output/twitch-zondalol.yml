@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - zondalol
 emojis:
 - name: dadashy
   src: https://static-cdn.jtvnw.net/emoticons/v1/29500/1.0
+- name: dadagun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103374/1.0
 - name: dada3
   src: https://static-cdn.jtvnw.net/emoticons/v1/70169/1.0
 - name: dada4
@@ -17,7 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73028/1.0
 - name: dadacry
   src: https://static-cdn.jtvnw.net/emoticons/v1/73991/1.0
-- name: dadan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74455/1.0
 - name: dadaz
   src: https://static-cdn.jtvnw.net/emoticons/v1/74456/1.0

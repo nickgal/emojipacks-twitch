@@ -1,11 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - karrigango
 emojis:
+- name: karrigandenger
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96532/1.0
+- name: karriganreally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96531/1.0
 - name: karrigancarry
   src: https://static-cdn.jtvnw.net/emoticons/v1/50399/1.0
-- name: karrigantsm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50400/1.0
 - name: karriganclapclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/50398/1.0
 - name: karriganrattle
   src: https://static-cdn.jtvnw.net/emoticons/v1/50882/1.0
+- name: karriganfight
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96559/1.0
+- name: karriganastralis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95785/1.0

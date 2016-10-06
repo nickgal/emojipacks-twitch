@@ -33,11 +33,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79439/1.0
 - name: masterkc
   src: https://static-cdn.jtvnw.net/emoticons/v1/79803/1.0
-- name: masterfdp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79780/1.0
 - name: masterrs
   src: https://static-cdn.jtvnw.net/emoticons/v1/79781/1.0
 - name: masters
   src: https://static-cdn.jtvnw.net/emoticons/v1/79782/1.0
 - name: masterforce
   src: https://static-cdn.jtvnw.net/emoticons/v1/85332/1.0
+- name: masterb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93011/1.0

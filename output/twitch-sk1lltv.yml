@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - sk1lltv
 emojis:
+- name: sklpuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104880/1.0
 - name: sklh
   src: https://static-cdn.jtvnw.net/emoticons/v1/83458/1.0
 - name: sklf
@@ -9,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84182/1.0
 - name: sklgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/84181/1.0
+- name: sklw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104849/1.0
+- name: sklsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102942/1.0
+- name: sklrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102479/1.0

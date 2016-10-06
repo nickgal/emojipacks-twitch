@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - spikevegeta
 emojis:
-- name: ssjluchafro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7539/1.0
-- name: ssjfajita
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7537/1.0
 - name: ssjsalty
   src: https://static-cdn.jtvnw.net/emoticons/v1/7541/1.0
 - name: ssjspikechamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/46912/1.0
-- name: ssjyeah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46913/1.0
 - name: ssjgoogoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/63914/1.0
+- name: ssjnuuu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100190/1.0
+- name: ssjraptor
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100191/1.0
+- name: ssjyeah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100192/1.0
+- name: ssjhhh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100193/1.0
+- name: ssjohmama
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100194/1.0

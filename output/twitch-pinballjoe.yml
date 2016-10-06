@@ -5,15 +5,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78361/1.0
 - name: pbjrudy
   src: https://static-cdn.jtvnw.net/emoticons/v1/78362/1.0
+- name: pbjstashe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89000/1.0
+- name: pbjheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88995/1.0
 - name: pbjtilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/78363/1.0
-- name: pbjafm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48779/1.0
-- name: pbjdead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78835/1.0
-- name: pbjpay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78916/1.0
-- name: pbjoey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79002/1.0
+- name: pbjpoopy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91051/1.0
+- name: pbjword
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91052/1.0
 - name: pbjlick
   src: https://static-cdn.jtvnw.net/emoticons/v1/83357/1.0
+- name: pbjafm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88983/1.0
+- name: pbjjack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88996/1.0

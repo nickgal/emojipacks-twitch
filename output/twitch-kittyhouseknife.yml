@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - kittyhouseknife
 emojis:
-- name: khkoakley
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39092/1.0
-- name: khkroscoe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39104/1.0
-- name: khkdisco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39115/1.0
+- name: khksad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95246/1.0
+- name: khkrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94378/1.0
+- name: khkhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94381/1.0
+- name: khkgasp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94382/1.0
+- name: khkpizza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94354/1.0
 - name: khkheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39734/1.0
-- name: khkkhk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44285/1.0
-- name: khkslippers
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44288/1.0
-- name: khksub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44290/1.0
-- name: khkwater
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45421/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94361/1.0

@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - wittzgirl
 emojis:
-- name: renaebutts
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80216/1.0
-- name: renaefight
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45641/1.0
 - name: renaehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/38169/1.0
 - name: renaerage
@@ -13,14 +9,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37212/1.0
 - name: renaelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/39038/1.0
-- name: renaejish
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41302/1.0
 - name: renaezoey
   src: https://static-cdn.jtvnw.net/emoticons/v1/59859/1.0
 - name: renaerekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/54670/1.0
 - name: renaebae
   src: https://static-cdn.jtvnw.net/emoticons/v1/64116/1.0
+- name: renaeowl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116914/1.0
 - name: renaepls
   src: https://static-cdn.jtvnw.net/emoticons/v1/78546/1.0
 - name: renaewave
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81027/1.0
 - name: renaeworth
   src: https://static-cdn.jtvnw.net/emoticons/v1/81028/1.0
+- name: renaebutts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105174/1.0
+- name: renaejish
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116618/1.0

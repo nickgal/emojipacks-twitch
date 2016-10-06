@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - indystarcraft
 emojis:
-- name: indyimba
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84538/1.0
-- name: indycannon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41639/1.0
-- name: indyooo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32528/1.0
-- name: indypierozan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84715/1.0
+- name: indyp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102383/1.0
+- name: indyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102382/1.0
+- name: indye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102377/1.0
+- name: indyw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102376/1.0
+- name: indyk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89692/1.0
+- name: indyr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102519/1.0

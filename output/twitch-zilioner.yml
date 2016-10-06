@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - zilioner
 emojis:
 - name: ccahappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/66150/1.0
-- name: ccasad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66147/1.0
+- name: ccano
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87866/1.0
+- name: ccajustice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87865/1.0
+- name: ccaesports
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87864/1.0

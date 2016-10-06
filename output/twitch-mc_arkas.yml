@@ -1,12 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mc_arkas
 emojis:
-- name: arkasplane
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15255/1.0
-- name: arkasamb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15256/1.0
-- name: arkaspot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40447/1.0
 - name: arkasdank
   src: https://static-cdn.jtvnw.net/emoticons/v1/40446/1.0
 - name: arkasbush

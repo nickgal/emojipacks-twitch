@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - inukitv
 emojis:
 - name: inuhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/81106/1.0
-- name: inuhox
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83968/1.0
-- name: inufrenz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83967/1.0
 - name: inusad
   src: https://static-cdn.jtvnw.net/emoticons/v1/83966/1.0
-- name: inukitten
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83965/1.0
 - name: inuhome
   src: https://static-cdn.jtvnw.net/emoticons/v1/81107/1.0
+- name: inurip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91400/1.0
+- name: inusmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92813/1.0
+- name: inudice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92812/1.0

@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - sebwellz
 emojis:
-- name: wellzltq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81143/1.0
-- name: wellzgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81405/1.0
 - name: wellzface
   src: https://static-cdn.jtvnw.net/emoticons/v1/80365/1.0
-- name: wellzlap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80407/1.0
+- name: wellzwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108437/1.0
 - name: wellzlangue
   src: https://static-cdn.jtvnw.net/emoticons/v1/80750/1.0
 - name: wellzrip
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84793/1.0
 - name: wellzrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/84930/1.0
+- name: wellzgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92318/1.0
+- name: wellzlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92323/1.0

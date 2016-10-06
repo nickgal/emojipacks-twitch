@@ -1,23 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - vio
 emojis:
+- name: viogasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105387/1.0
 - name: violost
   src: https://static-cdn.jtvnw.net/emoticons/v1/79344/1.0
+- name: vioc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104668/1.0
+- name: vior
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110699/1.0
+- name: violit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87941/1.0
 - name: viol
   src: https://static-cdn.jtvnw.net/emoticons/v1/85447/1.0
 - name: viobb
   src: https://static-cdn.jtvnw.net/emoticons/v1/77583/1.0
-- name: viohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78042/1.0
-- name: viowut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78052/1.0
-- name: vioone
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77223/1.0
-- name: viopls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77226/1.0
-- name: viogasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77227/1.0
+- name: vioh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96989/1.0
+- name: vioxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104631/1.0
 - name: vios
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84206/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104632/1.0
+- name: viopls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109613/1.0
+- name: vioheh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105146/1.0
+- name: violol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105147/1.0
+- name: viopop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105148/1.0
 - name: viopf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84207/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110580/1.0
+- name: vioz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108314/1.0
+- name: viohug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110691/1.0
+- name: viom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110692/1.0
+- name: vioshrug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110693/1.0
+- name: viotrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110866/1.0

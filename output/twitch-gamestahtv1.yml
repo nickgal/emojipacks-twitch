@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - gamestahtv1
 emojis:
+- name: gstahbyza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93788/1.0
 - name: gstahej
   src: https://static-cdn.jtvnw.net/emoticons/v1/71863/1.0
 - name: gstahchrisis
   src: https://static-cdn.jtvnw.net/emoticons/v1/71864/1.0
+- name: gstahivertim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95702/1.0

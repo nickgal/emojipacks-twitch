@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - keireth
 emojis:
-- name: keibuenillo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51636/1.0
-- name: keirekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52618/1.0
-- name: keiballs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57985/1.0
+- name: keivladimir
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91752/1.0
+- name: keihaha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98674/1.0
+- name: keiwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98675/1.0
+- name: keirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98926/1.0
+- name: keitroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98925/1.0
+- name: keigasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98924/1.0

@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - darkdevilgaming
 emojis:
-- name: ddgamhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35482/1.0
+- name: ddgamwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97641/1.0
 - name: ddgaml
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71889/1.0
-- name: ddgamrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71890/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94522/1.0
 - name: ddgamrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71891/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95374/1.0
+- name: ddgamcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101648/1.0

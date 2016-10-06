@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - horsepants
 emojis:
-- name: horsemnose
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73609/1.0
-- name: horseleft
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81560/1.0
-- name: horseright
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81561/1.0
-- name: horsesure
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70377/1.0
-- name: horsegotcha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72308/1.0
+- name: horseluldan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115678/1.0
 - name: horsew
   src: https://static-cdn.jtvnw.net/emoticons/v1/72640/1.0
+- name: horser
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114909/1.0
+- name: horsed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115872/1.0
+- name: horsehaa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116959/1.0
+- name: horsem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116953/1.0
+- name: horsec
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114873/1.0
+- name: horsedank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115899/1.0

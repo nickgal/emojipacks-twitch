@@ -5,6 +5,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79970/1.0
 - name: heavybeardcup
   src: https://static-cdn.jtvnw.net/emoticons/v1/79961/1.0
+- name: heavybeardkek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116587/1.0
+- name: heavybeardtop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116588/1.0
+- name: heavybeardpriest
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96543/1.0
 - name: heavybeardkrab
   src: https://static-cdn.jtvnw.net/emoticons/v1/80878/1.0
 - name: heavybeardserg
@@ -13,3 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82744/1.0
 - name: heavybeardtopdeck
   src: https://static-cdn.jtvnw.net/emoticons/v1/83002/1.0
+- name: heavybeardkapibara
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96408/1.0
+- name: heavybeardfire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116231/1.0
+- name: heavybeardpaladin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116232/1.0
+- name: heavybeardlefth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116585/1.0
+- name: heavybeardrighth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116586/1.0
+- name: heavybeardcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116589/1.0

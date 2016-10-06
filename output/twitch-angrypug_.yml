@@ -3,18 +3,16 @@ title: Twitch Subscriber Emotes - angrypug_
 emojis:
 - name: pugdono
   src: https://static-cdn.jtvnw.net/emoticons/v1/83516/1.0
+- name: pugsea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108431/1.0
 - name: puglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/55101/1.0
 - name: pughype
   src: https://static-cdn.jtvnw.net/emoticons/v1/54977/1.0
-- name: pugwin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55226/1.0
 - name: pugrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/54992/1.0
 - name: pugtw
   src: https://static-cdn.jtvnw.net/emoticons/v1/57960/1.0
-- name: pugrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76897/1.0
 - name: pugtato
   src: https://static-cdn.jtvnw.net/emoticons/v1/72073/1.0
 - name: pug1
@@ -27,15 +25,27 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71686/1.0
 - name: puglife
   src: https://static-cdn.jtvnw.net/emoticons/v1/72919/1.0
-- name: pugbomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73092/1.0
 - name: pugrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/74524/1.0
 - name: pugterm
   src: https://static-cdn.jtvnw.net/emoticons/v1/73510/1.0
-- name: pugf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77433/1.0
 - name: pugsas
   src: https://static-cdn.jtvnw.net/emoticons/v1/77451/1.0
-- name: pugnana
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83472/1.0
+- name: pugsaf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110157/1.0
+- name: pug8
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110135/1.0
+- name: pugtrap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104969/1.0
+- name: pughook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107368/1.0
+- name: pugnike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104673/1.0
+- name: pugwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101488/1.0
+- name: pugdu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106999/1.0
+- name: pugk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107000/1.0
+- name: pugac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108257/1.0

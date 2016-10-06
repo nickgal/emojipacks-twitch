@@ -1,23 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - themavshow
 emojis:
-- name: mavlily
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56745/1.0
 - name: mavlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/58795/1.0
-- name: mavfeelsbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62561/1.0
-- name: mavbunz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72323/1.0
-- name: mavrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72385/1.0
-- name: mavhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73399/1.0
-- name: mavwolf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74175/1.0
-- name: mavpls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78620/1.0
-- name: mavwhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81651/1.0
+- name: mavsup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98304/1.0
 - name: mavnerd
   src: https://static-cdn.jtvnw.net/emoticons/v1/81650/1.0
+- name: mavcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85812/1.0
+- name: mavthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98306/1.0
+- name: mavtip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98305/1.0
+- name: mavhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98303/1.0
+- name: mavrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98395/1.0
+- name: mavsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98396/1.0
+- name: mavfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98397/1.0
+- name: mavrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98398/1.0
+- name: mavlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98399/1.0
+- name: mavbunz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106558/1.0
+- name: mavpew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103896/1.0
+- name: mavsenpai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103897/1.0

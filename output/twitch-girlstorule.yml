@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - girlstorule
 emojis:
-- name: gnbpeka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62222/1.0
-- name: gnbfire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62225/1.0
-- name: gnbzloy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66295/1.0
-- name: gnbbanan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66296/1.0
-- name: gnbkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66223/1.0
-- name: gnbpeng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68232/1.0
+- name: gnbche
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90957/1.0
+- name: gnbhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90779/1.0
+- name: gnboscar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90787/1.0
+- name: gnbgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90780/1.0
+- name: gnbex
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90788/1.0
+- name: gnbban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90781/1.0
+- name: gnb10
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90782/1.0
+- name: gnbvse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90783/1.0
+- name: gnbfive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90784/1.0
+- name: gnbmimimi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90785/1.0

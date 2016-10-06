@@ -1,13 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - kireiautumn
 emojis:
-- name: kittybeg
+- name: kireiikittybeg
   src: https://static-cdn.jtvnw.net/emoticons/v1/2105/1.0
-- name: kireimad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2106/1.0
-- name: happykitty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11297/1.0
-- name: kittymad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11298/1.0
-- name: sadkitty
+- name: kireiisadkitty
   src: https://static-cdn.jtvnw.net/emoticons/v1/11299/1.0
+- name: kireiirawr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95695/1.0
+- name: kireiisorry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95694/1.0

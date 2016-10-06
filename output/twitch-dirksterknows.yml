@@ -1,17 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - dirksterknows
 emojis:
-- name: dirkankles
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73825/1.0
-- name: dirklit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82816/1.0
-- name: dirkhorse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71053/1.0
 - name: dirkhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71052/1.0
-- name: dirkhammer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73823/1.0
-- name: dirkfrog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73824/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109781/1.0
 - name: dirkloser
   src: https://static-cdn.jtvnw.net/emoticons/v1/82817/1.0
+- name: dirkrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109947/1.0

@@ -1,83 +1,93 @@
 ---
 title: Twitch Subscriber Emotes - professorbroman
 emojis:
-- name: bowhi
+- name: thickhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/48372/1.0
-- name: bowrekt
+- name: thickrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/33250/1.0
-- name: bowspoopy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33253/1.0
-- name: bowpep
+- name: thickpep
   src: https://static-cdn.jtvnw.net/emoticons/v1/72035/1.0
-- name: bowhug
+- name: thickhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/72034/1.0
-- name: bowplz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80357/1.0
-- name: bowsub
+- name: thicksub
   src: https://static-cdn.jtvnw.net/emoticons/v1/66541/1.0
-- name: bowhype
+- name: thickhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/66540/1.0
-- name: bowread
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79147/1.0
-- name: bownail
+- name: thicknail
   src: https://static-cdn.jtvnw.net/emoticons/v1/46529/1.0
-- name: bowlove
+- name: thicklove
   src: https://static-cdn.jtvnw.net/emoticons/v1/48371/1.0
-- name: bowrage
+- name: thickrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/48368/1.0
-- name: bowgasm
+- name: thickgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/48369/1.0
-- name: bowsad
+- name: thicksad
   src: https://static-cdn.jtvnw.net/emoticons/v1/48354/1.0
-- name: bows
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80409/1.0
-- name: bowd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80410/1.0
-- name: bowt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80412/1.0
-- name: bowwaifu
+- name: thickwaifu
   src: https://static-cdn.jtvnw.net/emoticons/v1/52684/1.0
-- name: bowlamow
+- name: thicklamow
   src: https://static-cdn.jtvnw.net/emoticons/v1/52685/1.0
-- name: bowdeal
+- name: thickdeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/52686/1.0
-- name: boww
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80414/1.0
-- name: bowb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80415/1.0
-- name: bowcireating
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74675/1.0
-- name: bowlogan
+- name: thickfatchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97694/1.0
+- name: thicklogan
   src: https://static-cdn.jtvnw.net/emoticons/v1/59254/1.0
-- name: bowyeah
+- name: thickyeah
   src: https://static-cdn.jtvnw.net/emoticons/v1/59253/1.0
-- name: bowparty
+- name: thickparty
   src: https://static-cdn.jtvnw.net/emoticons/v1/59252/1.0
-- name: bowham
+- name: thickcute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97695/1.0
+- name: thickcash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86809/1.0
+- name: thickham
   src: https://static-cdn.jtvnw.net/emoticons/v1/63170/1.0
-- name: bowzap
+- name: thickzap
   src: https://static-cdn.jtvnw.net/emoticons/v1/63171/1.0
-- name: bowthirst
+- name: thickthirst
   src: https://static-cdn.jtvnw.net/emoticons/v1/63174/1.0
-- name: bowpew
+- name: thickpew
   src: https://static-cdn.jtvnw.net/emoticons/v1/63172/1.0
-- name: bowlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66166/1.0
-- name: bowtrig
+- name: thicktrig
   src: https://static-cdn.jtvnw.net/emoticons/v1/63173/1.0
-- name: bowhate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63176/1.0
-- name: bowcoin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71078/1.0
-- name: bowpalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67546/1.0
-- name: bowforce
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67545/1.0
-- name: bowbus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67543/1.0
-- name: bowsecret
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75483/1.0
-- name: bowlit
+- name: thicklit
   src: https://static-cdn.jtvnw.net/emoticons/v1/77093/1.0
-- name: bowtato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79590/1.0
+- name: thickflag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105844/1.0
+- name: thickcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87316/1.0
+- name: thickexotic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87317/1.0
+- name: thickneat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105845/1.0
+- name: thickrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87318/1.0
+- name: thick1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99932/1.0
+- name: thickfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95558/1.0
+- name: thick2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99934/1.0
+- name: thick4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99936/1.0
+- name: thickten
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95559/1.0
+- name: thickwcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95560/1.0
+- name: thick3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99935/1.0
+- name: thickytho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110907/1.0
+- name: thickjustright
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113608/1.0
+- name: thicksmart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116680/1.0
+- name: thickwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116679/1.0
+- name: thickpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116678/1.0
+- name: thicksleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116682/1.0
+- name: thicksecret
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116691/1.0

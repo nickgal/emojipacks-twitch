@@ -1,23 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - warbulletproof
 emojis:
-- name: ldrswet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81200/1.0
+- name: ldrs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106770/1.0
+- name: ldrm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106769/1.0
+- name: ldrn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103142/1.0
 - name: ldrmongrel
   src: https://static-cdn.jtvnw.net/emoticons/v1/81595/1.0
 - name: ldrkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/81302/1.0
-- name: ldrlion
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80470/1.0
-- name: ldrcrispy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80651/1.0
-- name: ldrsauced
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80789/1.0
+- name: ldrrly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109602/1.0
+- name: ldrlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112494/1.0
 - name: ldrbojita
   src: https://static-cdn.jtvnw.net/emoticons/v1/83114/1.0
-- name: ldrgoob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83117/1.0
-- name: ldrgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84031/1.0
-- name: ldrgoosin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84032/1.0

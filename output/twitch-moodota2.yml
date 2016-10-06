@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - moodota2
 emojis:
+- name: moodotalul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97985/1.0
 - name: moodotacow
   src: https://static-cdn.jtvnw.net/emoticons/v1/56646/1.0
 - name: moodotakawai
   src: https://static-cdn.jtvnw.net/emoticons/v1/53880/1.0
-- name: moodotathump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61620/1.0
-- name: moodotachibi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66325/1.0
+- name: moodotasg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93229/1.0
+- name: moodotaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114105/1.0

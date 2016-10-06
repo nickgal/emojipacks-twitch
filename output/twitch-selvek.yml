@@ -5,12 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71156/1.0
 - name: selrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/71748/1.0
-- name: selw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73820/1.0
 - name: selc
   src: https://static-cdn.jtvnw.net/emoticons/v1/64977/1.0
-- name: selmlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71885/1.0
 - name: sellove
   src: https://static-cdn.jtvnw.net/emoticons/v1/65075/1.0
 - name: selhype
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65616/1.0
 - name: self
   src: https://static-cdn.jtvnw.net/emoticons/v1/69200/1.0
+- name: selg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108500/1.0
+- name: selw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110998/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - phantomsfx
 emojis:
-- name: sfxdl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56529/1.0
 - name: sfxfight
   src: https://static-cdn.jtvnw.net/emoticons/v1/65861/1.0
 - name: sfxgasm
@@ -15,9 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39994/1.0
 - name: sfxrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/59825/1.0
-- name: sfxrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48387/1.0
-- name: sfxcare
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73590/1.0
 - name: sfxshots
   src: https://static-cdn.jtvnw.net/emoticons/v1/64888/1.0
+- name: sfxfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104268/1.0
+- name: sfxlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104269/1.0
+- name: sfxrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104270/1.0

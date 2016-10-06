@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - trixi
 emojis:
-- name: ebinebin
+- name: trixiebin
   src: https://static-cdn.jtvnw.net/emoticons/v1/7951/1.0
+- name: trixiface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101499/1.0

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/14633/1.0
 - name: orzriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/14389/1.0
-- name: orzfappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32171/1.0
 - name: orzrude
   src: https://static-cdn.jtvnw.net/emoticons/v1/40889/1.0
 - name: orzangry
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47419/1.0
 - name: orzpizza
   src: https://static-cdn.jtvnw.net/emoticons/v1/82303/1.0
+- name: orznice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91780/1.0

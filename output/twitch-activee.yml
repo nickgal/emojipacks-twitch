@@ -1,13 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - activee
 emojis:
-- name: activkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56533/1.0
-- name: activglock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40914/1.0
+- name: activcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116777/1.0
 - name: activbelieve
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40096/1.0
-- name: activchoke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40918/1.0
-- name: activbooty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51103/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97609/1.0
+- name: activheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86571/1.0
+- name: activtrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86573/1.0
+- name: activyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86574/1.0
+- name: activomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86572/1.0
+- name: activfocus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86569/1.0
+- name: activtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88825/1.0
+- name: activslay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88827/1.0
+- name: activbihts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113657/1.0

@@ -1,32 +1,22 @@
 ---
 title: Twitch Subscriber Emotes - weak3n
 emojis:
+- name: weakrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111986/1.0
 - name: weakpoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/52583/1.0
-- name: weakserqet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30583/1.0
-- name: weak667
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79187/1.0
-- name: weaknice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79185/1.0
 - name: weakhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/36195/1.0
-- name: weakjoke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38821/1.0
 - name: weakw
   src: https://static-cdn.jtvnw.net/emoticons/v1/40520/1.0
-- name: weaknation
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80228/1.0
+- name: weakdereted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112934/1.0
 - name: weakrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/61019/1.0
-- name: weakrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61050/1.0
-- name: weakteam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62957/1.0
+- name: weaklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105094/1.0
 - name: weakclench
   src: https://static-cdn.jtvnw.net/emoticons/v1/64895/1.0
-- name: weaksellout
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63933/1.0
 - name: weakwarcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/79184/1.0
 - name: weakbm
@@ -35,7 +25,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78207/1.0
 - name: weak1
   src: https://static-cdn.jtvnw.net/emoticons/v1/78208/1.0
+- name: weakbaconpancake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104785/1.0
 - name: weaktrix
   src: https://static-cdn.jtvnw.net/emoticons/v1/80821/1.0
-- name: weaksavage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80822/1.0
+- name: weakhands
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105558/1.0
+- name: weaksgame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104249/1.0
+- name: weaknation
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105092/1.0
+- name: weak667
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105093/1.0
+- name: weaksellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105559/1.0
+- name: weakfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105557/1.0

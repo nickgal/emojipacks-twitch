@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - onscreenlol
 emojis:
+- name: onsftw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96767/1.0
+- name: onsw4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94193/1.0
 - name: onsklappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/21829/1.0
 - name: onsfrosty
@@ -21,16 +25,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33039/1.0
 - name: onslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/55511/1.0
-- name: onsdoit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56512/1.0
-- name: onskappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46533/1.0
+- name: onslul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99903/1.0
 - name: onsban
   src: https://static-cdn.jtvnw.net/emoticons/v1/46648/1.0
 - name: onsladette
   src: https://static-cdn.jtvnw.net/emoticons/v1/47063/1.0
-- name: onsdank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56176/1.0
 - name: onsw
   src: https://static-cdn.jtvnw.net/emoticons/v1/55186/1.0
 - name: onsvad
@@ -41,3 +41,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71833/1.0
 - name: onsc
   src: https://static-cdn.jtvnw.net/emoticons/v1/78225/1.0
+- name: onsw3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94192/1.0
+- name: onsapprove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96136/1.0
+- name: onsw2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94191/1.0
+- name: onsw1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94190/1.0
+- name: onsgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96218/1.0
+- name: onshat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95022/1.0
+- name: onsdank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100008/1.0
+- name: onswut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98902/1.0
+- name: onsnade
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98901/1.0
+- name: onssanita
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98935/1.0

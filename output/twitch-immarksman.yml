@@ -1,23 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - immarksman
 emojis:
-- name: markkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16935/1.0
 - name: markpony
   src: https://static-cdn.jtvnw.net/emoticons/v1/31972/1.0
-- name: markteddy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22457/1.0
+- name: markflannel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101228/1.0
+- name: markhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101227/1.0
+- name: markfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101226/1.0
+- name: markgril
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101225/1.0
 - name: marktongue
   src: https://static-cdn.jtvnw.net/emoticons/v1/36828/1.0
-- name: markrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37459/1.0
-- name: markhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36373/1.0
+- name: markgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100102/1.0
 - name: markbackpack
   src: https://static-cdn.jtvnw.net/emoticons/v1/47646/1.0
 - name: markheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/78953/1.0
 - name: marksalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/81031/1.0
+- name: markrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100463/1.0
+- name: markhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97822/1.0
+- name: markrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97823/1.0
+- name: markclutch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97824/1.0
+- name: marksad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97826/1.0
 - name: marksst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81410/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97828/1.0
+- name: markrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97827/1.0
+- name: markace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97819/1.0
+- name: markgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97825/1.0
+- name: markfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97820/1.0

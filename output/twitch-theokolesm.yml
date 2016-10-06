@@ -1,19 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - theokolesm
 emojis:
+- name: theowtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113498/1.0
 - name: theomutlu
   src: https://static-cdn.jtvnw.net/emoticons/v1/48522/1.0
-- name: theogurt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81331/1.0
-- name: theofree
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81721/1.0
-- name: theomotor
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84845/1.0
+- name: theoopen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102703/1.0
 - name: theosat
   src: https://static-cdn.jtvnw.net/emoticons/v1/81361/1.0
-- name: theosup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81006/1.0
 - name: theokalp
   src: https://static-cdn.jtvnw.net/emoticons/v1/82799/1.0
-- name: theoyargi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84342/1.0
+- name: theoas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96942/1.0
+- name: theonaa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108473/1.0
+- name: theoase
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113493/1.0
+- name: theoyak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110725/1.0
+- name: theoauu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108556/1.0
+- name: theohele
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110728/1.0
+- name: theopride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113491/1.0
+- name: theosea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113492/1.0
+- name: theoomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113218/1.0
+- name: theoan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113560/1.0

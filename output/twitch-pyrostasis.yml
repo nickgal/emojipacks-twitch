@@ -3,17 +3,11 @@ title: Twitch Subscriber Emotes - pyrostasis
 emojis:
 - name: tdklorebunny
   src: https://static-cdn.jtvnw.net/emoticons/v1/6749/1.0
-- name: tdkshotsfired
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6760/1.0
 - name: tdkshots
   src: https://static-cdn.jtvnw.net/emoticons/v1/6878/1.0
-- name: tdkpyro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22618/1.0
 - name: tdksub
   src: https://static-cdn.jtvnw.net/emoticons/v1/22619/1.0
 - name: tdkhf
   src: https://static-cdn.jtvnw.net/emoticons/v1/22620/1.0
-- name: tdkhands
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22622/1.0
 - name: tdkfireball
   src: https://static-cdn.jtvnw.net/emoticons/v1/22627/1.0

@@ -1,13 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - thetruevanguard
 emojis:
-- name: drivebyjuice
+- name: truevjuice
   src: https://static-cdn.jtvnw.net/emoticons/v1/81247/1.0
-- name: drivebysnipe
+- name: truevsnipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/76410/1.0
-- name: drivebycatspjs
+- name: truevneedadult
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95663/1.0
+- name: truevcatspjs
   src: https://static-cdn.jtvnw.net/emoticons/v1/83674/1.0
-- name: drivebynewsub
+- name: truevnewsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/78313/1.0
-- name: drivebyheadshot
+- name: truevheadshot
   src: https://static-cdn.jtvnw.net/emoticons/v1/78312/1.0
+- name: truevfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105199/1.0
+- name: truevhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100440/1.0
+- name: truevohai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95787/1.0
+- name: truevhelloyt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95926/1.0

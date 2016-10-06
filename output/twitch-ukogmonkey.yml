@@ -1,19 +1,39 @@
 ---
 title: Twitch Subscriber Emotes - ukogmonkey
 emojis:
+- name: ukogfeelscrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87880/1.0
+- name: ukogchoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95906/1.0
 - name: ukogsolo
   src: https://static-cdn.jtvnw.net/emoticons/v1/80362/1.0
 - name: ukogjabba
   src: https://static-cdn.jtvnw.net/emoticons/v1/74965/1.0
-- name: ukogmad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71602/1.0
-- name: ukogpanda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71603/1.0
-- name: ukogcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71675/1.0
+- name: ukogasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87895/1.0
+- name: ukoghmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99883/1.0
+- name: ukogweej
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99882/1.0
+- name: ukogwat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95931/1.0
+- name: ukogcheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99881/1.0
 - name: ukogshoe
   src: https://static-cdn.jtvnw.net/emoticons/v1/69928/1.0
+- name: ukogswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100132/1.0
 - name: ukoghype
   src: https://static-cdn.jtvnw.net/emoticons/v1/79391/1.0
+- name: ukogthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99884/1.0
+- name: ukogfeelssaiyan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87725/1.0
+- name: ukogharambe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111795/1.0
+- name: ukoglul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116468/1.0
 - name: ukogfc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76339/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116469/1.0
+- name: ukogw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116554/1.0

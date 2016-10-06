@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - yankeeunit91
 emojis:
+- name: hammergeilyu91
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88558/1.0
 - name: hammergeil91
   src: https://static-cdn.jtvnw.net/emoticons/v1/66098/1.0
 - name: hammergeilatoemkraft
   src: https://static-cdn.jtvnw.net/emoticons/v1/70646/1.0
+- name: hammergeil91ball
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88564/1.0

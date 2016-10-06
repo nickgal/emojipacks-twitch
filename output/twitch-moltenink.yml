@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - moltenink
 emojis:
-- name: moltenugh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62168/1.0
 - name: moltensub
   src: https://static-cdn.jtvnw.net/emoticons/v1/63594/1.0
 - name: moltenrage
@@ -13,3 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61767/1.0
 - name: moltenheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/61815/1.0
+- name: moltenhush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87766/1.0
+- name: moltenraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87747/1.0

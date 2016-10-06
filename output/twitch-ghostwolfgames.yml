@@ -3,7 +3,13 @@ title: Twitch Subscriber Emotes - ghostwolfgames
 emojis:
 - name: ghostloot
   src: https://static-cdn.jtvnw.net/emoticons/v1/12436/1.0
+- name: ghostrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115393/1.0
 - name: ghostwolf
   src: https://static-cdn.jtvnw.net/emoticons/v1/46642/1.0
 - name: ghosthype
   src: https://static-cdn.jtvnw.net/emoticons/v1/67491/1.0
+- name: ghostlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90686/1.0
+- name: ghostrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90687/1.0

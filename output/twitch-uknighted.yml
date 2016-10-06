@@ -3,43 +3,41 @@ title: Twitch Subscriber Emotes - uknighted
 emojis:
 - name: ohnkoji
   src: https://static-cdn.jtvnw.net/emoticons/v1/5762/1.0
-- name: ohnocelot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5509/1.0
-- name: ohnmantis
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5533/1.0
 - name: ohnboss
   src: https://static-cdn.jtvnw.net/emoticons/v1/5670/1.0
-- name: ohnpeace
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5671/1.0
 - name: ohnfiddle
   src: https://static-cdn.jtvnw.net/emoticons/v1/11709/1.0
-- name: ohnalert
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10014/1.0
 - name: ohndud
   src: https://static-cdn.jtvnw.net/emoticons/v1/46386/1.0
-- name: ohnsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25047/1.0
-- name: ohnparrot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25003/1.0
 - name: ohnmoh
   src: https://static-cdn.jtvnw.net/emoticons/v1/46219/1.0
-- name: ohnten
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62925/1.0
-- name: ohnnaked
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62908/1.0
 - name: ohndd
   src: https://static-cdn.jtvnw.net/emoticons/v1/61444/1.0
 - name: ohnbox
   src: https://static-cdn.jtvnw.net/emoticons/v1/61428/1.0
-- name: ohnsnake
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62926/1.0
-- name: ohnfox
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61969/1.0
 - name: ohnyell
   src: https://static-cdn.jtvnw.net/emoticons/v1/60546/1.0
-- name: ohnskull
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60560/1.0
 - name: ohnkazpa
   src: https://static-cdn.jtvnw.net/emoticons/v1/61589/1.0
+- name: ohnpeace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108716/1.0
+- name: ohnlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108713/1.0
+- name: ohnhong
+  src: https://static-cdn.jtvnw.net/emoticons/v1/25047/1.0
+- name: ohnpuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109703/1.0
+- name: ohnlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107529/1.0
+- name: ohngasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108006/1.0
+- name: ohnten
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107547/1.0
+- name: ohnno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107522/1.0
 - name: ohnyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62104/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107550/1.0
+- name: ohnhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107533/1.0
+- name: ohnprettygood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107525/1.0

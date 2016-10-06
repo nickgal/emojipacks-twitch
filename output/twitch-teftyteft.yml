@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - teftyteft
 emojis:
-- name: teftgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75057/1.0
 - name: teftsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/75056/1.0
 - name: teftrip
@@ -17,3 +15,25 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74742/1.0
 - name: teftrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/74743/1.0
+- name: tefttrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96937/1.0
+- name: teftsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88222/1.0
+- name: teftpepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96938/1.0
+- name: teftlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100276/1.0
+- name: tefthey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100277/1.0
+- name: teftpog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100278/1.0
+- name: teftc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100279/1.0
+- name: teftfan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100280/1.0
+- name: teftrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117095/1.0
+- name: teftomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117094/1.0
+- name: teftmeh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117093/1.0

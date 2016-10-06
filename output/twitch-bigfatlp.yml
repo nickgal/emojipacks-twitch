@@ -11,6 +11,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/4094/1.0
 - name: bigfatking
   src: https://static-cdn.jtvnw.net/emoticons/v1/4558/1.0
+- name: bigfatpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90888/1.0
 - name: bigfath4
   src: https://static-cdn.jtvnw.net/emoticons/v1/6089/1.0
 - name: bigfatmissy
@@ -23,8 +25,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30725/1.0
 - name: bigfatcool
   src: https://static-cdn.jtvnw.net/emoticons/v1/85610/1.0
-- name: bigfatcrabs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85611/1.0
 - name: bigfatryu
   src: https://static-cdn.jtvnw.net/emoticons/v1/85612/1.0
 - name: bigfatayy
@@ -39,8 +39,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56217/1.0
 - name: bigfattammah
   src: https://static-cdn.jtvnw.net/emoticons/v1/56218/1.0
-- name: bigfatchautaric
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67602/1.0
 - name: bigfatchausterz
   src: https://static-cdn.jtvnw.net/emoticons/v1/67603/1.0
 - name: bigfatchauxd
@@ -59,3 +57,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75403/1.0
 - name: bigfatwow
   src: https://static-cdn.jtvnw.net/emoticons/v1/75404/1.0
+- name: bigfatweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97182/1.0
+- name: bigfatko3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97183/1.0
+- name: bigfatko2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97184/1.0
+- name: bigfatko1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97185/1.0
+- name: bigfatgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97253/1.0
+- name: bigfatgiggle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97201/1.0

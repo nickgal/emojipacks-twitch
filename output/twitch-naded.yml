@@ -17,6 +17,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/14590/1.0
 - name: nadedrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/13291/1.0
+- name: nadedlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101879/1.0
+- name: nadedmvp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101880/1.0
 - name: nadedswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/23658/1.0
 - name: nadedfap
@@ -33,10 +37,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27247/1.0
 - name: nadedtrocity
   src: https://static-cdn.jtvnw.net/emoticons/v1/27248/1.0
-- name: nadedjaro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27249/1.0
-- name: nadednaire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27252/1.0
 - name: nadedninja
   src: https://static-cdn.jtvnw.net/emoticons/v1/27253/1.0
 - name: nadedblain
@@ -51,13 +51,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/26391/1.0
 - name: nadedsticky
   src: https://static-cdn.jtvnw.net/emoticons/v1/26392/1.0
-- name: nadedlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49377/1.0
 - name: nadedface
   src: https://static-cdn.jtvnw.net/emoticons/v1/49375/1.0
 - name: nadedperfect
   src: https://static-cdn.jtvnw.net/emoticons/v1/69578/1.0
 - name: nadedlogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/70571/1.0
-- name: nadedae
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69742/1.0
+- name: nadedbstick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111783/1.0
+- name: nadedlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111784/1.0

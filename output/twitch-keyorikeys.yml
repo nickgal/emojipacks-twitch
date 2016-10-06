@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/4271/1.0
 - name: keythirst
   src: https://static-cdn.jtvnw.net/emoticons/v1/15636/1.0
+- name: keyg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92834/1.0
 - name: keyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/39920/1.0
 - name: keyzss
@@ -23,3 +25,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77193/1.0
 - name: keyd
   src: https://static-cdn.jtvnw.net/emoticons/v1/79695/1.0
+- name: keyc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85713/1.0
+- name: keyb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86831/1.0

@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - tomfawkes
 emojis:
-- name: tomwelp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56452/1.0
-- name: tomrival
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56451/1.0
 - name: tomface
   src: https://static-cdn.jtvnw.net/emoticons/v1/23950/1.0
 - name: tomhole
@@ -13,11 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29599/1.0
 - name: tomfist
   src: https://static-cdn.jtvnw.net/emoticons/v1/36610/1.0
-- name: tomballoon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49850/1.0
-- name: tomink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51025/1.0
 - name: tommoe
   src: https://static-cdn.jtvnw.net/emoticons/v1/66738/1.0
 - name: tombingo
   src: https://static-cdn.jtvnw.net/emoticons/v1/68539/1.0
+- name: tomdance
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110084/1.0
+- name: tomrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110085/1.0
+- name: tomwelp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110086/1.0
+- name: tomsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110087/1.0

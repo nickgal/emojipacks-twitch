@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - commanderroot
 emojis:
 - name: rootlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/59831/1.0
+- name: rootmuhh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103866/1.0
+- name: rootfeet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93442/1.0
 - name: rootbusted
   src: https://static-cdn.jtvnw.net/emoticons/v1/41429/1.0
 - name: rootger
   src: https://static-cdn.jtvnw.net/emoticons/v1/44994/1.0
-- name: rootrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61568/1.0
+- name: rootfirewall
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105510/1.0

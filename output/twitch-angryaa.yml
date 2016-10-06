@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - angryaa
 emojis:
 - name: angrydevo
   src: https://static-cdn.jtvnw.net/emoticons/v1/57830/1.0
-- name: angrycash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57520/1.0
-- name: angryrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57521/1.0
-- name: angrydoit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58036/1.0
+- name: angrybears
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100272/1.0
+- name: angryw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106396/1.0
+- name: angrygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106398/1.0
+- name: angryopness
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106401/1.0
+- name: angryfeelsgoodman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106402/1.0

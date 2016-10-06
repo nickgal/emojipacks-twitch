@@ -1,17 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - fantougames
 emojis:
-- name: fantousubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85293/1.0
-- name: fantoumate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85303/1.0
-- name: fantoulag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85292/1.0
 - name: fantouwas
   src: https://static-cdn.jtvnw.net/emoticons/v1/85291/1.0
-- name: fantoublackcell
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73746/1.0
+- name: fantoumoon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109243/1.0
 - name: fantougute
   src: https://static-cdn.jtvnw.net/emoticons/v1/70960/1.0
 - name: fantouerstaunt
   src: https://static-cdn.jtvnw.net/emoticons/v1/78537/1.0
+- name: fantousub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85696/1.0
+- name: fantoumate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92858/1.0

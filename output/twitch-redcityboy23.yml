@@ -1,23 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - redcityboy23
 emojis:
-- name: redcityclamps
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58672/1.0
-- name: redcitydab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76648/1.0
-- name: redcityrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76900/1.0
-- name: redcitygang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58491/1.0
-- name: redcityloss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77096/1.0
-- name: redcityankles
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78498/1.0
-- name: redcitystrapped
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84592/1.0
-- name: redcityrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78957/1.0
+- name: redcitytea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87940/1.0
+- name: redcitybihwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109286/1.0
+- name: redcitybruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108850/1.0
+- name: redcityveins
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105792/1.0
 - name: redcitylit
   src: https://static-cdn.jtvnw.net/emoticons/v1/78958/1.0
-- name: redcityhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84438/1.0
+- name: redcityfolks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108164/1.0
+- name: redcitygirl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109319/1.0
+- name: redcitygg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107165/1.0
+- name: redcitycomeup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108476/1.0
+- name: redcitydab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108467/1.0
+- name: redcityrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108283/1.0
+- name: redcitytriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109361/1.0
+- name: redcityohhmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109331/1.0
+- name: redcityreally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108924/1.0
+- name: redcitycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110707/1.0

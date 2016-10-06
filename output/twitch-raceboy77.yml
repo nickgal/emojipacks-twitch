@@ -9,3 +9,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58455/1.0
 - name: racepower
   src: https://static-cdn.jtvnw.net/emoticons/v1/60266/1.0
+- name: racehug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114507/1.0
+- name: racefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114506/1.0

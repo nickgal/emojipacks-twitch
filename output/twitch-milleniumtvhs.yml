@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - milleniumtvhs
 emojis:
-- name: mtvhstd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57939/1.0
-- name: mtvhsm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57657/1.0
+- name: mtvhstkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91948/1.0
+- name: mtvhsokappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91946/1.0
+- name: mtvhsmkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91945/1.0
 - name: mtvhsameno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63040/1.0
-- name: mtvhsskill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63041/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91943/1.0
+- name: mtvhsesport
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91944/1.0
+- name: mtvhslkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96677/1.0

@@ -7,6 +7,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27439/1.0
 - name: yodaloiro
   src: https://static-cdn.jtvnw.net/emoticons/v1/29407/1.0
+- name: yodakedepo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110123/1.0
 - name: yodalag1
   src: https://static-cdn.jtvnw.net/emoticons/v1/57685/1.0
 - name: yodalag2
@@ -15,3 +17,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58247/1.0
 - name: yodakapparina
   src: https://static-cdn.jtvnw.net/emoticons/v1/61597/1.0
+- name: yodatilted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111049/1.0
+- name: yodatrab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109169/1.0
+- name: yodaping
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109166/1.0

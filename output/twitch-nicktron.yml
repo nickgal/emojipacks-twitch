@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - nicktron
 emojis:
 - name: ntronpro
   src: https://static-cdn.jtvnw.net/emoticons/v1/28706/1.0
-- name: ntronface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26037/1.0
-- name: ntronjen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27199/1.0
-- name: ntron666
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26684/1.0
-- name: ntronddos
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27868/1.0
 - name: ntronsaint
   src: https://static-cdn.jtvnw.net/emoticons/v1/27986/1.0
-- name: ntrongawd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28567/1.0
-- name: ntronnoob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30202/1.0
+- name: ntroncry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101882/1.0
+- name: ntroncrazy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104578/1.0
+- name: ntronhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91401/1.0
+- name: ntronpixie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95231/1.0
+- name: ntrongasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93164/1.0
+- name: ntronomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111331/1.0

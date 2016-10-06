@@ -1,8 +1,22 @@
 ---
 title: Twitch Subscriber Emotes - luminosity48
 emojis:
+- name: luminw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87059/1.0
+- name: luminb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87062/1.0
+- name: luminwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87063/1.0
+- name: luminr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87060/1.0
+- name: luminh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87058/1.0
 - name: lumink
   src: https://static-cdn.jtvnw.net/emoticons/v1/81045/1.0
+- name: luminc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87057/1.0
+- name: lumina
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95005/1.0
 - name: lumins
   src: https://static-cdn.jtvnw.net/emoticons/v1/60671/1.0
 - name: luminhype
@@ -15,9 +29,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60430/1.0
 - name: luminbsk
   src: https://static-cdn.jtvnw.net/emoticons/v1/60431/1.0
-- name: lumincom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60432/1.0
-- name: luminbsp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62935/1.0
-- name: lumingoat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63917/1.0
+- name: luminrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87083/1.0
+- name: luminy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112868/1.0

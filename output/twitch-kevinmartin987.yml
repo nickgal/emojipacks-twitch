@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - kevinmartin987
 emojis:
-- name: kmartherocall
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64623/1.0
-- name: kmartk2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64624/1.0
-- name: kmartwalk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73703/1.0
-- name: kmartpaint
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73700/1.0
-- name: kmartbusto
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64626/1.0
 - name: kmartletsgo
   src: https://static-cdn.jtvnw.net/emoticons/v1/64625/1.0
 - name: kmartjersey
   src: https://static-cdn.jtvnw.net/emoticons/v1/73701/1.0
-- name: kmartbadbeat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73702/1.0
 - name: kmartshrimp
   src: https://static-cdn.jtvnw.net/emoticons/v1/84622/1.0
+- name: kmartwalk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95286/1.0
+- name: kmarthero
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96066/1.0
+- name: kmartnuts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96067/1.0
+- name: kmartpili
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95291/1.0
 - name: kmartbrick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74174/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108007/1.0
+- name: kmartak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108008/1.0
+- name: kmartkevin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108009/1.0

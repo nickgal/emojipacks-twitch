@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - shadowqwe
 emojis:
 - name: shadowameno
   src: https://static-cdn.jtvnw.net/emoticons/v1/22070/1.0
-- name: shadowboshy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9909/1.0
-- name: shadownohog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9912/1.0
-- name: shadowfreekill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9942/1.0
 - name: shadowhilarious
   src: https://static-cdn.jtvnw.net/emoticons/v1/14014/1.0
 - name: shadowgotta
   src: https://static-cdn.jtvnw.net/emoticons/v1/17418/1.0
+- name: shadowgreed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93744/1.0
+- name: shadowdenial
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88265/1.0
 - name: shadoww
   src: https://static-cdn.jtvnw.net/emoticons/v1/45998/1.0
-- name: shadowafk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45999/1.0
+- name: shadowneed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88743/1.0
+- name: shadowvape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92183/1.0

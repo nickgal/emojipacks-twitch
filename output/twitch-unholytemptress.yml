@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - unholytemptress
 emojis:
-- name: unholytots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7265/1.0
 - name: unholyging
   src: https://static-cdn.jtvnw.net/emoticons/v1/10645/1.0
 - name: unholygasm
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39826/1.0
 - name: unholy420
   src: https://static-cdn.jtvnw.net/emoticons/v1/59854/1.0
+- name: unholygame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103900/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - masterlemen
 emojis:
+- name: lemengasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112384/1.0
+- name: lemenlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111730/1.0
+- name: lementriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111731/1.0
 - name: lemenhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80600/1.0
-- name: lemenrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84204/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111894/1.0

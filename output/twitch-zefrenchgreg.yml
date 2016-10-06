@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - zefrenchgreg
 emojis:
 - name: gremlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/52394/1.0
-- name: gredon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45675/1.0
 - name: grefail
   src: https://static-cdn.jtvnw.net/emoticons/v1/44660/1.0
 - name: gresub
@@ -12,4 +10,6 @@ emojis:
 - name: grehey
   src: https://static-cdn.jtvnw.net/emoticons/v1/44967/1.0
 - name: gre18
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45222/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97649/1.0
+- name: grecry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95130/1.0

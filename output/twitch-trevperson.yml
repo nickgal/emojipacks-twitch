@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - trevperson
 emojis:
+- name: trevtear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90168/1.0
 - name: trevno
   src: https://static-cdn.jtvnw.net/emoticons/v1/64670/1.0
 - name: trevspooky

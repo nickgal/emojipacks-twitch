@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - paranoi4k
 emojis:
-- name: paranowub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33094/1.0
-- name: paranofail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33093/1.0
 - name: paranogg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33092/1.0
-- name: paranooklm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33496/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92959/1.0
+- name: paranodon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92884/1.0
 - name: paranorip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33053/1.0
-- name: paranothug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45064/1.0
-- name: paranobg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45132/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92954/1.0
+- name: paranorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92962/1.0
+- name: paranosub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92960/1.0
+- name: paranofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92965/1.0
+- name: paranohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92958/1.0
 - name: paranopls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74705/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93088/1.0

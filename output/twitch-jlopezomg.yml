@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - jlopezomg
 emojis:
-- name: lopezlolrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58189/1.0
-- name: lopezloltf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58045/1.0
-- name: lopezlolmartha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58356/1.0
-- name: lopezlolawk
+- name: lopezomgnade
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108671/1.0
+- name: lopezomgawk
   src: https://static-cdn.jtvnw.net/emoticons/v1/58041/1.0
+- name: lopezomghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111263/1.0
+- name: lopezomgvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111262/1.0
+- name: lopezomgrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111294/1.0

@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - uhavetoplay
 emojis:
 - name: uhtpgop
   src: https://static-cdn.jtvnw.net/emoticons/v1/53669/1.0
-- name: uhtpelemchosi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47520/1.0
 - name: uhtpelemvoker
   src: https://static-cdn.jtvnw.net/emoticons/v1/47521/1.0
 - name: uhtpgorit
   src: https://static-cdn.jtvnw.net/emoticons/v1/48943/1.0
-- name: uhtpstorm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48940/1.0
 - name: uhtprub
   src: https://static-cdn.jtvnw.net/emoticons/v1/53911/1.0
 - name: uhtpsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/58724/1.0
-- name: uhtpfplm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58723/1.0
+- name: uhtpeboy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110239/1.0
+- name: uhtpuhtppride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110839/1.0
+- name: uhtpopieop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111197/1.0

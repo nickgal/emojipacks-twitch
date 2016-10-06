@@ -5,6 +5,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/5340/1.0
 - name: kgothhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/10931/1.0
+- name: kgoth1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106247/1.0
+- name: kgoth2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106248/1.0
+- name: kgoth3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106249/1.0
+- name: kgoth4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106251/1.0
 - name: kgothlurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/44065/1.0
 - name: kgothsalt
@@ -17,8 +25,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51966/1.0
 - name: kgothzero
   src: https://static-cdn.jtvnw.net/emoticons/v1/51967/1.0
-- name: kgothleg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63674/1.0
 - name: kgoth9000
   src: https://static-cdn.jtvnw.net/emoticons/v1/43512/1.0
 - name: kgothquack
@@ -39,55 +45,59 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/43511/1.0
 - name: kgothsmart
   src: https://static-cdn.jtvnw.net/emoticons/v1/43522/1.0
-- name: kgoth1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47018/1.0
-- name: kgoth2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47019/1.0
-- name: kgoth3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47020/1.0
-- name: kgoth4
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47021/1.0
+- name: kgothkek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104509/1.0
+- name: kgothdoit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104510/1.0
 - name: kgothboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/47022/1.0
-- name: kgothgramps
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47023/1.0
 - name: kgothwiz
   src: https://static-cdn.jtvnw.net/emoticons/v1/47025/1.0
 - name: kgothlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/49495/1.0
-- name: kgothrahgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49496/1.0
-- name: kgothnappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68989/1.0
 - name: kgothpeach
   src: https://static-cdn.jtvnw.net/emoticons/v1/57696/1.0
-- name: kgothcalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57695/1.0
 - name: kgothnlt
   src: https://static-cdn.jtvnw.net/emoticons/v1/62362/1.0
-- name: kgothory
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62581/1.0
-- name: kgothstorm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62580/1.0
-- name: kgothsun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62579/1.0
-- name: kgothnight
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62578/1.0
+- name: kgothaxe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103206/1.0
+- name: kgothballar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103207/1.0
+- name: kgothpeg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103208/1.0
 - name: kgothclown
   src: https://static-cdn.jtvnw.net/emoticons/v1/66416/1.0
-- name: kgothgoaskdatto
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66982/1.0
 - name: kgothfundad
   src: https://static-cdn.jtvnw.net/emoticons/v1/66983/1.0
 - name: kgothteehee
   src: https://static-cdn.jtvnw.net/emoticons/v1/66984/1.0
 - name: kgothslam
   src: https://static-cdn.jtvnw.net/emoticons/v1/66986/1.0
+- name: kgothsally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103209/1.0
 - name: kgothcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/67552/1.0
-- name: kgothparty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74299/1.0
-- name: kgothwparty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74301/1.0
 - name: kgothchoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/77770/1.0
+- name: kgothlit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98605/1.0
+- name: kgothparty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86282/1.0
+- name: kgothwparty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86283/1.0
+- name: kgothjuice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86284/1.0
+- name: kgothlink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91393/1.0
+- name: kgothtreasure
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93047/1.0
+- name: kgothgramps
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116003/1.0
+- name: kgothkarppa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116004/1.0
+- name: kgothleg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116006/1.0
+- name: kgothgoaskdatto
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116009/1.0
+- name: kgothkg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116707/1.0

@@ -9,18 +9,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/19702/1.0
 - name: kiwopan
   src: https://static-cdn.jtvnw.net/emoticons/v1/19700/1.0
-- name: kiwojesus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46762/1.0
 - name: kiwodead
   src: https://static-cdn.jtvnw.net/emoticons/v1/31328/1.0
-- name: kiwoderailed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32932/1.0
 - name: kiwolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/36417/1.0
-- name: kiwoheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36467/1.0
+- name: kiwoye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97392/1.0
 - name: kiwolamb
   src: https://static-cdn.jtvnw.net/emoticons/v1/41323/1.0
+- name: kiwowo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86578/1.0
 - name: kiwoplase
   src: https://static-cdn.jtvnw.net/emoticons/v1/44451/1.0
 - name: kiwokappa
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84780/1.0
 - name: kiwobeet
   src: https://static-cdn.jtvnw.net/emoticons/v1/84923/1.0
+- name: kiwobless
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96588/1.0

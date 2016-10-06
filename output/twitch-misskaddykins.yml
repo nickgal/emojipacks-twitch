@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - misskaddykins
 emojis:
-- name: kadlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19237/1.0
 - name: kadspoopy
   src: https://static-cdn.jtvnw.net/emoticons/v1/47603/1.0
-- name: kadbooty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47605/1.0
-- name: kadhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46995/1.0
-- name: kadsir
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46997/1.0
-- name: kadlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48938/1.0
 - name: kadsour
   src: https://static-cdn.jtvnw.net/emoticons/v1/48937/1.0
-- name: kadhoo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65762/1.0
 - name: kadwot
   src: https://static-cdn.jtvnw.net/emoticons/v1/82814/1.0
 - name: kadconcern
   src: https://static-cdn.jtvnw.net/emoticons/v1/84449/1.0
+- name: kadblush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109363/1.0
+- name: kadshades
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109364/1.0
+- name: kadlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109365/1.0
+- name: kadlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109366/1.0
+- name: kadsnooze
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109367/1.0
+- name: kadwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109368/1.0

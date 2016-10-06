@@ -3,14 +3,10 @@ title: Twitch Subscriber Emotes - sp4zie
 emojis:
 - name: sp4zie1
   src: https://static-cdn.jtvnw.net/emoticons/v1/2911/1.0
-- name: sp4ziedoooitz1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9726/1.0
 - name: sp4zieloy
   src: https://static-cdn.jtvnw.net/emoticons/v1/9727/1.0
 - name: sp4zie2
   src: https://static-cdn.jtvnw.net/emoticons/v1/9729/1.0
-- name: sp4ziedoooitz2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9730/1.0
 - name: sp4ziectdm
   src: https://static-cdn.jtvnw.net/emoticons/v1/9731/1.0
 - name: sp4ziecg
@@ -39,3 +35,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59615/1.0
 - name: sp4ziemerch
   src: https://static-cdn.jtvnw.net/emoticons/v1/70149/1.0
+- name: sp4ziedrink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85834/1.0
+- name: sp4zieu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85832/1.0
+- name: sp4zieroccat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97083/1.0

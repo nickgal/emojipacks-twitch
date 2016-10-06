@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - alliied
 emojis:
-- name: alliedkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59706/1.0
 - name: alliedew
   src: https://static-cdn.jtvnw.net/emoticons/v1/4703/1.0
-- name: alliedwoo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5529/1.0
 - name: alliedomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/5531/1.0
 - name: alliedhelp
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59705/1.0
 - name: alliedsavage
   src: https://static-cdn.jtvnw.net/emoticons/v1/69890/1.0
+- name: alliedchurch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90278/1.0
+- name: alliedfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90279/1.0

@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/24782/1.0
 - name: aplkapap
   src: https://static-cdn.jtvnw.net/emoticons/v1/30065/1.0
-- name: aplnotbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50919/1.0
 - name: aplhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/36666/1.0
 - name: apl1deag
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50707/1.0
 - name: aplfab
   src: https://static-cdn.jtvnw.net/emoticons/v1/67240/1.0
+- name: aplsavage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108466/1.0

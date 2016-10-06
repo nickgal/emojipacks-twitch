@@ -13,6 +13,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81434/1.0
 - name: mgsliar
   src: https://static-cdn.jtvnw.net/emoticons/v1/66793/1.0
+- name: mgshuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95014/1.0
 - name: mgswop
   src: https://static-cdn.jtvnw.net/emoticons/v1/31392/1.0
 - name: mgsplease
@@ -21,8 +23,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32860/1.0
 - name: mgsmix
   src: https://static-cdn.jtvnw.net/emoticons/v1/38678/1.0
-- name: mgsham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82471/1.0
 - name: mgsduck
   src: https://static-cdn.jtvnw.net/emoticons/v1/45294/1.0
 - name: mgsreally
@@ -39,5 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82289/1.0
 - name: mgslook
   src: https://static-cdn.jtvnw.net/emoticons/v1/82292/1.0
-- name: mgsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82293/1.0
+- name: mgsgos
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94814/1.0

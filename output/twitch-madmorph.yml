@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - madmorph
 emojis:
-- name: morphyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71205/1.0
 - name: morphyrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/80330/1.0
 - name: morphylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/80328/1.0
 - name: morphydamn
   src: https://static-cdn.jtvnw.net/emoticons/v1/80327/1.0
-- name: morphyfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60828/1.0
 - name: morphythump
   src: https://static-cdn.jtvnw.net/emoticons/v1/60829/1.0
-- name: morphyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61132/1.0
-- name: morphyblush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61134/1.0
 - name: morphybroken
   src: https://static-cdn.jtvnw.net/emoticons/v1/65303/1.0
 - name: morphygasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/73129/1.0
+- name: morphylul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105001/1.0
+- name: morphyevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116527/1.0
+- name: morphygasp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116529/1.0
+- name: morphyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116530/1.0

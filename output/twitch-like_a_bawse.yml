@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - like_a_bawse
 emojis:
-- name: bawsekeepo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82909/1.0
+- name: bawsecheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111220/1.0
 - name: bawsepoul
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83053/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88793/1.0
+- name: bawserng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90262/1.0
+- name: bawseangels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105486/1.0
+- name: bawseback
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94343/1.0
+- name: bawsegood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116243/1.0
+- name: bawsewut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116582/1.0
+- name: bawsesword
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116613/1.0

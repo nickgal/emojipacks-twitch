@@ -1,15 +1,41 @@
 ---
 title: Twitch Subscriber Emotes - silvername
 emojis:
-- name: s1lverhouse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70891/1.0
 - name: s1lversub
   src: https://static-cdn.jtvnw.net/emoticons/v1/72572/1.0
 - name: s1lverbatya
   src: https://static-cdn.jtvnw.net/emoticons/v1/72829/1.0
-- name: s1lverlee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70422/1.0
-- name: s1lvereasy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71288/1.0
-- name: s1lverkek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71025/1.0
+- name: s1lverkach
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95649/1.0
+- name: s1lvercyber
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95648/1.0
+- name: s1lversheriff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116859/1.0
+- name: s1lverpidrila
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116860/1.0
+- name: s1lverbunt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116861/1.0
+- name: s1lverallin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116649/1.0
+- name: s1lvermusic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116862/1.0
+- name: s1lvergoodgame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116835/1.0
+- name: s1lvercheater
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116834/1.0
+- name: s1lverrng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116833/1.0
+- name: s1lverowl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87741/1.0
+- name: s1lverfeelsbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117025/1.0
+- name: s1lverbanhammer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117026/1.0
+- name: s1lverzub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104145/1.0
+- name: s1lverw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105303/1.0
+- name: s1lver12
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112815/1.0
+- name: s1lvergasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116648/1.0

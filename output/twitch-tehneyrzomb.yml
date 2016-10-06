@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - tehneyrzomb
 emojis:
-- name: zomb7
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28717/1.0
+- name: zombsass
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88409/1.0
 - name: zomblove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28434/1.0
-- name: zombdog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50964/1.0
-- name: zombcucco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35581/1.0
-- name: zombmask
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35719/1.0
-- name: zombthing
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38427/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88405/1.0
+- name: zombgrump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88407/1.0
+- name: zombhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88408/1.0
+- name: zombshine
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95772/1.0
+- name: zombhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88404/1.0
 - name: zombcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68420/1.0
-- name: zombko
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59722/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88406/1.0
+- name: zombwoah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95773/1.0

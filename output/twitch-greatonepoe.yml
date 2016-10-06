@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - greatonepoe
 emojis:
-- name: greatescape
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11508/1.0
 - name: greatrituals
   src: https://static-cdn.jtvnw.net/emoticons/v1/9585/1.0
 - name: greatkappa
@@ -17,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/15190/1.0
 - name: greatrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/15191/1.0
+- name: greatlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99738/1.0
+- name: greatvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99737/1.0
+- name: greatg1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97499/1.0

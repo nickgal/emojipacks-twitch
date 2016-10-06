@@ -29,8 +29,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35713/1.0
 - name: sbzylotus
   src: https://static-cdn.jtvnw.net/emoticons/v1/56405/1.0
-- name: sbzyi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56709/1.0
+- name: sbzymistake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99891/1.0
+- name: sbzycool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99890/1.0
 - name: sbzymurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/56710/1.0
 - name: sbzydie
@@ -65,3 +67,25 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76291/1.0
 - name: sbzyhog
   src: https://static-cdn.jtvnw.net/emoticons/v1/76290/1.0
+- name: sbzyice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99889/1.0
+- name: sbzynotmei
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99897/1.0
+- name: sbzyi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103473/1.0
+- name: sbzyhoi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111100/1.0
+- name: sbzyswole
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106679/1.0
+- name: sbzywipe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106676/1.0
+- name: sbzydew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106675/1.0
+- name: sbzycliff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106677/1.0
+- name: sbzyluv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106678/1.0
+- name: sbzymoozy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112870/1.0
+- name: sbzys
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113173/1.0

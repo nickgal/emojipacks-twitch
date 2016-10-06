@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - thesterge
 emojis:
-- name: stergebaboon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69329/1.0
+- name: stergelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87264/1.0
+- name: stergefried
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87265/1.0
+- name: stergesup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87266/1.0
 - name: stergewod
   src: https://static-cdn.jtvnw.net/emoticons/v1/69038/1.0
-- name: stergecackle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68598/1.0
-- name: stergekoala
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68683/1.0
+- name: stergethump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89575/1.0
+- name: stergestab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89574/1.0

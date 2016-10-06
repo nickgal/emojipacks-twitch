@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - jasminalin
 emojis:
-- name: jasknee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81495/1.0
-- name: jasderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81494/1.0
-- name: jastilt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81500/1.0
-- name: jasgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81502/1.0
 - name: jashi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82086/1.0
-- name: jastroll
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82598/1.0
-- name: jasxd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82597/1.0
-- name: jaswtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82596/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109823/1.0
+- name: jasrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112157/1.0
+- name: jasw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97677/1.0
+- name: jasgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112169/1.0
+- name: jaslul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106947/1.0
+- name: jasderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106948/1.0
+- name: jasknee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106949/1.0
+- name: jascry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112137/1.0
+- name: jaslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112138/1.0
+- name: jasthirsty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112141/1.0

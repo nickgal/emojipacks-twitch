@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - polaritygg
 emojis:
+- name: polbruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87974/1.0
+- name: polplup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87975/1.0
 - name: polpappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/83049/1.0
 - name: polflako

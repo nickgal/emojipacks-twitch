@@ -1,10 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - civila
 emojis:
-- name: civilan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82364/1.0
-- name: civiladng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82363/1.0
+- name: civilak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94985/1.0
 - name: civilaakan
   src: https://static-cdn.jtvnw.net/emoticons/v1/81953/1.0
 - name: civilaface
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84227/1.0
 - name: civilaban
   src: https://static-cdn.jtvnw.net/emoticons/v1/84228/1.0
+- name: civiladng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96209/1.0

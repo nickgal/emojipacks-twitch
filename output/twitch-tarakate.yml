@@ -3,11 +3,17 @@ title: Twitch Subscriber Emotes - tarakate
 emojis:
 - name: tkatepoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/83962/1.0
-- name: tkatecry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83961/1.0
+- name: tkatecone
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89991/1.0
+- name: tkateramen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114231/1.0
 - name: tkatemeow
   src: https://static-cdn.jtvnw.net/emoticons/v1/80717/1.0
-- name: tkaterngesus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80946/1.0
-- name: tkatelavalove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81489/1.0
+- name: tkatelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86632/1.0
+- name: tkatecry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92905/1.0
+- name: tkatelol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100229/1.0
+- name: tkateomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112574/1.0

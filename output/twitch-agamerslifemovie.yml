@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - agamerslifemovie
 emojis:
-- name: gamerslifetroll
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51930/1.0
+- name: gamerslifeflame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109272/1.0
+- name: gamerslifehappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109271/1.0

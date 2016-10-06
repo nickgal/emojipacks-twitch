@@ -7,12 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62241/1.0
 - name: syrinxxrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/62239/1.0
-- name: syrinxxvac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54869/1.0
-- name: syrinxxkawaii
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54876/1.0
-- name: syrinxxantim8
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54874/1.0
 - name: syrinxxschelle
   src: https://static-cdn.jtvnw.net/emoticons/v1/54871/1.0
 - name: syrinxxlamaswag
@@ -21,6 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82765/1.0
 - name: syrinxxez
   src: https://static-cdn.jtvnw.net/emoticons/v1/55388/1.0
+- name: syrinxxaccountcheck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102228/1.0
 - name: syrinxxlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/54216/1.0
 - name: syrinxxcry
@@ -31,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62788/1.0
 - name: syrinxxspucke
   src: https://static-cdn.jtvnw.net/emoticons/v1/62652/1.0
-- name: syrinxxbrei
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62651/1.0
 - name: syrinxxrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/82593/1.0
 - name: syrinxxsub
@@ -41,3 +35,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84188/1.0
 - name: syrinxxdj
   src: https://static-cdn.jtvnw.net/emoticons/v1/82786/1.0
+- name: syrinxxkawaii
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102435/1.0
+- name: syrinxxnichtbummeln
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103051/1.0
+- name: syrinxxrueckzug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103052/1.0

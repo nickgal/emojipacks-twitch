@@ -3,8 +3,8 @@ title: Twitch Subscriber Emotes - vitalic_dota2
 emojis:
 - name: vitalicpower
   src: https://static-cdn.jtvnw.net/emoticons/v1/74823/1.0
-- name: vitalicpogchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83556/1.0
+- name: vitalicsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103146/1.0
 - name: vitalicretro
   src: https://static-cdn.jtvnw.net/emoticons/v1/76577/1.0
 - name: vitalicboah
@@ -13,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72975/1.0
 - name: vitalicnotlikethis
   src: https://static-cdn.jtvnw.net/emoticons/v1/83555/1.0
+- name: vitalicseemsgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91306/1.0
+- name: vitaliclul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103028/1.0

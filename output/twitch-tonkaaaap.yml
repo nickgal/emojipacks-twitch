@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - tonkaaaap
 emojis:
 - name: tonkhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/82718/1.0
-- name: tonkweird
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84401/1.0
 - name: tonknever
   src: https://static-cdn.jtvnw.net/emoticons/v1/84400/1.0
 - name: tonkface
@@ -13,5 +11,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81197/1.0
 - name: tonkchair
   src: https://static-cdn.jtvnw.net/emoticons/v1/82424/1.0
+- name: tonkcage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101074/1.0
+- name: tonkbiscuits
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101778/1.0
+- name: tonkreads
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88753/1.0
 - name: tonkconor
   src: https://static-cdn.jtvnw.net/emoticons/v1/81820/1.0
+- name: tonkpunt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91078/1.0
+- name: tonkmahman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88752/1.0
+- name: tonkouts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88751/1.0
+- name: tonkmuppet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91359/1.0
+- name: tonkrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109758/1.0
+- name: tonktilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108971/1.0

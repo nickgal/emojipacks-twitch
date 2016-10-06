@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3440/1.0
 - name: robertsleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/13026/1.0
+- name: robertw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94688/1.0
 - name: robertthrow
   src: https://static-cdn.jtvnw.net/emoticons/v1/26269/1.0
 - name: robertsalt
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75328/1.0
 - name: robertcash
   src: https://static-cdn.jtvnw.net/emoticons/v1/78247/1.0
+- name: roberthey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94666/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - xchocobars
 emojis:
-- name: chocopotato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11661/1.0
 - name: chocoblessed
   src: https://static-cdn.jtvnw.net/emoticons/v1/11670/1.0
 - name: chocorengar
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70732/1.0
 - name: chocow
   src: https://static-cdn.jtvnw.net/emoticons/v1/76318/1.0
+- name: chocog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86104/1.0

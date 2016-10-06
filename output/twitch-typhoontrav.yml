@@ -3,21 +3,17 @@ title: Twitch Subscriber Emotes - typhoontrav
 emojis:
 - name: typhhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/78055/1.0
-- name: typhbsk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79922/1.0
 - name: typhfeet
   src: https://static-cdn.jtvnw.net/emoticons/v1/78053/1.0
 - name: typhhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/78054/1.0
-- name: typhmlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78056/1.0
-- name: typhnerd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78057/1.0
-- name: typhyacht
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78058/1.0
-- name: typhbye
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81969/1.0
-- name: typhthem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82662/1.0
 - name: typhotf
   src: https://static-cdn.jtvnw.net/emoticons/v1/85561/1.0
+- name: typhlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110063/1.0
+- name: typhchill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109907/1.0
+- name: typhshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109905/1.0
+- name: typhyacht
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109906/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - kogumah
 emojis:
-- name: koguyay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77375/1.0
 - name: kogujobi
   src: https://static-cdn.jtvnw.net/emoticons/v1/77374/1.0
 - name: kogukimchi
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/85484/1.0
 - name: koguross
   src: https://static-cdn.jtvnw.net/emoticons/v1/85483/1.0
+- name: kogugasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102053/1.0

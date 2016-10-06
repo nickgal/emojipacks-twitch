@@ -3,3 +3,9 @@ title: Twitch Subscriber Emotes - eltown_
 emojis:
 - name: eltownkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/67278/1.0
+- name: eltowntilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116134/1.0
+- name: eltowngasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116319/1.0
+- name: eltownhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116490/1.0

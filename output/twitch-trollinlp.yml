@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - trollinlp
 emojis:
+- name: trollinbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97513/1.0
+- name: trollinwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97511/1.0
 - name: trollinfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/64080/1.0
 - name: trollinhh
   src: https://static-cdn.jtvnw.net/emoticons/v1/56445/1.0
-- name: trollinvarney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56444/1.0
 - name: trollinrock
   src: https://static-cdn.jtvnw.net/emoticons/v1/57231/1.0
 - name: trollinhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/56510/1.0
-- name: trollinlu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62392/1.0
-- name: trollinah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75426/1.0
+- name: trollinriot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97512/1.0
+- name: trollinlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98048/1.0

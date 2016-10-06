@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - officialduckstudios
 emojis:
-- name: circlekevan
+- name: odskevan
   src: https://static-cdn.jtvnw.net/emoticons/v1/65652/1.0
-- name: circlecircle
+- name: odscircle
   src: https://static-cdn.jtvnw.net/emoticons/v1/65299/1.0
+- name: odsbleach
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97507/1.0
+- name: odsduck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97506/1.0

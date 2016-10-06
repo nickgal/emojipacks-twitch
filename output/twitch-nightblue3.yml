@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - nightblue3
 emojis:
-- name: nb3evil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58251/1.0
-- name: nb3doit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57375/1.0
 - name: nb3kiss
   src: https://static-cdn.jtvnw.net/emoticons/v1/57376/1.0
 - name: nb3lmao
@@ -19,14 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79623/1.0
 - name: nb3give
   src: https://static-cdn.jtvnw.net/emoticons/v1/17839/1.0
-- name: nb3p
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27306/1.0
 - name: nb3h
   src: https://static-cdn.jtvnw.net/emoticons/v1/20280/1.0
-- name: nb3thump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27307/1.0
-- name: nb3wave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31352/1.0
 - name: nb3gasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/33940/1.0
 - name: nb3gg
@@ -45,40 +35,28 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76894/1.0
 - name: nb3meh
   src: https://static-cdn.jtvnw.net/emoticons/v1/78383/1.0
-- name: nb3clench
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38828/1.0
 - name: nb3hello
   src: https://static-cdn.jtvnw.net/emoticons/v1/78385/1.0
 - name: nb3f
   src: https://static-cdn.jtvnw.net/emoticons/v1/78386/1.0
+- name: nb3beg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102351/1.0
+- name: nb3smug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102352/1.0
 - name: nb3derp
   src: https://static-cdn.jtvnw.net/emoticons/v1/78387/1.0
 - name: nb3hide
   src: https://static-cdn.jtvnw.net/emoticons/v1/52651/1.0
 - name: nb3blush
   src: https://static-cdn.jtvnw.net/emoticons/v1/78388/1.0
-- name: nb33g
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45196/1.0
 - name: nb3ten
   src: https://static-cdn.jtvnw.net/emoticons/v1/47664/1.0
-- name: nb3ok
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51736/1.0
 - name: nb3happy
   src: https://static-cdn.jtvnw.net/emoticons/v1/51738/1.0
 - name: nb3hug
   src: https://static-cdn.jtvnw.net/emoticons/v1/54953/1.0
-- name: nb3lick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54954/1.0
-- name: nb3salt1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54955/1.0
-- name: nb3salt2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54956/1.0
-- name: nb3wink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54957/1.0
 - name: nb3rawr
   src: https://static-cdn.jtvnw.net/emoticons/v1/58252/1.0
-- name: nb3lewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59539/1.0
 - name: nb3mad
   src: https://static-cdn.jtvnw.net/emoticons/v1/59540/1.0
 - name: nb3feels
@@ -87,17 +65,39 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60317/1.0
 - name: nb3faint
   src: https://static-cdn.jtvnw.net/emoticons/v1/75385/1.0
-- name: nb3late
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75387/1.0
-- name: nb3eu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75381/1.0
-- name: nb3na
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75382/1.0
-- name: nb3freelo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75383/1.0
 - name: nb3broken
   src: https://static-cdn.jtvnw.net/emoticons/v1/79619/1.0
 - name: nb3cool
   src: https://static-cdn.jtvnw.net/emoticons/v1/79620/1.0
 - name: nb3cute
   src: https://static-cdn.jtvnw.net/emoticons/v1/79621/1.0
+- name: nb3blank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85980/1.0
+- name: nb3poro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/27306/1.0
+- name: nb3p
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85981/1.0
+- name: nb3cry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85982/1.0
+- name: nb3pepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91280/1.0
+- name: nb3giggle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91281/1.0
+- name: nb3thirsty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91282/1.0
+- name: nb3trash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91283/1.0
+- name: nb3boosted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97159/1.0
+- name: nb3fed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97160/1.0
+- name: nb3lick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97162/1.0
+- name: nb3weeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93200/1.0
+- name: nb3puke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103604/1.0
+- name: nb3omg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105724/1.0
+- name: nb3cya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106722/1.0

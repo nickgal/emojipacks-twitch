@@ -3,41 +3,41 @@ title: Twitch Subscriber Emotes - badnewsbaron
 emojis:
 - name: badlick
   src: https://static-cdn.jtvnw.net/emoticons/v1/26248/1.0
-- name: badhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29963/1.0
-- name: badtest
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29194/1.0
-- name: badno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34589/1.0
-- name: badhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34588/1.0
-- name: badrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34904/1.0
 - name: badgood
   src: https://static-cdn.jtvnw.net/emoticons/v1/77379/1.0
 - name: badfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/45982/1.0
-- name: badheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44976/1.0
 - name: badraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/45382/1.0
 - name: badobey
   src: https://static-cdn.jtvnw.net/emoticons/v1/45383/1.0
-- name: badderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75653/1.0
+- name: badhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102126/1.0
 - name: badfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/75652/1.0
-- name: badrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76045/1.0
-- name: badbacon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77376/1.0
 - name: baddeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/73724/1.0
-- name: badw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73726/1.0
 - name: badbenny
   src: https://static-cdn.jtvnw.net/emoticons/v1/75158/1.0
 - name: badscience
   src: https://static-cdn.jtvnw.net/emoticons/v1/75845/1.0
+- name: badhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102039/1.0
+- name: baddisco
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102037/1.0
 - name: badgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76040/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102038/1.0
+- name: badlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102040/1.0
+- name: badrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102041/1.0
+- name: badrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102042/1.0
+- name: badrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102043/1.0
+- name: badshock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102044/1.0
+- name: badtouch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102045/1.0
+- name: badwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102046/1.0

@@ -3,9 +3,17 @@ title: Twitch Subscriber Emotes - askjoshy
 emojis:
 - name: askgot
   src: https://static-cdn.jtvnw.net/emoticons/v1/59011/1.0
-- name: askreaper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73600/1.0
 - name: askeyes
   src: https://static-cdn.jtvnw.net/emoticons/v1/59708/1.0
 - name: askpharah
   src: https://static-cdn.jtvnw.net/emoticons/v1/73093/1.0
+- name: askgold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88064/1.0
+- name: asksquad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89012/1.0
+- name: askhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91177/1.0
+- name: askreaper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95802/1.0
+- name: askjunk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95496/1.0

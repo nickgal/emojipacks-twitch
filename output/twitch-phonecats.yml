@@ -3,11 +3,31 @@ title: Twitch Subscriber Emotes - phonecats
 emojis:
 - name: pcatsm
   src: https://static-cdn.jtvnw.net/emoticons/v1/63983/1.0
-- name: pcatsderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63988/1.0
-- name: pcatsfp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63992/1.0
-- name: pcatsaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63986/1.0
+- name: pcatsrg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103014/1.0
+- name: pcatsdiep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103011/1.0
 - name: pcatsf
   src: https://static-cdn.jtvnw.net/emoticons/v1/63984/1.0
+- name: pcatslol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86096/1.0
+- name: pcatsmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86094/1.0
+- name: pcatshog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86085/1.0
+- name: pcatsc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97668/1.0
+- name: pcatscry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97664/1.0
+- name: pcatsup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97661/1.0
+- name: pcatsdx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103026/1.0
+- name: pcatsspam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103033/1.0
+- name: pcatsbowler
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111335/1.0
+- name: pcatslogo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111337/1.0
+- name: pcatslogo2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111336/1.0

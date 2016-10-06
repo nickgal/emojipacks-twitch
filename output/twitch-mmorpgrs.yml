@@ -23,21 +23,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33199/1.0
 - name: mmorpgwat
   src: https://static-cdn.jtvnw.net/emoticons/v1/49914/1.0
+- name: mmorpgb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102226/1.0
 - name: mmorpgtune
   src: https://static-cdn.jtvnw.net/emoticons/v1/50068/1.0
 - name: mmorpggasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/50066/1.0
 - name: mmorpgflip
   src: https://static-cdn.jtvnw.net/emoticons/v1/50065/1.0
-- name: mmorpgaok
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50064/1.0
-- name: mmorpgtonk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50067/1.0
 - name: mmorpgthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/53031/1.0
 - name: mmorpgfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/53034/1.0
 - name: mmorpgh
   src: https://static-cdn.jtvnw.net/emoticons/v1/53035/1.0
-- name: mmorpggood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53038/1.0
+- name: mmorpgj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102232/1.0
+- name: mmorpgs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102167/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - elementalqt
 emojis:
-- name: eqtqtsparrow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4066/1.0
 - name: eqtninjad
   src: https://static-cdn.jtvnw.net/emoticons/v1/4009/1.0
 - name: eqthayden
@@ -15,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50339/1.0
 - name: eqtfake
   src: https://static-cdn.jtvnw.net/emoticons/v1/60307/1.0
+- name: eqtus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87662/1.0
+- name: eqtwutface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90869/1.0

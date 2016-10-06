@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - sinowbeats
 emojis:
+- name: sinowthirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109270/1.0
+- name: sinowrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109269/1.0
 - name: sinowluck
   src: https://static-cdn.jtvnw.net/emoticons/v1/75914/1.0
 - name: sinowkanpai
   src: https://static-cdn.jtvnw.net/emoticons/v1/75836/1.0
-- name: sinowthirst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80652/1.0
 - name: sinowdust
   src: https://static-cdn.jtvnw.net/emoticons/v1/85033/1.0

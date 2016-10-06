@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - slootbag
 emojis:
-- name: slootybeard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3596/1.0
 - name: slootycool
   src: https://static-cdn.jtvnw.net/emoticons/v1/3595/1.0
-- name: slootyhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12924/1.0
 - name: slootycat1
   src: https://static-cdn.jtvnw.net/emoticons/v1/15706/1.0
 - name: slootycat2
@@ -31,3 +27,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78316/1.0
 - name: slootysrn
   src: https://static-cdn.jtvnw.net/emoticons/v1/78303/1.0
+- name: slootysloth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100207/1.0
+- name: slootyyear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100208/1.0
+- name: slootycreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100209/1.0
+- name: slootygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100210/1.0
+- name: slootyblood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113213/1.0
+- name: slootyloot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113214/1.0
+- name: slootydog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113784/1.0

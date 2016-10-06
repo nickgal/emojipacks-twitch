@@ -1,24 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - eloise_ailv
 emojis:
-- name: eloisechamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66804/1.0
+- name: eloisee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99311/1.0
 - name: eloisegasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/63099/1.0
 - name: eloisew
   src: https://static-cdn.jtvnw.net/emoticons/v1/54247/1.0
-- name: eloisefaesh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53998/1.0
 - name: eloisefist
   src: https://static-cdn.jtvnw.net/emoticons/v1/67862/1.0
-- name: eloiseban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66434/1.0
-- name: eloisewb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64353/1.0
-- name: eloiseman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66297/1.0
-- name: eloisegachi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65630/1.0
 - name: eloisethump
   src: https://static-cdn.jtvnw.net/emoticons/v1/64299/1.0
 - name: eloisefriend
@@ -27,7 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64543/1.0
 - name: eloiserip
   src: https://static-cdn.jtvnw.net/emoticons/v1/67085/1.0
-- name: eloisecena
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68542/1.0
-- name: eloiseanele
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68541/1.0
+- name: eloisewow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114618/1.0
+- name: eloiseweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100226/1.0

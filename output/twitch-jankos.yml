@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - jankos
 emojis:
-- name: jankosroccat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51352/1.0
+- name: jankosh2k
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99766/1.0
+- name: jankoscheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99765/1.0
 - name: jankoslee
   src: https://static-cdn.jtvnw.net/emoticons/v1/51468/1.0
 - name: jankoskrul
   src: https://static-cdn.jtvnw.net/emoticons/v1/51479/1.0
-- name: jankosbejbi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53343/1.0
 - name: jankoskappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/53499/1.0
 - name: jankosff
   src: https://static-cdn.jtvnw.net/emoticons/v1/67241/1.0
 - name: jankost
   src: https://static-cdn.jtvnw.net/emoticons/v1/67083/1.0
+- name: jankospride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99767/1.0

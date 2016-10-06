@@ -3,21 +3,21 @@ title: Twitch Subscriber Emotes - esgame
 emojis:
 - name: partbubba
   src: https://static-cdn.jtvnw.net/emoticons/v1/38540/1.0
-- name: partheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38884/1.0
 - name: partshelby
   src: https://static-cdn.jtvnw.net/emoticons/v1/38931/1.0
-- name: partthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61096/1.0
+- name: parthype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97227/1.0
+- name: partrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97233/1.0
+- name: partheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97217/1.0
+- name: partfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97235/1.0
 - name: partfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61557/1.0
-- name: partlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61560/1.0
-- name: partchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61562/1.0
-- name: partkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61558/1.0
-- name: partfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78567/1.0
-- name: partrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78572/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97236/1.0
+- name: partcash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97237/1.0
+- name: partbrave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97238/1.0
+- name: part7
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97239/1.0

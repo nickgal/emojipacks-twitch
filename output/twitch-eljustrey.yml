@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - eljustrey
 emojis:
 - name: justgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/61372/1.0
-- name: justrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70487/1.0
+- name: justangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98984/1.0
+- name: justrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98985/1.0
+- name: justcoin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98988/1.0

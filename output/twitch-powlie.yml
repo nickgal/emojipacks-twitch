@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - powlie
 emojis:
-- name: powpowlie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71566/1.0
 - name: powczapka
   src: https://static-cdn.jtvnw.net/emoticons/v1/73631/1.0
+- name: powniee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110526/1.0
+- name: powpyk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110528/1.0
 - name: powdeaglebrothers
   src: https://static-cdn.jtvnw.net/emoticons/v1/72710/1.0
 - name: powzolwik
   src: https://static-cdn.jtvnw.net/emoticons/v1/77394/1.0
-- name: powmacio
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80280/1.0
 - name: powhalo
   src: https://static-cdn.jtvnw.net/emoticons/v1/80281/1.0
+- name: powdrunk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110529/1.0
+- name: powpetarda
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110527/1.0

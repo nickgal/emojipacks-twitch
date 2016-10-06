@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - familyjules7x
 emojis:
-- name: julesbrotit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18811/1.0
-- name: julesrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18812/1.0
-- name: juleswhy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18912/1.0
-- name: juleswhale
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18909/1.0
 - name: julesgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/19686/1.0
 - name: julesrock
   src: https://static-cdn.jtvnw.net/emoticons/v1/19682/1.0
 - name: julescri
   src: https://static-cdn.jtvnw.net/emoticons/v1/24686/1.0
-- name: julespicnic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24661/1.0
+- name: julesbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116838/1.0
+- name: julesok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115981/1.0
+- name: julesdoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115982/1.0
+- name: juleswhale
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117072/1.0
+- name: julesfemwhale
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117073/1.0

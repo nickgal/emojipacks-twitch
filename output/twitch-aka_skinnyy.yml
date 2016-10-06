@@ -1,21 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - aka_skinnyy
 emojis:
+- name: skinnyqt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107286/1.0
 - name: skinnycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62091/1.0
-- name: skinnyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51890/1.0
-- name: skinnyfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48039/1.0
-- name: skinnygasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48040/1.0
-- name: skinnyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52243/1.0
-- name: skinnyrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53315/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95337/1.0
 - name: skinnychill
   src: https://static-cdn.jtvnw.net/emoticons/v1/63038/1.0
+- name: skinnymilk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86492/1.0
 - name: skinnylove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65643/1.0
-- name: skinnywelp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72499/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95338/1.0
+- name: skinnyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95336/1.0
+- name: skinny24
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96682/1.0
+- name: skinnyfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95334/1.0
+- name: skinnyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95335/1.0
+- name: skinnymew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107285/1.0

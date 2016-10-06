@@ -1,17 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - sonyatheevil
 emojis:
-- name: sonyaorange
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10116/1.0
-- name: sonyataco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16221/1.0
+- name: sonyaangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95631/1.0
+- name: sonyaevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95629/1.0
+- name: sonyahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95628/1.0
 - name: sonyagift
   src: https://static-cdn.jtvnw.net/emoticons/v1/25690/1.0
+- name: sonyabaka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95630/1.0
 - name: sonyalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/24915/1.0
 - name: sonyathump
   src: https://static-cdn.jtvnw.net/emoticons/v1/24916/1.0
 - name: sonyamath
   src: https://static-cdn.jtvnw.net/emoticons/v1/65495/1.0
-- name: sonyaay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64829/1.0
+- name: sonyataco
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116417/1.0
+- name: sonyachef
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116397/1.0

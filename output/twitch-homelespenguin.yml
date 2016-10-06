@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - homelespenguin
 emojis:
+- name: penguinconfused
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86551/1.0
 - name: penguinpotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/69319/1.0
 - name: penguinarmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/69290/1.0
 - name: penguinsnipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/69284/1.0
-- name: penguintucker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70477/1.0
 - name: penguinlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/70479/1.0
+- name: penguintucker
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86775/1.0

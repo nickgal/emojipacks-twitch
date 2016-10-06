@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lof_hackoru
 emojis:
-- name: hacksubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76642/1.0
-- name: hacknation
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76641/1.0
 - name: hackdunk
   src: https://static-cdn.jtvnw.net/emoticons/v1/72056/1.0
-- name: hackmonee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73652/1.0
 - name: hackfeelsbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/71859/1.0
-- name: hackweow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72523/1.0
 - name: hackheylof
   src: https://static-cdn.jtvnw.net/emoticons/v1/71718/1.0
-- name: hackdud
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77936/1.0
+- name: hacksubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86299/1.0
+- name: hackstoopid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111662/1.0
+- name: hackrambe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108647/1.0
+- name: hacklebron
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115540/1.0
+- name: hackytho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115537/1.0

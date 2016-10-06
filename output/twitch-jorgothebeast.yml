@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - jorgothebeast
 emojis:
+- name: jtbhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104814/1.0
 - name: jtbkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/62729/1.0
 - name: jtbrunter
@@ -13,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69549/1.0
 - name: jtbkrowny
   src: https://static-cdn.jtvnw.net/emoticons/v1/84384/1.0
+- name: jtbpflicken
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100740/1.0
+- name: jtbmoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104914/1.0
+- name: jtbknife
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104916/1.0

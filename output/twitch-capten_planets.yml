@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - capten_planets
 emojis:
-- name: planetsblessed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84467/1.0
 - name: planetsheli
   src: https://static-cdn.jtvnw.net/emoticons/v1/84625/1.0
 - name: planetsrad
   src: https://static-cdn.jtvnw.net/emoticons/v1/84404/1.0
-- name: planetsfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84327/1.0
-- name: planetsboop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84716/1.0
+- name: planetsfeelsbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87640/1.0
+- name: planetsfeelsgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87641/1.0
+- name: planetsbully
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86826/1.0
+- name: planetsk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87642/1.0
+- name: planetsehe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87645/1.0
+- name: planetsdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93405/1.0

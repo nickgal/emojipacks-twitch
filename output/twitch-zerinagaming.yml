@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - zerinagaming
 emojis:
+- name: zerhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103268/1.0
 - name: zerw
   src: https://static-cdn.jtvnw.net/emoticons/v1/52178/1.0
 - name: zerthump

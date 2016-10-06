@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/11473/1.0
 - name: cashyeet
   src: https://static-cdn.jtvnw.net/emoticons/v1/12819/1.0
-- name: cashcheese
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12820/1.0
 - name: cashdog
   src: https://static-cdn.jtvnw.net/emoticons/v1/14605/1.0
 - name: cashking
@@ -21,19 +19,25 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33022/1.0
 - name: cashcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/32967/1.0
-- name: cashbruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33028/1.0
 - name: cashfire
   src: https://static-cdn.jtvnw.net/emoticons/v1/49329/1.0
 - name: cashear
   src: https://static-cdn.jtvnw.net/emoticons/v1/72770/1.0
-- name: cashtrash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72771/1.0
 - name: cashsleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/78219/1.0
-- name: cashdab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75468/1.0
 - name: cashfax
   src: https://static-cdn.jtvnw.net/emoticons/v1/78222/1.0
-- name: cashl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78553/1.0
+- name: cashhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86945/1.0
+- name: cashderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86944/1.0
+- name: cashsweat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99523/1.0
+- name: cashha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99522/1.0
+- name: cashtim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100744/1.0
+- name: cashcmon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106989/1.0
+- name: cashcringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106991/1.0

@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - commonly
 emojis:
+- name: commonlyproblem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101625/1.0
 - name: commonlyface
   src: https://static-cdn.jtvnw.net/emoticons/v1/83928/1.0
-- name: commonlygold
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83911/1.0
+- name: commonlyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97726/1.0
 - name: commonlynlt
   src: https://static-cdn.jtvnw.net/emoticons/v1/79006/1.0
 - name: commonlyflys
   src: https://static-cdn.jtvnw.net/emoticons/v1/79004/1.0
-- name: commonlypeelio
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81935/1.0
+- name: commonlyflag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114750/1.0

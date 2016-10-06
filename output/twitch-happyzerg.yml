@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - happyzerg
 emojis:
-- name: slavikmurky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77380/1.0
 - name: slavikkpa
   src: https://static-cdn.jtvnw.net/emoticons/v1/77377/1.0
 - name: slavikgg
@@ -13,3 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77378/1.0
 - name: slavikw
   src: https://static-cdn.jtvnw.net/emoticons/v1/76654/1.0
+- name: slavikpomoika
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87609/1.0
+- name: slavikzerg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86877/1.0
+- name: slavikhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116899/1.0
+- name: slaviklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100035/1.0
+- name: slavikfeelsbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117034/1.0

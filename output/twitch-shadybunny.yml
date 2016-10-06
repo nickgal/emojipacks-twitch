@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - shadybunny
 emojis:
-- name: shadykappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15883/1.0
 - name: shadychamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/16149/1.0
 - name: shadyh
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57563/1.0
 - name: shadywut
   src: https://static-cdn.jtvnw.net/emoticons/v1/57564/1.0
+- name: shadypala
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94584/1.0

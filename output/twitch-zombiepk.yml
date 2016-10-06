@@ -1,13 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - zombiepk
 emojis:
-- name: zombiethump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23536/1.0
-- name: zombiek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24648/1.0
 - name: zombieric
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24651/1.0
-- name: zombieheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24370/1.0
-- name: zombieb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25020/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88241/1.0
+- name: zombieh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88481/1.0
+- name: zombieawoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88553/1.0
+- name: zombiet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89416/1.0

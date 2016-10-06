@@ -9,11 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/5060/1.0
 - name: nopptoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/9958/1.0
-- name: noppfate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11885/1.0
 - name: noppben
   src: https://static-cdn.jtvnw.net/emoticons/v1/18194/1.0
 - name: noppthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/17281/1.0
+- name: nopplikethis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/11885/1.0
 - name: nopptella
   src: https://static-cdn.jtvnw.net/emoticons/v1/52303/1.0
+- name: noppcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95808/1.0
+- name: noppsucks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95809/1.0

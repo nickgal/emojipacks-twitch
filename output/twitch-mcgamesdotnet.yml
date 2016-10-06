@@ -5,6 +5,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83494/1.0
 - name: mcgamesluck
   src: https://static-cdn.jtvnw.net/emoticons/v1/83493/1.0
+- name: mcgamescry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93886/1.0
+- name: mcgamesrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117037/1.0
 - name: mcgameslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/84025/1.0
 - name: mcgameshi

@@ -27,6 +27,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60857/1.0
 - name: sidefreedom
   src: https://static-cdn.jtvnw.net/emoticons/v1/73165/1.0
+- name: sideew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85354/1.0
 - name: sidedemon
   src: https://static-cdn.jtvnw.net/emoticons/v1/81326/1.0
 - name: sideblue
@@ -35,3 +37,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82411/1.0
 - name: sideflash
   src: https://static-cdn.jtvnw.net/emoticons/v1/84464/1.0
+- name: sidebleh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101090/1.0

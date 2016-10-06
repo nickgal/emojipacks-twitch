@@ -3,7 +3,9 @@ title: Twitch Subscriber Emotes - basti_bg
 emojis:
 - name: bastisowa
   src: https://static-cdn.jtvnw.net/emoticons/v1/85669/1.0
-- name: bastiw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82999/1.0
 - name: bastibat
   src: https://static-cdn.jtvnw.net/emoticons/v1/83000/1.0
+- name: bastiarr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97518/1.0
+- name: bastiesport
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106053/1.0

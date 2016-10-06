@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - patanrex
 emojis:
+- name: peitangool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91055/1.0
 - name: peitanok
   src: https://static-cdn.jtvnw.net/emoticons/v1/82403/1.0
 - name: peitangol
   src: https://static-cdn.jtvnw.net/emoticons/v1/82402/1.0
+- name: peitankappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90667/1.0
+- name: peitanrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97322/1.0
+- name: peitanfive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97323/1.0

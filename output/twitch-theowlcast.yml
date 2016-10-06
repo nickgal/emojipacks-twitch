@@ -9,7 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/24456/1.0
 - name: hootsenpai
   src: https://static-cdn.jtvnw.net/emoticons/v1/35492/1.0
-- name: hoottouch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35048/1.0
-- name: hoothi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68334/1.0
+- name: hootrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105097/1.0
+- name: hootpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105096/1.0
+- name: hoothug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85512/1.0
+- name: hootbanzai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105154/1.0

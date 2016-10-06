@@ -1,7 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - krzemapl
 emojis:
-- name: krzemaawp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58307/1.0
-- name: krzemaall
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59075/1.0
+- name: krzemabrawo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91476/1.0
+- name: krzemanaczilku
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91478/1.0
+- name: krzemarip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91999/1.0
+- name: krzemakalinka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91998/1.0
+- name: krzemagg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91997/1.0
+- name: krzemaface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85920/1.0
+- name: krzemagreen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90955/1.0
+- name: krzemablack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90954/1.0
+- name: krzemared
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90953/1.0
+- name: krzemacebula
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91996/1.0

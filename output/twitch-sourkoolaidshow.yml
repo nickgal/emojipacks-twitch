@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/24595/1.0
 - name: koolveto
   src: https://static-cdn.jtvnw.net/emoticons/v1/15734/1.0
-- name: kooldcam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15927/1.0
 - name: koolwally
   src: https://static-cdn.jtvnw.net/emoticons/v1/15957/1.0
 - name: koolschool
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32644/1.0
 - name: koolbreath
   src: https://static-cdn.jtvnw.net/emoticons/v1/32643/1.0
+- name: koolcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89810/1.0

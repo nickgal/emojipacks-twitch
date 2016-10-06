@@ -3,13 +3,9 @@ title: Twitch Subscriber Emotes - magikarpusedflylol
 emojis:
 - name: karpstunner
   src: https://static-cdn.jtvnw.net/emoticons/v1/53087/1.0
-- name: karpranked
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52917/1.0
-- name: karpsucks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52919/1.0
-- name: karppain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53086/1.0
-- name: karpderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53313/1.0
 - name: karpcute
   src: https://static-cdn.jtvnw.net/emoticons/v1/53318/1.0
+- name: karpsucc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108941/1.0
+- name: karpwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108942/1.0

@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - gagstrategists
 emojis:
-- name: gagscurse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81300/1.0
+- name: gagshappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94983/1.0
+- name: gagswhoa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104036/1.0
 - name: gagsboop
   src: https://static-cdn.jtvnw.net/emoticons/v1/81299/1.0
-- name: gagsbroke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81956/1.0
-- name: gagsrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81957/1.0
+- name: gagsguy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109921/1.0
+- name: gagsswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110049/1.0
+- name: gagsheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112727/1.0

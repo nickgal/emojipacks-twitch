@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - wyzanow
 emojis:
-- name: wyzabruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18541/1.0
 - name: wyzatroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/18532/1.0
 - name: wyzaknees
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/20834/1.0
 - name: wyzaban
   src: https://static-cdn.jtvnw.net/emoticons/v1/20848/1.0
+- name: wyzabacon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97158/1.0

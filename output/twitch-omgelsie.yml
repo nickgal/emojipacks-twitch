@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69478/1.0
 - name: elsiefight
   src: https://static-cdn.jtvnw.net/emoticons/v1/69479/1.0
+- name: elsiesob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104744/1.0
 - name: elsiesuccess
   src: https://static-cdn.jtvnw.net/emoticons/v1/69480/1.0
 - name: elsierage
@@ -13,7 +15,25 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69482/1.0
 - name: elsiesalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/69483/1.0
+- name: elsiescary
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104745/1.0
+- name: elsiespooky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104746/1.0
 - name: elsielove
   src: https://static-cdn.jtvnw.net/emoticons/v1/68494/1.0
 - name: elsieheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/68491/1.0
+- name: elsiecat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104596/1.0
+- name: elsielewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104597/1.0
+- name: elsieshock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104598/1.0
+- name: elsieoops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104599/1.0
+- name: elsieplz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104600/1.0
+- name: elsiesleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104601/1.0
+- name: elsieburrito
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104607/1.0

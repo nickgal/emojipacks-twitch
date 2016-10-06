@@ -13,12 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/23757/1.0
 - name: diaf
   src: https://static-cdn.jtvnw.net/emoticons/v1/42236/1.0
-- name: dial
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29186/1.0
-- name: diab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29252/1.0
-- name: diao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29251/1.0
 - name: diacry
   src: https://static-cdn.jtvnw.net/emoticons/v1/52741/1.0
 - name: diadeal
@@ -31,3 +25,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52736/1.0
 - name: diayay
   src: https://static-cdn.jtvnw.net/emoticons/v1/52737/1.0
+- name: dialul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117007/1.0

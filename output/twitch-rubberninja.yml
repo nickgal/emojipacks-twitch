@@ -1,5 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - rubberninja
 emojis:
-- name: ayerossrn
+- name: rubberrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93435/1.0
+- name: rubberkitty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93434/1.0
+- name: rubbergobbles
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93433/1.0
+- name: rubberevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93431/1.0
+- name: rubbertiredross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93430/1.0
+- name: rubberrn
   src: https://static-cdn.jtvnw.net/emoticons/v1/80492/1.0
+- name: rubberscrubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93428/1.0
+- name: rubberchype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93427/1.0

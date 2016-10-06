@@ -1,45 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - firedragon764
 emojis:
+- name: fifiderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90147/1.0
+- name: fifihug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90148/1.0
+- name: fifilewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90149/1.0
 - name: fifidragon
   src: https://static-cdn.jtvnw.net/emoticons/v1/2972/1.0
-- name: fifisub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3696/1.0
-- name: fifisass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49817/1.0
-- name: fifiglod
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7911/1.0
 - name: fifihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/10804/1.0
-- name: fifiluv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16742/1.0
-- name: fififeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18706/1.0
 - name: fifibutt
   src: https://static-cdn.jtvnw.net/emoticons/v1/26161/1.0
-- name: fificlench
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25071/1.0
-- name: fifipapa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25070/1.0
-- name: fififail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71284/1.0
 - name: fifipenguin
   src: https://static-cdn.jtvnw.net/emoticons/v1/25072/1.0
 - name: fififocus
   src: https://static-cdn.jtvnw.net/emoticons/v1/27419/1.0
-- name: fifithump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29154/1.0
 - name: fifiwhale
   src: https://static-cdn.jtvnw.net/emoticons/v1/51649/1.0
-- name: fifiwizard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40518/1.0
-- name: fifibooty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42184/1.0
-- name: fifirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42179/1.0
-- name: fificomfy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43673/1.0
+- name: fifisellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90152/1.0
+- name: fifirage1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90151/1.0
+- name: fifilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90150/1.0
 - name: fifihello
   src: https://static-cdn.jtvnw.net/emoticons/v1/49319/1.0
+- name: fifirage2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89957/1.0
+- name: fififail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89952/1.0
+- name: fificry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89950/1.0
+- name: fifithump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89949/1.0
+- name: fificlench
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89947/1.0
 - name: fifigc
   src: https://static-cdn.jtvnw.net/emoticons/v1/71713/1.0
+- name: fifiglod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91242/1.0

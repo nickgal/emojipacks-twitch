@@ -3,11 +3,9 @@ title: Twitch Subscriber Emotes - endahlol
 emojis:
 - name: endahsp
   src: https://static-cdn.jtvnw.net/emoticons/v1/28493/1.0
-- name: endahjoe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74104/1.0
 - name: endahwhy
   src: https://static-cdn.jtvnw.net/emoticons/v1/72856/1.0
-- name: endahribs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82880/1.0
-- name: endahrec
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84162/1.0
+- name: endahfish
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115970/1.0
+- name: endahpol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115979/1.0

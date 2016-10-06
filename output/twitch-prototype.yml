@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - prototype
 emojis:
+- name: protochoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91437/1.0
 - name: protokappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/49857/1.0
 - name: protohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/45635/1.0
-- name: prototeam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78632/1.0
 - name: protoheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/78877/1.0

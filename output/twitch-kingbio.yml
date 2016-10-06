@@ -3,10 +3,10 @@ title: Twitch Subscriber Emotes - kingbio
 emojis:
 - name: biokappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/26456/1.0
-- name: biothump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29907/1.0
 - name: bioop
   src: https://static-cdn.jtvnw.net/emoticons/v1/29220/1.0
+- name: biosad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93942/1.0
 - name: biogg
   src: https://static-cdn.jtvnw.net/emoticons/v1/40086/1.0
 - name: biohype
@@ -15,5 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40483/1.0
 - name: biobae
   src: https://static-cdn.jtvnw.net/emoticons/v1/40485/1.0
-- name: biofab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44805/1.0
+- name: biomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96112/1.0

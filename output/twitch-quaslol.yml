@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - quaslol
 emojis:
-- name: quashorsey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33840/1.0
+- name: quasross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93450/1.0
 - name: quasvzla
   src: https://static-cdn.jtvnw.net/emoticons/v1/33862/1.0
 - name: quasbird
@@ -13,3 +13,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54227/1.0
 - name: quasbrow
   src: https://static-cdn.jtvnw.net/emoticons/v1/64975/1.0
+- name: quasgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94545/1.0

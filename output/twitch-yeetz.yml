@@ -1,21 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - yeetz
 emojis:
-- name: yetzbabyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48467/1.0
-- name: yetzeoq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48471/1.0
-- name: yetzpogchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48474/1.0
-- name: yetzvrau
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41569/1.0
-- name: yetzturndown
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41571/1.0
 - name: yetzgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/48468/1.0
-- name: yetzfacepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48472/1.0
 - name: yetzerou
   src: https://static-cdn.jtvnw.net/emoticons/v1/48479/1.0
+- name: yetzo2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111316/1.0
+- name: yetzo1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111315/1.0
+- name: yetzlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111314/1.0
 - name: yetzkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48482/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111125/1.0

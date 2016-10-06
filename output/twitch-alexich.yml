@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - alexich
 emojis:
-- name: ichbabyich
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3651/1.0
 - name: ichpokerface
   src: https://static-cdn.jtvnw.net/emoticons/v1/3655/1.0
-- name: ichyolo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11815/1.0
-- name: ichfacepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24182/1.0
-- name: ichkiddingme
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27993/1.0
-- name: ichtooeazy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40092/1.0
-- name: ichazir
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48864/1.0
-- name: ichkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54705/1.0
+- name: ichwashedup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102529/1.0
+- name: ichrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103906/1.0
+- name: ichcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113747/1.0
+- name: ichh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113748/1.0
+- name: ichhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113749/1.0
+- name: ichpepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113750/1.0
+- name: ichshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113751/1.0

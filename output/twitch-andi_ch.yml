@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - andi_ch
 emojis:
-- name: gametvcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81915/1.0
+- name: gametvmute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100487/1.0
 - name: gametvsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/81914/1.0
+- name: gametvgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100673/1.0
+- name: gametvflip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100674/1.0

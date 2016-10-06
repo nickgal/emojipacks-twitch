@@ -1,7 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - panpeacemaker
 emojis:
+- name: pcmsugar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101276/1.0
+- name: pcmpuf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89082/1.0
 - name: pcmtank
   src: https://static-cdn.jtvnw.net/emoticons/v1/79581/1.0
 - name: pcmpalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/81883/1.0
+- name: pcmrly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89091/1.0

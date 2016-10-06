@@ -1,5 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - george_danzer
 emojis:
+- name: punkdflow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95916/1.0
 - name: punkdya
   src: https://static-cdn.jtvnw.net/emoticons/v1/79389/1.0
+- name: punkdrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100219/1.0
+- name: punkdbrick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100220/1.0

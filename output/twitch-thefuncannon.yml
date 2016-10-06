@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - thefuncannon
 emojis:
+- name: funlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115251/1.0
 - name: funskooma
   src: https://static-cdn.jtvnw.net/emoticons/v1/49403/1.0
-- name: funquad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49557/1.0
 - name: funstrimmah
   src: https://static-cdn.jtvnw.net/emoticons/v1/48696/1.0
 - name: funhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/52018/1.0
 - name: funcannon
   src: https://static-cdn.jtvnw.net/emoticons/v1/52016/1.0
-- name: funwhoops
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52017/1.0
+- name: funheh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116341/1.0

@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60062/1.0
 - name: sh0tsegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/60132/1.0
-- name: sh0tshookay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57842/1.0
 - name: sh0tslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/57843/1.0
 - name: sh0tsmedic
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78100/1.0
 - name: sh0tsrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/78101/1.0
+- name: sh0tsok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113938/1.0

@@ -1,7 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - shtan_udachi
 emojis:
+- name: shtanmusicgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104809/1.0
+- name: shtancry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104808/1.0
 - name: shtanj
   src: https://static-cdn.jtvnw.net/emoticons/v1/76836/1.0
 - name: shtanreno
   src: https://static-cdn.jtvnw.net/emoticons/v1/76949/1.0
+- name: shtanben
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116843/1.0
+- name: shtanhappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116845/1.0
+- name: shtangenius
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116350/1.0
+- name: shtanidea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116352/1.0
+- name: shtanmagicwand
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115987/1.0
+- name: shtanhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115986/1.0

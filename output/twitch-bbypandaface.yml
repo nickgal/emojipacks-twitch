@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53536/1.0
 - name: pandafacewave
   src: https://static-cdn.jtvnw.net/emoticons/v1/64120/1.0
-- name: pandafacepizza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64014/1.0
 - name: pandafacewink
   src: https://static-cdn.jtvnw.net/emoticons/v1/64017/1.0
 - name: pandafacelick
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70751/1.0
 - name: pandafacegasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/77626/1.0
+- name: pandafacelit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92060/1.0

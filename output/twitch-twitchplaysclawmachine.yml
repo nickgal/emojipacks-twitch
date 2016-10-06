@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - twitchplaysclawmachine
 emojis:
+- name: tpcmclaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91923/1.0
+- name: tpcmboss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91922/1.0
 - name: tpcmhand
   src: https://static-cdn.jtvnw.net/emoticons/v1/82692/1.0
 - name: tpcmfeed

@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - voodoo_val
 emojis:
+- name: vdvthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99840/1.0
+- name: vdvspell
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99836/1.0
 - name: vdvrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75850/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99839/1.0
 - name: vdvluv
   src: https://static-cdn.jtvnw.net/emoticons/v1/77830/1.0
 - name: vdvlurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/75501/1.0
-- name: vdvrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76328/1.0
+- name: vdvcast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100325/1.0

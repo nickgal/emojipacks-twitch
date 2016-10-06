@@ -1,8 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - carlsagan42
 emojis:
-- name: carluck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70390/1.0
+- name: carlswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110478/1.0
+- name: carllove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106285/1.0
 - name: carlfroggy
   src: https://static-cdn.jtvnw.net/emoticons/v1/68462/1.0
 - name: carlslurp
@@ -11,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69426/1.0
 - name: carlmoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/82629/1.0
+- name: carl1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113948/1.0
+- name: carlcoffee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113946/1.0
+- name: carluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113945/1.0
+- name: carl2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114046/1.0

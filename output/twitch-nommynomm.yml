@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65483/1.0
 - name: nommlol
   src: https://static-cdn.jtvnw.net/emoticons/v1/65482/1.0
-- name: nommech
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63913/1.0
 - name: nommlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/63844/1.0
 - name: nommlewd
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63846/1.0
 - name: nommsmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/75704/1.0
+- name: nommgrump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92255/1.0

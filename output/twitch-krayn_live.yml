@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/22306/1.0
 - name: glouface
   src: https://static-cdn.jtvnw.net/emoticons/v1/22305/1.0
-- name: gloukrayn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22352/1.0
 - name: gloupraise
   src: https://static-cdn.jtvnw.net/emoticons/v1/22348/1.0
 - name: gloukappa
@@ -23,6 +21,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68271/1.0
 - name: glousub
   src: https://static-cdn.jtvnw.net/emoticons/v1/80881/1.0
+- name: gloulove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97440/1.0
 - name: glouscared
   src: https://static-cdn.jtvnw.net/emoticons/v1/70636/1.0
 - name: gloubim

@@ -1,33 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - alaskansavage
 emojis:
-- name: savsnug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72507/1.0
 - name: savwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/72508/1.0
+- name: savlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109618/1.0
+- name: savevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109617/1.0
+- name: savcats
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109616/1.0
+- name: savhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109615/1.0
 - name: savhuh
   src: https://static-cdn.jtvnw.net/emoticons/v1/33795/1.0
-- name: savwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32718/1.0
 - name: savsmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/34394/1.0
 - name: savbruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/72509/1.0
-- name: savcool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72512/1.0
 - name: savgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/72513/1.0
-- name: savmlady
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72514/1.0
-- name: savrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72515/1.0
 - name: savyup
   src: https://static-cdn.jtvnw.net/emoticons/v1/72516/1.0
-- name: savrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72503/1.0
 - name: savhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/72504/1.0
 - name: savsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/72505/1.0
 - name: savdig
   src: https://static-cdn.jtvnw.net/emoticons/v1/72506/1.0
+- name: savsnug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110537/1.0
+- name: savwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111243/1.0
+- name: savpoint
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111246/1.0
+- name: savohgod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111245/1.0
+- name: savcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111248/1.0
+- name: savlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111247/1.0
+- name: savwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111244/1.0

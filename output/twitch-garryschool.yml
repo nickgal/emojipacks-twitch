@@ -3,13 +3,21 @@ title: Twitch Subscriber Emotes - garryschool
 emojis:
 - name: choucroutekiss
   src: https://static-cdn.jtvnw.net/emoticons/v1/46247/1.0
+- name: choucroutetwerk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99813/1.0
+- name: choucrouterip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99811/1.0
 - name: choucroutegs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46418/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99810/1.0
 - name: choucroutegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/70787/1.0
 - name: choucroutemoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/70789/1.0
-- name: choucrouterip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70017/1.0
 - name: choucroutepsy
   src: https://static-cdn.jtvnw.net/emoticons/v1/70016/1.0
+- name: choucroutesub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86827/1.0
+- name: choucroutethug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106423/1.0
+- name: choucroutenorp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106424/1.0

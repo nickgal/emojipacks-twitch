@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - rogerbrown
 emojis:
-- name: rogerbrowngreek
+- name: rogigreek
   src: https://static-cdn.jtvnw.net/emoticons/v1/82390/1.0
-- name: rogerbrownlove
+- name: rogilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/82388/1.0
+- name: rogicheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101673/1.0

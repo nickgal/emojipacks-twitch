@@ -1,23 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - crimsix
 emojis:
-- name: crimrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14552/1.0
+- name: crimsix
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89801/1.0
 - name: crim3bar
   src: https://static-cdn.jtvnw.net/emoticons/v1/11645/1.0
-- name: crimbaboon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11646/1.0
 - name: crimcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/11647/1.0
-- name: crimeg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13062/1.0
-- name: crimbot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13431/1.0
-- name: crimsweg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13432/1.0
-- name: crimtoasted
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13433/1.0
-- name: crimgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13864/1.0
-- name: crim6
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14275/1.0
+- name: crimsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89970/1.0
+- name: crimallen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89968/1.0
+- name: crimog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89799/1.0

@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - dariuscxz
 emojis:
-- name: mircl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69357/1.0
 - name: mirchead
   src: https://static-cdn.jtvnw.net/emoticons/v1/81378/1.0
 - name: mirchype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68000/1.0
 - name: mircsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/85342/1.0
-- name: mirckrappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79149/1.0
-- name: mirc8
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84935/1.0
+- name: mircwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97250/1.0
+- name: mirchey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97110/1.0
+- name: mirclel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97111/1.0

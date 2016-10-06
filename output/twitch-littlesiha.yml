@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - littlesiha
 emojis:
-- name: sihaclap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67021/1.0
+- name: sihalewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115376/1.0
+- name: sihaomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115377/1.0
+- name: sihaspoop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115379/1.0
+- name: sihafp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115374/1.0
+- name: sihahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115375/1.0
+- name: sihaderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115373/1.0
+- name: sihabreathe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115372/1.0
+- name: sihablind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115371/1.0
 - name: sihawut
   src: https://static-cdn.jtvnw.net/emoticons/v1/82843/1.0
 - name: sihalove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73176/1.0
-- name: siha13
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82943/1.0
-- name: sihafp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82845/1.0
-- name: sihablind
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83008/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104048/1.0

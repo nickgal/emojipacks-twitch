@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - itsvex
 emojis:
+- name: vexmorschverplant
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105204/1.0
 - name: vexmorschmorsch
   src: https://static-cdn.jtvnw.net/emoticons/v1/70904/1.0
-- name: vexmorschhallo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79044/1.0
 - name: vexmorschrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/79043/1.0
-- name: vexmorschwat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73669/1.0
 - name: vexmorschgenuss
   src: https://static-cdn.jtvnw.net/emoticons/v1/66681/1.0
 - name: vexmorschrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/79158/1.0
 - name: vexmorschhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/77625/1.0
+- name: vexmorschgriefing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106764/1.0
+- name: vexmorschkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114998/1.0

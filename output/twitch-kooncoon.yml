@@ -1,13 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - kooncoon
 emojis:
-- name: koonface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39345/1.0
-- name: koonhard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39346/1.0
-- name: koonfrog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39106/1.0
-- name: koonshroom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39175/1.0
-- name: koonp2w
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50589/1.0
+- name: koonnaymano
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94150/1.0
+- name: koonrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94159/1.0

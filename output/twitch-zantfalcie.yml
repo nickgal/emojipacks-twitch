@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - zantfalcie
 emojis:
-- name: zantlit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79992/1.0
-- name: zantlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79991/1.0
 - name: zantrko
   src: https://static-cdn.jtvnw.net/emoticons/v1/69282/1.0
-- name: zantrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70521/1.0
+- name: zantlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91951/1.0
+- name: zantwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92056/1.0
+- name: zantluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92898/1.0
+- name: zant759
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97265/1.0
+- name: zantnope
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96337/1.0
+- name: zantlit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98588/1.0
 - name: zanthype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80054/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107173/1.0

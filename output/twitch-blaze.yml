@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - blaze
 emojis:
-- name: guyblazehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69745/1.0
-- name: guyblazeshot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69738/1.0
-- name: guyblazeflow
+- name: guybflow
   src: https://static-cdn.jtvnw.net/emoticons/v1/69853/1.0
-- name: guyblazestory
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69852/1.0
+- name: guyblive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86857/1.0
+- name: guybbh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87850/1.0
+- name: guybst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87851/1.0
+- name: guybhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100893/1.0
+- name: guybsquad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100894/1.0

@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - shootygirl
 emojis:
-- name: shootyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45546/1.0
-- name: shootyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78952/1.0
 - name: shootypika
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78951/1.0
-- name: shootylove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78950/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92339/1.0
+- name: shootyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92337/1.0
 - name: shootyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78949/1.0
-- name: shootycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78948/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115491/1.0
+- name: shootybag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114399/1.0
+- name: shootybu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114400/1.0
+- name: shootytilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114401/1.0

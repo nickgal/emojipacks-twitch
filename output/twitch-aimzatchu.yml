@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - aimzatchu
 emojis:
-- name: aimzreversetib
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9002/1.0
 - name: aimzdolphin
   src: https://static-cdn.jtvnw.net/emoticons/v1/18454/1.0
-- name: aimzbopbop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20591/1.0
-- name: aimzgiraffe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27613/1.0
 - name: aimzggnore
   src: https://static-cdn.jtvnw.net/emoticons/v1/30951/1.0
 - name: aimzchoochoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/30958/1.0
-- name: aimzwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30953/1.0
 - name: aimzsubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/30954/1.0
 - name: aimzheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/55523/1.0
 - name: aimzpup
   src: https://static-cdn.jtvnw.net/emoticons/v1/79418/1.0
+- name: aimzchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110562/1.0
+- name: aimzcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110565/1.0
+- name: aimzwar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110566/1.0
+- name: aimzffs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110567/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - jasonparadise
 emojis:
+- name: jpara100
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99855/1.0
 - name: jparalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/80122/1.0
 - name: jparalewd
@@ -13,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80121/1.0
 - name: jparamlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/80124/1.0
+- name: jpararekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102028/1.0
+- name: jparapls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114073/1.0
+- name: jpararage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114072/1.0

@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - retrolovetv
 emojis:
+- name: retrolovelol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89860/1.0
+- name: retrolovewtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89859/1.0
 - name: retrolovefoc
   src: https://static-cdn.jtvnw.net/emoticons/v1/81026/1.0
 - name: retrolovegg

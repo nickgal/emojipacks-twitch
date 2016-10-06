@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - nono_lol
 emojis:
+- name: nonolol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92422/1.0
+- name: nonopeace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92421/1.0
+- name: nonowc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92420/1.0
 - name: nonoperfect
   src: https://static-cdn.jtvnw.net/emoticons/v1/49935/1.0
-- name: nonosugar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51528/1.0
 - name: nonogoodmove
   src: https://static-cdn.jtvnw.net/emoticons/v1/51065/1.0
-- name: nonogreed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59101/1.0
 - name: nonomain
   src: https://static-cdn.jtvnw.net/emoticons/v1/63014/1.0
 - name: nonoomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/71860/1.0
+- name: nonobouche
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92110/1.0
+- name: nonopride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103049/1.0
+- name: nonogreed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104362/1.0

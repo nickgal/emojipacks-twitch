@@ -27,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/12141/1.0
 - name: crreamrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/11997/1.0
-- name: crreamcuffs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20479/1.0
 - name: crreamrude
   src: https://static-cdn.jtvnw.net/emoticons/v1/41766/1.0
 - name: crreamlurk
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71438/1.0
 - name: crreamfeelsgood
   src: https://static-cdn.jtvnw.net/emoticons/v1/71439/1.0
+- name: crreamfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106730/1.0

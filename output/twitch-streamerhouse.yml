@@ -1,12 +1,18 @@
 ---
 title: Twitch Subscriber Emotes - streamerhouse
 emojis:
-- name: iconklappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81536/1.0
+- name: iconhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113580/1.0
+- name: iconlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113468/1.0
 - name: icontree
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77280/1.0
-- name: iconzeek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85563/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103783/1.0
+- name: iconmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113444/1.0
+- name: iconm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94835/1.0
+- name: iconhehe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103776/1.0
 - name: iconinigo
   src: https://static-cdn.jtvnw.net/emoticons/v1/76725/1.0
 - name: iconcru
@@ -15,19 +21,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76977/1.0
 - name: iconsh
   src: https://static-cdn.jtvnw.net/emoticons/v1/76242/1.0
-- name: iconcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81646/1.0
-- name: iconlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81643/1.0
-- name: iconcool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81547/1.0
+- name: iconwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113470/1.0
 - name: icond
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84258/1.0
-- name: iconrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84259/1.0
-- name: iconrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84260/1.0
-- name: iconscam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84261/1.0
-- name: iconsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85564/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92320/1.0
+- name: iconhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114289/1.0
+- name: iconf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114290/1.0
+- name: iconyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114294/1.0
+- name: iconwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113739/1.0
+- name: iconsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113159/1.0
+- name: iconzeek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114293/1.0
+- name: iconroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114292/1.0
+- name: iconhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113164/1.0

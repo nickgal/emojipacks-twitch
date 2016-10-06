@@ -1,19 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - tfue
 emojis:
-- name: tfuebooty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50543/1.0
-- name: tfueclap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50542/1.0
-- name: tfuekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50670/1.0
 - name: tfuedawg
   src: https://static-cdn.jtvnw.net/emoticons/v1/70738/1.0
-- name: tfuehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74547/1.0
-- name: tfuelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74419/1.0
-- name: tfuehey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74420/1.0
-- name: tfuerage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74421/1.0
+- name: tfuewtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115109/1.0
+- name: tfueocto
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115106/1.0
+- name: tfueos
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115108/1.0

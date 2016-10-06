@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - rellacast
 emojis:
+- name: rellamsg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97465/1.0
 - name: rellayeoni
   src: https://static-cdn.jtvnw.net/emoticons/v1/81569/1.0
-- name: rellajammusae
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81570/1.0
-- name: rellataeyang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80114/1.0
-- name: relladdunge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79916/1.0
+- name: rellashotgun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87561/1.0
+- name: rellaworry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87001/1.0
+- name: rellajoa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87000/1.0
+- name: rellaahe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92380/1.0

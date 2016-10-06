@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - icyrayne
 emojis:
-- name: icyxd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59868/1.0
 - name: icyhic
   src: https://static-cdn.jtvnw.net/emoticons/v1/64916/1.0
-- name: icybat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40649/1.0
 - name: icygasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/76477/1.0
+- name: icyrap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86696/1.0
+- name: icytater
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86697/1.0
+- name: icyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115424/1.0
 - name: icybruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45037/1.0
-- name: icyg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59907/1.0
-- name: icyh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58522/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100028/1.0
 - name: icyl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68723/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100029/1.0
+- name: icys
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99384/1.0

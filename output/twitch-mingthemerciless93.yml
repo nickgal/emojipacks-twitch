@@ -1,10 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mingthemerciless93
 emojis:
-- name: mingfist
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23898/1.0
-- name: mingsoda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23871/1.0
+- name: mingdunce
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115660/1.0
 - name: mingclown
   src: https://static-cdn.jtvnw.net/emoticons/v1/24968/1.0
 - name: mingskull
@@ -13,11 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29303/1.0
 - name: minguppercut
   src: https://static-cdn.jtvnw.net/emoticons/v1/32149/1.0
-- name: mingface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34685/1.0
-- name: mingbarrel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65927/1.0
 - name: mingrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/52026/1.0
-- name: mingrobo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65636/1.0
+- name: mingchaos
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108680/1.0
+- name: mingskullgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114186/1.0
+- name: mingdonk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107694/1.0
+- name: mingjive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112299/1.0

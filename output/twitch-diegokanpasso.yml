@@ -3,5 +3,13 @@ title: Twitch Subscriber Emotes - diegokanpasso
 emojis:
 - name: mlgsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/39888/1.0
+- name: mlgrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91046/1.0
 - name: mlggoal
   src: https://static-cdn.jtvnw.net/emoticons/v1/85023/1.0
+- name: mlgwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109652/1.0
+- name: mlghello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109653/1.0
+- name: mlgkawaii
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108526/1.0

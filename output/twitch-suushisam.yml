@@ -1,23 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - suushisam
 emojis:
-- name: samyodawg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3504/1.0
-- name: samexcited
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7014/1.0
-- name: samtipsfedora
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5368/1.0
-- name: samkiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5906/1.0
-- name: samgot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12716/1.0
-- name: sampls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12717/1.0
+- name: samfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99703/1.0
+- name: samheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99705/1.0
+- name: samhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99707/1.0
+- name: samhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99708/1.0
+- name: samlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99709/1.0
+- name: samrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99710/1.0
 - name: samrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59857/1.0
-- name: samcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19120/1.0
-- name: samthirsty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21119/1.0
-- name: samdb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49111/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99712/1.0
+- name: samsenpai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99714/1.0

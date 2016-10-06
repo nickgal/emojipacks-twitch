@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10146/1.0
 - name: kolentosad
   src: https://static-cdn.jtvnw.net/emoticons/v1/10045/1.0
-- name: kolentolegal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10690/1.0
 - name: kolentosniperino
   src: https://static-cdn.jtvnw.net/emoticons/v1/12990/1.0
 - name: kolentow
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/19191/1.0
 - name: kolentodummy
   src: https://static-cdn.jtvnw.net/emoticons/v1/61085/1.0
+- name: kolentobad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88171/1.0

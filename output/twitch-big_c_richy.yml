@@ -1,9 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - big_c_richy
 emojis:
+- name: richylit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85663/1.0
 - name: richykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/44835/1.0
-- name: richyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59051/1.0
 - name: richyexposed
   src: https://static-cdn.jtvnw.net/emoticons/v1/73079/1.0
+- name: richycheesy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94780/1.0
+- name: richyhaha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102250/1.0

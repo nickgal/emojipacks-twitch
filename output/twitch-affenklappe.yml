@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - affenklappe
 emojis:
-- name: affebanana
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3520/1.0
 - name: affew
   src: https://static-cdn.jtvnw.net/emoticons/v1/56680/1.0
 - name: affeh
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57802/1.0
 - name: affekl
   src: https://static-cdn.jtvnw.net/emoticons/v1/61172/1.0
+- name: affet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113614/1.0

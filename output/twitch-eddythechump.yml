@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83544/1.0
 - name: chumpdank
   src: https://static-cdn.jtvnw.net/emoticons/v1/48224/1.0
-- name: chumpfloot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48312/1.0
 - name: chumplmaa
   src: https://static-cdn.jtvnw.net/emoticons/v1/48162/1.0
 - name: chumphorn
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52818/1.0
 - name: chumpwah
   src: https://static-cdn.jtvnw.net/emoticons/v1/84646/1.0
+- name: chumpscrub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86858/1.0

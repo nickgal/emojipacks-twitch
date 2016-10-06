@@ -1,28 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - trick2g
 emojis:
-- name: trkboat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56044/1.0
-- name: trkgoon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56046/1.0
 - name: trkwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/54533/1.0
 - name: trkpleb
   src: https://static-cdn.jtvnw.net/emoticons/v1/56047/1.0
-- name: trklag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54534/1.0
 - name: trkfreedom
   src: https://static-cdn.jtvnw.net/emoticons/v1/3047/1.0
 - name: trkhorsey
   src: https://static-cdn.jtvnw.net/emoticons/v1/56048/1.0
 - name: trkdebit
   src: https://static-cdn.jtvnw.net/emoticons/v1/3751/1.0
-- name: trkmute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54537/1.0
-- name: trkflip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56049/1.0
-- name: trkh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20655/1.0
 - name: trkpcane
   src: https://static-cdn.jtvnw.net/emoticons/v1/4352/1.0
 - name: trkpopcorn
@@ -41,63 +29,75 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/12047/1.0
 - name: trkrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/17787/1.0
-- name: trkpeke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27621/1.0
+- name: trklag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86601/1.0
 - name: trkthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/28170/1.0
 - name: trkhaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/31266/1.0
-- name: trkff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44236/1.0
-- name: trklyfe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46367/1.0
 - name: trkrot
   src: https://static-cdn.jtvnw.net/emoticons/v1/83963/1.0
 - name: trk2g
   src: https://static-cdn.jtvnw.net/emoticons/v1/45143/1.0
-- name: trkbaby
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54474/1.0
 - name: trkbows
   src: https://static-cdn.jtvnw.net/emoticons/v1/54476/1.0
 - name: trkbronze
   src: https://static-cdn.jtvnw.net/emoticons/v1/54478/1.0
 - name: trkdoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/54480/1.0
-- name: trkbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54481/1.0
+- name: trkdolphin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104005/1.0
 - name: trkreplay
   src: https://static-cdn.jtvnw.net/emoticons/v1/55446/1.0
-- name: trktilt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55447/1.0
 - name: trkgod
   src: https://static-cdn.jtvnw.net/emoticons/v1/55450/1.0
 - name: trkwhale
   src: https://static-cdn.jtvnw.net/emoticons/v1/55451/1.0
 - name: trkoverlay
   src: https://static-cdn.jtvnw.net/emoticons/v1/55455/1.0
+- name: trkfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87234/1.0
 - name: trklata
   src: https://static-cdn.jtvnw.net/emoticons/v1/55458/1.0
-- name: trkgood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55463/1.0
 - name: trkback
   src: https://static-cdn.jtvnw.net/emoticons/v1/55464/1.0
 - name: trklegend
   src: https://static-cdn.jtvnw.net/emoticons/v1/55465/1.0
-- name: trkvape
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56341/1.0
-- name: trkban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55466/1.0
 - name: trkgive
   src: https://static-cdn.jtvnw.net/emoticons/v1/56342/1.0
-- name: trkappaline
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56343/1.0
 - name: trkthrows
   src: https://static-cdn.jtvnw.net/emoticons/v1/57616/1.0
+- name: trkmute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90480/1.0
 - name: trk9
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69809/1.0
-- name: trkfixed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80690/1.0
-- name: trkss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81102/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86481/1.0
+- name: trkbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90481/1.0
+- name: trkso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86483/1.0
+- name: trkgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90482/1.0
+- name: trkba
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93789/1.0
 - name: trkdorito
   src: https://static-cdn.jtvnw.net/emoticons/v1/84099/1.0
+- name: trklyfe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86587/1.0
+- name: trkat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86037/1.0
+- name: trkru
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86036/1.0
+- name: trkh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86929/1.0
+- name: trkkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114851/1.0
+- name: trkmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114852/1.0
+- name: trkshovel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114853/1.0
+- name: trktaxi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114854/1.0
+- name: trkdb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94413/1.0
+- name: trkydb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114855/1.0

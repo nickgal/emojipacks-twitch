@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - fluffablesheep
 emojis:
-- name: fluffarip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62039/1.0
-- name: fluffacosplay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61101/1.0
-- name: fluffaherd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61100/1.0
 - name: fluffahey
   src: https://static-cdn.jtvnw.net/emoticons/v1/61097/1.0
-- name: fluffakappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61099/1.0
-- name: fluffahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61043/1.0
-- name: fluffakawaii
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61865/1.0
 - name: fluffalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/61858/1.0
+- name: fluffahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111295/1.0
+- name: fluffaswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111297/1.0
+- name: fluffarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111299/1.0
+- name: fluffafeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111192/1.0
+- name: fluffakappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111195/1.0
+- name: fluffafail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111196/1.0

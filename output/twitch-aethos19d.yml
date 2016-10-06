@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - aethos19d
 emojis:
+- name: aethossav
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87278/1.0
 - name: aethosh
   src: https://static-cdn.jtvnw.net/emoticons/v1/78289/1.0
 - name: aethosshieldl

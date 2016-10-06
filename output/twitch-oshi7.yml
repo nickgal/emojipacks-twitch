@@ -1,43 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - oshi7
 emojis:
-- name: oshilove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3025/1.0
 - name: oshi9
   src: https://static-cdn.jtvnw.net/emoticons/v1/2245/1.0
 - name: oshipizza
   src: https://static-cdn.jtvnw.net/emoticons/v1/12973/1.0
-- name: oshibeast
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12937/1.0
-- name: oshiv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15133/1.0
 - name: oshio
   src: https://static-cdn.jtvnw.net/emoticons/v1/14457/1.0
-- name: oshisub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24869/1.0
-- name: oshideal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24886/1.0
-- name: oshim8
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25870/1.0
 - name: oshipc
   src: https://static-cdn.jtvnw.net/emoticons/v1/27781/1.0
 - name: oshiemlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/27776/1.0
-- name: oshiflex
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27777/1.0
-- name: oshimug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27819/1.0
-- name: oshiham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33729/1.0
 - name: oshigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/35802/1.0
 - name: oshibonjour
   src: https://static-cdn.jtvnw.net/emoticons/v1/35797/1.0
-- name: oshiw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35798/1.0
 - name: oshiclean
   src: https://static-cdn.jtvnw.net/emoticons/v1/36224/1.0
-- name: oshirun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36461/1.0
-- name: oshibelieve
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36457/1.0
+- name: oshirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102096/1.0
+- name: oshilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102099/1.0
+- name: oshiflo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102094/1.0
+- name: oshiderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102098/1.0
+- name: oshihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102095/1.0
+- name: oshibruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102093/1.0
+- name: oshithump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102871/1.0

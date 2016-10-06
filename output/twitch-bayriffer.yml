@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - bayriffer
 emojis:
-- name: brfbay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84003/1.0
 - name: brfblade
   src: https://static-cdn.jtvnw.net/emoticons/v1/83659/1.0
 - name: brfoyeah
@@ -15,9 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81601/1.0
 - name: brfhere
   src: https://static-cdn.jtvnw.net/emoticons/v1/84002/1.0
-- name: brfrif
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84004/1.0
-- name: brffer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84005/1.0
-- name: brflock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84006/1.0
+- name: brf5
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90646/1.0
+- name: brfholy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90647/1.0
+- name: brflay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90648/1.0
+- name: brfgun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101987/1.0

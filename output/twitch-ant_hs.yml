@@ -1,9 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - ant_hs
 emojis:
+- name: antshiyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94951/1.0
 - name: antsspooky
   src: https://static-cdn.jtvnw.net/emoticons/v1/70228/1.0
 - name: antslikethis
   src: https://static-cdn.jtvnw.net/emoticons/v1/69694/1.0
 - name: antsidiot
   src: https://static-cdn.jtvnw.net/emoticons/v1/85494/1.0
+- name: antsranch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117040/1.0

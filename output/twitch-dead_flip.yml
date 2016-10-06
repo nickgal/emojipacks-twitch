@@ -1,8 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - dead_flip
 emojis:
+- name: flipdtk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104721/1.0
+- name: flipjp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104722/1.0
 - name: fliplflip
   src: https://static-cdn.jtvnw.net/emoticons/v1/53837/1.0
+- name: flipbt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104742/1.0
+- name: flipbtr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104743/1.0
 - name: fliprflip
   src: https://static-cdn.jtvnw.net/emoticons/v1/50897/1.0
 - name: fliptilt
@@ -17,7 +25,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52286/1.0
 - name: flipmulti
   src: https://static-cdn.jtvnw.net/emoticons/v1/83638/1.0
-- name: flipbt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57366/1.0
-- name: flipbtr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58494/1.0

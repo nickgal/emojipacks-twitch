@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - svytou82
 emojis:
-- name: svytoupriv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55933/1.0
-- name: svytoushl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71050/1.0
-- name: svytourus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56149/1.0
-- name: svytou4er
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63863/1.0
+- name: svytou404
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105459/1.0
+- name: svytounooo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105457/1.0
+- name: svytouhome
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104732/1.0
+- name: svytounice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104223/1.0
+- name: svytouhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104246/1.0
+- name: svytouface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104143/1.0

@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - m1ndr
 emojis:
 - name: m1ndrraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/51932/1.0
-- name: m1ndrsmooth
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77476/1.0
+- name: m1ndrbeer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115890/1.0
+- name: m1ndrrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115889/1.0
+- name: m1ndrfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115888/1.0
+- name: m1ndrgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115887/1.0
 - name: m1ndrlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/51049/1.0
 - name: m1ndrsalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/57759/1.0
-- name: m1ndrkk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65214/1.0
-- name: m1ndrgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72169/1.0
 - name: m1ndrrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/72170/1.0
-- name: m1ndrtrump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84861/1.0
+- name: m1ndrcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91675/1.0
+- name: m1ndrgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93246/1.0

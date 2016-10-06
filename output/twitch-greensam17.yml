@@ -1,12 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - greensam17
 emojis:
-- name: gsamspacebf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76259/1.0
+- name: gsamrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88395/1.0
 - name: gsamspitfire
   src: https://static-cdn.jtvnw.net/emoticons/v1/76320/1.0
-- name: gsamanchor
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76319/1.0
 - name: gsamtato
   src: https://static-cdn.jtvnw.net/emoticons/v1/79714/1.0
 - name: gsamlifeblood
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79775/1.0
 - name: gsamraiders
   src: https://static-cdn.jtvnw.net/emoticons/v1/79783/1.0
+- name: gsamlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88591/1.0

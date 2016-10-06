@@ -1,9 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - seulsiho
 emojis:
-- name: humanold
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65781/1.0
-- name: humanluv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65782/1.0
 - name: humantag
   src: https://static-cdn.jtvnw.net/emoticons/v1/66382/1.0
+- name: humanseulsihohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111874/1.0

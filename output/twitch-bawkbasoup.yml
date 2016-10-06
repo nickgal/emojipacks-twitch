@@ -1,17 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - bawkbasoup
 emojis:
-- name: bawklmao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84093/1.0
-- name: bawkridley
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84094/1.0
-- name: bawksamus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84095/1.0
-- name: bawksleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84096/1.0
-- name: bawkgarbage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84212/1.0
-- name: bawkjill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84214/1.0
+- name: bawkshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108760/1.0
 - name: bawkba
   src: https://static-cdn.jtvnw.net/emoticons/v1/85272/1.0
+- name: bawkgo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88585/1.0
+- name: bawkfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88865/1.0
+- name: bawkgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88586/1.0
+- name: bawksad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88857/1.0
+- name: bawkzombie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88856/1.0
+- name: bawkhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88587/1.0
+- name: bawkchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109029/1.0
+- name: bawkcorn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108824/1.0

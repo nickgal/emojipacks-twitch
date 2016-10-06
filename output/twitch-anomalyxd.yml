@@ -7,10 +7,18 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55438/1.0
 - name: anomhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/42200/1.0
+- name: anomneighbor
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112498/1.0
 - name: anomkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/34261/1.0
 - name: anomprivet
   src: https://static-cdn.jtvnw.net/emoticons/v1/34272/1.0
+- name: anombus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116892/1.0
+- name: anombleach
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116893/1.0
+- name: anomlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116894/1.0
 - name: anomd
   src: https://static-cdn.jtvnw.net/emoticons/v1/52952/1.0
 - name: anombang
@@ -43,8 +51,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40321/1.0
 - name: anomface
   src: https://static-cdn.jtvnw.net/emoticons/v1/43508/1.0
-- name: anomdj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46361/1.0
 - name: anomsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/45126/1.0
 - name: anomthump
@@ -61,28 +67,20 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58397/1.0
 - name: anomwizard
   src: https://static-cdn.jtvnw.net/emoticons/v1/58386/1.0
-- name: anomdolphin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58388/1.0
 - name: anom1
   src: https://static-cdn.jtvnw.net/emoticons/v1/58389/1.0
 - name: anombilbo
   src: https://static-cdn.jtvnw.net/emoticons/v1/58406/1.0
-- name: anomrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58398/1.0
 - name: anom2
   src: https://static-cdn.jtvnw.net/emoticons/v1/58390/1.0
 - name: anom3
   src: https://static-cdn.jtvnw.net/emoticons/v1/58391/1.0
 - name: anom4
   src: https://static-cdn.jtvnw.net/emoticons/v1/58392/1.0
-- name: anomgabe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58393/1.0
 - name: anomsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/58435/1.0
 - name: anomrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/58443/1.0
-- name: anomdrown
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58456/1.0
 - name: anomscare
   src: https://static-cdn.jtvnw.net/emoticons/v1/58453/1.0
 - name: anomnoot
@@ -91,3 +89,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58769/1.0
 - name: anomtrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/58892/1.0
+- name: anomsuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95057/1.0
+- name: anomk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94309/1.0
+- name: anomlmao
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95144/1.0
+- name: anomdanker
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96403/1.0
+- name: anomxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95407/1.0
+- name: anompedo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97777/1.0

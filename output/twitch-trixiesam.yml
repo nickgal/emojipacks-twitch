@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - trixiesam
 emojis:
 - name: esambye
   src: https://static-cdn.jtvnw.net/emoticons/v1/64597/1.0
-- name: esampup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65099/1.0
 - name: esamefam
   src: https://static-cdn.jtvnw.net/emoticons/v1/64309/1.0
-- name: esamsing
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65100/1.0
 - name: esamheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/66158/1.0
-- name: esameham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66157/1.0
 - name: esamsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/64308/1.0
 - name: esamwow
   src: https://static-cdn.jtvnw.net/emoticons/v1/69658/1.0
+- name: esamnemu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96910/1.0
+- name: esamesad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89555/1.0
+- name: esamw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115959/1.0

@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - jeffleach
 emojis:
-- name: leachhouse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83157/1.0
+- name: leachgame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103221/1.0
+- name: leachflame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98045/1.0
+- name: leachgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103220/1.0
 - name: leachhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/83158/1.0
+- name: leachsong
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97010/1.0
+- name: leachcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97012/1.0
+- name: leachhouse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97104/1.0
+- name: leachnoodle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97107/1.0

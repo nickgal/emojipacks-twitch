@@ -1,11 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - logiiyt
 emojis:
-- name: logieasy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48982/1.0
-- name: logiomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45020/1.0
-- name: logirekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50475/1.0
-- name: logihook
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53397/1.0
+- name: logibrand
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110383/1.0
+- name: logijanna
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110626/1.0

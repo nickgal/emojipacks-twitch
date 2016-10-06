@@ -1,9 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - ddubbeleim
 emojis:
-- name: ddubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68169/1.0
-- name: ddubselfie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68275/1.0
-- name: ddubgod
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77801/1.0
+- name: ddubnana
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110168/1.0
+- name: ddubh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112568/1.0
+- name: ddubl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112168/1.0
+- name: ddubchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111711/1.0
+- name: ddubsnordab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109899/1.0
+- name: dduboh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109351/1.0
+- name: ddubpoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108957/1.0
+- name: ddubsuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112167/1.0

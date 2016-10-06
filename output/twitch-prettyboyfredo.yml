@@ -5,6 +5,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73718/1.0
 - name: pbfredtape
   src: https://static-cdn.jtvnw.net/emoticons/v1/73740/1.0
+- name: pbfbumcards
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102089/1.0
+- name: pbfchokeme
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101027/1.0
 - name: pbfssh
   src: https://static-cdn.jtvnw.net/emoticons/v1/69889/1.0
 - name: pbffredo
@@ -13,11 +17,25 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79743/1.0
 - name: pbfgreenlightdistrict
   src: https://static-cdn.jtvnw.net/emoticons/v1/79745/1.0
-- name: pbfankles
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79747/1.0
 - name: pbfclampjuice
   src: https://static-cdn.jtvnw.net/emoticons/v1/78921/1.0
 - name: pbfdrop
   src: https://static-cdn.jtvnw.net/emoticons/v1/79752/1.0
-- name: pbffredoisland
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79753/1.0
+- name: pbfgoodnight
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106517/1.0
+- name: pbfhot40
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101001/1.0
+- name: pbf21skunk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101002/1.0
+- name: pbfeightyoneshots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101003/1.0
+- name: pbfbruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102088/1.0
+- name: pbffouroseven
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103000/1.0
+- name: pbfexposehim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107284/1.0
+- name: pbfcamdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107282/1.0
+- name: pbficarry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107283/1.0

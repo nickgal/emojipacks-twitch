@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - finalbosstv
 emojis:
-- name: finalyall
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13114/1.0
-- name: finalfrost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13116/1.0
 - name: finalkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/16887/1.0
-- name: finalsulf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16888/1.0
-- name: finaltone
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22725/1.0
 - name: finalthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/24702/1.0
-- name: finalblame
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24740/1.0
 - name: finalclap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53191/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103966/1.0
+- name: finalsulf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103968/1.0
+- name: finalderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103967/1.0
+- name: finalfrost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95853/1.0
+- name: finalgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95596/1.0
+- name: finaltone
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95597/1.0
+- name: finalglaive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109900/1.0
+- name: finaldoom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111537/1.0

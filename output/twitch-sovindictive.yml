@@ -3,21 +3,21 @@ title: Twitch Subscriber Emotes - sovindictive
 emojis:
 - name: vinfam
   src: https://static-cdn.jtvnw.net/emoticons/v1/15274/1.0
-- name: vinkap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15275/1.0
-- name: vincat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15366/1.0
 - name: vinbump
   src: https://static-cdn.jtvnw.net/emoticons/v1/26177/1.0
-- name: vinno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48449/1.0
-- name: vinlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56252/1.0
-- name: vinhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56253/1.0
-- name: vinmad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56254/1.0
-- name: vinrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73169/1.0
 - name: vinkiss
   src: https://static-cdn.jtvnw.net/emoticons/v1/73983/1.0
+- name: vinsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99048/1.0
+- name: vincat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97356/1.0
+- name: vinhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97357/1.0
+- name: vinlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97358/1.0
+- name: vinmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97359/1.0
+- name: vinrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106759/1.0
+- name: vinkap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106760/1.0

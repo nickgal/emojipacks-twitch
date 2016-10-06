@@ -7,13 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/22302/1.0
 - name: pohxoscar
   src: https://static-cdn.jtvnw.net/emoticons/v1/26493/1.0
-- name: pohxquestion
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26498/1.0
 - name: pohxduck
   src: https://static-cdn.jtvnw.net/emoticons/v1/32839/1.0
 - name: pohxrng
   src: https://static-cdn.jtvnw.net/emoticons/v1/35838/1.0
-- name: pohxnope
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61341/1.0
 - name: pohxw
   src: https://static-cdn.jtvnw.net/emoticons/v1/78083/1.0
+- name: pohxswim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95218/1.0
+- name: pohxsenpai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111582/1.0

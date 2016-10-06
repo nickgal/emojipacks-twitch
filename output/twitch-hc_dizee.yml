@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - hc_dizee
 emojis:
 - name: dizeelo
   src: https://static-cdn.jtvnw.net/emoticons/v1/11751/1.0
-- name: dizeebogger
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70072/1.0
 - name: dizeegut
   src: https://static-cdn.jtvnw.net/emoticons/v1/69306/1.0
 - name: dizeefail
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75296/1.0
 - name: dizeey
   src: https://static-cdn.jtvnw.net/emoticons/v1/75287/1.0
+- name: dizeebo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93034/1.0

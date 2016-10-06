@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - callofcthulu
 emojis:
 - name: thuluxeke
   src: https://static-cdn.jtvnw.net/emoticons/v1/70325/1.0
-- name: thuluavi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70324/1.0
 - name: thulurage
   src: https://static-cdn.jtvnw.net/emoticons/v1/57581/1.0
 - name: thulugasm
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68227/1.0
 - name: thulufail
   src: https://static-cdn.jtvnw.net/emoticons/v1/68164/1.0
+- name: thuluavia
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90050/1.0

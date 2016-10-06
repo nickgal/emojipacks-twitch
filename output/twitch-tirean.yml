@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - tirean
 emojis:
 - name: tirdumb
   src: https://static-cdn.jtvnw.net/emoticons/v1/57349/1.0
-- name: tirtir
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12971/1.0
-- name: tirflip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39384/1.0
-- name: tirsellout
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40181/1.0
 - name: tirtear
   src: https://static-cdn.jtvnw.net/emoticons/v1/53286/1.0
+- name: tirrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112562/1.0
 - name: tirlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84052/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109072/1.0
+- name: tirgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112609/1.0
+- name: tirrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112610/1.0

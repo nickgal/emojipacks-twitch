@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - thatsrb2dude
 emojis:
+- name: dudeitnice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96401/1.0
+- name: dudeitcam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96392/1.0
 - name: dudeitblue
   src: https://static-cdn.jtvnw.net/emoticons/v1/65142/1.0
-- name: dudeitpro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74260/1.0
-- name: dudeitnice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74274/1.0
 - name: dudeitanime
   src: https://static-cdn.jtvnw.net/emoticons/v1/83031/1.0
+- name: dudeitread
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96198/1.0

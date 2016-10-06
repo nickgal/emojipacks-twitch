@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - stabstabbies
 emojis:
+- name: stabxw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88177/1.0
 - name: stabxrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/83910/1.0
 - name: stabxhype
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83979/1.0
 - name: stabxface
   src: https://static-cdn.jtvnw.net/emoticons/v1/82301/1.0
+- name: stabxrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88178/1.0

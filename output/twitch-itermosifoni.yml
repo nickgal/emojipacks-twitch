@@ -1,11 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - itermosifoni
 emojis:
-- name: termotraditore
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69217/1.0
-- name: termodetective
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69368/1.0
 - name: termoc4
   src: https://static-cdn.jtvnw.net/emoticons/v1/68735/1.0
 - name: termociao
   src: https://static-cdn.jtvnw.net/emoticons/v1/69367/1.0
+- name: termohey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89687/1.0
+- name: termoverme
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106178/1.0
+- name: termogg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116167/1.0
+- name: termopiccione
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116168/1.0
+- name: termononmuore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116169/1.0

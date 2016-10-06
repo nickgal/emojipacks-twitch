@@ -13,11 +13,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82559/1.0
 - name: mat1steven
   src: https://static-cdn.jtvnw.net/emoticons/v1/80159/1.0
-- name: mat1hat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79394/1.0
-- name: mat1egg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79387/1.0
 - name: mat1rage
   src: https://static-cdn.jtvnw.net/emoticons/v1/82558/1.0
 - name: mat1hey
   src: https://static-cdn.jtvnw.net/emoticons/v1/82557/1.0
+- name: mat1praise
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110164/1.0
+- name: mat1dice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104815/1.0
+- name: mat1love
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92309/1.0
+- name: mat1derp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92310/1.0
+- name: mat1plunger
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92819/1.0
+- name: mat1tip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92820/1.0
+- name: mat1vac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104053/1.0

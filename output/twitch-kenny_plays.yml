@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - kenny_plays
 emojis:
-- name: kennychipmunk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69222/1.0
-- name: kennyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79047/1.0
-- name: kennyw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64183/1.0
-- name: kennyfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66504/1.0
-- name: kennydab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80807/1.0
-- name: kennybruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82998/1.0
+- name: kennylul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116420/1.0
+- name: kennyk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116283/1.0
+- name: kennywut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116289/1.0
+- name: kennyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116794/1.0

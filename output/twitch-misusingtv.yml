@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - misusingtv
 emojis:
 - name: mtvrigged
   src: https://static-cdn.jtvnw.net/emoticons/v1/21639/1.0
-- name: mtvhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65696/1.0
+- name: mtvcube
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88965/1.0
 - name: mtvw
   src: https://static-cdn.jtvnw.net/emoticons/v1/67054/1.0
+- name: mtvhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95995/1.0
 - name: mtvrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/43685/1.0
-- name: mtvcoob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67072/1.0
 - name: mtvfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79505/1.0
-- name: mtvluv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79889/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95763/1.0
+- name: mtvlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97505/1.0
 - name: mtvdolphin
   src: https://static-cdn.jtvnw.net/emoticons/v1/83780/1.0

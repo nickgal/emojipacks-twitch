@@ -1,23 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - thegeekchic
 emojis:
-- name: tgcbob
+- name: gekbob
   src: https://static-cdn.jtvnw.net/emoticons/v1/79070/1.0
-- name: tgcderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74436/1.0
-- name: tgccry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71448/1.0
-- name: tgchype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71449/1.0
-- name: tgclove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71450/1.0
-- name: tgcrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71451/1.0
-- name: tgchello
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71452/1.0
-- name: tgcwhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71453/1.0
-- name: tgcdonion
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78696/1.0
-- name: tgcsenpai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78697/1.0
+- name: gekstap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96400/1.0
+- name: gekrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94099/1.0
+- name: gekwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94103/1.0
+- name: gekhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94102/1.0
+- name: geksad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94101/1.0
+- name: gekderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94097/1.0
+- name: geklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94096/1.0
+- name: geklit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90733/1.0
+- name: gektrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89778/1.0
+- name: gekgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94500/1.0
+- name: gekpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94328/1.0
+- name: gekayy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95442/1.0
+- name: gekhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112603/1.0
+- name: gekok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112035/1.0

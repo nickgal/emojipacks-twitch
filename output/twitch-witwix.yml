@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/15579/1.0
 - name: wixbod
   src: https://static-cdn.jtvnw.net/emoticons/v1/51958/1.0
-- name: wixsnack
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16320/1.0
 - name: wixmagoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/18006/1.0
 - name: wixgold
@@ -43,21 +41,31 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65923/1.0
 - name: wixr
   src: https://static-cdn.jtvnw.net/emoticons/v1/65924/1.0
-- name: wixcapn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49473/1.0
 - name: wixmini
   src: https://static-cdn.jtvnw.net/emoticons/v1/49488/1.0
 - name: wixayylmar
   src: https://static-cdn.jtvnw.net/emoticons/v1/58285/1.0
-- name: wix1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81610/1.0
+- name: wixw2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116570/1.0
 - name: wix2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81611/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94852/1.0
 - name: wix3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81612/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94853/1.0
 - name: wix4
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81613/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94855/1.0
+- name: wix1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94851/1.0
 - name: wixd
   src: https://static-cdn.jtvnw.net/emoticons/v1/84966/1.0
 - name: wixcheese
   src: https://static-cdn.jtvnw.net/emoticons/v1/84965/1.0
+- name: wixk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97042/1.0
+- name: wixh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117020/1.0
+- name: wixw3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116577/1.0
+- name: wixw1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116569/1.0
+- name: wixw4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116584/1.0

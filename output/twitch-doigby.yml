@@ -1,7 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - doigby
 emojis:
+- name: doigbycocoon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114148/1.0
+- name: doigbymask
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114147/1.0
 - name: doigbyloup
   src: https://static-cdn.jtvnw.net/emoticons/v1/58436/1.0
 - name: doigbydoig
   src: https://static-cdn.jtvnw.net/emoticons/v1/58447/1.0
+- name: doigbykappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102084/1.0
+- name: doigbyfacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102083/1.0
+- name: doigbysmite
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111525/1.0
+- name: doigbyangel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111198/1.0
+- name: doigbydemon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111199/1.0

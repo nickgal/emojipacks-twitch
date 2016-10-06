@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - kottongamer
 emojis:
+- name: kottonjimmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87077/1.0
 - name: kottonchair
   src: https://static-cdn.jtvnw.net/emoticons/v1/79864/1.0
 - name: kottontree

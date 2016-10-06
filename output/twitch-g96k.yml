@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74323/1.0
 - name: vikitaric
   src: https://static-cdn.jtvnw.net/emoticons/v1/75950/1.0
-- name: vikisweat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75949/1.0
 - name: vikigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/73661/1.0
 - name: vikiwut
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73224/1.0
 - name: vikikek
   src: https://static-cdn.jtvnw.net/emoticons/v1/73066/1.0
+- name: vikiklappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92808/1.0

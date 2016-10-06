@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - tazmo
 emojis:
-- name: tazmohey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57909/1.0
 - name: tazmohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/62504/1.0
 - name: tazmoenvy
   src: https://static-cdn.jtvnw.net/emoticons/v1/71699/1.0
 - name: tazmofeelsbadman
   src: https://static-cdn.jtvnw.net/emoticons/v1/80949/1.0
+- name: tazmoan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86294/1.0
+- name: tazmofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86295/1.0
+- name: tazmow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112814/1.0

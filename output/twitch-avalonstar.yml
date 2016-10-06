@@ -3,8 +3,22 @@ title: Twitch Subscriber Emotes - avalonstar
 emojis:
 - name: avalonfocus
   src: https://static-cdn.jtvnw.net/emoticons/v1/62330/1.0
-- name: avalonevil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83705/1.0
+- name: avalon7
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106264/1.0
+- name: avaloncry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106265/1.0
+- name: avalondash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106266/1.0
+- name: avaloneyes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106267/1.0
+- name: avalonhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106268/1.0
+- name: avalonlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106269/1.0
+- name: avalonrant
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106270/1.0
+- name: avalonrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106271/1.0
 - name: avalonstar
   src: https://static-cdn.jtvnw.net/emoticons/v1/62327/1.0
 - name: avalonhai
@@ -15,27 +29,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65126/1.0
 - name: avalonw
   src: https://static-cdn.jtvnw.net/emoticons/v1/69191/1.0
-- name: avalonhug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72260/1.0
 - name: avalonpower
   src: https://static-cdn.jtvnw.net/emoticons/v1/72261/1.0
-- name: avalonlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72262/1.0
-- name: avalonban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72263/1.0
 - name: avalonlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/72264/1.0
-- name: avalon7
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72265/1.0
-- name: avalonomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72267/1.0
 - name: avalonsleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/83296/1.0
-- name: avaloncry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83297/1.0
-- name: avaloneyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83298/1.0
 - name: avalontoast
   src: https://static-cdn.jtvnw.net/emoticons/v1/83299/1.0
-- name: avalonspike
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83300/1.0
+- name: avalonblank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90117/1.0
+- name: avalonshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90118/1.0
+- name: avalondoot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102048/1.0
+- name: avalonevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102049/1.0

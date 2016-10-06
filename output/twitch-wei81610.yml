@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - wei81610
 emojis:
-- name: weiweikiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75562/1.0
 - name: weiweidie
   src: https://static-cdn.jtvnw.net/emoticons/v1/75560/1.0
+- name: weiweiahq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103147/1.0
+- name: weiweilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103145/1.0
+- name: weiweihurt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103144/1.0
+- name: weiwei87
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92020/1.0
 - name: weiweioh
   src: https://static-cdn.jtvnw.net/emoticons/v1/75410/1.0
 - name: weiweicry
   src: https://static-cdn.jtvnw.net/emoticons/v1/75411/1.0
+- name: weiwei666
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92197/1.0

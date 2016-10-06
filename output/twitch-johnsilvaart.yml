@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - johnsilvaart
 emojis:
-- name: johntatog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76102/1.0
 - name: johntatov
   src: https://static-cdn.jtvnw.net/emoticons/v1/76101/1.0
+- name: johntatord
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89522/1.0
+- name: johntator
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89524/1.0
+- name: johntatos
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89667/1.0

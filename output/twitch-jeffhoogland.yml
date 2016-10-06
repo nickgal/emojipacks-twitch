@@ -3,5 +3,17 @@ title: Twitch Subscriber Emotes - jeffhoogland
 emojis:
 - name: hooglbolt
   src: https://static-cdn.jtvnw.net/emoticons/v1/66586/1.0
+- name: hooglskill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88993/1.0
 - name: hooglflood
   src: https://static-cdn.jtvnw.net/emoticons/v1/66685/1.0
+- name: hoogljake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91164/1.0
+- name: hoogldeclan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91260/1.0
+- name: hooglcartoon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102949/1.0
+- name: hooglpoop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96708/1.0
+- name: hoogldingler
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106442/1.0

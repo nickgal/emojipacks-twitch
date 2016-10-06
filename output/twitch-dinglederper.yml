@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - dinglederper
 emojis:
-- name: dinglek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13457/1.0
 - name: dinglethump
   src: https://static-cdn.jtvnw.net/emoticons/v1/37948/1.0
 - name: dinglefail
@@ -31,6 +29,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33797/1.0
 - name: dinglegnar
   src: https://static-cdn.jtvnw.net/emoticons/v1/33798/1.0
+- name: dinglecute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91986/1.0
 - name: dinglegasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/77509/1.0
 - name: dinglelove

@@ -1,11 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - monnirs
 emojis:
-- name: kemb0bank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75930/1.0
-- name: kemb0fin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74778/1.0
-- name: kemb0hype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75118/1.0
-- name: kemb0king
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75240/1.0
+- name: monniscam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104445/1.0
+- name: monnifin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104514/1.0
+- name: monniw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92044/1.0
+- name: monnilegend
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86196/1.0
+- name: monnidonute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90699/1.0
+- name: monnipride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90696/1.0
+- name: monniak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90776/1.0
+- name: monnig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92187/1.0
+- name: monnirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104408/1.0
+- name: monnibed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104413/1.0

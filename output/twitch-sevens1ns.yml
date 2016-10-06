@@ -1,10 +1,20 @@
 ---
 title: Twitch Subscriber Emotes - sevens1ns
 emojis:
+- name: sevenlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85473/1.0
+- name: sevenrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85472/1.0
 - name: sevenhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/19423/1.0
 - name: sevenrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/52145/1.0
+- name: sevenkarma
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85469/1.0
+- name: sevenhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85470/1.0
+- name: sevencry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85471/1.0
 - name: sevenkweh
   src: https://static-cdn.jtvnw.net/emoticons/v1/69365/1.0
 - name: sevensave

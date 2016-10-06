@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - dawah200
 emojis:
 - name: dawahburn
   src: https://static-cdn.jtvnw.net/emoticons/v1/74783/1.0
-- name: dawahrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74125/1.0
 - name: dawahhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71100/1.0
 - name: dawahhammer
   src: https://static-cdn.jtvnw.net/emoticons/v1/74129/1.0
 - name: dawahcookie
   src: https://static-cdn.jtvnw.net/emoticons/v1/71120/1.0
-- name: dawahsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74126/1.0
+- name: dawaharrow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99534/1.0
+- name: dawahbow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99966/1.0

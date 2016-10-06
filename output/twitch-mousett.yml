@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - mousett
 emojis:
-- name: mousethx
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40258/1.0
 - name: mousekappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/40257/1.0
 - name: mousesubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/76829/1.0
 - name: mousedynamite
   src: https://static-cdn.jtvnw.net/emoticons/v1/76806/1.0
+- name: mousevac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87569/1.0
+- name: mouseflexim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87891/1.0

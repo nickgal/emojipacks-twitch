@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - flowroro
 emojis:
+- name: flowh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87922/1.0
 - name: flowhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50800/1.0
-- name: flowrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50799/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87923/1.0
 - name: flowgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50846/1.0
-- name: flowrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50840/1.0
-- name: flowthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54772/1.0
-- name: flownf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54773/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87919/1.0
+- name: flowcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87918/1.0
+- name: flowno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87924/1.0
+- name: flowgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87920/1.0

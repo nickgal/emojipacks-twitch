@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - mr_wuco
 emojis:
-- name: wucosai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75702/1.0
-- name: wucodu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81653/1.0
-- name: wucomonkey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77602/1.0
+- name: wucogg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89621/1.0
+- name: wucolou2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89619/1.0
+- name: wuco87
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89617/1.0
+- name: wucobm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89668/1.0
 - name: wucoyoung
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77414/1.0
-- name: wucokappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81656/1.0
-- name: wucogi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85278/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89730/1.0
+- name: wucosai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89745/1.0
+- name: wucoburn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95797/1.0
+- name: wucodn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100908/1.0

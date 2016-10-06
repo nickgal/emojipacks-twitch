@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - tsm_doublelift
 emojis:
-- name: liftthatstrash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15209/1.0
 - name: lifthuh
   src: https://static-cdn.jtvnw.net/emoticons/v1/31784/1.0
 - name: liftwut
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71580/1.0
 - name: lifttsm
   src: https://static-cdn.jtvnw.net/emoticons/v1/71581/1.0
+- name: liftw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96339/1.0

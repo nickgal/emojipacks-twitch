@@ -9,11 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81173/1.0
 - name: necfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/84676/1.0
-- name: necship
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84675/1.0
-- name: necboom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81873/1.0
-- name: nectato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81874/1.0
 - name: nechype
   src: https://static-cdn.jtvnw.net/emoticons/v1/81852/1.0
+- name: necdeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107054/1.0
+- name: neccry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97036/1.0
+- name: necsell
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108602/1.0
+- name: necpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108603/1.0
+- name: necsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114041/1.0

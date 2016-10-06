@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mozol6ka
 emojis:
-- name: mozolweee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68338/1.0
-- name: mozolcrab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80699/1.0
-- name: mozolrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84522/1.0
-- name: mozolrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84520/1.0
+- name: mozollove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106234/1.0
+- name: mozolkaef
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108885/1.0
+- name: mozolpi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103223/1.0
+- name: mozolsi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103559/1.0
+- name: mozolbadum
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110096/1.0
+- name: mozolgarold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114385/1.0

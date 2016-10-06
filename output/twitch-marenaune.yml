@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - marenaune
 emojis:
-- name: marnimuffin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19219/1.0
 - name: marnirask
   src: https://static-cdn.jtvnw.net/emoticons/v1/19218/1.0
+- name: marnirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91511/1.0
+- name: marniparty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91510/1.0
+- name: marnifp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89654/1.0
+- name: marnithumb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89653/1.0
 - name: marnilove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58221/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89651/1.0
 - name: marnihype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58220/1.0
-- name: marnidoge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58599/1.0
-- name: marnirekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66227/1.0
-- name: marnirood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73204/1.0
-- name: marniw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73206/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89649/1.0
+- name: marnimad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89652/1.0

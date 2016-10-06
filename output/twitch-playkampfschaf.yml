@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - playkampfschaf
 emojis:
-- name: pkslewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16583/1.0
-- name: pksmuppi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16348/1.0
-- name: pkswut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29058/1.0
-- name: pkshot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29533/1.0
+- name: pkslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95624/1.0
+- name: pkslaught
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95623/1.0
+- name: pksunicorn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106762/1.0
+- name: pksninja
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106763/1.0

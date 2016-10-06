@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - sincerelylyn
 emojis:
-- name: lynthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49815/1.0
 - name: lynrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/57228/1.0
 - name: lynv
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57051/1.0
 - name: lynyay
   src: https://static-cdn.jtvnw.net/emoticons/v1/60447/1.0
+- name: lynthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96712/1.0

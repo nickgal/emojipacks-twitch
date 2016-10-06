@@ -1,12 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - brownman
 emojis:
-- name: brownkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62066/1.0
-- name: brownchillax
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62062/1.0
-- name: brownsleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62073/1.0
 - name: browntina
   src: https://static-cdn.jtvnw.net/emoticons/v1/62074/1.0
 - name: brownslime
@@ -15,14 +9,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70949/1.0
 - name: brownwhoops
   src: https://static-cdn.jtvnw.net/emoticons/v1/62075/1.0
-- name: browngoggles
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57729/1.0
 - name: brownflag
   src: https://static-cdn.jtvnw.net/emoticons/v1/47121/1.0
 - name: brownrose
   src: https://static-cdn.jtvnw.net/emoticons/v1/47033/1.0
-- name: brownwaah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47034/1.0
 - name: brownman
   src: https://static-cdn.jtvnw.net/emoticons/v1/47943/1.0
 - name: browntrain
@@ -39,20 +29,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49774/1.0
 - name: brownscared
   src: https://static-cdn.jtvnw.net/emoticons/v1/49782/1.0
-- name: brownfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49776/1.0
 - name: brownhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/49777/1.0
 - name: brownhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/49778/1.0
-- name: brownmalta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49779/1.0
 - name: brownrayd
   src: https://static-cdn.jtvnw.net/emoticons/v1/49783/1.0
 - name: brownrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/49780/1.0
-- name: browntrophy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49773/1.0
 - name: brownrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/62072/1.0
 - name: browngnome
@@ -63,8 +47,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62070/1.0
 - name: brownlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/62069/1.0
-- name: brownkobe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62068/1.0
 - name: brownkiss
   src: https://static-cdn.jtvnw.net/emoticons/v1/62067/1.0
 - name: brownjokes
@@ -77,7 +59,35 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61594/1.0
 - name: brownpbs
   src: https://static-cdn.jtvnw.net/emoticons/v1/66920/1.0
+- name: browncharlie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94821/1.0
 - name: brownnom
   src: https://static-cdn.jtvnw.net/emoticons/v1/66919/1.0
 - name: browndance
   src: https://static-cdn.jtvnw.net/emoticons/v1/66918/1.0
+- name: browntrophy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107635/1.0
+- name: brownweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107636/1.0
+- name: brownsleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116811/1.0
+- name: brownfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116810/1.0
+- name: brownkobe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107634/1.0
+- name: brownblaze
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107633/1.0
+- name: brownfirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107632/1.0
+- name: brownlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107665/1.0
+- name: brownwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98970/1.0
+- name: brownsalute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110535/1.0
+- name: brownchoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116809/1.0
+- name: brownchillax
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116812/1.0
+- name: brownmalta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116813/1.0

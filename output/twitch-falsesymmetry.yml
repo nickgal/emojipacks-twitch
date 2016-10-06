@@ -2,9 +2,7 @@
 title: Twitch Subscriber Emotes - falsesymmetry
 emojis:
 - name: falseholy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62130/1.0
-- name: falseblimey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62131/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96037/1.0
 - name: falseo
   src: https://static-cdn.jtvnw.net/emoticons/v1/69070/1.0
 - name: falseheart
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81563/1.0
 - name: falsepepe
   src: https://static-cdn.jtvnw.net/emoticons/v1/81562/1.0
+- name: falseham
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100748/1.0

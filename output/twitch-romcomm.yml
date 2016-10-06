@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - romcomm
 emojis:
-- name: rcomboot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67114/1.0
 - name: rcomgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/15107/1.0
-- name: rcompalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14106/1.0
-- name: rcomriot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20493/1.0
 - name: rcomlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73818/1.0
-- name: rcomsanic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57953/1.0
-- name: rcompoof
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63542/1.0
-- name: rcomhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68247/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86153/1.0
+- name: rcomriot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86155/1.0
+- name: rcompalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86156/1.0
+- name: rcomsobster
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92217/1.0
+- name: rcomhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92218/1.0
+- name: rcomrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92219/1.0
+- name: rcomha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111020/1.0

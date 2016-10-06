@@ -3,12 +3,6 @@ title: Twitch Subscriber Emotes - djarii
 emojis:
 - name: djariilewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/64143/1.0
-- name: djariirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64115/1.0
-- name: djariifeelsgood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64114/1.0
-- name: djariifeelsbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64112/1.0
 - name: djariijonas
   src: https://static-cdn.jtvnw.net/emoticons/v1/20932/1.0
 - name: djariilove
@@ -21,3 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64113/1.0
 - name: djariiyay
   src: https://static-cdn.jtvnw.net/emoticons/v1/64168/1.0
+- name: djariifg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90266/1.0
+- name: djariifb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90267/1.0
+- name: djariiso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90268/1.0
+- name: djariim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107749/1.0
+- name: djariihey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107751/1.0
+- name: djariirekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107750/1.0
+- name: djariih
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116049/1.0
+- name: djariib
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116050/1.0

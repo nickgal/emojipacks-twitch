@@ -1,19 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - gernaderjake
 emojis:
+- name: gjakechamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104857/1.0
 - name: gjakesnipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/85130/1.0
+- name: gjakerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109566/1.0
 - name: gjakelol
   src: https://static-cdn.jtvnw.net/emoticons/v1/74540/1.0
 - name: gjakelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/74405/1.0
-- name: gjakechamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74407/1.0
 - name: gjakerig
   src: https://static-cdn.jtvnw.net/emoticons/v1/74408/1.0
 - name: gjakecarrot
   src: https://static-cdn.jtvnw.net/emoticons/v1/74410/1.0
 - name: gjakeweird
   src: https://static-cdn.jtvnw.net/emoticons/v1/76598/1.0
-- name: gjakeomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78569/1.0
+- name: gjakeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101048/1.0
+- name: gjakehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101047/1.0
+- name: gjakegasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86943/1.0
+- name: gjakekels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89556/1.0
+- name: gjakeh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89557/1.0
+- name: gjakehuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109491/1.0
+- name: gjakecreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115994/1.0
+- name: gjakelul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115958/1.0
+- name: gjakereally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115957/1.0
+- name: gjakejs2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115956/1.0
+- name: gjakejs1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115955/1.0
+- name: gjakenade
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115953/1.0

@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - pplushy
 emojis:
-- name: plusad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18232/1.0
 - name: pluhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/19388/1.0
-- name: pluheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18229/1.0
-- name: pluhappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34881/1.0
-- name: pluchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45522/1.0
-- name: plucreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45521/1.0
+- name: plusad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103695/1.0
+- name: pluevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102834/1.0
+- name: pluwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102833/1.0
+- name: plukiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102832/1.0
+- name: pluyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102836/1.0

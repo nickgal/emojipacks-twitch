@@ -19,11 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45019/1.0
 - name: smokelewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/45018/1.0
-- name: smokeballs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45097/1.0
 - name: smokebro
   src: https://static-cdn.jtvnw.net/emoticons/v1/45092/1.0
 - name: smoketears
   src: https://static-cdn.jtvnw.net/emoticons/v1/45218/1.0
-- name: smokerage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71791/1.0
+- name: smokedied
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86298/1.0
+- name: smokeshock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104423/1.0
+- name: smokebutt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105317/1.0
+- name: smokeduck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112426/1.0

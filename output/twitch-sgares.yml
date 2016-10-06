@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - sgares
 emojis:
 - name: sgaresrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/14632/1.0
-- name: sgaresstahp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14634/1.0
 - name: sgarestroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/22748/1.0
 - name: sgaresmochi
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79828/1.0
 - name: sgareswizard
   src: https://static-cdn.jtvnw.net/emoticons/v1/82599/1.0
+- name: sgaresmyla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92095/1.0

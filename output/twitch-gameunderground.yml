@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - gameunderground
 emojis:
+- name: gutsletsgowave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106784/1.0
+- name: gutsgcw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86351/1.0
 - name: gutslogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/82545/1.0
-- name: gutsletsgowave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82546/1.0
+- name: gutslance
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106835/1.0

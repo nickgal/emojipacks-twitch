@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/6305/1.0
 - name: pokeblessed
   src: https://static-cdn.jtvnw.net/emoticons/v1/11807/1.0
-- name: pokewukong
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15791/1.0
 - name: pokehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/40038/1.0
 - name: pokecry
@@ -17,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40039/1.0
 - name: pokef
   src: https://static-cdn.jtvnw.net/emoticons/v1/55733/1.0
+- name: pokegenji
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88181/1.0
+- name: pokestar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88182/1.0
+- name: pokecurry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103497/1.0

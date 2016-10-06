@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - xflixx_teampokerstars
 emojis:
+- name: giudollar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101266/1.0
 - name: giuhold
   src: https://static-cdn.jtvnw.net/emoticons/v1/48983/1.0
-- name: giurage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82850/1.0
-- name: giucry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35241/1.0
-- name: giusarge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35240/1.0
-- name: giuiwm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35927/1.0
-- name: giugasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83027/1.0
+- name: giucall
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102965/1.0
 - name: giukappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/83015/1.0
 - name: giulove
   src: https://static-cdn.jtvnw.net/emoticons/v1/83016/1.0
+- name: giubud
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102990/1.0
+- name: giusqz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101133/1.0
+- name: giucat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103323/1.0
+- name: giuwont
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101193/1.0
+- name: giurage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109744/1.0

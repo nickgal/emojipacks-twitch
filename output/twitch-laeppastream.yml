@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - laeppastream
 emojis:
+- name: laeugu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95017/1.0
 - name: lae7
   src: https://static-cdn.jtvnw.net/emoticons/v1/71918/1.0
-- name: laefisu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12560/1.0
 - name: laehand
   src: https://static-cdn.jtvnw.net/emoticons/v1/12884/1.0
 - name: lae5
@@ -25,9 +25,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47985/1.0
 - name: laeris
   src: https://static-cdn.jtvnw.net/emoticons/v1/47135/1.0
-- name: laerage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75678/1.0
 - name: laewut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67147/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86357/1.0
 - name: laesad
   src: https://static-cdn.jtvnw.net/emoticons/v1/68657/1.0
+- name: laefisu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88687/1.0
+- name: lae3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94998/1.0
+- name: laerage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85962/1.0
+- name: laenvoi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94010/1.0
+- name: laefeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97193/1.0

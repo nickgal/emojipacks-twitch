@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lolinsanitystream
 emojis:
-- name: ajmswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71320/1.0
-- name: ajmwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66684/1.0
 - name: ajmgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/71234/1.0
+- name: ajmbadman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103130/1.0
 - name: ajmwoof
   src: https://static-cdn.jtvnw.net/emoticons/v1/72468/1.0
 - name: ajmkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/65961/1.0
 - name: ajmdone
   src: https://static-cdn.jtvnw.net/emoticons/v1/77406/1.0
-- name: ajmez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77104/1.0
-- name: ajmtoxic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77105/1.0
+- name: ajmgoralhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87622/1.0
+- name: ajmgoodman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105694/1.0
+- name: ajmtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107833/1.0

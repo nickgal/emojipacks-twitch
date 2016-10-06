@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - vesperarcade
 emojis:
-- name: vespervesperado
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83621/1.0
-- name: vesperwham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83622/1.0
+- name: vesperhollywood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92125/1.0
+- name: vesperchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94768/1.0
+- name: vesperthirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103266/1.0
+- name: vesperstick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103267/1.0

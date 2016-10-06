@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - yebai0813
 emojis:
-- name: yebaiyo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13032/1.0
-- name: yebaichu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13033/1.0
-- name: yebaizz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16842/1.0
-- name: yebaimu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17403/1.0
+- name: yebaih
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99585/1.0
+- name: yebaisong
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99586/1.0
+- name: yebaim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99589/1.0
+- name: yebaiboom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99587/1.0
+- name: yebaigan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99588/1.0
+- name: yebaic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99590/1.0
+- name: yebaiqq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99306/1.0
+- name: yebaibb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99307/1.0

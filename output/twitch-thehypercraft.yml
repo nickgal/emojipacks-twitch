@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - thehypercraft
 emojis:
-- name: hypercraftthirst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38052/1.0
+- name: hypercraftdad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101475/1.0
+- name: hypercraftsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100862/1.0
 - name: hypercraftlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38625/1.0
-- name: hypercraft12
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54075/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102390/1.0
+- name: hypercraftcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101955/1.0
+- name: hypercraftcringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101920/1.0
+- name: hypercraftcash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101623/1.0

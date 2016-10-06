@@ -1,19 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - crumbzz
 emojis:
-- name: pcdbannerina
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10455/1.0
-- name: pcdgkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9751/1.0
 - name: pcdcrumbled
   src: https://static-cdn.jtvnw.net/emoticons/v1/9752/1.0
-- name: pcdcrumblee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9884/1.0
-- name: pcdgreen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15432/1.0
 - name: pcdsmitty
   src: https://static-cdn.jtvnw.net/emoticons/v1/15077/1.0
-- name: pcdhehe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15236/1.0
-- name: pcdlemon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16291/1.0
+- name: pcddumb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106062/1.0
+- name: pcdsmart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106061/1.0

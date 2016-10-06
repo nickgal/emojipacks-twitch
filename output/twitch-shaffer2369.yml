@@ -1,41 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - shaffer2369
 emojis:
-- name: shaffercat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63679/1.0
 - name: shafferoface
   src: https://static-cdn.jtvnw.net/emoticons/v1/10519/1.0
-- name: shaffercatawp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10822/1.0
-- name: shafferfailsnipe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63678/1.0
 - name: shafferhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/15501/1.0
 - name: shafferhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/63676/1.0
-- name: shaffercheers
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18655/1.0
-- name: shaffermolly
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18716/1.0
-- name: shafferbutter
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18826/1.0
 - name: shaffersmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/19038/1.0
 - name: shafferdflop
   src: https://static-cdn.jtvnw.net/emoticons/v1/57176/1.0
-- name: shaffertswift
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57175/1.0
-- name: shafferletsgo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63677/1.0
-- name: shafferragebet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56994/1.0
-- name: shafferez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59800/1.0
 - name: shaffercop
   src: https://static-cdn.jtvnw.net/emoticons/v1/63770/1.0
-- name: shafferquan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63771/1.0
 - name: shafferfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/63876/1.0
 - name: shafferrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/63877/1.0
+- name: shafferrolled
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103782/1.0
+- name: shaffernaish
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100565/1.0

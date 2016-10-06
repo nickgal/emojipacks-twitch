@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - gamerlcd
 emojis:
+- name: lcdki
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91714/1.0
+- name: lcdbd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91712/1.0
+- name: lcdsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94743/1.0
 - name: lcdsleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/56675/1.0
 - name: lcdsmirk
   src: https://static-cdn.jtvnw.net/emoticons/v1/56670/1.0
-- name: lcdorchid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81623/1.0
-- name: lcdbd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81932/1.0
 - name: lcdgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/81629/1.0
-- name: lcdlook
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82176/1.0
+- name: lcdjab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93806/1.0
+- name: lcdfree
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91820/1.0

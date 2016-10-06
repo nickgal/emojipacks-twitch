@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - dudleyc_
 emojis:
+- name: dudslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85607/1.0
 - name: dudslmao
   src: https://static-cdn.jtvnw.net/emoticons/v1/84613/1.0
 - name: dudsthump

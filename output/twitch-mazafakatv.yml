@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - mazafakatv
 emojis:
+- name: mzfksparta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103006/1.0
 - name: mzfkkot
   src: https://static-cdn.jtvnw.net/emoticons/v1/18018/1.0
 - name: mzfkvovka
   src: https://static-cdn.jtvnw.net/emoticons/v1/79363/1.0
+- name: mzfkmaza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102998/1.0

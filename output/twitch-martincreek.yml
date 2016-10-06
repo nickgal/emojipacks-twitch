@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - martincreek
 emojis:
-- name: martcw
+- name: creekwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97640/1.0
+- name: creekw
   src: https://static-cdn.jtvnw.net/emoticons/v1/77749/1.0

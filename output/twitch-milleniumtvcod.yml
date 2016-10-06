@@ -1,7 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - milleniumtvcod
 emojis:
+- name: mtvcodshootkrnagien
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98151/1.0
 - name: mtvcodm
   src: https://static-cdn.jtvnw.net/emoticons/v1/57840/1.0
 - name: mtvcodchoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/57841/1.0
+- name: mtvcodomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98041/1.0
+- name: mtvcodcarbongodm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98040/1.0

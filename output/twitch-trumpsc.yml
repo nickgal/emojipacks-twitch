@@ -1,36 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - trumpsc
 emojis:
-- name: trumpcookie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2931/1.0
-- name: trumpstats
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2205/1.0
-- name: trumpprison
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5299/1.0
-- name: trumpchicken
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15647/1.0
-- name: trumptsm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18983/1.0
 - name: trumpcrab
   src: https://static-cdn.jtvnw.net/emoticons/v1/24334/1.0
-- name: trumpchow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28463/1.0
 - name: trumpion
   src: https://static-cdn.jtvnw.net/emoticons/v1/60676/1.0
-- name: trumpgive
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33399/1.0
-- name: trumpkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35220/1.0
 - name: trumpw
   src: https://static-cdn.jtvnw.net/emoticons/v1/35218/1.0
-- name: trumpwhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36911/1.0
-- name: trumprope
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37150/1.0
 - name: trumpthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/41096/1.0
-- name: trumpbear
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45404/1.0
 - name: trumpdepends
   src: https://static-cdn.jtvnw.net/emoticons/v1/50746/1.0
 - name: trumpmusic
@@ -39,5 +17,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60891/1.0
 - name: trumpwall
   src: https://static-cdn.jtvnw.net/emoticons/v1/80092/1.0
+- name: trumpd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103183/1.0
+- name: trump2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103182/1.0
+- name: trump1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103181/1.0
+- name: trumpyogg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103185/1.0
 - name: trumpvalue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74932/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103265/1.0
+- name: trumpa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108633/1.0
+- name: trumpmima
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114246/1.0

@@ -3,3 +3,9 @@ title: Twitch Subscriber Emotes - buildguild
 emojis:
 - name: bgdbg
   src: https://static-cdn.jtvnw.net/emoticons/v1/75489/1.0
+- name: bgdbarry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100938/1.0
+- name: bgdrealtalk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100939/1.0
+- name: bgdheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98934/1.0

@@ -1,5 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - diabloemt
 emojis:
+- name: diabloemtban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94303/1.0
+- name: diabloemtpolice1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108413/1.0
+- name: diabloemtpolice2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108414/1.0
 - name: diabloemtx6tence
   src: https://static-cdn.jtvnw.net/emoticons/v1/29977/1.0

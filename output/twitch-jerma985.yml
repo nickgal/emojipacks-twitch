@@ -1,7 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - jerma985
 emojis:
-- name: jermamoon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78315/1.0
+- name: jermasun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87845/1.0
+- name: jermaearth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87950/1.0
 - name: jermamoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/79428/1.0
+- name: jermaegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91801/1.0
+- name: jermajup1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91806/1.0
+- name: jermajup2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91807/1.0
+- name: jermajup3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91808/1.0
+- name: jermajup4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91809/1.0
+- name: jermaglue
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91793/1.0

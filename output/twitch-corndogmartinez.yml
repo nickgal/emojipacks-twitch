@@ -1,11 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - corndogmartinez
 emojis:
-- name: kadithump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32309/1.0
 - name: kadiw
   src: https://static-cdn.jtvnw.net/emoticons/v1/32494/1.0
-- name: kadih
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33004/1.0
-- name: kadiflute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46869/1.0
+- name: kadif
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92925/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - sparcmaclived
 emojis:
-- name: sparcchinchilla
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5295/1.0
 - name: sparcdclaws
   src: https://static-cdn.jtvnw.net/emoticons/v1/5294/1.0
 - name: sparcrobe
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/26976/1.0
 - name: sparcninjaturtle
   src: https://static-cdn.jtvnw.net/emoticons/v1/27850/1.0
+- name: sparcwillis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105456/1.0

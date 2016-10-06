@@ -1,8 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - retku
 emojis:
+- name: rtqkeppi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87051/1.0
 - name: rtqkemu
   src: https://static-cdn.jtvnw.net/emoticons/v1/28714/1.0
+- name: rtqjano
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87052/1.0
 - name: rtqkinder
   src: https://static-cdn.jtvnw.net/emoticons/v1/28673/1.0
 - name: rtqpilu

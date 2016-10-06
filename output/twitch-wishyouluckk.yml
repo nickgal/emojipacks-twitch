@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - wishyouluckk
 emojis:
-- name: wyld
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55890/1.0
-- name: wylred
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55889/1.0
-- name: wylbye
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73604/1.0
+- name: wylw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101267/1.0
 - name: wyldonation
   src: https://static-cdn.jtvnw.net/emoticons/v1/73605/1.0
 - name: wylhi
@@ -15,19 +11,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73607/1.0
 - name: wylwelcome
   src: https://static-cdn.jtvnw.net/emoticons/v1/73608/1.0
-- name: wylkakaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35767/1.0
-- name: wylbaby
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35769/1.0
-- name: wyldrama
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39805/1.0
-- name: wylfive
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39622/1.0
-- name: wylb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56877/1.0
-- name: wylwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55820/1.0
-- name: wylwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55821/1.0
+- name: wylbl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113016/1.0
 - name: wylsav
   src: https://static-cdn.jtvnw.net/emoticons/v1/60455/1.0
+- name: wyln
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90179/1.0
+- name: wylwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89341/1.0
+- name: wylr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92998/1.0
+- name: wylb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108123/1.0
+- name: wyllove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92997/1.0
+- name: wylcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92996/1.0
+- name: wylh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103611/1.0
+- name: wylape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113841/1.0

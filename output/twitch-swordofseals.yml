@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - swordofseals
 emojis:
-- name: swordhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23227/1.0
-- name: swordhappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24436/1.0
-- name: swordshades
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70715/1.0
-- name: swordblue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70716/1.0
 - name: swordlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/70717/1.0
+- name: swordhappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86637/1.0
+- name: swordsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86638/1.0
+- name: swordw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91144/1.0
+- name: swordrio
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115732/1.0
 - name: swordhyped
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70734/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115731/1.0
 - name: swordhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70735/1.0
-- name: swordfunk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70463/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115730/1.0
+- name: swordshades
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115729/1.0

@@ -1,13 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - jscubby
 emojis:
-- name: scubhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81443/1.0
-- name: scubo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81442/1.0
+- name: scubrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86108/1.0
+- name: scublurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106035/1.0
 - name: scublove
   src: https://static-cdn.jtvnw.net/emoticons/v1/82591/1.0
 - name: scubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/82580/1.0
-- name: scubnice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82657/1.0
+- name: scubcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106041/1.0
+- name: scubclutch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86110/1.0
+- name: scubsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99185/1.0
+- name: scubchill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99184/1.0
+- name: scubgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98978/1.0
+- name: scubfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105538/1.0

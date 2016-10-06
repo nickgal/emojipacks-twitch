@@ -3,23 +3,29 @@ title: Twitch Subscriber Emotes - dinterlolz
 emojis:
 - name: dintersay
   src: https://static-cdn.jtvnw.net/emoticons/v1/41794/1.0
-- name: dinterknow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41793/1.0
 - name: dinterr
   src: https://static-cdn.jtvnw.net/emoticons/v1/41792/1.0
-- name: dinterdiao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34460/1.0
 - name: dintertone
   src: https://static-cdn.jtvnw.net/emoticons/v1/51314/1.0
-- name: dinterretard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68223/1.0
 - name: dinterok
   src: https://static-cdn.jtvnw.net/emoticons/v1/67619/1.0
 - name: dinterjg
   src: https://static-cdn.jtvnw.net/emoticons/v1/67617/1.0
 - name: dintergunma
   src: https://static-cdn.jtvnw.net/emoticons/v1/67616/1.0
-- name: dinterbeyond
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67615/1.0
 - name: dintervawo
   src: https://static-cdn.jtvnw.net/emoticons/v1/67614/1.0
+- name: dinterpolice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89479/1.0
+- name: dintercard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90872/1.0
+- name: dintermrcao
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95121/1.0
+- name: dinter87
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100940/1.0
+- name: dinter666
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100941/1.0
+- name: dinterhahaha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100942/1.0
+- name: dinternothing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100946/1.0

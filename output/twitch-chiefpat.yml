@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - chiefpat
 emojis:
-- name: patloot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16943/1.0
-- name: patnose
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17212/1.0
-- name: patchief
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17225/1.0
-- name: patface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17448/1.0
 - name: pattrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/17442/1.0
 - name: patcash
   src: https://static-cdn.jtvnw.net/emoticons/v1/17444/1.0
+- name: patgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/16943/1.0
+- name: patsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/17225/1.0
+- name: patbruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/17448/1.0
+- name: patchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97709/1.0
+- name: patchest
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97710/1.0
+- name: pattilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97712/1.0
+- name: patcrown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97716/1.0
+- name: patw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97717/1.0

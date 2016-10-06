@@ -1,43 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - officialflaw
 emojis:
+- name: flawhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90034/1.0
+- name: flawhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90035/1.0
+- name: flawrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90036/1.0
+- name: flawthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90029/1.0
+- name: flawgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90031/1.0
+- name: flawpotato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90026/1.0
+- name: flawangel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90027/1.0
+- name: flawdevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90028/1.0
 - name: flawgo
   src: https://static-cdn.jtvnw.net/emoticons/v1/70329/1.0
-- name: flawburg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69005/1.0
-- name: flawhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70265/1.0
 - name: flawvac
   src: https://static-cdn.jtvnw.net/emoticons/v1/69007/1.0
 - name: flawheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/69006/1.0
-- name: flawez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69494/1.0
 - name: flawless
   src: https://static-cdn.jtvnw.net/emoticons/v1/65421/1.0
-- name: flawrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69079/1.0
-- name: flawyolo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68474/1.0
-- name: flawrigged
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70151/1.0
-- name: flawrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70150/1.0
-- name: flawgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71552/1.0
 - name: flawfitta
   src: https://static-cdn.jtvnw.net/emoticons/v1/71597/1.0
-- name: flawpotato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71554/1.0
 - name: flawface
   src: https://static-cdn.jtvnw.net/emoticons/v1/71632/1.0
-- name: flawrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69838/1.0
 - name: flawchill
   src: https://static-cdn.jtvnw.net/emoticons/v1/72131/1.0
 - name: flawgrill
   src: https://static-cdn.jtvnw.net/emoticons/v1/71401/1.0
-- name: flawgl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71497/1.0
-- name: flawblood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73976/1.0
+- name: flawsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90025/1.0
+- name: flawpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90030/1.0
+- name: flawrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90032/1.0
+- name: flawgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90033/1.0

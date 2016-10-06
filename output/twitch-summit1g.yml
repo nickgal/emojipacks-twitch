@@ -51,8 +51,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/32285/1.0
 - name: sumswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/32614/1.0
+- name: sum100
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90967/1.0
+- name: sumbuhblam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90969/1.0
 - name: sumpluto
   src: https://static-cdn.jtvnw.net/emoticons/v1/69298/1.0
+- name: sumwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86440/1.0
 - name: sumderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/81141/1.0
 - name: sumlove
@@ -67,3 +73,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80996/1.0
 - name: sumwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/80998/1.0
+- name: sumsuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94254/1.0

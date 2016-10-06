@@ -3,21 +3,21 @@ title: Twitch Subscriber Emotes - nkuchdestiny
 emojis:
 - name: kuchhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/60615/1.0
-- name: kuchchoc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60616/1.0
 - name: kuchhelmet
   src: https://static-cdn.jtvnw.net/emoticons/v1/60658/1.0
+- name: kuchprimal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87240/1.0
 - name: kuchsnipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/60506/1.0
-- name: kuchswept
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60508/1.0
-- name: kuchheadband
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61119/1.0
-- name: kuchcarry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61120/1.0
 - name: kuchsavage
   src: https://static-cdn.jtvnw.net/emoticons/v1/61118/1.0
-- name: kuchlag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63912/1.0
 - name: kuchslay
   src: https://static-cdn.jtvnw.net/emoticons/v1/64285/1.0
+- name: kuchlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88788/1.0
+- name: kuchsweat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101717/1.0
+- name: kuchout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102231/1.0
+- name: kuchsweep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101718/1.0

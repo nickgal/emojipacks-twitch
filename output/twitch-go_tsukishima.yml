@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - go_tsukishima
 emojis:
-- name: go01go
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77499/1.0
 - name: go01kota
   src: https://static-cdn.jtvnw.net/emoticons/v1/77338/1.0
+- name: go01mei
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110924/1.0

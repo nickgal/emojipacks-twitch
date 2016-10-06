@@ -9,6 +9,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64901/1.0
 - name: pjdcarb
   src: https://static-cdn.jtvnw.net/emoticons/v1/64904/1.0
+- name: pjdmeep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91551/1.0
 - name: pjdbord
   src: https://static-cdn.jtvnw.net/emoticons/v1/64907/1.0
 - name: pjdcaboose
@@ -19,3 +21,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77648/1.0
 - name: pjd6pm
   src: https://static-cdn.jtvnw.net/emoticons/v1/77649/1.0
+- name: pjdting
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116117/1.0
+- name: pjdjobe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116116/1.0
+- name: pjdshark
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116118/1.0
+- name: pjdgold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116119/1.0

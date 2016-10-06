@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - thoocygaming
 emojis:
+- name: thoobros
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103833/1.0
+- name: thoolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89823/1.0
 - name: thoopoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/67065/1.0
-- name: thook
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67309/1.0
 - name: thoorip
   src: https://static-cdn.jtvnw.net/emoticons/v1/67412/1.0
 - name: thooclutch
   src: https://static-cdn.jtvnw.net/emoticons/v1/67461/1.0
-- name: thoohey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67663/1.0
-- name: thoolove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70721/1.0
 - name: thoohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/70551/1.0
 - name: thoow
   src: https://static-cdn.jtvnw.net/emoticons/v1/70523/1.0
+- name: thoohey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104317/1.0

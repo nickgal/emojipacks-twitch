@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - oldskool_tv
 emojis:
 - name: otvwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/16216/1.0
-- name: otvkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17704/1.0
 - name: otvomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/54386/1.0
 - name: otvhappy
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76144/1.0
 - name: otvmarvin
   src: https://static-cdn.jtvnw.net/emoticons/v1/78985/1.0
+- name: otvbot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100489/1.0

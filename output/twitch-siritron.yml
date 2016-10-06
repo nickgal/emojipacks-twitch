@@ -3,11 +3,17 @@ title: Twitch Subscriber Emotes - siritron
 emojis:
 - name: sirianhax
   src: https://static-cdn.jtvnw.net/emoticons/v1/73214/1.0
-- name: sirianpomf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73218/1.0
-- name: siriansus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84555/1.0
-- name: siriannuke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73213/1.0
+- name: siriangasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90260/1.0
+- name: sirianrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88723/1.0
 - name: siriansalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/80592/1.0
+- name: sirianlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90322/1.0
+- name: siriansmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89761/1.0
+- name: sirianlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110499/1.0
+- name: sirianhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110500/1.0

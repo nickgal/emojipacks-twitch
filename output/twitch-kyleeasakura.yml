@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - kyleeasakura
 emojis:
-- name: kyleeheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57957/1.0
-- name: kyleehappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47117/1.0
+- name: kyleemad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86457/1.0
+- name: kyleehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86455/1.0
 - name: kyleelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47114/1.0
-- name: kyleedead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47116/1.0
-- name: kyleecool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48289/1.0
-- name: kyleefail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58874/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86458/1.0
+- name: kyleeheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86456/1.0
+- name: kyleehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99968/1.0
+- name: kyleerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99969/1.0

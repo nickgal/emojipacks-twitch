@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - gibbs0o0
 emojis:
-- name: gibbshallnotpass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58088/1.0
 - name: gibbhardhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/58304/1.0
 - name: gibbpotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/58303/1.0
-- name: gibbshype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58743/1.0
+- name: gibblet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111859/1.0
 - name: gibbsgibbs
   src: https://static-cdn.jtvnw.net/emoticons/v1/71862/1.0
-- name: gibbschair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75227/1.0
+- name: gibbsdirk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102142/1.0
+- name: gibbshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102116/1.0
+- name: gibbstech
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103569/1.0
+- name: gibbsgffb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111856/1.0

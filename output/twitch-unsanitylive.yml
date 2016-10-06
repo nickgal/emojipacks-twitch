@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - unsanitylive
 emojis:
+- name: unsbean
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99339/1.0
 - name: unsgross
   src: https://static-cdn.jtvnw.net/emoticons/v1/56653/1.0
 - name: unsfine
@@ -15,3 +17,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64164/1.0
 - name: unslaff
   src: https://static-cdn.jtvnw.net/emoticons/v1/77833/1.0
+- name: unsick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113133/1.0

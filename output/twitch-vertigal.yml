@@ -3,7 +3,13 @@ title: Twitch Subscriber Emotes - vertigal
 emojis:
 - name: vertisalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/81296/1.0
+- name: vertiwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95930/1.0
 - name: vertiwp
   src: https://static-cdn.jtvnw.net/emoticons/v1/80198/1.0
 - name: vertitilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/80199/1.0
+- name: vertics
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90851/1.0
+- name: verticharm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95812/1.0

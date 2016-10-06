@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - pewpewu
 emojis:
 - name: ppuclg
   src: https://static-cdn.jtvnw.net/emoticons/v1/71957/1.0
-- name: ppuwat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32996/1.0
-- name: ppugoat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32994/1.0
 - name: ppufilth
   src: https://static-cdn.jtvnw.net/emoticons/v1/32992/1.0
 - name: ppumarf
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41051/1.0
 - name: ppurare
   src: https://static-cdn.jtvnw.net/emoticons/v1/45220/1.0
+- name: ppupew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98263/1.0
+- name: ppuw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107056/1.0

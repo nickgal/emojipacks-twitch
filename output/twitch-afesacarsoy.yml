@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - afesacarsoy
 emojis:
-- name: sefapalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47865/1.0
 - name: sefao7
   src: https://static-cdn.jtvnw.net/emoticons/v1/69223/1.0
 - name: sefapride
   src: https://static-cdn.jtvnw.net/emoticons/v1/69299/1.0
+- name: sefasatti
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95448/1.0
 - name: sefafail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48405/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95447/1.0
+- name: sefabayrak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95186/1.0
+- name: sefavac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95188/1.0

@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - fuzzyness
 emojis:
+- name: fuzzyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112015/1.0
+- name: fuzzyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111916/1.0
 - name: fuzzytowel
   src: https://static-cdn.jtvnw.net/emoticons/v1/33029/1.0
-- name: fuzzygasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50940/1.0
-- name: fuzzythump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41822/1.0
-- name: fuzzyxd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74040/1.0
-- name: fuzzyhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63491/1.0
+- name: fuzzylewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111967/1.0
 - name: fuzzylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/77919/1.0
 - name: fuzzyduck
   src: https://static-cdn.jtvnw.net/emoticons/v1/79706/1.0
-- name: fuzzyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81688/1.0
+- name: fuzzyw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94357/1.0
+- name: fuzzydex
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106752/1.0

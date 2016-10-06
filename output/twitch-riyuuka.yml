@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - riyuuka
 emojis:
-- name: vaderdogriyu
+- name: riyuunaisu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115388/1.0
+- name: riyuuriyu
   src: https://static-cdn.jtvnw.net/emoticons/v1/74744/1.0
-- name: vaderdogrr
+- name: riyuurr
   src: https://static-cdn.jtvnw.net/emoticons/v1/75131/1.0
-- name: vaderdogcharm
+- name: riyuucharm
   src: https://static-cdn.jtvnw.net/emoticons/v1/77740/1.0
-- name: vaderdogpride
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77627/1.0
+- name: riyuuks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109509/1.0
+- name: riyuunaf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109412/1.0
+- name: riyuureaper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113227/1.0
+- name: riyuurem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115175/1.0

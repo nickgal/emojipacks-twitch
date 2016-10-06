@@ -9,7 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73990/1.0
 - name: scrunkrucksack
   src: https://static-cdn.jtvnw.net/emoticons/v1/79599/1.0
-- name: scrunkgiotto
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78841/1.0
-- name: scrunksonne
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79600/1.0
+- name: scrunkpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100247/1.0
+- name: scrunklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108542/1.0
+- name: scrunkgod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108541/1.0
+- name: scrunkfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108349/1.0

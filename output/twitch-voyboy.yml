@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31161/1.0
 - name: voycya
   src: https://static-cdn.jtvnw.net/emoticons/v1/31162/1.0
-- name: voyfast
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31167/1.0
 - name: voyzzz
   src: https://static-cdn.jtvnw.net/emoticons/v1/30178/1.0
 - name: voyduck
@@ -49,8 +47,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67166/1.0
 - name: voyoliver
   src: https://static-cdn.jtvnw.net/emoticons/v1/59429/1.0
-- name: voypam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59430/1.0
 - name: voythump
   src: https://static-cdn.jtvnw.net/emoticons/v1/67167/1.0
 - name: voychamp
@@ -61,3 +57,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67526/1.0
 - name: voytilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/67527/1.0
+- name: voyboosted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96927/1.0
+- name: voyhiyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112267/1.0

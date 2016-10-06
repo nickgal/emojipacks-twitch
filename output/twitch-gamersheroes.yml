@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - gamersheroes
 emojis:
 - name: gherohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/36238/1.0
-- name: gherorage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43532/1.0
-- name: gherohero
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43533/1.0
-- name: gherovillain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43552/1.0
 - name: gherohi
   src: https://static-cdn.jtvnw.net/emoticons/v1/43550/1.0
-- name: gherococo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41406/1.0
+- name: gherohero
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93181/1.0
+- name: gherofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93180/1.0
+- name: gherolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93182/1.0
+- name: gherovillain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93183/1.0

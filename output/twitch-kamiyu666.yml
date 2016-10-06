@@ -7,9 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27849/1.0
 - name: donbasmile02
   src: https://static-cdn.jtvnw.net/emoticons/v1/27847/1.0
-- name: donbagreen01
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27914/1.0
-- name: donbapoop01
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34998/1.0
 - name: donbarabbit
   src: https://static-cdn.jtvnw.net/emoticons/v1/35001/1.0
+- name: donbashobon01
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87942/1.0
+- name: donbaran01
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85859/1.0
+- name: donbafen01
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85858/1.0
+- name: donbaahh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91116/1.0

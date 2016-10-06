@@ -15,9 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46410/1.0
 - name: bigbangs06mdr
   src: https://static-cdn.jtvnw.net/emoticons/v1/52754/1.0
-- name: bigbangs06tg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52756/1.0
 - name: bigbangs06but
   src: https://static-cdn.jtvnw.net/emoticons/v1/52757/1.0
-- name: bigbangs06fdp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53987/1.0
+- name: bigbangs06bad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99599/1.0
+- name: bigbangs06good
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99600/1.0

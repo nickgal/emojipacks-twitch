@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - criken
 emojis:
 - name: crikenkong
   src: https://static-cdn.jtvnw.net/emoticons/v1/61874/1.0
-- name: crikenevil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60718/1.0
 - name: crikentrout
   src: https://static-cdn.jtvnw.net/emoticons/v1/60484/1.0
 - name: crikenmigel
@@ -19,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64341/1.0
 - name: crikencry
   src: https://static-cdn.jtvnw.net/emoticons/v1/64340/1.0
+- name: crikenhost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116336/1.0
+- name: crikenedwad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116337/1.0

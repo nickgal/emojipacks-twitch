@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/15105/1.0
 - name: lanaiyu3small
   src: https://static-cdn.jtvnw.net/emoticons/v1/15288/1.0
-- name: lanaiyuwhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27555/1.0
 - name: lanaiyusifan
   src: https://static-cdn.jtvnw.net/emoticons/v1/30412/1.0
 - name: lanaiyusmile
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83954/1.0
 - name: lanaiyu87
   src: https://static-cdn.jtvnw.net/emoticons/v1/81001/1.0
+- name: lanaiyuhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88676/1.0

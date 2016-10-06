@@ -1,10 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - triplewreck
 emojis:
+- name: triple3head
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89826/1.0
+- name: triplekden
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89830/1.0
 - name: triplefeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/64968/1.0
-- name: tripleco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62376/1.0
 - name: triplet
   src: https://static-cdn.jtvnw.net/emoticons/v1/62377/1.0
 - name: triplesub
@@ -13,12 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33750/1.0
 - name: triplepf
   src: https://static-cdn.jtvnw.net/emoticons/v1/40253/1.0
-- name: triplelag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41884/1.0
 - name: triplelol
   src: https://static-cdn.jtvnw.net/emoticons/v1/49367/1.0
-- name: triplewtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49372/1.0
 - name: tripleomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/71949/1.0
 - name: triplepray
@@ -29,22 +27,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78006/1.0
 - name: triplepls
   src: https://static-cdn.jtvnw.net/emoticons/v1/78007/1.0
-- name: tripleok
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62613/1.0
 - name: triplec
   src: https://static-cdn.jtvnw.net/emoticons/v1/62615/1.0
 - name: tripledn
   src: https://static-cdn.jtvnw.net/emoticons/v1/62617/1.0
-- name: tripleopie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62618/1.0
-- name: triplesleepergasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67313/1.0
-- name: triplelost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68822/1.0
-- name: triplecomp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73903/1.0
-- name: tripleroast
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73893/1.0
 - name: triplelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/75806/1.0
 - name: triplebp
@@ -55,9 +41,33 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77920/1.0
 - name: triplegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/77921/1.0
-- name: tripleiam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77922/1.0
 - name: triplelg
   src: https://static-cdn.jtvnw.net/emoticons/v1/77923/1.0
-- name: triplelit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80692/1.0
+- name: tripleopie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88642/1.0
+- name: triplecringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103857/1.0
+- name: triplewut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107148/1.0
+- name: triplegood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107150/1.0
+- name: tripleet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107151/1.0
+- name: triples
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107152/1.0
+- name: triplef
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107794/1.0
+- name: triplewtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110345/1.0
+- name: triplewn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109373/1.0
+- name: tripleayy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109374/1.0
+- name: triplerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110346/1.0
+- name: triplesl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109375/1.0
+- name: tripleiam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115829/1.0
+- name: tripleesta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115830/1.0

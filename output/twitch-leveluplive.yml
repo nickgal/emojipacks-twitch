@@ -1,59 +1,29 @@
 ---
 title: Twitch Subscriber Emotes - leveluplive
 emojis:
-- name: tcbeast
-  src: https://static-cdn.jtvnw.net/emoticons/v1/183/1.0
-- name: reynald
-  src: https://static-cdn.jtvnw.net/emoticons/v1/189/1.0
-- name: wentinel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/181/1.0
-- name: onlinetony
+- name: lulonlinetony
   src: https://static-cdn.jtvnw.net/emoticons/v1/187/1.0
-- name: eliver
-  src: https://static-cdn.jtvnw.net/emoticons/v1/193/1.0
-- name: bala
-  src: https://static-cdn.jtvnw.net/emoticons/v1/179/1.0
-- name: tatsunical
-  src: https://static-cdn.jtvnw.net/emoticons/v1/185/1.0
-- name: infrit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/191/1.0
-- name: calipower
+- name: lulcalipower
   src: https://static-cdn.jtvnw.net/emoticons/v1/76/1.0
-- name: ko
+- name: lulko
   src: https://static-cdn.jtvnw.net/emoticons/v1/78/1.0
-- name: cheesy
+- name: lulcheesy
   src: https://static-cdn.jtvnw.net/emoticons/v1/79/1.0
-- name: murderface
+- name: lulmurderface
   src: https://static-cdn.jtvnw.net/emoticons/v1/80/1.0
-- name: tableflip
+- name: lultableflip
   src: https://static-cdn.jtvnw.net/emoticons/v1/83/1.0
-- name: divekick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1427/1.0
-- name: perfect
+- name: lulperfect
   src: https://static-cdn.jtvnw.net/emoticons/v1/1429/1.0
-- name: scr
+- name: lulscr
   src: https://static-cdn.jtvnw.net/emoticons/v1/1430/1.0
-- name: wnf
+- name: lulwnf
   src: https://static-cdn.jtvnw.net/emoticons/v1/1431/1.0
-- name: ogsf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6416/1.0
-- name: mashdp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6417/1.0
-- name: chonchon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6418/1.0
-- name: nubcakes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6419/1.0
-- name: paradigm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6420/1.0
-- name: sss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6421/1.0
-- name: poppawatts
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6423/1.0
-- name: rtsd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6454/1.0
-- name: trb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6458/1.0
-- name: levelup
+- name: lullevelup
   src: https://static-cdn.jtvnw.net/emoticons/v1/6459/1.0
-- name: rushking
+- name: lulrushking
   src: https://static-cdn.jtvnw.net/emoticons/v1/6463/1.0
+- name: lulrtsd1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92923/1.0
+- name: lulrushdown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90067/1.0

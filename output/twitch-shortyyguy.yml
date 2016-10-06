@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - shortyyguy
 emojis:
-- name: shortyaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22815/1.0
 - name: shortyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/67037/1.0
 - name: shortyh
@@ -11,6 +9,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67030/1.0
 - name: shortyfat
   src: https://static-cdn.jtvnw.net/emoticons/v1/67029/1.0
+- name: shortya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109695/1.0
 - name: shortyay
   src: https://static-cdn.jtvnw.net/emoticons/v1/54504/1.0
 - name: shortymlg
@@ -21,3 +21,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67031/1.0
 - name: shortythump
   src: https://static-cdn.jtvnw.net/emoticons/v1/67032/1.0
+- name: shortyw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94143/1.0
+- name: shortylul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117082/1.0
+- name: shortypls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117083/1.0
+- name: shortyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117084/1.0
+- name: shortywut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117085/1.0

@@ -1,5 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - desertodtv
 emojis:
-- name: desertodlike
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43878/1.0
+- name: desertodbuzi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101277/1.0
+- name: desertodpo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101543/1.0
+- name: desertodha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101541/1.0
+- name: desertodooops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105416/1.0
+- name: desertodnya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94829/1.0
+- name: desertodfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105417/1.0

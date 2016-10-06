@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - clutchenstein
 emojis:
-- name: clutchshark
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10973/1.0
 - name: clutchcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/21655/1.0
 - name: clutchdoom
   src: https://static-cdn.jtvnw.net/emoticons/v1/32759/1.0
 - name: clutchhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/32766/1.0
-- name: clutchboo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75493/1.0
+- name: clutchtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88028/1.0
+- name: clutchfbm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85323/1.0
+- name: clutchshame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96492/1.0

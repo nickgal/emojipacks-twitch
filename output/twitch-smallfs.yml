@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - smallfs
 emojis:
-- name: recob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38811/1.0
-- name: recoa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38807/1.0
 - name: recoc
   src: https://static-cdn.jtvnw.net/emoticons/v1/40674/1.0
-- name: recod
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42090/1.0
 - name: recoyo
   src: https://static-cdn.jtvnw.net/emoticons/v1/55039/1.0
 - name: recobaka
@@ -17,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76741/1.0
 - name: recomarisa
   src: https://static-cdn.jtvnw.net/emoticons/v1/76742/1.0
+- name: recomiru
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115225/1.0
+- name: recoreko
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115226/1.0
+- name: recozassyu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115227/1.0

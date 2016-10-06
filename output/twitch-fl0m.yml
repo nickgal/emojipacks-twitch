@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67208/1.0
 - name: fl0mscum
   src: https://static-cdn.jtvnw.net/emoticons/v1/26086/1.0
-- name: fl0msuit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26087/1.0
 - name: fl0mpanic
   src: https://static-cdn.jtvnw.net/emoticons/v1/26550/1.0
 - name: fl0malpha
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67207/1.0
 - name: fl0mcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/71133/1.0
+- name: fl0ms
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88477/1.0

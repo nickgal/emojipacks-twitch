@@ -1,12 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - destroyerdetemps
 emojis:
-- name: ddtrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16581/1.0
-- name: ddtkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15903/1.0
-- name: ddtpandaswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15905/1.0
 - name: ddttent
   src: https://static-cdn.jtvnw.net/emoticons/v1/16113/1.0
 - name: ddtace
@@ -17,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51206/1.0
 - name: ddtj
   src: https://static-cdn.jtvnw.net/emoticons/v1/64158/1.0
+- name: ddtcig1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90512/1.0
+- name: ddtcig2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90513/1.0
+- name: ddtr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90506/1.0

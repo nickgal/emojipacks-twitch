@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - dnku123
 emojis:
-- name: koxcebula
+- name: dnkucebula
   src: https://static-cdn.jtvnw.net/emoticons/v1/61451/1.0
-- name: koxhype
+- name: dnkuhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/76888/1.0
-- name: koxhasa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76878/1.0
-- name: koxrip
+- name: dnkurip
   src: https://static-cdn.jtvnw.net/emoticons/v1/76872/1.0
-- name: koxhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76868/1.0
-- name: koxizi
+- name: dnkuizi
   src: https://static-cdn.jtvnw.net/emoticons/v1/62442/1.0
-- name: koxnana
+- name: dnkunana
   src: https://static-cdn.jtvnw.net/emoticons/v1/83898/1.0
-- name: koxcwel
+- name: dnkucwel
   src: https://static-cdn.jtvnw.net/emoticons/v1/85191/1.0
+- name: dnkuhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92357/1.0
+- name: dnkuface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108456/1.0

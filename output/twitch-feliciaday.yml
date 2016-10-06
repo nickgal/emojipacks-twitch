@@ -1,14 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - feliciaday
 emojis:
+- name: feliciachew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102406/1.0
+- name: feliciaooh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102405/1.0
+- name: feliciacreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102404/1.0
 - name: feliciaflush
   src: https://static-cdn.jtvnw.net/emoticons/v1/79684/1.0
-- name: feliciacubby
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33846/1.0
 - name: feliciagranny
   src: https://static-cdn.jtvnw.net/emoticons/v1/33847/1.0
-- name: feliciapooping
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33848/1.0
 - name: feliciakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/33901/1.0
 - name: feliciarage
@@ -31,3 +33,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79688/1.0
 - name: feliciaasmr
   src: https://static-cdn.jtvnw.net/emoticons/v1/79685/1.0
+- name: feliciahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102401/1.0
+- name: feliciaraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102402/1.0
+- name: feliciadeer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102403/1.0

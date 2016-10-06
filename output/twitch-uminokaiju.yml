@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37734/1.0
 - name: uminami
   src: https://static-cdn.jtvnw.net/emoticons/v1/37733/1.0
-- name: umiheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37731/1.0
 - name: umilaser
   src: https://static-cdn.jtvnw.net/emoticons/v1/60089/1.0
 - name: umitroll
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68180/1.0
 - name: umigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/82452/1.0
+- name: umiheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109511/1.0

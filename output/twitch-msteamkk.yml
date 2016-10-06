@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - msteamkk
 emojis:
 - name: mskksub
   src: https://static-cdn.jtvnw.net/emoticons/v1/52672/1.0
-- name: mskkcrazy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75270/1.0
 - name: mskklit
   src: https://static-cdn.jtvnw.net/emoticons/v1/74960/1.0
 - name: mskkfeels
@@ -13,10 +11,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64897/1.0
 - name: mskkhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68400/1.0
-- name: mskkcute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82751/1.0
-- name: mskksloth
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72587/1.0
+- name: mskkhc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112153/1.0
+- name: mskkhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112154/1.0
+- name: mskkuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104508/1.0
+- name: mskks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95705/1.0
 - name: mskklove
   src: https://static-cdn.jtvnw.net/emoticons/v1/52933/1.0
 - name: mskkgg
@@ -33,21 +35,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58242/1.0
 - name: mskkpl
   src: https://static-cdn.jtvnw.net/emoticons/v1/64425/1.0
-- name: mskkemu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74558/1.0
 - name: mskkostrich
   src: https://static-cdn.jtvnw.net/emoticons/v1/74560/1.0
-- name: mskkscared
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75278/1.0
-- name: mskkhug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75269/1.0
 - name: mskkban
   src: https://static-cdn.jtvnw.net/emoticons/v1/78970/1.0
-- name: mskkthirsty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78971/1.0
 - name: mskkhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/78973/1.0
-- name: mskkaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78975/1.0
 - name: mskkwhsky
   src: https://static-cdn.jtvnw.net/emoticons/v1/78976/1.0
+- name: mskkcute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110643/1.0
+- name: mskko
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116774/1.0
+- name: mskktrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116775/1.0
+- name: mskkthirsty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116773/1.0

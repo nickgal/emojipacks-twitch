@@ -1,23 +1,31 @@
 ---
 title: Twitch Subscriber Emotes - crendor
 emojis:
-- name: crendorchicken
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2531/1.0
-- name: crendornerd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2873/1.0
-- name: crendorskittles
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6519/1.0
 - name: crendorgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/10310/1.0
-- name: crendoralert
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10851/1.0
-- name: crendorcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18685/1.0
-- name: crendorkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18686/1.0
-- name: crendorsalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45600/1.0
 - name: crendorreally
   src: https://static-cdn.jtvnw.net/emoticons/v1/68486/1.0
 - name: crendorf
   src: https://static-cdn.jtvnw.net/emoticons/v1/80266/1.0
+- name: crendorwuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112852/1.0
+- name: crendorpog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86770/1.0
+- name: crendorsleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91693/1.0
+- name: crendorpizza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91696/1.0
+- name: crendornotlikethis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91695/1.0
+- name: crendornerd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93396/1.0
+- name: crendorkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93395/1.0
+- name: crendorcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93394/1.0
+- name: crendorchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113123/1.0
+- name: crendoralert
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114121/1.0
+- name: crendorskittles
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114122/1.0

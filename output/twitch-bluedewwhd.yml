@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - bluedewwhd
 emojis:
-- name: dewwdog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68409/1.0
 - name: dewwcombo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65550/1.0
-- name: dewwvevo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65549/1.0
-- name: dewwsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68410/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102572/1.0
 - name: dewwd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68408/1.0
-- name: dewwxray
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70825/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102573/1.0
+- name: dewwvevo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102574/1.0
+- name: dewwray
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102575/1.0
+- name: dewwsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102576/1.0
+- name: dewwdog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102577/1.0

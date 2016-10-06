@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - lulaboo
 emojis:
-- name: lulatinkle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44087/1.0
 - name: lulahank
   src: https://static-cdn.jtvnw.net/emoticons/v1/27763/1.0
 - name: lularage
   src: https://static-cdn.jtvnw.net/emoticons/v1/29624/1.0
-- name: lulaskull
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29623/1.0
 - name: lulasns
   src: https://static-cdn.jtvnw.net/emoticons/v1/31656/1.0
 - name: lulapray
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50323/1.0
 - name: lulayay
   src: https://static-cdn.jtvnw.net/emoticons/v1/50324/1.0
+- name: lulaonion
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104159/1.0
+- name: luladidit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104158/1.0

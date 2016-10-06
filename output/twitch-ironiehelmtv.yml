@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - ironiehelmtv
 emojis:
-- name: ironiehelmgirl
+- name: ihelmgirl
   src: https://static-cdn.jtvnw.net/emoticons/v1/3295/1.0
-- name: ironiehelmherz
+- name: ihelmherz
   src: https://static-cdn.jtvnw.net/emoticons/v1/19706/1.0
-- name: ironiehelmklasse
+- name: ihelmklasse
   src: https://static-cdn.jtvnw.net/emoticons/v1/19718/1.0
-- name: ironiehelmtilt
+- name: ihelmtilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/33728/1.0
-- name: ironiehelm30
+- name: ihelm30
   src: https://static-cdn.jtvnw.net/emoticons/v1/35594/1.0
-- name: ironiehelmcheat
+- name: ihelmcheat
   src: https://static-cdn.jtvnw.net/emoticons/v1/71085/1.0
-- name: ironiehelmvac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71024/1.0
+- name: ihelmhina
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88149/1.0
+- name: ihelmtamam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110852/1.0

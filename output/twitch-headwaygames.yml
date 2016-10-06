@@ -1,11 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - headwaygames
 emojis:
+- name: hwgvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95895/1.0
+- name: hwgrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86602/1.0
+- name: hwghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96050/1.0
 - name: hwggg
   src: https://static-cdn.jtvnw.net/emoticons/v1/84399/1.0
-- name: hwgmmm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84945/1.0
 - name: hwgsterylol
   src: https://static-cdn.jtvnw.net/emoticons/v1/84943/1.0
-- name: hwgaccurate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84944/1.0
+- name: hwgrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96051/1.0
+- name: hwglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98933/1.0

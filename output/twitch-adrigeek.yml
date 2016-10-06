@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - adrigeek
 emojis:
-- name: adrileger
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65471/1.0
 - name: adrikiss
   src: https://static-cdn.jtvnw.net/emoticons/v1/66106/1.0
 - name: adrigang
@@ -17,7 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70973/1.0
 - name: adrigg
   src: https://static-cdn.jtvnw.net/emoticons/v1/70972/1.0
-- name: adrimam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79489/1.0
 - name: adririp
   src: https://static-cdn.jtvnw.net/emoticons/v1/79490/1.0
+- name: adriyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106520/1.0
+- name: adriwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106519/1.0

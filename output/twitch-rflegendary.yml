@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - rflegendary
 emojis:
 - name: rflraccoonhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/5625/1.0
-- name: rflcaptain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16515/1.0
 - name: rflcatface
   src: https://static-cdn.jtvnw.net/emoticons/v1/9552/1.0
 - name: rflpeace
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30523/1.0
 - name: rflkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/58694/1.0
+- name: rflduo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106432/1.0

@@ -7,12 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/6425/1.0
 - name: kaspersenpai
   src: https://static-cdn.jtvnw.net/emoticons/v1/6464/1.0
-- name: kasperchad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20691/1.0
-- name: kasperlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34896/1.0
-- name: kasperrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68453/1.0
 - name: kasperhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/68454/1.0
 - name: kasperpoop
@@ -25,9 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52441/1.0
 - name: kasperluna
   src: https://static-cdn.jtvnw.net/emoticons/v1/52444/1.0
-- name: kasperhaunt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54523/1.0
 - name: kasperwaffle
   src: https://static-cdn.jtvnw.net/emoticons/v1/61324/1.0
 - name: kasperpeeko
   src: https://static-cdn.jtvnw.net/emoticons/v1/75002/1.0
+- name: kasperpip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100149/1.0
+- name: kasperwaifu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100150/1.0
+- name: kasperlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100148/1.0
+- name: kasperlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100147/1.0

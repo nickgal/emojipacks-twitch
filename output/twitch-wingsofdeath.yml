@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33125/1.0
 - name: wingrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/34282/1.0
-- name: wingwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31281/1.0
 - name: wingrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/31674/1.0
 - name: wingpolice
@@ -23,11 +21,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33776/1.0
 - name: wingwelcome
   src: https://static-cdn.jtvnw.net/emoticons/v1/32662/1.0
-- name: wingcam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41849/1.0
-- name: wingpepe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41854/1.0
 - name: winglag
   src: https://static-cdn.jtvnw.net/emoticons/v1/41851/1.0
 - name: wingfool
   src: https://static-cdn.jtvnw.net/emoticons/v1/41852/1.0
+- name: wingknee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94181/1.0

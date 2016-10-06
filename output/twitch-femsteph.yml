@@ -3,18 +3,16 @@ title: Twitch Subscriber Emotes - femsteph
 emojis:
 - name: femrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/54702/1.0
+- name: femheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89843/1.0
 - name: femchill
   src: https://static-cdn.jtvnw.net/emoticons/v1/69500/1.0
 - name: femrhys
   src: https://static-cdn.jtvnw.net/emoticons/v1/83554/1.0
 - name: femrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/54703/1.0
-- name: femcreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56333/1.0
 - name: femcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/55152/1.0
-- name: femheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53587/1.0
 - name: femlol
   src: https://static-cdn.jtvnw.net/emoticons/v1/53586/1.0
 - name: femfail
@@ -23,3 +21,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63598/1.0
 - name: femhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/69501/1.0
+- name: femsmf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85989/1.0
+- name: femgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89719/1.0
+- name: femlit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89718/1.0
+- name: femnope
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89721/1.0
+- name: femhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89720/1.0

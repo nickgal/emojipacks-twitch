@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - thiseguy
 emojis:
-- name: eguycrazy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67927/1.0
+- name: eguyfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87777/1.0
 - name: eguygg
   src: https://static-cdn.jtvnw.net/emoticons/v1/69002/1.0
 - name: eguyhype
@@ -21,3 +21,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74881/1.0
 - name: eguysellout
   src: https://static-cdn.jtvnw.net/emoticons/v1/74889/1.0
+- name: eguytime
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87790/1.0
+- name: eguyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87788/1.0
+- name: eguyvinyl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87793/1.0
+- name: eguynote1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87801/1.0
+- name: eguynote2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87804/1.0
+- name: eguyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105282/1.0
+- name: eguyziege
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105099/1.0
+- name: eguyderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105085/1.0
+- name: eguywhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105087/1.0
+- name: eguynice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105088/1.0

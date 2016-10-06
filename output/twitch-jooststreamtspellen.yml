@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - jooststreamtspellen
 emojis:
+- name: jsswut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105189/1.0
+- name: jsssg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104927/1.0
 - name: jsshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/64290/1.0
 - name: jssrofl
   src: https://static-cdn.jtvnw.net/emoticons/v1/64289/1.0
+- name: jsssub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104917/1.0
+- name: jssrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104925/1.0

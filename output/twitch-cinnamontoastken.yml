@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - cinnamontoastken
 emojis:
-- name: ctktoaster
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13463/1.0
-- name: ctktoasty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13872/1.0
-- name: ctkyay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14928/1.0
 - name: ctkrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/72968/1.0
-- name: ctksenpai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72966/1.0
 - name: ctkbetty
   src: https://static-cdn.jtvnw.net/emoticons/v1/72961/1.0
-- name: ctkthumb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32603/1.0
 - name: ctkcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/73699/1.0
-- name: ctkboss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73708/1.0
 - name: ctkmary
   src: https://static-cdn.jtvnw.net/emoticons/v1/73045/1.0
+- name: ctkrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88046/1.0
+- name: ctkomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87682/1.0
+- name: ctkblt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87678/1.0
+- name: ctkbearhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87671/1.0
+- name: ctkken
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87686/1.0
+- name: ctkhappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87852/1.0

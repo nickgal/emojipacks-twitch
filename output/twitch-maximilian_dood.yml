@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/8292/1.0
 - name: dooddoom
   src: https://static-cdn.jtvnw.net/emoticons/v1/8293/1.0
-- name: doodmadmatt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8295/1.0
 - name: doodultra
   src: https://static-cdn.jtvnw.net/emoticons/v1/8300/1.0
 - name: doodwesker
@@ -31,10 +29,20 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/8302/1.0
 - name: doodmaxhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/8311/1.0
+- name: doodcrazy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98158/1.0
 - name: doodcool
   src: https://static-cdn.jtvnw.net/emoticons/v1/61356/1.0
 - name: doodbro
   src: https://static-cdn.jtvnw.net/emoticons/v1/62099/1.0
+- name: doodbeamr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112940/1.0
+- name: doodbeaml
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112939/1.0
+- name: doodcake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112937/1.0
+- name: doodbeam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112938/1.0
 - name: doodanime
   src: https://static-cdn.jtvnw.net/emoticons/v1/52278/1.0
 - name: doodsprinkle
@@ -59,9 +67,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68890/1.0
 - name: doodpasta
   src: https://static-cdn.jtvnw.net/emoticons/v1/69545/1.0
+- name: doodssapo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87303/1.0
 - name: doodken
   src: https://static-cdn.jtvnw.net/emoticons/v1/80668/1.0
+- name: doodlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112936/1.0
 - name: doodstare
   src: https://static-cdn.jtvnw.net/emoticons/v1/81637/1.0
 - name: doodburg
   src: https://static-cdn.jtvnw.net/emoticons/v1/81634/1.0
+- name: doodmoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98157/1.0
+- name: doodtrigger
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115221/1.0

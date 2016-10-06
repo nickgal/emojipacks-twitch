@@ -1,10 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - dramaticdegen
 emojis:
+- name: deghux
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95937/1.0
+- name: degko
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95936/1.0
 - name: degheld
   src: https://static-cdn.jtvnw.net/emoticons/v1/82603/1.0
-- name: degread
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82604/1.0
 - name: deghold
   src: https://static-cdn.jtvnw.net/emoticons/v1/79519/1.0
 - name: degrvr
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78992/1.0
 - name: degthx
   src: https://static-cdn.jtvnw.net/emoticons/v1/80623/1.0
+- name: degread
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93267/1.0

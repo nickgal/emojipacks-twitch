@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - thatonechick
 emojis:
-- name: tochey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65716/1.0
-- name: tocgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65715/1.0
-- name: toclove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65441/1.0
-- name: tocthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65442/1.0
-- name: tocdoit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65443/1.0
-- name: tocwizard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65444/1.0
-- name: tocblow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67576/1.0
-- name: tocsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67630/1.0
+- name: toco
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109692/1.0
+- name: tocp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114543/1.0
+- name: tocl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114542/1.0
+- name: toch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114540/1.0
+- name: tock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114155/1.0
+- name: tocs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114892/1.0

@@ -3,12 +3,10 @@ title: Twitch Subscriber Emotes - pndketchup
 emojis:
 - name: pndog
   src: https://static-cdn.jtvnw.net/emoticons/v1/63971/1.0
-- name: pndwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52334/1.0
 - name: pndfoxy
   src: https://static-cdn.jtvnw.net/emoticons/v1/52465/1.0
-- name: pndrealm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51584/1.0
+- name: pndmustard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88962/1.0
 - name: pndcheeky
   src: https://static-cdn.jtvnw.net/emoticons/v1/53569/1.0
 - name: pndnice
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51094/1.0
 - name: pndjeah
   src: https://static-cdn.jtvnw.net/emoticons/v1/63970/1.0
+- name: pndkeetchup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89517/1.0

@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - paulaeal
 emojis:
-- name: pauwinea
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62305/1.0
 - name: paugasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63324/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97377/1.0
+- name: pauhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101833/1.0
+- name: paunotlikethis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100042/1.0
+- name: paucry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109698/1.0
+- name: paulove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109699/1.0
+- name: paulul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105332/1.0

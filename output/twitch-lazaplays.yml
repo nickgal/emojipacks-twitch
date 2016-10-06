@@ -3,10 +3,14 @@ title: Twitch Subscriber Emotes - lazaplays
 emojis:
 - name: lazakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/71923/1.0
-- name: lazasin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70499/1.0
+- name: lazag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113478/1.0
+- name: lazalul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113813/1.0
 - name: lazalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/75617/1.0
+- name: laza10
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113851/1.0
 - name: lazaperv
   src: https://static-cdn.jtvnw.net/emoticons/v1/74672/1.0
 - name: lazarage

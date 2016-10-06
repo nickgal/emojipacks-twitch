@@ -1,26 +1,22 @@
 ---
 title: Twitch Subscriber Emotes - welovegames
 emojis:
-- name: wlgbog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39665/1.0
+- name: wlgdon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106662/1.0
+- name: wlg6
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106661/1.0
 - name: wlgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/71847/1.0
 - name: wlg5
   src: https://static-cdn.jtvnw.net/emoticons/v1/61693/1.0
 - name: wlgarmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/71845/1.0
-- name: wlgrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71841/1.0
 - name: wlgfp
   src: https://static-cdn.jtvnw.net/emoticons/v1/68976/1.0
 - name: wlg10
   src: https://static-cdn.jtvnw.net/emoticons/v1/68975/1.0
 - name: wlgmrr
   src: https://static-cdn.jtvnw.net/emoticons/v1/74303/1.0
-- name: wlgdon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79822/1.0
-- name: wlgcap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79821/1.0
 - name: wlgpeka
   src: https://static-cdn.jtvnw.net/emoticons/v1/79824/1.0
 - name: wlgcat
@@ -37,3 +33,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/85015/1.0
 - name: wlgluv
   src: https://static-cdn.jtvnw.net/emoticons/v1/85012/1.0
+- name: wlgd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102495/1.0
+- name: wlgcap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106663/1.0
+- name: wlgrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106664/1.0
+- name: wlgwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106665/1.0

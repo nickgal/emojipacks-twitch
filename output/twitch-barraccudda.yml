@@ -1,21 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - barraccudda
 emojis:
-- name: barranana
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9067/1.0
 - name: barrashock
   src: https://static-cdn.jtvnw.net/emoticons/v1/25647/1.0
 - name: barrahappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/8925/1.0
-- name: barraf7
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20974/1.0
 - name: barraderpy
   src: https://static-cdn.jtvnw.net/emoticons/v1/27897/1.0
 - name: barraw
   src: https://static-cdn.jtvnw.net/emoticons/v1/44068/1.0
+- name: barrast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87150/1.0
 - name: barratank
   src: https://static-cdn.jtvnw.net/emoticons/v1/36361/1.0
 - name: barrahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/36382/1.0
 - name: barradream
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44745/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89939/1.0
+- name: barrahero
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85817/1.0
+- name: barrascorm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89804/1.0

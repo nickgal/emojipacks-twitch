@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - xo_bunny
 emojis:
-- name: lindsayhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37935/1.0
 - name: lindsayrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/37932/1.0
-- name: lindsayh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37559/1.0
-- name: lindsayjasper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37558/1.0
 - name: lindsayfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/39928/1.0
-- name: lindsaybunny
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40024/1.0
+- name: lindsaylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90706/1.0
+- name: lindsayhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90707/1.0
+- name: lindsayfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96175/1.0
+- name: lindsayw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95441/1.0

@@ -1,8 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - igumdrop
 emojis:
-- name: gumipuddi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65544/1.0
+- name: gumiwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112005/1.0
+- name: gumipoodi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98308/1.0
 - name: gumiwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/65805/1.0
 - name: gumizzz
@@ -15,5 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67194/1.0
 - name: gumithirst
   src: https://static-cdn.jtvnw.net/emoticons/v1/67197/1.0
-- name: gumihug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69861/1.0
+- name: gumithug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98323/1.0
+- name: gumirem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112006/1.0

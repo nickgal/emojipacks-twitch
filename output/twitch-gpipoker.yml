@@ -1,7 +1,27 @@
 ---
 title: Twitch Subscriber Emotes - gpipoker
 emojis:
-- name: gpiheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51207/1.0
-- name: gpispade
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51208/1.0
+- name: gpimets
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95612/1.0
+- name: gpiaviators
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94445/1.0
+- name: gpibears
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94446/1.0
+- name: gpiemperors
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94447/1.0
+- name: gpimoneymakers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94448/1.0
+- name: gpinationals
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94449/1.0
+- name: gpirounders
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94450/1.0
+- name: gpiroyals
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94451/1.0
+- name: gpirush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94452/1.0
+- name: gpistars
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94453/1.0
+- name: gpisunset
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94454/1.0
+- name: gpiwolverines
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94455/1.0

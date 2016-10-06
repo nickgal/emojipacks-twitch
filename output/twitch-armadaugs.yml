@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - armadaugs
 emojis:
-- name: ugsonelastchance
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21823/1.0
-- name: ugsbobomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21822/1.0
-- name: ugsyoungarmada
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21625/1.0
-- name: ugsadamladder
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23561/1.0
-- name: ugsbatlolex
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22754/1.0
 - name: ugsstitchface
   src: https://static-cdn.jtvnw.net/emoticons/v1/22755/1.0
 - name: ugsswedishsniper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23989/1.0
-- name: ugsalliance
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30045/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110115/1.0
+- name: ugsparty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98578/1.0
+- name: ugsarmadaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94326/1.0
+- name: ugsarmadapopoff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97752/1.0
+- name: ugsgenesis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97921/1.0
+- name: ugsbs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113609/1.0
+- name: ugssad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108826/1.0
+- name: ugsarmadashine
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108935/1.0
+- name: ugspuffhell
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112256/1.0

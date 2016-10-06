@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - djpernicus
 emojis:
 - name: perndead
   src: https://static-cdn.jtvnw.net/emoticons/v1/34223/1.0
-- name: pernthirst
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21087/1.0
 - name: pernjaja
   src: https://static-cdn.jtvnw.net/emoticons/v1/21096/1.0
 - name: pernfrag
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60339/1.0
 - name: pernf
   src: https://static-cdn.jtvnw.net/emoticons/v1/83926/1.0
+- name: perng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101729/1.0

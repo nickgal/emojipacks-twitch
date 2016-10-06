@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - gamechannelruha
 emojis:
+- name: ruhacar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106237/1.0
 - name: ruhalegend
   src: https://static-cdn.jtvnw.net/emoticons/v1/81221/1.0
-- name: ruharage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81217/1.0
-- name: ruhalike
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79969/1.0
+- name: ruhafire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105927/1.0
+- name: ruhasub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105929/1.0
+- name: ruhatakoe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105922/1.0
 - name: ruhasmiley
   src: https://static-cdn.jtvnw.net/emoticons/v1/73696/1.0
+- name: ruharage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97030/1.0
+- name: ruhawtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99619/1.0

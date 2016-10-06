@@ -1,20 +1,20 @@
 ---
 title: Twitch Subscriber Emotes - loriipops
 emojis:
-- name: loriikiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58211/1.0
-- name: loriihug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65912/1.0
 - name: loriish
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58213/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97631/1.0
+- name: loriilurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105431/1.0
 - name: loriiwave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59791/1.0
-- name: loriigg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63148/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105430/1.0
+- name: loriiok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105428/1.0
+- name: loriiwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105429/1.0
+- name: loriilol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96016/1.0
 - name: loriirock
   src: https://static-cdn.jtvnw.net/emoticons/v1/72215/1.0
-- name: loriiomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72274/1.0
 - name: loriipls
   src: https://static-cdn.jtvnw.net/emoticons/v1/72202/1.0
 - name: loriiyay
@@ -25,9 +25,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77911/1.0
 - name: loriiboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/84633/1.0
-- name: loriiwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85057/1.0
-- name: loriirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85056/1.0
-- name: loriigif
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85254/1.0
+- name: loriihug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85866/1.0
+- name: loriikiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85867/1.0
+- name: loriilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95323/1.0

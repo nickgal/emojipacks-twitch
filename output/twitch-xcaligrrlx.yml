@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - xcaligrrlx
 emojis:
+- name: caliglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87071/1.0
 - name: caligkarpa
   src: https://static-cdn.jtvnw.net/emoticons/v1/68901/1.0
 - name: caligbobcat

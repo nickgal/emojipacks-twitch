@@ -1,12 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - wtf_winds123
 emojis:
-- name: windshand
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55420/1.0
+- name: windswn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90166/1.0
 - name: windssong
   src: https://static-cdn.jtvnw.net/emoticons/v1/71181/1.0
-- name: windshungry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49211/1.0
+- name: windscat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96510/1.0
 - name: windsnocure
   src: https://static-cdn.jtvnw.net/emoticons/v1/49212/1.0
 - name: windssmite
@@ -15,9 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52477/1.0
 - name: windswinds6666
   src: https://static-cdn.jtvnw.net/emoticons/v1/58580/1.0
-- name: windsclass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63583/1.0
 - name: windssorry
   src: https://static-cdn.jtvnw.net/emoticons/v1/63448/1.0
 - name: windskarsa
   src: https://static-cdn.jtvnw.net/emoticons/v1/63447/1.0
+- name: windsdumplings
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86848/1.0
+- name: windstong
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88623/1.0
+- name: windsgf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96336/1.0
+- name: winds87
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95609/1.0
+- name: windsga
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95610/1.0
+- name: windsnice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95611/1.0

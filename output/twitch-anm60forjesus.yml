@@ -5,19 +5,29 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64987/1.0
 - name: m60123
   src: https://static-cdn.jtvnw.net/emoticons/v1/66813/1.0
-- name: m602can
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41788/1.0
 - name: m60suprstr
   src: https://static-cdn.jtvnw.net/emoticons/v1/44589/1.0
-- name: m60z
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52784/1.0
 - name: m60m
   src: https://static-cdn.jtvnw.net/emoticons/v1/56925/1.0
-- name: m60salt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56514/1.0
-- name: m60pp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66464/1.0
 - name: m60i
   src: https://static-cdn.jtvnw.net/emoticons/v1/70863/1.0
+- name: m601
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90298/1.0
+- name: m602
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90299/1.0
+- name: m603
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90300/1.0
+- name: m604
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90301/1.0
 - name: m60s
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79659/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95616/1.0
+- name: m60pp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100882/1.0
+- name: m60door
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100884/1.0
+- name: m60v
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100885/1.0
+- name: m60h
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100887/1.0
+- name: m60666
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100904/1.0

@@ -7,11 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74793/1.0
 - name: sideshowchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/67326/1.0
-- name: sideshowchoke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67407/1.0
 - name: sideshowasif
   src: https://static-cdn.jtvnw.net/emoticons/v1/67579/1.0
 - name: sideshowdribble
   src: https://static-cdn.jtvnw.net/emoticons/v1/67631/1.0
-- name: sideshowdunk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73150/1.0
+- name: sideshowbot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109014/1.0
+- name: sideshowchoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109010/1.0
+- name: sideshowgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105687/1.0

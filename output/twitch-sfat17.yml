@@ -1,9 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - sfat17
 emojis:
+- name: sfatw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97455/1.0
 - name: sfattakeit
   src: https://static-cdn.jtvnw.net/emoticons/v1/60374/1.0
-- name: sfatmelted
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60375/1.0
-- name: sfatsammysticker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84765/1.0
+- name: sfatscat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86554/1.0
+- name: sfatfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86785/1.0
+- name: sfatclg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86914/1.0
+- name: sfatrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111030/1.0
+- name: sfatpog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103581/1.0
+- name: sfatscripted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110949/1.0

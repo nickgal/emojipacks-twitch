@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - prod1gyx
 emojis:
-- name: proddefinite
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5859/1.0
-- name: prodsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12671/1.0
-- name: prodgl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12672/1.0
 - name: prodglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/29534/1.0
-- name: prodone
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29539/1.0
-- name: prodrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54880/1.0
-- name: prodpaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37611/1.0
-- name: prodfree
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54683/1.0
+- name: prodhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88467/1.0
+- name: prodhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88476/1.0
+- name: prodsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86928/1.0
+- name: prodgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110360/1.0
+- name: prodrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115176/1.0
+- name: prodchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115003/1.0
+- name: prodgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111728/1.0

@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - luccasstv
 emojis:
+- name: lutvslt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100920/1.0
+- name: lutvnewsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100921/1.0
 - name: lutvwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46724/1.0
-- name: lutvup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46723/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100922/1.0
+- name: lutvrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100923/1.0
 - name: lutvlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47509/1.0
-- name: lutvbg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47392/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101442/1.0

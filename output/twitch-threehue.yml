@@ -1,13 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - threehue
 emojis:
-- name: threevita
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32674/1.0
-- name: threehue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32675/1.0
-- name: threepeppa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32673/1.0
 - name: threegunk
   src: https://static-cdn.jtvnw.net/emoticons/v1/59435/1.0
 - name: threekappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/59423/1.0
+- name: threemain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92403/1.0

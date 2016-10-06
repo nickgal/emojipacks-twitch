@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - sowztv
 emojis:
-- name: sowzaxe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10423/1.0
 - name: sowzrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/10126/1.0
 - name: sowzgg
@@ -14,6 +12,4 @@ emojis:
 - name: sowztoto
   src: https://static-cdn.jtvnw.net/emoticons/v1/18054/1.0
 - name: sowzo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18032/1.0
-- name: sowzk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18886/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100460/1.0

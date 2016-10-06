@@ -1,33 +1,41 @@
 ---
 title: Twitch Subscriber Emotes - theattack
 emojis:
-- name: attkalex
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38373/1.0
 - name: attkrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/38374/1.0
 - name: attkmanrod
   src: https://static-cdn.jtvnw.net/emoticons/v1/38339/1.0
-- name: attkmighty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39811/1.0
+- name: attkbanana
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87932/1.0
 - name: attktpot
   src: https://static-cdn.jtvnw.net/emoticons/v1/40164/1.0
 - name: attklostato
   src: https://static-cdn.jtvnw.net/emoticons/v1/41105/1.0
-- name: attkdp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43498/1.0
-- name: attkpunch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43492/1.0
 - name: attkyaniv
   src: https://static-cdn.jtvnw.net/emoticons/v1/45236/1.0
-- name: attkbomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55207/1.0
-- name: attkteeth
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68545/1.0
 - name: attkgreen
   src: https://static-cdn.jtvnw.net/emoticons/v1/68544/1.0
 - name: attkred
   src: https://static-cdn.jtvnw.net/emoticons/v1/68543/1.0
-- name: attkteamalex
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79910/1.0
-- name: attkteamevanne
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79911/1.0
+- name: attklies
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87854/1.0
+- name: attkham
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87857/1.0
+- name: attkzap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87859/1.0
+- name: attkheygurl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88126/1.0
+- name: attkalex
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86969/1.0
+- name: attksub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86971/1.0
+- name: attkstahp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87135/1.0
+- name: attklogo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88943/1.0
+- name: attkgoat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88958/1.0
+- name: attkzack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91239/1.0
+- name: attkdripwet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91402/1.0

@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - rowynn
 emojis:
 - name: wynchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/69353/1.0
+- name: wyng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97466/1.0
 - name: wynpls
   src: https://static-cdn.jtvnw.net/emoticons/v1/82782/1.0
 - name: wynsugoi
@@ -13,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68794/1.0
 - name: wyngasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/68795/1.0
-- name: wynfat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70853/1.0
 - name: wyn3
   src: https://static-cdn.jtvnw.net/emoticons/v1/82785/1.0
 - name: wynpantsu

@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - trobbu
 emojis:
+- name: trobbucap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88679/1.0
+- name: trobbuswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89109/1.0
 - name: trobbufour
   src: https://static-cdn.jtvnw.net/emoticons/v1/84790/1.0
 - name: trobbusloth
@@ -9,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84792/1.0
 - name: trobbuhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/84791/1.0
+- name: trobbukappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89106/1.0
+- name: trobbufacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89105/1.0

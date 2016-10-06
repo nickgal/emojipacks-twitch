@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - madbrosplays
 emojis:
-- name: madbroprooxythebest
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36923/1.0
-- name: madbropremirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36920/1.0
-- name: madbropremitryhard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47858/1.0
-- name: madbrokazihru
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47955/1.0
+- name: madbrow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86758/1.0
+- name: madbropleb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87272/1.0
+- name: madbrojkn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87269/1.0
+- name: madbrorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86756/1.0
+- name: madbrotryhard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86757/1.0
+- name: madbrofu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86755/1.0

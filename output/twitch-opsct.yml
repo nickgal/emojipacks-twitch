@@ -3,22 +3,20 @@ title: Twitch Subscriber Emotes - opsct
 emojis:
 - name: opswinner
   src: https://static-cdn.jtvnw.net/emoticons/v1/77811/1.0
+- name: opsfeel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108858/1.0
+- name: opsdolla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108859/1.0
 - name: opsjesas
   src: https://static-cdn.jtvnw.net/emoticons/v1/75801/1.0
 - name: opsrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/47518/1.0
-- name: opshype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47517/1.0
-- name: opsclench
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56422/1.0
 - name: opsyou
   src: https://static-cdn.jtvnw.net/emoticons/v1/75802/1.0
 - name: opsrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/47728/1.0
 - name: opsop
   src: https://static-cdn.jtvnw.net/emoticons/v1/47729/1.0
-- name: opsserious
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51465/1.0
 - name: opscreeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/56193/1.0
 - name: opswoah
@@ -37,3 +35,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79474/1.0
 - name: opsp
   src: https://static-cdn.jtvnw.net/emoticons/v1/85067/1.0
+- name: opsgo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108860/1.0
+- name: opshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109755/1.0
+- name: opsserious
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109756/1.0

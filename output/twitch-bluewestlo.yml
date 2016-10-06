@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - bluewestlo
 emojis:
-- name: bloodamn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76944/1.0
+- name: bloono
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90208/1.0
 - name: bloocool
   src: https://static-cdn.jtvnw.net/emoticons/v1/76504/1.0
 - name: bloolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/76506/1.0
 - name: bloothump
   src: https://static-cdn.jtvnw.net/emoticons/v1/76505/1.0
-- name: bloorito
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76524/1.0
 - name: bloomlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/76942/1.0
+- name: bloowut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94291/1.0
+- name: blooreally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104625/1.0
+- name: bloobruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109433/1.0

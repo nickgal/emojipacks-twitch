@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - silent0siris
 emojis:
-- name: silent0blush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81452/1.0
-- name: silent0wtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68181/1.0
-- name: silent0glee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68182/1.0
-- name: silent0hat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68184/1.0
-- name: silent0ohbaby
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68185/1.0
+- name: silent0doom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101140/1.0
+- name: silent0five
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111037/1.0
+- name: silent0aaa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111042/1.0
+- name: silent0rip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111041/1.0
+- name: silent0love
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111040/1.0
+- name: silent0lewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111039/1.0
+- name: silent0hi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111038/1.0
+- name: silent0kiska
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100345/1.0

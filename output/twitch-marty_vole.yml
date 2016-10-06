@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - marty_vole
 emojis:
+- name: pivovoleface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104664/1.0
+- name: pivovolemarty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96530/1.0
 - name: pivovolebld
   src: https://static-cdn.jtvnw.net/emoticons/v1/51037/1.0
 - name: pivovoleyes
@@ -11,5 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50455/1.0
 - name: pivovolepanda
   src: https://static-cdn.jtvnw.net/emoticons/v1/50797/1.0
-- name: pivovolewkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74452/1.0
+- name: pivovoleseal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104665/1.0

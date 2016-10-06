@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - rxnexus
 emojis:
-- name: rapirkavgovne
+- name: nexvgovne
   src: https://static-cdn.jtvnw.net/emoticons/v1/31141/1.0
-- name: rapirkanex
+- name: nexnex
   src: https://static-cdn.jtvnw.net/emoticons/v1/31145/1.0
-- name: rapirkamore
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31345/1.0
-- name: rapirkawp
+- name: nexwp
   src: https://static-cdn.jtvnw.net/emoticons/v1/31902/1.0
-- name: rapirkapohoroni
+- name: nexpohoroni
   src: https://static-cdn.jtvnw.net/emoticons/v1/32797/1.0
-- name: rapirkalev
+- name: nexlev
   src: https://static-cdn.jtvnw.net/emoticons/v1/32798/1.0
+- name: nexbadman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87156/1.0
+- name: nexsellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87169/1.0
+- name: nexhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87450/1.0

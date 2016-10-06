@@ -1,29 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - tru3ta1ent
 emojis:
-- name: tru3kappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5873/1.0
-- name: tru3fear
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20637/1.0
 - name: tru3hype
   src: https://static-cdn.jtvnw.net/emoticons/v1/5840/1.0
 - name: tru3rekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/10466/1.0
-- name: tru3gasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20535/1.0
-- name: tru3love
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21109/1.0
-- name: tru3sad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21108/1.0
 - name: tru3believe
   src: https://static-cdn.jtvnw.net/emoticons/v1/56645/1.0
+- name: tru3sings
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112790/1.0
 - name: tru3heyguys
   src: https://static-cdn.jtvnw.net/emoticons/v1/35636/1.0
-- name: tru3cheese
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47212/1.0
-- name: tru3wtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56041/1.0
 - name: tru3wookin
   src: https://static-cdn.jtvnw.net/emoticons/v1/54578/1.0
 - name: tru3menthol
   src: https://static-cdn.jtvnw.net/emoticons/v1/54579/1.0
+- name: tru3cappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108739/1.0
+- name: tru3thanks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111556/1.0
+- name: tru3fear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104078/1.0
+- name: tru3evil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104082/1.0
+- name: tru3yey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104081/1.0
+- name: tru3wtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104080/1.0
+- name: tru3feels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108946/1.0
+- name: tru3oi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108947/1.0
+- name: tru3love
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108962/1.0
+- name: tru3like
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109896/1.0
+- name: tru3wut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109893/1.0
+- name: tru3blind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110321/1.0
+- name: tru3lul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115467/1.0

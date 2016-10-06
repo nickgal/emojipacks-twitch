@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - princekader_00
 emojis:
+- name: princeprincemok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86330/1.0
+- name: princesse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87889/1.0
 - name: princenrv
   src: https://static-cdn.jtvnw.net/emoticons/v1/84584/1.0
 - name: princehi

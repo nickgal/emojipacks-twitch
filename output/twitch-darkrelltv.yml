@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - darkrelltv
 emojis:
-- name: darkyholyholysh1t
+- name: darkyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97662/1.0
+- name: darkyholysh1t
   src: https://static-cdn.jtvnw.net/emoticons/v1/64205/1.0
-- name: darkyholyheadshot
+- name: darkyheadshot
   src: https://static-cdn.jtvnw.net/emoticons/v1/64207/1.0
+- name: darkyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97337/1.0

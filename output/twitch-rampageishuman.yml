@@ -1,25 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - rampageishuman
 emojis:
+- name: howltroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93443/1.0
+- name: howlfight
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93439/1.0
 - name: howlchain
   src: https://static-cdn.jtvnw.net/emoticons/v1/72440/1.0
 - name: howlhowl
   src: https://static-cdn.jtvnw.net/emoticons/v1/70114/1.0
-- name: howlpunch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70116/1.0
 - name: howlteam
   src: https://static-cdn.jtvnw.net/emoticons/v1/70121/1.0
 - name: howltea
   src: https://static-cdn.jtvnw.net/emoticons/v1/83731/1.0
-- name: howlt1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83728/1.0
-- name: howlt2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83729/1.0
-- name: howlyell
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70122/1.0
 - name: howldragon
   src: https://static-cdn.jtvnw.net/emoticons/v1/70119/1.0
 - name: howlluv
   src: https://static-cdn.jtvnw.net/emoticons/v1/70839/1.0
 - name: howlt
   src: https://static-cdn.jtvnw.net/emoticons/v1/73481/1.0
+- name: howlbooty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93416/1.0

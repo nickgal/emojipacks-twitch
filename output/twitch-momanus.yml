@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - momanus
 emojis:
-- name: gosumomanpascontent
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5402/1.0
 - name: gosuiconmoman
   src: https://static-cdn.jtvnw.net/emoticons/v1/5418/1.0
-- name: gosudarkmoman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5738/1.0
-- name: gosumomancul
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6060/1.0
 - name: gosueasydude
   src: https://static-cdn.jtvnw.net/emoticons/v1/77553/1.0
 - name: gosutakeit
@@ -19,5 +13,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52879/1.0
 - name: gosuchina
   src: https://static-cdn.jtvnw.net/emoticons/v1/77265/1.0
+- name: gosugg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109830/1.0
 - name: gosuhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/80304/1.0
+- name: gosudegage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109829/1.0
+- name: gosubrain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110781/1.0
+- name: gosuinternet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91883/1.0
+- name: gosutrap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88782/1.0
+- name: gosurip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94062/1.0
+- name: gosufail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94065/1.0
+- name: gosukappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109591/1.0

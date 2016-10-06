@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - baxtriks
 emojis:
+- name: baxplebz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106014/1.0
 - name: baxsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/65712/1.0
 - name: baxkappa
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77653/1.0
 - name: baxna
   src: https://static-cdn.jtvnw.net/emoticons/v1/85353/1.0
+- name: baxvrr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95365/1.0

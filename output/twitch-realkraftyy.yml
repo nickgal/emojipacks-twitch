@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - realkraftyy
 emojis:
+- name: kraftheh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98851/1.0
 - name: kraftsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/55244/1.0
 - name: kraftgg
@@ -29,8 +31,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63118/1.0
 - name: kraftdef
   src: https://static-cdn.jtvnw.net/emoticons/v1/63309/1.0
-- name: kraftdonate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63380/1.0
 - name: kraftbrb
   src: https://static-cdn.jtvnw.net/emoticons/v1/63524/1.0
 - name: kraftrip
@@ -39,3 +39,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76692/1.0
 - name: kraftlily
   src: https://static-cdn.jtvnw.net/emoticons/v1/80975/1.0
+- name: krafttp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89579/1.0
+- name: kraftboi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97170/1.0
+- name: kraftuhh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97243/1.0
+- name: kraftbruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96720/1.0
+- name: kraftmax
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106490/1.0
+- name: kraftlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105571/1.0

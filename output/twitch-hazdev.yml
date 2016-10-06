@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - hazdev
 emojis:
-- name: hazogwall
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28399/1.0
+- name: hazv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106309/1.0
 - name: hazrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/79612/1.0
 - name: hazmoist
   src: https://static-cdn.jtvnw.net/emoticons/v1/80635/1.0
-- name: hazchair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79646/1.0
-- name: hazteam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83193/1.0
 - name: hazhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83195/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96590/1.0
+- name: hazlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90652/1.0
+- name: hazfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98583/1.0
+- name: hazhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98582/1.0
+- name: hazchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99669/1.0

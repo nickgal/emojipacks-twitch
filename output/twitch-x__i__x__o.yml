@@ -3,11 +3,13 @@ title: Twitch Subscriber Emotes - x__i__x__o
 emojis:
 - name: xixocoin
   src: https://static-cdn.jtvnw.net/emoticons/v1/19000/1.0
-- name: xixolied
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19957/1.0
 - name: xixopirate
   src: https://static-cdn.jtvnw.net/emoticons/v1/36089/1.0
-- name: xixohaha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38956/1.0
 - name: xixoimp
   src: https://static-cdn.jtvnw.net/emoticons/v1/38952/1.0
+- name: xixoworldchimp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116036/1.0
+- name: xixodruid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116687/1.0
+- name: xixototem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116686/1.0

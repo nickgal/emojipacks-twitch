@@ -3,9 +3,9 @@ title: Twitch Subscriber Emotes - terminalfr
 emojis:
 - name: terrg
   src: https://static-cdn.jtvnw.net/emoticons/v1/85549/1.0
-- name: tergg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85548/1.0
 - name: terrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37173/1.0
-- name: tertergg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85545/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85716/1.0
+- name: ternoob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85819/1.0
+- name: tergg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85818/1.0

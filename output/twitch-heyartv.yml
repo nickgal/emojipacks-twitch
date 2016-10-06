@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - heyartv
 emojis:
-- name: heyparano
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24257/1.0
 - name: heysnakou
   src: https://static-cdn.jtvnw.net/emoticons/v1/24255/1.0
 - name: heylayka
   src: https://static-cdn.jtvnw.net/emoticons/v1/24474/1.0
-- name: heyvnr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24506/1.0
 - name: heypeur
   src: https://static-cdn.jtvnw.net/emoticons/v1/26869/1.0
 - name: heyrip
@@ -17,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30610/1.0
 - name: heysub
   src: https://static-cdn.jtvnw.net/emoticons/v1/30609/1.0
+- name: heyfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90402/1.0
+- name: heygun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111347/1.0
+- name: heymlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113951/1.0
+- name: heyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113957/1.0

@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - forsenlol
 emojis:
-- name: forsenkev
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24548/1.0
 - name: forsensambool
   src: https://static-cdn.jtvnw.net/emoticons/v1/45561/1.0
-- name: forsengasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74959/1.0
-- name: forsensnus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12893/1.0
 - name: forsenodo
   src: https://static-cdn.jtvnw.net/emoticons/v1/17303/1.0
 - name: forsenop
@@ -17,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/31100/1.0
 - name: forsenw
   src: https://static-cdn.jtvnw.net/emoticons/v1/31021/1.0
-- name: forsen30
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31186/1.0
 - name: forsenboys
   src: https://static-cdn.jtvnw.net/emoticons/v1/31097/1.0
 - name: forsenddk
@@ -45,9 +37,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67684/1.0
 - name: forseniq
   src: https://static-cdn.jtvnw.net/emoticons/v1/67683/1.0
-- name: forsenrngesus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69552/1.0
 - name: forsentriggered
   src: https://static-cdn.jtvnw.net/emoticons/v1/78454/1.0
+- name: forsenknife
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90377/1.0
+- name: forsenwhip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89640/1.0
+- name: forsensleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89641/1.0
+- name: forsenfajita
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89677/1.0
+- name: forsenpuke2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89678/1.0
+- name: forsenswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89959/1.0
 - name: forsengun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74897/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89650/1.0
+- name: forsenlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96553/1.0
+- name: forsene
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93064/1.0

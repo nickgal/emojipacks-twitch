@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - onclsam_hd
 emojis:
-- name: oshdgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60954/1.0
 - name: oshdrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/24280/1.0
 - name: oshdmdr
   src: https://static-cdn.jtvnw.net/emoticons/v1/28643/1.0
-- name: oshddon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52632/1.0
-- name: oshdrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35874/1.0
 - name: oshdsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/52633/1.0
+- name: oshddon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109298/1.0
 - name: oshdsalut
   src: https://static-cdn.jtvnw.net/emoticons/v1/79465/1.0
 - name: oshdfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79395/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109299/1.0
+- name: oshdgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109294/1.0
+- name: oshdtalent
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109289/1.0

@@ -5,15 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52486/1.0
 - name: morphcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/30627/1.0
-- name: morphburn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37806/1.0
 - name: morphsvch
   src: https://static-cdn.jtvnw.net/emoticons/v1/44116/1.0
-- name: morphpep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72673/1.0
-- name: morphhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80735/1.0
 - name: morphwr
   src: https://static-cdn.jtvnw.net/emoticons/v1/81002/1.0
+- name: morphhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96247/1.0
+- name: morphboom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96249/1.0
+- name: morph1010
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96250/1.0
 - name: morphlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82068/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96251/1.0

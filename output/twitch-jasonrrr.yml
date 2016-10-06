@@ -3,12 +3,14 @@ title: Twitch Subscriber Emotes - jasonrrr
 emojis:
 - name: jasonrdogman
   src: https://static-cdn.jtvnw.net/emoticons/v1/75526/1.0
+- name: jasonrthumb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99745/1.0
+- name: jasonrcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104892/1.0
 - name: jasonrhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/78464/1.0
 - name: jasonrears
   src: https://static-cdn.jtvnw.net/emoticons/v1/77825/1.0
-- name: jasonrcockn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77673/1.0
 - name: jasonrchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/78064/1.0
 - name: jasonruh

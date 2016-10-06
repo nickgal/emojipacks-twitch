@@ -1,19 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - davex41
 emojis:
-- name: davemoredots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1837/1.0
-- name: daveholyb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1838/1.0
 - name: davehood
   src: https://static-cdn.jtvnw.net/emoticons/v1/5842/1.0
-- name: daveswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6798/1.0
 - name: davebigboi
   src: https://static-cdn.jtvnw.net/emoticons/v1/16306/1.0
 - name: davegasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/16308/1.0
-- name: davemb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26529/1.0
-- name: davebl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26530/1.0
+- name: davefeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94638/1.0

@@ -5,15 +5,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73064/1.0
 - name: replayssubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/84639/1.0
-- name: replaysenable
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84640/1.0
-- name: replaysring
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76921/1.0
-- name: replaysupset
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73473/1.0
-- name: replaysreeper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77019/1.0
 - name: replaysgoof
   src: https://static-cdn.jtvnw.net/emoticons/v1/78622/1.0
-- name: replaysmoschi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84641/1.0
+- name: replaysfeelsbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102717/1.0
+- name: replaysreeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102716/1.0
+- name: replayswashed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102715/1.0
+- name: replaysgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89370/1.0
+- name: replaysring
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98086/1.0
+- name: replaysmb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98087/1.0
+- name: replaysfaze
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113638/1.0

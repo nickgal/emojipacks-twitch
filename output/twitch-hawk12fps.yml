@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - hawk12fps
 emojis:
 - name: jochype
   src: https://static-cdn.jtvnw.net/emoticons/v1/36720/1.0
-- name: joclleta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36721/1.0
 - name: joctaza
   src: https://static-cdn.jtvnw.net/emoticons/v1/37204/1.0
 - name: jockhe
   src: https://static-cdn.jtvnw.net/emoticons/v1/39587/1.0
+- name: jocrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104003/1.0
+- name: jocomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104002/1.0
+- name: jocfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104001/1.0

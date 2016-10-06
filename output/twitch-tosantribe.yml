@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - tosantribe
 emojis:
-- name: tosanrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3782/1.0
-- name: tosant
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50351/1.0
-- name: tosank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50867/1.0
+- name: tosanp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86171/1.0
 - name: tosanf
   src: https://static-cdn.jtvnw.net/emoticons/v1/69341/1.0
-- name: tosanshots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68407/1.0
 - name: tosanfg
   src: https://static-cdn.jtvnw.net/emoticons/v1/77171/1.0
+- name: tosancya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85785/1.0
+- name: tosanr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87540/1.0
+- name: tosanl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87541/1.0
+- name: tosanshots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87855/1.0
+- name: tosanlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93115/1.0

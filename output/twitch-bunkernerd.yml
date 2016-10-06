@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - bunkernerd
 emojis:
 - name: bunkerban
   src: https://static-cdn.jtvnw.net/emoticons/v1/53840/1.0
-- name: bunkerkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28999/1.0
-- name: bunkermacaco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29000/1.0
 - name: bunkerrenato
   src: https://static-cdn.jtvnw.net/emoticons/v1/29002/1.0
 - name: bunkersirene
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48614/1.0
 - name: bunkertransa
   src: https://static-cdn.jtvnw.net/emoticons/v1/54584/1.0
+- name: bunkerlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96799/1.0
+- name: bunkerwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96796/1.0

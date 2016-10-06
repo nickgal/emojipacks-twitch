@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - gbay99
 emojis:
-- name: gbaygreed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31942/1.0
-- name: gbaycheese
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25813/1.0
+- name: gbayweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93447/1.0
 - name: gbaythrow
   src: https://static-cdn.jtvnw.net/emoticons/v1/25816/1.0
 - name: gbayham
   src: https://static-cdn.jtvnw.net/emoticons/v1/10224/1.0
-- name: gbaypro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10227/1.0
 - name: gbaydel
   src: https://static-cdn.jtvnw.net/emoticons/v1/30390/1.0
-- name: gbaynope
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30393/1.0
 - name: gbayw
   src: https://static-cdn.jtvnw.net/emoticons/v1/52473/1.0
+- name: gbaygold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95704/1.0
+- name: gbayfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92257/1.0
+- name: gbayd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93052/1.0
+- name: gbayk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94386/1.0
+- name: gbaythink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114565/1.0

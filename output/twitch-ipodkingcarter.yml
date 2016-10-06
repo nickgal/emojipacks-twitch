@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - ipodkingcarter
 emojis:
-- name: yerpteamikc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12268/1.0
-- name: yerpcookies
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12280/1.0
-- name: yerptrolled
+- name: ikctrolled
   src: https://static-cdn.jtvnw.net/emoticons/v1/18432/1.0
-- name: yerprage
+- name: ikcrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/18433/1.0
-- name: yerpsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21102/1.0
-- name: yerpban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21103/1.0
+- name: ikcyerp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114239/1.0
+- name: ikcgoat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114238/1.0
+- name: ikcsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114237/1.0
+- name: ikcclutch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114236/1.0

@@ -5,7 +5,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68270/1.0
 - name: bosswin
   src: https://static-cdn.jtvnw.net/emoticons/v1/77932/1.0
-- name: bosscall
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77933/1.0
 - name: bosshand
   src: https://static-cdn.jtvnw.net/emoticons/v1/78709/1.0
+- name: bosssong
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87533/1.0
+- name: bossdown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87549/1.0
+- name: bossout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87534/1.0

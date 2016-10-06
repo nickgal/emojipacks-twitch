@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - electrinchen
 emojis:
 - name: elecherz
   src: https://static-cdn.jtvnw.net/emoticons/v1/30309/1.0
-- name: elecfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30321/1.0
-- name: eleckappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30320/1.0
 - name: elecclubhouse
   src: https://static-cdn.jtvnw.net/emoticons/v1/30345/1.0
 - name: elecban
@@ -15,5 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30415/1.0
 - name: elecgb
   src: https://static-cdn.jtvnw.net/emoticons/v1/30666/1.0
+- name: elecfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116128/1.0
+- name: eleclul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116129/1.0
+- name: elecw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116130/1.0
 - name: elecwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30665/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116131/1.0
+- name: eleckappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116667/1.0

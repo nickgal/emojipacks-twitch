@@ -1,14 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - taperen
 emojis:
-- name: taperwallah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70517/1.0
+- name: taperdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114710/1.0
 - name: taperw
   src: https://static-cdn.jtvnw.net/emoticons/v1/69036/1.0
-- name: taperyo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72166/1.0
 - name: taperh
   src: https://static-cdn.jtvnw.net/emoticons/v1/72270/1.0
+- name: taperu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115056/1.0
 - name: tapersin
   src: https://static-cdn.jtvnw.net/emoticons/v1/76335/1.0
 - name: tapertwitch
@@ -17,7 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76331/1.0
 - name: tapergel
   src: https://static-cdn.jtvnw.net/emoticons/v1/76336/1.0
-- name: taperdrama
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83998/1.0
-- name: taperg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82818/1.0
+- name: taperp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101290/1.0
+- name: taperyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113209/1.0

@@ -1,17 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - cuddleofdeath
 emojis:
-- name: cuddlehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30796/1.0
-- name: cuddleyaaas
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19319/1.0
 - name: cuddlesub
   src: https://static-cdn.jtvnw.net/emoticons/v1/30959/1.0
-- name: cuddleface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31237/1.0
-- name: cuddlegrunt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31238/1.0
 - name: cuddlepn
   src: https://static-cdn.jtvnw.net/emoticons/v1/31210/1.0
 - name: cuddlepet
   src: https://static-cdn.jtvnw.net/emoticons/v1/31236/1.0
+- name: cuddlelit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99824/1.0
+- name: cuddlepop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102058/1.0
+- name: cuddleowl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101705/1.0

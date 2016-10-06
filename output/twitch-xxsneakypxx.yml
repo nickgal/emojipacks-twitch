@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - xxsneakypxx
 emojis:
-- name: snkyraid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72622/1.0
+- name: snkynoticeme
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95396/1.0
+- name: snkyrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95395/1.0
+- name: snkydab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95393/1.0
+- name: snkyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95394/1.0
+- name: snkyhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95392/1.0
 - name: snkyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72647/1.0
-- name: snkygiggity
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76049/1.0
-- name: snkybanblue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68641/1.0
-- name: snkyblamerapid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68642/1.0
-- name: snkywaffle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75803/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95391/1.0
+- name: snkylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95390/1.0
+- name: snkyraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95389/1.0

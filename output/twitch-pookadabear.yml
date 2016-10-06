@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - pookadabear
 emojis:
+- name: pookatilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105859/1.0
+- name: pookalove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105858/1.0
 - name: pookas
   src: https://static-cdn.jtvnw.net/emoticons/v1/78789/1.0
 - name: pookah

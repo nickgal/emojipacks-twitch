@@ -3,21 +3,13 @@ title: Twitch Subscriber Emotes - milleniumtvwow
 emojis:
 - name: mtvwowm
   src: https://static-cdn.jtvnw.net/emoticons/v1/57834/1.0
+- name: mtvwowkusa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101147/1.0
+- name: mtvwowkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114695/1.0
+- name: mtvwowsubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114696/1.0
 - name: mtvwowgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/57835/1.0
-- name: mtvwowkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81902/1.0
-- name: mtvwowrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81904/1.0
-- name: mtvwowgiv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81906/1.0
-- name: mtvwowlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81907/1.0
-- name: mtvwowgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81903/1.0
-- name: mtvwowsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81905/1.0
-- name: mtvwowjalouxine
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84071/1.0
-- name: mtvwowpls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84072/1.0
+- name: mtvwowsocks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114202/1.0

@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - thetwitchtwins
 emojis:
-- name: twinrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43977/1.0
 - name: twinfailfish
   src: https://static-cdn.jtvnw.net/emoticons/v1/30226/1.0
-- name: twinluck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49172/1.0
-- name: twinkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50755/1.0
+- name: twinbt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97214/1.0
+- name: twinheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96517/1.0
 - name: twinpog
   src: https://static-cdn.jtvnw.net/emoticons/v1/50754/1.0
-- name: twindaddy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50751/1.0
 - name: twinjosh
   src: https://static-cdn.jtvnw.net/emoticons/v1/50750/1.0
 - name: twincharlie
   src: https://static-cdn.jtvnw.net/emoticons/v1/50749/1.0
+- name: twinrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97186/1.0
+- name: twinluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97191/1.0

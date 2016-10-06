@@ -11,9 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35909/1.0
 - name: dgcgiggle
   src: https://static-cdn.jtvnw.net/emoticons/v1/63763/1.0
-- name: dgcflame
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63764/1.0
 - name: dgctheplays
   src: https://static-cdn.jtvnw.net/emoticons/v1/64028/1.0
-- name: dgcwutface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63838/1.0
+- name: dgcw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96046/1.0
+- name: dgcs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96047/1.0

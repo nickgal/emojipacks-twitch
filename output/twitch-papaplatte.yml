@@ -1,12 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - papaplatte
 emojis:
-- name: papahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76452/1.0
+- name: papanerd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92718/1.0
 - name: papagg
   src: https://static-cdn.jtvnw.net/emoticons/v1/28652/1.0
-- name: papa11
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37458/1.0
 - name: papaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/37333/1.0
 - name: paparekt
@@ -15,8 +13,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47575/1.0
 - name: papaf
   src: https://static-cdn.jtvnw.net/emoticons/v1/52783/1.0
-- name: papac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68561/1.0
+- name: papaod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85437/1.0
 - name: papa10
   src: https://static-cdn.jtvnw.net/emoticons/v1/79380/1.0
 - name: papan
@@ -25,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79382/1.0
 - name: papagasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/84949/1.0
+- name: papalol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97758/1.0
+- name: papabad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107962/1.0
+- name: papagood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107963/1.0
+- name: paparage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108042/1.0

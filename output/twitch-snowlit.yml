@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - snowlit
 emojis:
+- name: snowylewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97537/1.0
 - name: snowywave
   src: https://static-cdn.jtvnw.net/emoticons/v1/52426/1.0
 - name: snowybeer
@@ -21,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70737/1.0
 - name: snowyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/70739/1.0
+- name: snowylurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97176/1.0
+- name: snowyomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97178/1.0
+- name: snowyspook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97179/1.0
+- name: snowywhy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97180/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - paoloidolo
 emojis:
 - name: grabsanto
   src: https://static-cdn.jtvnw.net/emoticons/v1/73503/1.0
-- name: grabbaffi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41056/1.0
 - name: grabdritto
   src: https://static-cdn.jtvnw.net/emoticons/v1/40408/1.0
 - name: grabvbb
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73326/1.0
 - name: grabwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/84503/1.0
+- name: grabndonio
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88544/1.0

@@ -9,15 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66776/1.0
 - name: normalhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/34112/1.0
-- name: normalo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39377/1.0
 - name: normalf
   src: https://static-cdn.jtvnw.net/emoticons/v1/39378/1.0
 - name: normalrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/53407/1.0
 - name: normallove
   src: https://static-cdn.jtvnw.net/emoticons/v1/69840/1.0
-- name: normalwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74194/1.0
-- name: normalthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74440/1.0
+- name: normalwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96575/1.0
+- name: normalo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101329/1.0
+- name: normalc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101490/1.0

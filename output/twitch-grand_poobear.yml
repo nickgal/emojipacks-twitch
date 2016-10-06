@@ -1,23 +1,25 @@
 ---
 title: Twitch Subscriber Emotes - grand_poobear
 emojis:
-- name: poolumanati
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85438/1.0
+- name: poogress
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112682/1.0
 - name: pooblock
   src: https://static-cdn.jtvnw.net/emoticons/v1/75565/1.0
 - name: pooyatta
   src: https://static-cdn.jtvnw.net/emoticons/v1/75567/1.0
 - name: poogasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/76576/1.0
-- name: poonai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82581/1.0
-- name: poogress
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80163/1.0
+- name: pooshotsfired
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116945/1.0
 - name: poofail
   src: https://static-cdn.jtvnw.net/emoticons/v1/75877/1.0
-- name: poorage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76747/1.0
-- name: poo2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79884/1.0
-- name: poorain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83359/1.0
+- name: pookoopapride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112683/1.0
+- name: poolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117002/1.0
+- name: pookaizo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117004/1.0
+- name: poofairenough
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117097/1.0
+- name: poomeh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116628/1.0

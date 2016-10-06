@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - xcandylashes
 emojis:
+- name: candymate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103693/1.0
 - name: candylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/57907/1.0
 - name: candypew
@@ -13,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57911/1.0
 - name: candysub
   src: https://static-cdn.jtvnw.net/emoticons/v1/57940/1.0
-- name: candybutt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71822/1.0
 - name: candyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/75323/1.0
 - name: candyhype

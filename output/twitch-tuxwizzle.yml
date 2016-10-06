@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - tuxwizzle
 emojis:
-- name: tuxlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80217/1.0
 - name: tuxzz
   src: https://static-cdn.jtvnw.net/emoticons/v1/80503/1.0
 - name: tuxoww
@@ -13,9 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78890/1.0
 - name: tuxsmh
   src: https://static-cdn.jtvnw.net/emoticons/v1/79700/1.0
-- name: tuxwink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79423/1.0
 - name: tuxkek
   src: https://static-cdn.jtvnw.net/emoticons/v1/79424/1.0
-- name: tuxcracker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85271/1.0
+- name: tuxblep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91428/1.0

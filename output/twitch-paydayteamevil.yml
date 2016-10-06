@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - paydayteamevil
 emojis:
 - name: tsehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/16808/1.0
-- name: tsewaffle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16779/1.0
-- name: tserip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16702/1.0
-- name: tsekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16199/1.0
 - name: tselogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/17039/1.0
 - name: tsewave
   src: https://static-cdn.jtvnw.net/emoticons/v1/17299/1.0
 - name: tsebomb
   src: https://static-cdn.jtvnw.net/emoticons/v1/17286/1.0
-- name: tseninja
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53847/1.0
+- name: tsealmir
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99605/1.0
+- name: tsefacedesk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99606/1.0
+- name: tserip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99667/1.0
+- name: tsecuffs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99668/1.0

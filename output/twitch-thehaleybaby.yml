@@ -3,31 +3,31 @@ title: Twitch Subscriber Emotes - thehaleybaby
 emojis:
 - name: haleyscare
   src: https://static-cdn.jtvnw.net/emoticons/v1/62254/1.0
-- name: haleyfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28438/1.0
 - name: haleyrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/40624/1.0
-- name: haleycat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75596/1.0
 - name: haleybroke
   src: https://static-cdn.jtvnw.net/emoticons/v1/75595/1.0
-- name: haleybreak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48218/1.0
 - name: haleyknee
   src: https://static-cdn.jtvnw.net/emoticons/v1/48219/1.0
-- name: haleysalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48220/1.0
 - name: haleyholy
   src: https://static-cdn.jtvnw.net/emoticons/v1/48221/1.0
-- name: haleycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48231/1.0
-- name: haleykay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48222/1.0
-- name: haleygasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48232/1.0
 - name: haleyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/55093/1.0
 - name: haleylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/55094/1.0
 - name: haleyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/57013/1.0
+- name: haleycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97047/1.0
+- name: haleyfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97048/1.0
+- name: haleygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97049/1.0
+- name: haleyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97050/1.0
+- name: haleysalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97051/1.0
+- name: haleydog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103998/1.0
+- name: haleysub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107154/1.0

@@ -1,14 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - bagel411
 emojis:
+- name: bagelwhy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87224/1.0
 - name: bagelone
   src: https://static-cdn.jtvnw.net/emoticons/v1/46171/1.0
 - name: bageltouch
   src: https://static-cdn.jtvnw.net/emoticons/v1/67798/1.0
-- name: bagelf2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48515/1.0
-- name: bagelf1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48514/1.0
+- name: bagelok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87223/1.0
 - name: bagelhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/74844/1.0
 - name: bagelpump

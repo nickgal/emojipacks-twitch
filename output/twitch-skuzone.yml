@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - skuzone
 emojis:
-- name: skuzv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78784/1.0
+- name: skuzrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112009/1.0
 - name: skuzgojo
   src: https://static-cdn.jtvnw.net/emoticons/v1/74085/1.0
-- name: skuzdog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56434/1.0
-- name: skuzlag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58889/1.0
-- name: skuzsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68126/1.0
 - name: skuzkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/68304/1.0
-- name: skuzb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77716/1.0
+- name: skuzshrug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105829/1.0
+- name: skuzlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97993/1.0
+- name: skuzgarbo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97989/1.0
 - name: skuzhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74416/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97988/1.0
+- name: skuzlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98993/1.0

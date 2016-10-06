@@ -1,23 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - moondye7
 emojis:
+- name: md7wtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87088/1.0
+- name: md7r
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87118/1.0
 - name: md7moondye
   src: https://static-cdn.jtvnw.net/emoticons/v1/38936/1.0
 - name: md7kappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/38934/1.0
-- name: md7hi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39007/1.0
 - name: md7hype
   src: https://static-cdn.jtvnw.net/emoticons/v1/39005/1.0
-- name: md7h
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39004/1.0
-- name: md7c
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39003/1.0
 - name: md7w
   src: https://static-cdn.jtvnw.net/emoticons/v1/61413/1.0
 - name: md7d
   src: https://static-cdn.jtvnw.net/emoticons/v1/46578/1.0
-- name: md7thug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63866/1.0
 - name: md7g
   src: https://static-cdn.jtvnw.net/emoticons/v1/63865/1.0
+- name: md7badman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86742/1.0
+- name: md7goodman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86741/1.0
+- name: md7o
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87116/1.0
+- name: md7p
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87085/1.0
+- name: md7h
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101669/1.0
+- name: md7hey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101671/1.0
+- name: md7c
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101670/1.0

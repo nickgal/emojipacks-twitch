@@ -15,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55278/1.0
 - name: foltzrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/31325/1.0
-- name: foltznoose
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31324/1.0
 - name: foltzchill
   src: https://static-cdn.jtvnw.net/emoticons/v1/31394/1.0
 - name: foltzsavage
@@ -39,5 +37,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73178/1.0
 - name: foltzhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/72328/1.0
-- name: foltzdoom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73397/1.0

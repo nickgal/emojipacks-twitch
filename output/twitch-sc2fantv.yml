@@ -1,5 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - sc2fantv
 emojis:
+- name: fanemoteh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114145/1.0
 - name: fanemotes
   src: https://static-cdn.jtvnw.net/emoticons/v1/78296/1.0
+- name: fanemotef
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102431/1.0
+- name: fanemoter
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102432/1.0
+- name: fanemotefeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113166/1.0
+- name: fanemotechamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113167/1.0

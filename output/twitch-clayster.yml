@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - clayster
 emojis:
-- name: claystergod
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2733/1.0
 - name: claystersuperman
   src: https://static-cdn.jtvnw.net/emoticons/v1/2734/1.0
-- name: claysterclayface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2736/1.0
-- name: claystercheater
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2834/1.0
-- name: claysterarcher
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2833/1.0
-- name: claysterhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6626/1.0
+- name: claysterelite
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101221/1.0
+- name: claysterfaze
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104770/1.0
+- name: claystersubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104773/1.0
+- name: claystergg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104771/1.0
+- name: claysterdead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103245/1.0
+- name: claysterlads
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108355/1.0
+- name: claystervapes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108338/1.0
+- name: claysterolive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108339/1.0
+- name: claysterclay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108340/1.0

@@ -3,8 +3,10 @@ title: Twitch Subscriber Emotes - eswoogi
 emojis:
 - name: swooglewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/73734/1.0
+- name: swoogfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99776/1.0
 - name: swooghype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73772/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99902/1.0
 - name: swooglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/76858/1.0
 - name: swoogwtduck
@@ -13,7 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74183/1.0
 - name: swoogwhut
   src: https://static-cdn.jtvnw.net/emoticons/v1/73861/1.0
-- name: swooghi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73775/1.0
 - name: swoogthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/79254/1.0
+- name: swooghi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99645/1.0
+- name: swoognope
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99646/1.0

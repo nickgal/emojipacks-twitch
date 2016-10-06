@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - thatsadmirable
 emojis:
 - name: hugewm
   src: https://static-cdn.jtvnw.net/emoticons/v1/9414/1.0
-- name: hugefin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74794/1.0
 - name: hugeowl
   src: https://static-cdn.jtvnw.net/emoticons/v1/14092/1.0
 - name: hugeusa
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41654/1.0
 - name: hugew
   src: https://static-cdn.jtvnw.net/emoticons/v1/46082/1.0
+- name: hugeph
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88866/1.0
+- name: huge25
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88855/1.0
+- name: huget
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88867/1.0

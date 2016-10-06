@@ -1,12 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - zwetschke___
 emojis:
-- name: zwethype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82376/1.0
-- name: zwethi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82375/1.0
-- name: zwetarmy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82380/1.0
 - name: zwetgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/82379/1.0
 - name: zwetfail
@@ -17,3 +11,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84723/1.0
 - name: zwetherz
   src: https://static-cdn.jtvnw.net/emoticons/v1/84721/1.0
+- name: zwetdonate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98058/1.0
+- name: zwethype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98057/1.0
+- name: zwethi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98056/1.0
+- name: zwetpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98055/1.0
+- name: zwetsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98054/1.0
+- name: zwetsmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116346/1.0
+- name: zwetpf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116342/1.0
+- name: zwetsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116343/1.0
+- name: zwetten
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116344/1.0
+- name: zwety
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116345/1.0

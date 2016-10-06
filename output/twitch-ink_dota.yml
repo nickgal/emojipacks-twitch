@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - ink_dota
 emojis:
+- name: inkwuhhh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101213/1.0
 - name: inkpo
   src: https://static-cdn.jtvnw.net/emoticons/v1/30635/1.0
 - name: inkdoor
@@ -9,7 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62621/1.0
 - name: inkjustice
   src: https://static-cdn.jtvnw.net/emoticons/v1/62620/1.0
-- name: inkgetplay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62622/1.0
 - name: inkgodbless
   src: https://static-cdn.jtvnw.net/emoticons/v1/62619/1.0

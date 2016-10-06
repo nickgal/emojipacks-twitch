@@ -1,16 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - angelskimi
 emojis:
-- name: kimisalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81297/1.0
-- name: kimihype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55710/1.0
-- name: kimirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59166/1.0
-- name: kimithump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59167/1.0
-- name: kimichair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58669/1.0
 - name: kimiluna
   src: https://static-cdn.jtvnw.net/emoticons/v1/58782/1.0
 - name: kimiflip
@@ -19,5 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78200/1.0
 - name: kimiface
   src: https://static-cdn.jtvnw.net/emoticons/v1/78197/1.0
-- name: kimiotl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78198/1.0
+- name: kimioppa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115421/1.0
+- name: kimiwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113529/1.0
+- name: kimiweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115422/1.0
+- name: kimihobbes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116354/1.0
+- name: kimiboosted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115598/1.0
+- name: kimitroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115599/1.0

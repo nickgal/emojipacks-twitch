@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - scapeskill
 emojis:
-- name: scapekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6590/1.0
-- name: scaperip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23556/1.0
-- name: scapeclue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39098/1.0
+- name: scapesub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88364/1.0
+- name: scapelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88359/1.0
 - name: scapeluck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39152/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86447/1.0
+- name: scapedc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86450/1.0
+- name: scapetune
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86449/1.0
+- name: scaperip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86448/1.0

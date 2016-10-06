@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - dkwill
 emojis:
+- name: dkwdingdong
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88284/1.0
 - name: dkwexpand
   src: https://static-cdn.jtvnw.net/emoticons/v1/50497/1.0
 - name: dkwshades
   src: https://static-cdn.jtvnw.net/emoticons/v1/50492/1.0
-- name: dkwdongnado
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53494/1.0
-- name: dkwdingdong
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59790/1.0
 - name: dkwpopoff
   src: https://static-cdn.jtvnw.net/emoticons/v1/74401/1.0
 - name: dkwsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/75321/1.0
 - name: dkwbruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75039/1.0
-- name: dkwrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79219/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102241/1.0
+- name: dkwsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100347/1.0
+- name: dkwtriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115961/1.0

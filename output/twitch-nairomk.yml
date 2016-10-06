@@ -1,33 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - nairomk
 emojis:
-- name: nairostun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71751/1.0
-- name: nairoarrow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71750/1.0
+- name: nairoshaq2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116854/1.0
+- name: nairoshaq3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116855/1.0
+- name: nairoshaq4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116856/1.0
+- name: nairoschooled
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99003/1.0
+- name: nairobabyblade
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99001/1.0
 - name: nairoapex
   src: https://static-cdn.jtvnw.net/emoticons/v1/41074/1.0
-- name: nairotip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41082/1.0
-- name: nairowaifu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41957/1.0
 - name: nairofiyur
   src: https://static-cdn.jtvnw.net/emoticons/v1/70139/1.0
-- name: nairoshock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43752/1.0
-- name: nairomog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46023/1.0
 - name: nairoattack
   src: https://static-cdn.jtvnw.net/emoticons/v1/61759/1.0
 - name: nairosmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/61755/1.0
 - name: nairofiend
   src: https://static-cdn.jtvnw.net/emoticons/v1/61756/1.0
-- name: nairo1more
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61757/1.0
-- name: nairokick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61758/1.0
-- name: nairoglasses
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64357/1.0
+- name: nairomog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116572/1.0
 - name: nairokawaii
   src: https://static-cdn.jtvnw.net/emoticons/v1/83465/1.0
+- name: nairowaifu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114621/1.0
+- name: nairotip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114622/1.0
+- name: nairoshaq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116793/1.0
+- name: nairoshaq1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116853/1.0
+- name: nairorigged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116573/1.0
+- name: naironrg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116791/1.0
+- name: nairodestruc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116790/1.0
+- name: nairocable
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116792/1.0

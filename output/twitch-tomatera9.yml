@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - tomatera9
 emojis:
-- name: tomacat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61367/1.0
 - name: tomalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/61304/1.0
 - name: tomaz
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74910/1.0
 - name: tomafeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/79339/1.0
+- name: tomadab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116108/1.0

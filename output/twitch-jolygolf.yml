@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - jolygolf
 emojis:
-- name: jolynutelaprelest
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81585/1.0
+- name: jolynuteladno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103661/1.0
+- name: jolynutelasad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103660/1.0
+- name: jolynutelasmishno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88372/1.0
 - name: jolynutelatroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/80514/1.0
 - name: jolynutelaboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/81581/1.0
-- name: jolynuteladoge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81583/1.0
+- name: jolynutelagrafon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88167/1.0
+- name: jolynutelasverh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115629/1.0
+- name: jolynutelachelovek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115631/1.0

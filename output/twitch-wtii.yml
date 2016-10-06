@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - wtii
 emojis:
 - name: wtiijoey
   src: https://static-cdn.jtvnw.net/emoticons/v1/24719/1.0
-- name: wtiiuhh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58943/1.0
-- name: wtiirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36826/1.0
 - name: wtiibolt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53233/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113650/1.0
+- name: wtiicry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113651/1.0
+- name: wtiigreed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113652/1.0
+- name: wtiiuhhh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113654/1.0
+- name: wtiirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113653/1.0

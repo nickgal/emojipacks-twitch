@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - rafis0
 emojis:
-- name: rafismad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60918/1.0
 - name: rafismiss
   src: https://static-cdn.jtvnw.net/emoticons/v1/62249/1.0
-- name: rafisross
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73034/1.0
 - name: rafisw
   src: https://static-cdn.jtvnw.net/emoticons/v1/60464/1.0
+- name: rafisp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98600/1.0
+- name: rafisahoj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90503/1.0
+- name: rafischoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98615/1.0
+- name: rafisgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98631/1.0

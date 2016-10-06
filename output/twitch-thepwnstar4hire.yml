@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - thepwnstar4hire
 emojis:
-- name: duckyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64653/1.0
 - name: duckypalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/64652/1.0
 - name: duckycry
@@ -13,7 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38081/1.0
 - name: duckygasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/65032/1.0
-- name: duckylove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57515/1.0
 - name: duckydonut
   src: https://static-cdn.jtvnw.net/emoticons/v1/61846/1.0
+- name: duckytrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91035/1.0

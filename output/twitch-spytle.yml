@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - spytle
 emojis:
-- name: spytlegas
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84590/1.0
-- name: spytlebunsen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77888/1.0
+- name: spytlerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92527/1.0
+- name: spytlerekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92530/1.0
+- name: spytlespytato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92529/1.0
 - name: spytlepenny
   src: https://static-cdn.jtvnw.net/emoticons/v1/77889/1.0
 - name: spytlegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/84740/1.0
+- name: spytlehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93140/1.0

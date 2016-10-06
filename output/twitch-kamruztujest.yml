@@ -1,13 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - kamruztujest
 emojis:
-- name: kamruzbunny
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15874/1.0
-- name: kamruzwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79106/1.0
-- name: kamruzhue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77730/1.0
-- name: kamruzrly
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80455/1.0
+- name: kamruzchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109800/1.0
+- name: kamruzrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109799/1.0
 - name: kamruzw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79589/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109797/1.0
+- name: kamruzcho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109794/1.0

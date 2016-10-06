@@ -13,6 +13,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58693/1.0
 - name: emonglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/84957/1.0
+- name: emongfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85565/1.0
 - name: emongpug
   src: https://static-cdn.jtvnw.net/emoticons/v1/84958/1.0
 - name: emonghello

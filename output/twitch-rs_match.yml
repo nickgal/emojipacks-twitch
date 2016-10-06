@@ -1,0 +1,19 @@
+---
+title: Twitch Subscriber Emotes - rs_match
+emojis:
+- name: matchl1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91492/1.0
+- name: matchl2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91493/1.0
+- name: matchgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91491/1.0
+- name: matchbeep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98006/1.0
+- name: matchfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90639/1.0
+- name: matchhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90638/1.0
+- name: matchcx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90640/1.0
+- name: matchw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94072/1.0

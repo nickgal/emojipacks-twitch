@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - oneill_clan1994
 emojis:
-- name: oneillkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81387/1.0
 - name: oneillwow
   src: https://static-cdn.jtvnw.net/emoticons/v1/76632/1.0
+- name: oneillkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86616/1.0
+- name: oneillgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86975/1.0
+- name: oneilllg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93019/1.0

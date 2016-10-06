@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - yummigaming
 emojis:
 - name: yummilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/55401/1.0
-- name: yumminade
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67786/1.0
 - name: yummirekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/37977/1.0
 - name: yummidon
@@ -19,15 +17,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57247/1.0
 - name: yummipotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/56694/1.0
+- name: yummiwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87245/1.0
 - name: yummisalty
   src: https://static-cdn.jtvnw.net/emoticons/v1/59596/1.0
 - name: yummirip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58799/1.0
-- name: yummitie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78615/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89534/1.0
 - name: yummidark
   src: https://static-cdn.jtvnw.net/emoticons/v1/78616/1.0
 - name: yummiside
   src: https://static-cdn.jtvnw.net/emoticons/v1/78617/1.0
 - name: yummihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/80801/1.0
+- name: yummidoge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89529/1.0

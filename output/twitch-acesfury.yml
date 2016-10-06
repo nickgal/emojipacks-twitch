@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - acesfury
 emojis:
 - name: acescrate
   src: https://static-cdn.jtvnw.net/emoticons/v1/40695/1.0
-- name: acesbomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40691/1.0
 - name: aceskill
   src: https://static-cdn.jtvnw.net/emoticons/v1/40690/1.0
-- name: acesheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39018/1.0
 - name: acescard
   src: https://static-cdn.jtvnw.net/emoticons/v1/39019/1.0
 - name: acessoul
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39016/1.0
 - name: acesfist
   src: https://static-cdn.jtvnw.net/emoticons/v1/39015/1.0
+- name: acesheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109954/1.0
+- name: acesbomb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109955/1.0

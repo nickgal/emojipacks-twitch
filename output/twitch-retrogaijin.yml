@@ -3,20 +3,22 @@ title: Twitch Subscriber Emotes - retrogaijin
 emojis:
 - name: retrolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/58952/1.0
-- name: retrowow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58951/1.0
-- name: retroayaka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40946/1.0
+- name: retrohey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93957/1.0
 - name: retrowtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/40945/1.0
+- name: retrodad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93782/1.0
 - name: retrosad
   src: https://static-cdn.jtvnw.net/emoticons/v1/40956/1.0
 - name: retrodunk
   src: https://static-cdn.jtvnw.net/emoticons/v1/40955/1.0
-- name: retrooni
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41420/1.0
+- name: retrokappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105406/1.0
 - name: retroslice
   src: https://static-cdn.jtvnw.net/emoticons/v1/41419/1.0
+- name: retroyes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105407/1.0
 - name: retropu
   src: https://static-cdn.jtvnw.net/emoticons/v1/58825/1.0
 - name: retrohy
@@ -29,5 +31,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83773/1.0
 - name: retrolurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/83771/1.0
-- name: retroww
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82989/1.0
+- name: retroayaka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94058/1.0
+- name: retrothat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94503/1.0
+- name: retromiku
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112881/1.0
+- name: retroburger
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110963/1.0
+- name: retrogasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110964/1.0

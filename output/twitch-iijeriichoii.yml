@@ -1,24 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - iijeriichoii
 emojis:
-- name: jerscore
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30547/1.0
 - name: jerface
   src: https://static-cdn.jtvnw.net/emoticons/v1/4741/1.0
-- name: jervip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5216/1.0
 - name: jerbirthday
   src: https://static-cdn.jtvnw.net/emoticons/v1/75731/1.0
 - name: jerfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/29681/1.0
-- name: jertrial
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23305/1.0
-- name: jerhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24103/1.0
 - name: jerhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/24909/1.0
-- name: jeroman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29203/1.0
 - name: jerrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/32433/1.0
 - name: jerkappa
@@ -29,6 +19,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67139/1.0
 - name: jerpeace
   src: https://static-cdn.jtvnw.net/emoticons/v1/67138/1.0
+- name: jereye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102350/1.0
 - name: jerdoit
   src: https://static-cdn.jtvnw.net/emoticons/v1/54960/1.0
 - name: jernote

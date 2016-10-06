@@ -1,15 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - xzeusxgamingx
 emojis:
-- name: xzeusxkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41367/1.0
-- name: xzeusxsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41366/1.0
-- name: xzeusxhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41365/1.0
-- name: xzeusxlurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41364/1.0
-- name: xzeusxfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41363/1.0
-- name: xzeusx3star
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41362/1.0
+- name: xzeusxheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94992/1.0
+- name: xzeusxsalty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94991/1.0
+- name: xzeusxrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95873/1.0
+- name: xzeusxrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94981/1.0

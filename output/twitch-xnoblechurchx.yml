@@ -3,6 +3,10 @@ title: Twitch Subscriber Emotes - xnoblechurchx
 emojis:
 - name: sbhfire
   src: https://static-cdn.jtvnw.net/emoticons/v1/82679/1.0
+- name: sbhfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106008/1.0
+- name: sbhrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106009/1.0
 - name: sbhch
   src: https://static-cdn.jtvnw.net/emoticons/v1/48775/1.0
 - name: sbhtitan

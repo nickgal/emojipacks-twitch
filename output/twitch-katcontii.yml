@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - katcontii
 emojis:
-- name: katclove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67744/1.0
-- name: katcrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67745/1.0
-- name: katclewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67743/1.0
-- name: katchi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67742/1.0
-- name: katchype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85441/1.0
+- name: katccry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105711/1.0
 - name: katceleven
   src: https://static-cdn.jtvnw.net/emoticons/v1/82519/1.0
-- name: katcrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82522/1.0
-- name: katcblame
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82520/1.0
+- name: katcgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105715/1.0
+- name: katchy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105714/1.0
+- name: katcpe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105713/1.0
+- name: katclove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105712/1.0
+- name: katcrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105710/1.0
+- name: katchi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105709/1.0

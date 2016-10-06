@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - dollshin0324
 emojis:
-- name: dollshincry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35476/1.0
 - name: dollshineye
   src: https://static-cdn.jtvnw.net/emoticons/v1/56842/1.0
 - name: dollshindollshin8
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73018/1.0
 - name: dollshindollshin12
   src: https://static-cdn.jtvnw.net/emoticons/v1/73019/1.0
+- name: dollshinfist
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87689/1.0

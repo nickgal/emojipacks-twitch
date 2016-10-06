@@ -1,12 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - weareb0b
 emojis:
+- name: wabmammouth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86525/1.0
+- name: wabruinedlego
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86524/1.0
 - name: wabsaucisse
   src: https://static-cdn.jtvnw.net/emoticons/v1/71368/1.0
 - name: wabcaca
   src: https://static-cdn.jtvnw.net/emoticons/v1/71357/1.0
-- name: wabbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71358/1.0
 - name: wabkratos
   src: https://static-cdn.jtvnw.net/emoticons/v1/71359/1.0
 - name: wabrip
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71362/1.0
 - name: wabwab
   src: https://static-cdn.jtvnw.net/emoticons/v1/71363/1.0
+- name: wabfougere
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87364/1.0

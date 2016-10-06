@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - eevisu
 emojis:
+- name: eevisuod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113105/1.0
 - name: eevisumomhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/41431/1.0
-- name: eevisurekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45756/1.0
 - name: eevisuclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/60407/1.0
-- name: eevisucheeks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60409/1.0
 - name: eevisusplat
   src: https://static-cdn.jtvnw.net/emoticons/v1/63126/1.0
-- name: eevisushots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75867/1.0
 - name: eevisumeat
   src: https://static-cdn.jtvnw.net/emoticons/v1/78027/1.0
 - name: eevisutheif
   src: https://static-cdn.jtvnw.net/emoticons/v1/81900/1.0
-- name: eevisubp2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82139/1.0
-- name: eevisubp1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82137/1.0
+- name: eevisurip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92641/1.0
+- name: eevisushots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113103/1.0
+- name: eevisubruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/107813/1.0
+- name: eevisuluv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109788/1.0

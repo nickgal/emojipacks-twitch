@@ -1,21 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - ryuquezacotl
 emojis:
-- name: ryuuurage
+- name: ruyugreed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99320/1.0
+- name: ruyurage
   src: https://static-cdn.jtvnw.net/emoticons/v1/76536/1.0
-- name: ryuuurip
+- name: ruyurip
   src: https://static-cdn.jtvnw.net/emoticons/v1/77055/1.0
-- name: ryuuuhype
+- name: ruyuhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/76685/1.0
-- name: ryuuuthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76572/1.0
-- name: ryuuuwarcry
+- name: ruyuru
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116487/1.0
+- name: ruyuwarcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/75901/1.0
-- name: ryuuuchamp
+- name: ruyuchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/76287/1.0
-- name: ryuuuwhut
+- name: ruyuwhut
   src: https://static-cdn.jtvnw.net/emoticons/v1/76227/1.0
-- name: ryuuutrain
+- name: ruyutrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/77404/1.0
-- name: ryuuucat
+- name: ruyugood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116299/1.0
+- name: ruyucat
   src: https://static-cdn.jtvnw.net/emoticons/v1/84665/1.0
+- name: ruyublank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116107/1.0
+- name: ruyulul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116806/1.0
+- name: ruyuthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116808/1.0
+- name: ruyulewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116807/1.0

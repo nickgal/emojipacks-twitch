@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - crepusculeopaline
 emojis:
+- name: cdoboum
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93735/1.0
+- name: cdofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93736/1.0
 - name: cdoesport
   src: https://static-cdn.jtvnw.net/emoticons/v1/74067/1.0
 - name: cdococo

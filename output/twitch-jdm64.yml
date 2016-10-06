@@ -17,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80211/1.0
 - name: jdmleg
   src: https://static-cdn.jtvnw.net/emoticons/v1/80212/1.0
+- name: jdmnot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96997/1.0
+- name: jdmcap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97001/1.0

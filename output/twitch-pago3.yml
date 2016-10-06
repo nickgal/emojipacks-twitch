@@ -15,10 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81180/1.0
 - name: pagocziter
   src: https://static-cdn.jtvnw.net/emoticons/v1/81181/1.0
-- name: pagorutkowski
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80343/1.0
-- name: pagorage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82393/1.0
 - name: pagoco
   src: https://static-cdn.jtvnw.net/emoticons/v1/81208/1.0
 - name: pagopatrol
@@ -29,5 +25,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80577/1.0
 - name: pagoacapulco
   src: https://static-cdn.jtvnw.net/emoticons/v1/80739/1.0
-- name: pagoszufla
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82226/1.0
+- name: pagotfu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106540/1.0
+- name: pagoemeryt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106578/1.0
+- name: pagorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106733/1.0

@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - tyrant_theviper
 emojis:
-- name: grassjordan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29992/1.0
+- name: grassviper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112502/1.0
+- name: grassdaut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112496/1.0
 - name: grassriut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29990/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112497/1.0
+- name: grassjordan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112500/1.0
+- name: grassbact
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116664/1.0
+- name: grassmbl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116663/1.0

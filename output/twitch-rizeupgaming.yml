@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - rizeupgaming
 emojis:
-- name: rizefirecrow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8002/1.0
-- name: rizeraid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71199/1.0
-- name: rizefarrington
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71207/1.0
-- name: rizelove
+- name: rizeuphype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112715/1.0
+- name: rizeuplove
   src: https://static-cdn.jtvnw.net/emoticons/v1/47168/1.0
+- name: rizeupraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99351/1.0
+- name: rizeupspam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112803/1.0
+- name: rizeupkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112714/1.0
+- name: rizeupsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112725/1.0
+- name: rizeuprip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112733/1.0
+- name: rizeupwings
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112740/1.0

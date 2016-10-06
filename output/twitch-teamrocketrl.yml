@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - teamrocketrl
 emojis:
 - name: trrlcole
   src: https://static-cdn.jtvnw.net/emoticons/v1/60986/1.0
-- name: trrldigdog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60981/1.0
-- name: trrlfysho
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61003/1.0
-- name: trrldoomsee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61131/1.0
-- name: trrlpicnic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61697/1.0
 - name: trrltree
   src: https://static-cdn.jtvnw.net/emoticons/v1/65361/1.0
+- name: trrlstumpy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102620/1.0
+- name: trrlmfw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103350/1.0
+- name: trrlshock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115476/1.0
+- name: trrlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116887/1.0
+- name: trrlyodawg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116024/1.0
+- name: trrlsellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115802/1.0

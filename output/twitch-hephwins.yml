@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - hephwins
 emojis:
-- name: hephkeys
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67753/1.0
+- name: hephthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109919/1.0
+- name: hephsup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109924/1.0
+- name: hephfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109922/1.0
+- name: hephsmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109918/1.0
+- name: hephlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109917/1.0
 - name: hephgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56429/1.0
-- name: hephdurr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67522/1.0
-- name: hepho
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67521/1.0
-- name: hephyup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67529/1.0
-- name: hephrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67528/1.0
-- name: hephboo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67613/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109920/1.0
+- name: hephlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109916/1.0
 - name: hephayyye
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67731/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109915/1.0

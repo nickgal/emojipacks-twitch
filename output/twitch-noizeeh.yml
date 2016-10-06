@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - noizeeh
 emojis:
-- name: noizboyz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60044/1.0
-- name: noizogre
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24815/1.0
-- name: noizhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33521/1.0
 - name: noizcool
   src: https://static-cdn.jtvnw.net/emoticons/v1/39650/1.0
-- name: noizhappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39753/1.0
 - name: noizboss
   src: https://static-cdn.jtvnw.net/emoticons/v1/39761/1.0
+- name: noizh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92616/1.0
+- name: noizogre
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95259/1.0
+- name: noizhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96097/1.0
+- name: noizw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96134/1.0
+- name: noizvibes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94565/1.0
+- name: noizhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94899/1.0

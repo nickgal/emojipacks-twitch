@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - proletariat_inc
 emojis:
 - name: prolbingbong
   src: https://static-cdn.jtvnw.net/emoticons/v1/69619/1.0
-- name: prolpoked
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79577/1.0
+- name: prolcoins
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102782/1.0
+- name: prolrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102783/1.0
+- name: prolhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102784/1.0

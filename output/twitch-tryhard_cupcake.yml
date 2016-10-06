@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - tryhard_cupcake
 emojis:
-- name: cuphype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74635/1.0
 - name: cupkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/65275/1.0
 - name: cupchoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/74673/1.0
-- name: cupd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74278/1.0
-- name: cupcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74543/1.0
-- name: cuph
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74544/1.0
 - name: cuprip
   src: https://static-cdn.jtvnw.net/emoticons/v1/74546/1.0
-- name: cuprage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75905/1.0
+- name: cupdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100231/1.0
+- name: cupd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100232/1.0
+- name: cuparmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100233/1.0
+- name: cuph
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100234/1.0
+- name: cupl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100235/1.0

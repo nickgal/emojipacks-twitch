@@ -1,5 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - anhierawrs
 emojis:
+- name: anhdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101476/1.0
+- name: anhheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88330/1.0
 - name: anhsquad
   src: https://static-cdn.jtvnw.net/emoticons/v1/81139/1.0
+- name: anhfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101155/1.0
+- name: anhgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101157/1.0

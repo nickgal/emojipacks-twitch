@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - carsondrewit
 emojis:
 - name: drewithug
   src: https://static-cdn.jtvnw.net/emoticons/v1/64659/1.0
-- name: drewitbrush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64310/1.0
-- name: drewitpalette
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64312/1.0
 - name: drewitlick
   src: https://static-cdn.jtvnw.net/emoticons/v1/64535/1.0
 - name: drewithype
   src: https://static-cdn.jtvnw.net/emoticons/v1/64539/1.0
 - name: drewitpaarlchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/80906/1.0
+- name: drewitw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109229/1.0
+- name: drewitguts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109231/1.0

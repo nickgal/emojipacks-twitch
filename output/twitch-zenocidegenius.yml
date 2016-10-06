@@ -9,10 +9,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10881/1.0
 - name: zenoslap
   src: https://static-cdn.jtvnw.net/emoticons/v1/11844/1.0
-- name: zenorip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32414/1.0
 - name: zenok
   src: https://static-cdn.jtvnw.net/emoticons/v1/32408/1.0
+- name: zenochare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96589/1.0
 - name: zenokeepopride
   src: https://static-cdn.jtvnw.net/emoticons/v1/65088/1.0
 - name: zenorage

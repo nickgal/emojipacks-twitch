@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - fanboypl
 emojis:
-- name: fanodpal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46722/1.0
 - name: faneasy
   src: https://static-cdn.jtvnw.net/emoticons/v1/41989/1.0
 - name: fanvac
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48155/1.0
 - name: fanmikro
   src: https://static-cdn.jtvnw.net/emoticons/v1/58550/1.0
+- name: fanfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106810/1.0
+- name: fanboy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90772/1.0
+- name: fanrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106575/1.0

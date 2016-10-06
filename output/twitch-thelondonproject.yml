@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - thelondonproject
 emojis:
-- name: astoncool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62018/1.0
+- name: astonshield
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94669/1.0
 - name: astongg
   src: https://static-cdn.jtvnw.net/emoticons/v1/62240/1.0
 - name: astonrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/63140/1.0
-- name: astonface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61268/1.0
 - name: astonsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/62527/1.0
-- name: astonmax
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63146/1.0
 - name: astonhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/65416/1.0
+- name: astonmilo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88548/1.0
+- name: astonface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109877/1.0
+- name: astontroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108086/1.0

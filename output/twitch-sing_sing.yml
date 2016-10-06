@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3825/1.0
 - name: singsingstayinthetrees
   src: https://static-cdn.jtvnw.net/emoticons/v1/12324/1.0
-- name: singsingpld
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12325/1.0
 - name: singsingfcuk
   src: https://static-cdn.jtvnw.net/emoticons/v1/70144/1.0
 - name: singsingdoge
@@ -19,5 +17,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70147/1.0
 - name: singsingwooff
   src: https://static-cdn.jtvnw.net/emoticons/v1/73432/1.0
-- name: singsingp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75913/1.0
+- name: singsingb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87366/1.0
+- name: singsingd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116057/1.0
+- name: singsingkp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116058/1.0
+- name: singsingw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116059/1.0

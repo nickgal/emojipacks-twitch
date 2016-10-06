@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - evac
 emojis:
-- name: evactrash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3934/1.0
+- name: evacthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105139/1.0
+- name: evachead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/25175/1.0
 - name: evacdoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/4832/1.0
-- name: evacchair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25173/1.0
-- name: evachello
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25174/1.0
-- name: evacrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25175/1.0
-- name: evactruck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25176/1.0
+- name: evactilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105141/1.0
+- name: evachype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105142/1.0
+- name: evactrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105140/1.0

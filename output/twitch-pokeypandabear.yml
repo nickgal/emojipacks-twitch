@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - pokeypandabear
 emojis:
-- name: ppbderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19825/1.0
 - name: ppbhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44953/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109631/1.0
 - name: ppblotus
   src: https://static-cdn.jtvnw.net/emoticons/v1/45326/1.0
+- name: ppbderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109632/1.0
 - name: ppblove
   src: https://static-cdn.jtvnw.net/emoticons/v1/66408/1.0
+- name: ppbkid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93134/1.0
+- name: ppbtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109633/1.0

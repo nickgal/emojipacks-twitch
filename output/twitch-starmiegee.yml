@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - starmiegee
 emojis:
-- name: starmielube
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34968/1.0
-- name: starmieboom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37136/1.0
 - name: starmieomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/36526/1.0
 - name: starmiefree
   src: https://static-cdn.jtvnw.net/emoticons/v1/41187/1.0
+- name: starmiegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92891/1.0
+- name: starmiejuri
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114351/1.0

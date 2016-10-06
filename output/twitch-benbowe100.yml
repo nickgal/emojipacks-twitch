@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - benbowe100
 emojis:
-- name: bnsnrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13056/1.0
-- name: bnsngoat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12656/1.0
-- name: bnsncarry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12657/1.0
-- name: bnsnlgb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13058/1.0
-- name: bnsnredpanda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12062/1.0
-- name: bnsnumad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12064/1.0
+- name: bnsnarmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101627/1.0
+- name: bnsnsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101628/1.0
+- name: bnsnlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101629/1.0
+- name: bnsnmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101668/1.0
+- name: bnsnrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101908/1.0
+- name: bnsnchoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101919/1.0

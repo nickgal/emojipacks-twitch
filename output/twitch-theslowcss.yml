@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - theslowcss
 emojis:
-- name: zombrogg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23144/1.0
 - name: zombrokappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/25967/1.0
 - name: zombropow
@@ -21,13 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59209/1.0
 - name: zombrohead
   src: https://static-cdn.jtvnw.net/emoticons/v1/50551/1.0
-- name: zombrochilla
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59496/1.0
 - name: zombroflag
   src: https://static-cdn.jtvnw.net/emoticons/v1/59561/1.0
 - name: zombromichelle
   src: https://static-cdn.jtvnw.net/emoticons/v1/59562/1.0
 - name: zombrolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/59563/1.0
-- name: zombrotalkie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59564/1.0
+- name: zombrochilla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97562/1.0
+- name: zombrov
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97188/1.0
+- name: zombroh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97189/1.0

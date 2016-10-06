@@ -11,12 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10443/1.0
 - name: amaztoast
   src: https://static-cdn.jtvnw.net/emoticons/v1/11090/1.0
-- name: amazsis
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9447/1.0
-- name: amazfish
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11353/1.0
-- name: amazpiggy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11538/1.0
 - name: amazdww
   src: https://static-cdn.jtvnw.net/emoticons/v1/12649/1.0
 - name: amazlolo
@@ -27,27 +21,33 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/21028/1.0
 - name: amazlied
   src: https://static-cdn.jtvnw.net/emoticons/v1/21344/1.0
-- name: amazsign
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22078/1.0
-- name: amazd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23850/1.0
 - name: amaz40
   src: https://static-cdn.jtvnw.net/emoticons/v1/22946/1.0
 - name: amazskittles
   src: https://static-cdn.jtvnw.net/emoticons/v1/26194/1.0
 - name: amazw
   src: https://static-cdn.jtvnw.net/emoticons/v1/35451/1.0
-- name: amazchatlied
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39751/1.0
-- name: amazbully
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40949/1.0
 - name: amazchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/48385/1.0
 - name: amazc
   src: https://static-cdn.jtvnw.net/emoticons/v1/67868/1.0
-- name: amazc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67869/1.0
 - name: amazpride
   src: https://static-cdn.jtvnw.net/emoticons/v1/67870/1.0
 - name: amazscam
   src: https://static-cdn.jtvnw.net/emoticons/v1/67871/1.0
+- name: amazgold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116967/1.0
+- name: amazdomo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100196/1.0
+- name: amazfake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100197/1.0
+- name: amazpunish
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100198/1.0
+- name: amazsmorc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100201/1.0
+- name: amazsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100199/1.0
+- name: amazsellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100200/1.0
+- name: amazohbaby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100202/1.0

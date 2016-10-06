@@ -1,15 +1,41 @@
 ---
 title: Twitch Subscriber Emotes - a_seagull
 emojis:
-- name: seagull1hp
+- name: seagcaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106659/1.0
+- name: seagh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106660/1.0
+- name: seagsg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106657/1.0
+- name: seagw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98859/1.0
+- name: seagt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108732/1.0
+- name: seag1hp
   src: https://static-cdn.jtvnw.net/emoticons/v1/74080/1.0
-- name: seagullw1
+- name: seagw1
   src: https://static-cdn.jtvnw.net/emoticons/v1/71673/1.0
-- name: seagullw2
+- name: seagbox
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87990/1.0
+- name: seagw2
   src: https://static-cdn.jtvnw.net/emoticons/v1/71674/1.0
-- name: seagullhead
+- name: seagfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87985/1.0
+- name: seaghead
   src: https://static-cdn.jtvnw.net/emoticons/v1/71393/1.0
-- name: seagulltriggered
+- name: seagtriggered
   src: https://static-cdn.jtvnw.net/emoticons/v1/71293/1.0
-- name: seagullpog
+- name: seagpog
   src: https://static-cdn.jtvnw.net/emoticons/v1/74429/1.0
+- name: seagfeelsg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88159/1.0
+- name: seagrail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99986/1.0
+- name: seagmei
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104264/1.0
+- name: seaggotem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106174/1.0
+- name: seagr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105770/1.0
+- name: seaglul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109452/1.0

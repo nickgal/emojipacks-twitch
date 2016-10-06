@@ -11,9 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44685/1.0
 - name: gochsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/50062/1.0
-- name: gochafk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66914/1.0
 - name: gochghost
   src: https://static-cdn.jtvnw.net/emoticons/v1/70036/1.0
-- name: gochlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70023/1.0
+- name: gochrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97384/1.0
+- name: gochball
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112837/1.0

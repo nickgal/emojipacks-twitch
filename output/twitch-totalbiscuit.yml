@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - totalbiscuit
 emojis:
-- name: cynicalanimebullshit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6451/1.0
 - name: cynicalscandal
   src: https://static-cdn.jtvnw.net/emoticons/v1/6450/1.0
 - name: cynicalandmyax
@@ -27,6 +25,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38346/1.0
 - name: cynicalohgodwhy
   src: https://static-cdn.jtvnw.net/emoticons/v1/48157/1.0
+- name: cynicalsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88734/1.0
+- name: cynicalgoose
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88737/1.0
 - name: cynicalcynical
   src: https://static-cdn.jtvnw.net/emoticons/v1/59777/1.0
 - name: cynicalpolice
@@ -53,9 +55,33 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59698/1.0
 - name: cynicalultraviolence
   src: https://static-cdn.jtvnw.net/emoticons/v1/59699/1.0
+- name: cynicalswede
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88736/1.0
+- name: cynicalstupidcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88735/1.0
+- name: cynicallawyer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88733/1.0
 - name: cynicalbro
   src: https://static-cdn.jtvnw.net/emoticons/v1/68279/1.0
 - name: cynicalaward
   src: https://static-cdn.jtvnw.net/emoticons/v1/76691/1.0
 - name: cynicalinnocent
   src: https://static-cdn.jtvnw.net/emoticons/v1/83594/1.0
+- name: cynicalanimebs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103377/1.0
+- name: cynicalul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109958/1.0
+- name: cynicalterror
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116536/1.0
+- name: cynicalalfalfa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116539/1.0
+- name: cynicalmonkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116537/1.0
+- name: cynicalheresy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116532/1.0
+- name: cynicaldead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116533/1.0
+- name: cynicaltea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116535/1.0
+- name: cynicalbruised
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116531/1.0

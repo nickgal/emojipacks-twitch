@@ -5,12 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82680/1.0
 - name: mm1owe
   src: https://static-cdn.jtvnw.net/emoticons/v1/76696/1.0
-- name: mm1rip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79180/1.0
-- name: mm1sb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77862/1.0
-- name: mm1sb2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77863/1.0
+- name: mm1shame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111676/1.0
 - name: mm1rp
   src: https://static-cdn.jtvnw.net/emoticons/v1/79398/1.0
 - name: mm1bg
@@ -21,3 +17,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79513/1.0
 - name: mm1bag
   src: https://static-cdn.jtvnw.net/emoticons/v1/82681/1.0
+- name: mm1rg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94229/1.0
+- name: mm1sub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94231/1.0
+- name: mm1mw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94233/1.0
+- name: mm1lg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94234/1.0
+- name: mm1rekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94235/1.0
+- name: mm1swag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94236/1.0
+- name: mm1ty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94237/1.0

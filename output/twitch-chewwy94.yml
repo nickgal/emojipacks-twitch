@@ -1,7 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - chewwy94
 emojis:
-- name: chewwyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63200/1.0
+- name: chewwylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104451/1.0
+- name: chewwyjoystick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101222/1.0
+- name: chewwyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115658/1.0
 - name: chewwykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/63199/1.0
+- name: chewwyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100835/1.0

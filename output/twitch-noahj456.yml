@@ -1,17 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - noahj456
 emojis:
-- name: noahpb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6686/1.0
 - name: noahj
   src: https://static-cdn.jtvnw.net/emoticons/v1/6797/1.0
-- name: noahdudu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17340/1.0
-- name: noahdunce
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17804/1.0
 - name: noahmiley
   src: https://static-cdn.jtvnw.net/emoticons/v1/18986/1.0
 - name: noahshrek
   src: https://static-cdn.jtvnw.net/emoticons/v1/19028/1.0
 - name: noahweevil
   src: https://static-cdn.jtvnw.net/emoticons/v1/75894/1.0
+- name: noahw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96069/1.0
+- name: noahkisses
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96070/1.0
+- name: noahdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97129/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - exi1ia
 emojis:
-- name: exilel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46809/1.0
 - name: eximurky
   src: https://static-cdn.jtvnw.net/emoticons/v1/46717/1.0
+- name: exicore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87709/1.0
+- name: exifish
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87710/1.0
+- name: exicup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87708/1.0

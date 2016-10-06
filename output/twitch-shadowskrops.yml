@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - shadowskrops
 emojis:
+- name: sksbruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91456/1.0
 - name: skslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/81843/1.0
 - name: sksrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/81844/1.0
+- name: sksmort
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95283/1.0

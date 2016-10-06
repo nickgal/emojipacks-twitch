@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - hoowy
 emojis:
-- name: hoowydb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79058/1.0
+- name: hoowyomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93719/1.0
+- name: hoowyty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86370/1.0
 - name: hoowykobe
   src: https://static-cdn.jtvnw.net/emoticons/v1/84648/1.0
-- name: hoowyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79521/1.0
 - name: hoowywiz
   src: https://static-cdn.jtvnw.net/emoticons/v1/79140/1.0
 - name: hoowysquad
   src: https://static-cdn.jtvnw.net/emoticons/v1/79139/1.0
 - name: hoowyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/84291/1.0
+- name: hoowydono
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93157/1.0
+- name: hoowylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93156/1.0

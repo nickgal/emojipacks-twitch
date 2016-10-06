@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - crasskitty
 emojis:
-- name: crasshing
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81590/1.0
-- name: crasswp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81584/1.0
+- name: crasshi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113014/1.0
+- name: crassdoit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113120/1.0
 - name: crasshugs
   src: https://static-cdn.jtvnw.net/emoticons/v1/81580/1.0
-- name: crasssub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82094/1.0
-- name: crassr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83197/1.0
-- name: crassl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83198/1.0
-- name: crasssmang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83199/1.0
+- name: crassheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102503/1.0
+- name: crassthrust
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102408/1.0
+- name: crasschill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113010/1.0
+- name: crassshame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113011/1.0
+- name: crassrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113012/1.0

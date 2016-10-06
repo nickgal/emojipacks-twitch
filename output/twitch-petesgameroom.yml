@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - petesgameroom
 emojis:
-- name: dorrkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50261/1.0
-- name: dorrface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50268/1.0
-- name: dorrsleepin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50561/1.0
+- name: dorromg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97812/1.0
+- name: dorrhog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108223/1.0
+- name: dorrcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111389/1.0
 - name: dorrgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50560/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116275/1.0
+- name: dorrjoy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116281/1.0
+- name: dorrface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116285/1.0
+- name: dorrrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115852/1.0
+- name: dorrcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115853/1.0

@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - mymtumtum69
 emojis:
-- name: tumtumkoa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9857/1.0
 - name: tumtumtumy
   src: https://static-cdn.jtvnw.net/emoticons/v1/9856/1.0
-- name: tumtumlin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31034/1.0
-- name: tumtumtiva
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31687/1.0
-- name: tumtumtoon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75046/1.0
 - name: tumtumrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/80521/1.0
+- name: tumtumlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106853/1.0
+- name: tumtumhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108351/1.0
+- name: tumtumdios
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108353/1.0
+- name: tumtumgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113997/1.0
+- name: tumtumjudas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113998/1.0
+- name: tumtumdine
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113996/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - demolition_d
 emojis:
+- name: sugoiguts2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98818/1.0
 - name: sugoibardiel
   src: https://static-cdn.jtvnw.net/emoticons/v1/27964/1.0
 - name: sugoipunk
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/38144/1.0
 - name: sugoismugsnake
   src: https://static-cdn.jtvnw.net/emoticons/v1/38143/1.0
+- name: sugoipino
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98817/1.0

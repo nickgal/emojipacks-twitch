@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - talekio
 emojis:
+- name: talekiorip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104839/1.0
+- name: talekiofp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104838/1.0
 - name: talekiogg
   src: https://static-cdn.jtvnw.net/emoticons/v1/67797/1.0
-- name: talekiosub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63801/1.0
-- name: talekiodiamond
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63375/1.0
+- name: talekiohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102910/1.0
 - name: talekiobread
   src: https://static-cdn.jtvnw.net/emoticons/v1/67370/1.0
 - name: talekiolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/78038/1.0
 - name: talekiosub
   src: https://static-cdn.jtvnw.net/emoticons/v1/78089/1.0
+- name: talekioso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102821/1.0

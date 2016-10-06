@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - chillindude
 emojis:
 - name: chillinnolefzone
   src: https://static-cdn.jtvnw.net/emoticons/v1/29708/1.0
-- name: chillinwolfshine
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29709/1.0
 - name: chillinluminati
   src: https://static-cdn.jtvnw.net/emoticons/v1/31813/1.0
-- name: chillinfoxshine
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31814/1.0
 - name: chillinmyb
   src: https://static-cdn.jtvnw.net/emoticons/v1/38973/1.0
 - name: chillinpushups
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47814/1.0
 - name: chillindataz
   src: https://static-cdn.jtvnw.net/emoticons/v1/84440/1.0
+- name: chillinhugs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111292/1.0
+- name: chillinbubble
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111293/1.0

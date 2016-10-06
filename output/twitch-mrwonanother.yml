@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mrwonanother
 emojis:
-- name: wonalove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19399/1.0
-- name: wonahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/7796/1.0
+- name: wonafail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104379/1.0
+- name: wonaporq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105256/1.0
 - name: wonabump
   src: https://static-cdn.jtvnw.net/emoticons/v1/19271/1.0
-- name: wonacute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20185/1.0
+- name: wonatato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104985/1.0
+- name: wonacry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104372/1.0
+- name: wonalove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104373/1.0

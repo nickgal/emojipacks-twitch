@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - thenorwalkbat
 emojis:
 - name: thebatforty
   src: https://static-cdn.jtvnw.net/emoticons/v1/52744/1.0
-- name: thebatgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50131/1.0
-- name: thebattacos
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50132/1.0
 - name: thebat4leaf
   src: https://static-cdn.jtvnw.net/emoticons/v1/50141/1.0
-- name: thebathugs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65170/1.0
+- name: thebatselfless
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104458/1.0
 - name: thebatfuego
   src: https://static-cdn.jtvnw.net/emoticons/v1/64305/1.0
-- name: thebatnorwalk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72740/1.0
 - name: thebatumr
   src: https://static-cdn.jtvnw.net/emoticons/v1/72254/1.0
+- name: thebatbob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87354/1.0
+- name: thebatw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92903/1.0
+- name: thebatfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94409/1.0
+- name: thebatketchum
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106083/1.0
+- name: thebatcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116611/1.0

@@ -15,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/20998/1.0
 - name: twerkrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/69227/1.0
-- name: twerkkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27326/1.0
 - name: twerktrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/26700/1.0
 - name: twerkfail
@@ -25,12 +23,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76877/1.0
 - name: twerkcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/76876/1.0
-- name: twerkpita
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76875/1.0
-- name: twerkfdk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76874/1.0
-- name: twerkfat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76873/1.0
 - name: twerkgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/29863/1.0
 - name: twerkfdb
@@ -39,8 +31,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67055/1.0
 - name: twerklove
   src: https://static-cdn.jtvnw.net/emoticons/v1/76879/1.0
-- name: twerkzzz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32515/1.0
 - name: twerknuke
   src: https://static-cdn.jtvnw.net/emoticons/v1/34571/1.0
 - name: twerksalty
@@ -49,6 +39,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36116/1.0
 - name: twerkgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/66221/1.0
+- name: twerkdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104793/1.0
+- name: twerksup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101666/1.0
 - name: twerkchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/49196/1.0
 - name: twerkpoo
@@ -59,15 +53,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57769/1.0
 - name: twerkwow
   src: https://static-cdn.jtvnw.net/emoticons/v1/59378/1.0
-- name: twerkjump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66222/1.0
+- name: twerkwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108696/1.0
 - name: twerkkolo
   src: https://static-cdn.jtvnw.net/emoticons/v1/67056/1.0
 - name: twerklyin
   src: https://static-cdn.jtvnw.net/emoticons/v1/68724/1.0
-- name: twerklucky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69364/1.0
 - name: twerkbut
   src: https://static-cdn.jtvnw.net/emoticons/v1/67722/1.0
-- name: twerkole
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67721/1.0
+- name: twerkfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85927/1.0
+- name: twerkpita
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85924/1.0
+- name: twerkmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99078/1.0
+- name: twerkfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95140/1.0
+- name: twerkthrow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108549/1.0

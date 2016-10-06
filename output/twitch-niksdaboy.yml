@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - niksdaboy
 emojis:
-- name: ndbpants
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63316/1.0
-- name: ndbrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63408/1.0
 - name: ndbrofl
   src: https://static-cdn.jtvnw.net/emoticons/v1/63776/1.0
-- name: ndblol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63777/1.0
 - name: ndbkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/63454/1.0
-- name: ndbrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63450/1.0
 - name: ndbhy
   src: https://static-cdn.jtvnw.net/emoticons/v1/72697/1.0
 - name: ndbpe
   src: https://static-cdn.jtvnw.net/emoticons/v1/72698/1.0
+- name: ndbelo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97441/1.0
+- name: ndbnoob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97276/1.0
+- name: ndbmoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97277/1.0
+- name: ndblove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113416/1.0

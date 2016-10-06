@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mangachu_
 emojis:
+- name: mangatilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101388/1.0
+- name: mangathumbsup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101389/1.0
+- name: manganutty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101198/1.0
 - name: mangaden
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8547/1.0
-- name: mangaface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21731/1.0
-- name: mangabye
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21732/1.0
-- name: mangathrow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53372/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104377/1.0
+- name: mangawut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108838/1.0
+- name: manganoey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113627/1.0

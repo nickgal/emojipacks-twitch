@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - butterflyouo
 emojis:
+- name: butterflysad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88334/1.0
 - name: butterflyouo
   src: https://static-cdn.jtvnw.net/emoticons/v1/34824/1.0
-- name: butterflyahri
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46258/1.0
-- name: butterflyouo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46261/1.0
 - name: butterflylol
   src: https://static-cdn.jtvnw.net/emoticons/v1/46042/1.0
 - name: butterflycu
   src: https://static-cdn.jtvnw.net/emoticons/v1/85269/1.0
-- name: butterfly55
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85266/1.0
-- name: butterfly66
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85265/1.0
-- name: butterflyok
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85264/1.0
+- name: butterflyoxo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86889/1.0
+- name: butterflyooo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88238/1.0
+- name: butterflybutterflyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113785/1.0
+- name: butterflybutterflybye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113786/1.0

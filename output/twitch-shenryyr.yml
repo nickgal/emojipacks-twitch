@@ -3,21 +3,31 @@ title: Twitch Subscriber Emotes - shenryyr
 emojis:
 - name: shenchair
   src: https://static-cdn.jtvnw.net/emoticons/v1/40716/1.0
-- name: shencoffee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16452/1.0
+- name: shenyes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105186/1.0
+- name: shenff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105184/1.0
 - name: shenstronk
   src: https://static-cdn.jtvnw.net/emoticons/v1/27809/1.0
-- name: shenbeard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82437/1.0
 - name: shenderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/39197/1.0
 - name: shencat
   src: https://static-cdn.jtvnw.net/emoticons/v1/48295/1.0
 - name: shenz
   src: https://static-cdn.jtvnw.net/emoticons/v1/54163/1.0
-- name: shenrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54167/1.0
 - name: shenrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/53476/1.0
 - name: shenexcite
   src: https://static-cdn.jtvnw.net/emoticons/v1/63922/1.0
+- name: shensmersh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101766/1.0
+- name: shencoffee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105905/1.0
+- name: shenhak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100724/1.0
+- name: shenwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104350/1.0
+- name: shenrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105906/1.0
+- name: shencreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108363/1.0

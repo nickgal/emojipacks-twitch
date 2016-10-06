@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/11313/1.0
 - name: scrubrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/4192/1.0
-- name: scrubscared
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23134/1.0
 - name: scrubokay
   src: https://static-cdn.jtvnw.net/emoticons/v1/23135/1.0
 - name: scrubcandy
@@ -29,5 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48444/1.0
 - name: scrubstretch2
   src: https://static-cdn.jtvnw.net/emoticons/v1/48443/1.0
-- name: scrubcurse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48442/1.0
+- name: scrubbandit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98775/1.0
+- name: scrubhook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99963/1.0

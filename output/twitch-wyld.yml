@@ -1,33 +1,39 @@
 ---
 title: Twitch Subscriber Emotes - wyld
 emojis:
-- name: wyldhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3647/1.0
 - name: wyldcluck
   src: https://static-cdn.jtvnw.net/emoticons/v1/3773/1.0
 - name: wyldcoffee
   src: https://static-cdn.jtvnw.net/emoticons/v1/3920/1.0
-- name: wyldkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4064/1.0
 - name: wyldwine
   src: https://static-cdn.jtvnw.net/emoticons/v1/6460/1.0
 - name: wyldpants
   src: https://static-cdn.jtvnw.net/emoticons/v1/10247/1.0
-- name: wyldvader
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10248/1.0
 - name: wyldheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/13226/1.0
 - name: wyldwhiskey
   src: https://static-cdn.jtvnw.net/emoticons/v1/24840/1.0
 - name: wyldgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/25585/1.0
-- name: wyldwither
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25595/1.0
-- name: wyldrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30008/1.0
 - name: wyldbemore
   src: https://static-cdn.jtvnw.net/emoticons/v1/44197/1.0
-- name: wyldkappafish
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44233/1.0
 - name: wyldface
   src: https://static-cdn.jtvnw.net/emoticons/v1/44231/1.0
+- name: wyldmany
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91683/1.0
+- name: wyldsuch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91684/1.0
+- name: wyldw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91685/1.0
+- name: wyldleft
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97770/1.0
+- name: wyldright
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97771/1.0
+- name: wyldhypu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97772/1.0
+- name: wyldlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97773/1.0
+- name: wyldrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97775/1.0
+- name: wyldlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97774/1.0

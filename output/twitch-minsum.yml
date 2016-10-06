@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - minsum
 emojis:
-- name: minsumnurse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11901/1.0
-- name: minsumwave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16250/1.0
-- name: minsumrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23418/1.0
-- name: minsumbard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25073/1.0
 - name: minsumakali
   src: https://static-cdn.jtvnw.net/emoticons/v1/26951/1.0
+- name: minsumsass
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96980/1.0
+- name: minsumrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96982/1.0
+- name: minsumh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96983/1.0
+- name: minsumoho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96984/1.0
 - name: minsumlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80969/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108830/1.0

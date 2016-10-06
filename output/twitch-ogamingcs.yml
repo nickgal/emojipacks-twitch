@@ -9,7 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56019/1.0
 - name: ogcscnd
   src: https://static-cdn.jtvnw.net/emoticons/v1/56862/1.0
-- name: ogcsmur
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56155/1.0
 - name: ogcscall
   src: https://static-cdn.jtvnw.net/emoticons/v1/85022/1.0
+- name: ogcsautoroute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90517/1.0
+- name: ogcsbaguette
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92210/1.0
+- name: ogcscomeback
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94520/1.0

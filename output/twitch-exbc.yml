@@ -11,9 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83568/1.0
 - name: exbc1
   src: https://static-cdn.jtvnw.net/emoticons/v1/83959/1.0
-- name: exbccuz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83958/1.0
 - name: exbcfree
   src: https://static-cdn.jtvnw.net/emoticons/v1/72186/1.0
 - name: exbcsoju
   src: https://static-cdn.jtvnw.net/emoticons/v1/72191/1.0
+- name: exbcdance
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109099/1.0
+- name: exbcgrr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109101/1.0
+- name: exbcshame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109103/1.0

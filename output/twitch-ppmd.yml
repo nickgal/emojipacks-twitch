@@ -3,11 +3,11 @@ title: Twitch Subscriber Emotes - ppmd
 emojis:
 - name: ppmdthink
   src: https://static-cdn.jtvnw.net/emoticons/v1/40242/1.0
-- name: ppmdwater
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40236/1.0
 - name: ppmdsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/40235/1.0
 - name: ppmdkreygasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/40234/1.0
 - name: ppmdmarth
   src: https://static-cdn.jtvnw.net/emoticons/v1/40233/1.0
+- name: ppmdbruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94811/1.0

@@ -3,16 +3,10 @@ title: Twitch Subscriber Emotes - lolrenaynay
 emojis:
 - name: renayzoe
   src: https://static-cdn.jtvnw.net/emoticons/v1/2608/1.0
-- name: renaymalcolm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2607/1.0
-- name: renaysolo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2612/1.0
-- name: renaystare
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23215/1.0
+- name: renaychamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95625/1.0
 - name: renaybae
   src: https://static-cdn.jtvnw.net/emoticons/v1/57195/1.0
-- name: renaytrash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57194/1.0
 - name: renayhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/57191/1.0
 - name: renayni
@@ -27,17 +21,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57020/1.0
 - name: renaykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/57022/1.0
-- name: renaywave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57024/1.0
 - name: renay101
   src: https://static-cdn.jtvnw.net/emoticons/v1/57027/1.0
-- name: renaysup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57023/1.0
 - name: renayheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/57009/1.0
 - name: renayrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/57008/1.0
-- name: renayfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57011/1.0
 - name: renayhigh5
   src: https://static-cdn.jtvnw.net/emoticons/v1/58078/1.0
+- name: renaythis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98410/1.0
+- name: renayrad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98411/1.0
+- name: renayfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103421/1.0
+- name: renaysup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103422/1.0
+- name: renaywave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103426/1.0
+- name: renaystare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101926/1.0

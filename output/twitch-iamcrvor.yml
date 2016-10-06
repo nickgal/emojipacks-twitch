@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - iamcrvor
 emojis:
 - name: crvorhookappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/74652/1.0
-- name: crvoracademy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75703/1.0
-- name: crvorface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75705/1.0
 - name: crvorenfer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75714/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113268/1.0
+- name: crvor1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113269/1.0
+- name: crvor2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113270/1.0
+- name: crvorded
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113271/1.0
+- name: crvorww
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113272/1.0

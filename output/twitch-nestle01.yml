@@ -3,10 +3,14 @@ title: Twitch Subscriber Emotes - nestle01
 emojis:
 - name: nesssquish
   src: https://static-cdn.jtvnw.net/emoticons/v1/76634/1.0
+- name: nesscreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95633/1.0
 - name: nesshey
   src: https://static-cdn.jtvnw.net/emoticons/v1/76633/1.0
 - name: nessfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/76635/1.0
+- name: nesswtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95887/1.0
 - name: nesslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/76547/1.0
 - name: nesswine

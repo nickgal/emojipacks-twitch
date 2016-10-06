@@ -21,14 +21,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10327/1.0
 - name: lirikgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/9421/1.0
+- name: lirikshucks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105054/1.0
 - name: lirikgoty
   src: https://static-cdn.jtvnw.net/emoticons/v1/9706/1.0
 - name: lirikrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/9773/1.0
 - name: lirikrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/9914/1.0
-- name: lirikd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12640/1.0
+- name: lirikn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96286/1.0
 - name: lirikh
   src: https://static-cdn.jtvnw.net/emoticons/v1/15020/1.0
 - name: lirikmeow
@@ -47,14 +49,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37748/1.0
 - name: liriknice
   src: https://static-cdn.jtvnw.net/emoticons/v1/40500/1.0
-- name: lirikclench
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45322/1.0
 - name: lirikhold
   src: https://static-cdn.jtvnw.net/emoticons/v1/72445/1.0
 - name: lirikw
   src: https://static-cdn.jtvnw.net/emoticons/v1/48739/1.0
 - name: lirikwc
   src: https://static-cdn.jtvnw.net/emoticons/v1/48740/1.0
+- name: liriknon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105098/1.0
 - name: lirikdj
   src: https://static-cdn.jtvnw.net/emoticons/v1/57485/1.0
 - name: lirikp
@@ -69,8 +71,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50742/1.0
 - name: lirikfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/55507/1.0
-- name: lirikpiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67162/1.0
 - name: lirikblind
   src: https://static-cdn.jtvnw.net/emoticons/v1/57723/1.0
 - name: lirikobese
@@ -81,5 +81,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81628/1.0
 - name: lirikscared
   src: https://static-cdn.jtvnw.net/emoticons/v1/73240/1.0
+- name: lirika
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111486/1.0
 - name: lirikpuke
   src: https://static-cdn.jtvnw.net/emoticons/v1/83127/1.0
+- name: lirikclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85991/1.0
+- name: lirikbb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87452/1.0
+- name: lirikohgod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86923/1.0
+- name: lirikloot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89011/1.0
+- name: liriksalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95379/1.0
+- name: lirikpool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103436/1.0
+- name: liriklul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104403/1.0
+- name: lirikog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109208/1.0

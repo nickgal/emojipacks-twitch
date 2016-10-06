@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - trentar
 emojis:
-- name: porsex
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70059/1.0
+- name: porpeace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88259/1.0
 - name: porflu
   src: https://static-cdn.jtvnw.net/emoticons/v1/70093/1.0
 - name: porego
@@ -13,11 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65962/1.0
 - name: porbas
   src: https://static-cdn.jtvnw.net/emoticons/v1/66347/1.0
-- name: portek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64864/1.0
 - name: poray
   src: https://static-cdn.jtvnw.net/emoticons/v1/64865/1.0
 - name: porrock
   src: https://static-cdn.jtvnw.net/emoticons/v1/75819/1.0
 - name: pormer
   src: https://static-cdn.jtvnw.net/emoticons/v1/75816/1.0
+- name: porxes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109139/1.0

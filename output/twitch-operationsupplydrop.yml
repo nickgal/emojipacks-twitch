@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - operationsupplydrop
 emojis:
-- name: osdrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76990/1.0
+- name: osdgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92590/1.0
 - name: osdcoffee
   src: https://static-cdn.jtvnw.net/emoticons/v1/76991/1.0
 - name: osdsalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/82439/1.0
+- name: osdhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94443/1.0
+- name: osdrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94444/1.0
+- name: osdlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94457/1.0

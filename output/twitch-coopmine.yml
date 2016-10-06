@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - coopmine
 emojis:
-- name: ctvgeil
+- name: bibergeil
   src: https://static-cdn.jtvnw.net/emoticons/v1/14143/1.0
-- name: ctvfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14200/1.0
-- name: ctvizendog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14251/1.0
-- name: ctvstreamy
+- name: biberstreamy
   src: https://static-cdn.jtvnw.net/emoticons/v1/14533/1.0
-- name: ctvpingu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23688/1.0
-- name: ctvbina
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23279/1.0
-- name: ctvcoopy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23962/1.0
+- name: biberborke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96883/1.0
+- name: biberherz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96889/1.0
+- name: bibermok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104615/1.0
+- name: bibersalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98939/1.0
+- name: biberraus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109027/1.0
+- name: biberfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109026/1.0

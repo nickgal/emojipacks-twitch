@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83921/1.0
 - name: impgrrlhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/79251/1.0
-- name: impgrrlcookie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79306/1.0
 - name: impgrrllewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/80278/1.0
 - name: impgrrllove
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82550/1.0
 - name: impgrrloops
   src: https://static-cdn.jtvnw.net/emoticons/v1/83316/1.0
+- name: impgrrlcookie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117058/1.0

@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - luckygi
 emojis:
-- name: luckygifeelsbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82572/1.0
-- name: luckygirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65709/1.0
-- name: luckygigasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65708/1.0
-- name: luckygiomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82571/1.0
 - name: luckygino
   src: https://static-cdn.jtvnw.net/emoticons/v1/82574/1.0
-- name: luckygispell
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83122/1.0
+- name: luckygisad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85969/1.0
+- name: luckygigasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85970/1.0
+- name: luckygihappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86063/1.0
+- name: luckygihi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85971/1.0
+- name: luckygicheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85972/1.0

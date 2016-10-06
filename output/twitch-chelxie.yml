@@ -1,12 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - chelxie
 emojis:
+- name: chelxiedoigt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95915/1.0
 - name: chelxieban
   src: https://static-cdn.jtvnw.net/emoticons/v1/52349/1.0
 - name: chelxiedoll
   src: https://static-cdn.jtvnw.net/emoticons/v1/66807/1.0
 - name: chelxieface
   src: https://static-cdn.jtvnw.net/emoticons/v1/66802/1.0
+- name: chelxiefear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95917/1.0
 - name: chelxieoreilles
   src: https://static-cdn.jtvnw.net/emoticons/v1/47792/1.0
 - name: chelxiegogol

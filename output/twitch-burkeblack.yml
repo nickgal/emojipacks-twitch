@@ -1,23 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - burkeblack
 emojis:
-- name: burkeflag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20284/1.0
+- name: burkebooty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103170/1.0
 - name: burkelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/68932/1.0
 - name: burkeomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/70231/1.0
 - name: burkeepic
   src: https://static-cdn.jtvnw.net/emoticons/v1/43528/1.0
+- name: burkewaaagh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99846/1.0
 - name: burkeahoy
   src: https://static-cdn.jtvnw.net/emoticons/v1/68931/1.0
 - name: burkeboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/73187/1.0
-- name: burkeboy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71714/1.0
 - name: burkefire
   src: https://static-cdn.jtvnw.net/emoticons/v1/73188/1.0
-- name: burkepew
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71715/1.0
 - name: burkeship
   src: https://static-cdn.jtvnw.net/emoticons/v1/73189/1.0
+- name: burkemug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86163/1.0
+- name: burkeevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86162/1.0
+- name: burkeboy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100031/1.0
+- name: burkekraken
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105564/1.0
+- name: burkerekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105565/1.0
+- name: burkescumbag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105566/1.0
+- name: burkeyah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105569/1.0
+- name: burkethumbsup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105570/1.0
+- name: burkelass
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110712/1.0
+- name: burkeplank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110713/1.0
+- name: burkeflag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108245/1.0

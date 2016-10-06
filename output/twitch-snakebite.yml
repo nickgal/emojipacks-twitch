@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - snakebite
 emojis:
+- name: snakegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87296/1.0
 - name: snakesub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23847/1.0
-- name: snakeperf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29905/1.0
-- name: snakeclg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29983/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87295/1.0
+- name: snakeog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114184/1.0
 - name: snakecash
   src: https://static-cdn.jtvnw.net/emoticons/v1/84924/1.0
+- name: snake15
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89419/1.0
+- name: snakeholy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89418/1.0
+- name: snakehomie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94435/1.0
+- name: snakeoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94441/1.0

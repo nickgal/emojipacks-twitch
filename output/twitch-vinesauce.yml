@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - vinesauce
 emojis:
-- name: vinegasp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10533/1.0
 - name: vinekappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/12524/1.0
 - name: vinesad
@@ -19,5 +17,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56058/1.0
 - name: vinesponge
   src: https://static-cdn.jtvnw.net/emoticons/v1/53108/1.0
-- name: vinesquid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55140/1.0
+- name: vinesalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89354/1.0
+- name: vineraptor
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91423/1.0
+- name: vinescoot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116075/1.0
+- name: vineescape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116081/1.0
+- name: vinetommy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116083/1.0
+- name: vinechamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116089/1.0

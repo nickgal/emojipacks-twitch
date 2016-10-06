@@ -71,12 +71,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/26097/1.0
 - name: xanderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/26107/1.0
-- name: xantired
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27158/1.0
-- name: xanflex
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27718/1.0
-- name: xanfegg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28942/1.0
 - name: xanup
   src: https://static-cdn.jtvnw.net/emoticons/v1/8122/1.0
 - name: xandown
@@ -87,3 +81,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/8125/1.0
 - name: xano
   src: https://static-cdn.jtvnw.net/emoticons/v1/80800/1.0
+- name: xanp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97478/1.0

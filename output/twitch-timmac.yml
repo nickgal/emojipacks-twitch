@@ -3,16 +3,12 @@ title: Twitch Subscriber Emotes - timmac
 emojis:
 - name: timmacf
   src: https://static-cdn.jtvnw.net/emoticons/v1/23471/1.0
-- name: timmacw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22296/1.0
 - name: timmacp
   src: https://static-cdn.jtvnw.net/emoticons/v1/22308/1.0
 - name: timmact
   src: https://static-cdn.jtvnw.net/emoticons/v1/22441/1.0
 - name: timmacrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/28882/1.0
-- name: timmacs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31878/1.0
 - name: timmacb
   src: https://static-cdn.jtvnw.net/emoticons/v1/31882/1.0
 - name: timmach
@@ -31,13 +27,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61113/1.0
 - name: timmacten
   src: https://static-cdn.jtvnw.net/emoticons/v1/64387/1.0
-- name: timmacgift
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77051/1.0
-- name: timmacross
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70655/1.0
 - name: timmack
   src: https://static-cdn.jtvnw.net/emoticons/v1/71655/1.0
 - name: timmaccringe
   src: https://static-cdn.jtvnw.net/emoticons/v1/70656/1.0
 - name: timmacblind
   src: https://static-cdn.jtvnw.net/emoticons/v1/70039/1.0
+- name: timmaclul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104047/1.0
+- name: timmactu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104777/1.0
+- name: timmachi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91399/1.0
+- name: timmacfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109925/1.0

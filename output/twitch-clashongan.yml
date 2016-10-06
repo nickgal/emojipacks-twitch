@@ -1,17 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - clashongan
 emojis:
-- name: ganfreeze
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16905/1.0
 - name: ganhammer
   src: https://static-cdn.jtvnw.net/emoticons/v1/16234/1.0
-- name: gangem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16354/1.0
-- name: gansub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16924/1.0
-- name: ganbomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17491/1.0
-- name: ganjames
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17776/1.0
-- name: ganfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20423/1.0
+- name: ganchest
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87683/1.0
+- name: gantv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99370/1.0
+- name: ganhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98914/1.0

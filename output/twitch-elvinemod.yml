@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - elvinemod
 emojis:
 - name: datpinkgnome
   src: https://static-cdn.jtvnw.net/emoticons/v1/1235/1.0
-- name: datdealwithit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2799/1.0
-- name: datpinkwig
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4590/1.0
 - name: datbibble
   src: https://static-cdn.jtvnw.net/emoticons/v1/2818/1.0
 - name: datgold
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27709/1.0
 - name: dathype
   src: https://static-cdn.jtvnw.net/emoticons/v1/27827/1.0
+- name: datlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103233/1.0
+- name: datthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103489/1.0

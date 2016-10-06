@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - baastizockt
 emojis:
-- name: bombaastic2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42203/1.0
-- name: bombaastic1
+- name: baasti2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88966/1.0
+- name: baasti1
   src: https://static-cdn.jtvnw.net/emoticons/v1/40158/1.0
-- name: bombaastic3
+- name: baasti3
   src: https://static-cdn.jtvnw.net/emoticons/v1/44202/1.0
-- name: bombaastic4
+- name: baasti4
   src: https://static-cdn.jtvnw.net/emoticons/v1/44203/1.0
+- name: baastisad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88907/1.0
+- name: baastihappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88908/1.0
+- name: baastisleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91738/1.0
+- name: baastiparty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91739/1.0

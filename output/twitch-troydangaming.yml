@@ -3,26 +3,22 @@ title: Twitch Subscriber Emotes - troydangaming
 emojis:
 - name: troydanhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/33338/1.0
+- name: troydanwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102297/1.0
 - name: troydanfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/53770/1.0
-- name: troydan1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16474/1.0
 - name: troydanrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/17271/1.0
 - name: troydanbutton
   src: https://static-cdn.jtvnw.net/emoticons/v1/19565/1.0
 - name: troydanheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/21945/1.0
+- name: troydancringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102296/1.0
 - name: troydansmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/67828/1.0
 - name: troydanshh
   src: https://static-cdn.jtvnw.net/emoticons/v1/38524/1.0
-- name: troydanwhy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48572/1.0
-- name: troydannah
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77996/1.0
-- name: troydanyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77995/1.0
 - name: troydangasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/77994/1.0
 - name: troydanpoop
@@ -39,5 +35,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75742/1.0
 - name: troydanderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/78337/1.0
-- name: troydandayum
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79261/1.0
+- name: troydan1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106807/1.0
+- name: troydanshook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104250/1.0
+- name: troydangreen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114958/1.0

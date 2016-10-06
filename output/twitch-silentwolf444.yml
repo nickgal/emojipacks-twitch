@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - silentwolf444
 emojis:
 - name: swolffox
   src: https://static-cdn.jtvnw.net/emoticons/v1/64082/1.0
-- name: swolftice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64084/1.0
 - name: swolfsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/64081/1.0
 - name: swolfgoofy
   src: https://static-cdn.jtvnw.net/emoticons/v1/64274/1.0
+- name: swolfcringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93640/1.0
+- name: swolfw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93641/1.0
+- name: swolfnug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97318/1.0

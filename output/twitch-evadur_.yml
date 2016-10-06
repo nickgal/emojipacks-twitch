@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - evadur_
 emojis:
-- name: evadursub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18561/1.0
 - name: evadurpup
   src: https://static-cdn.jtvnw.net/emoticons/v1/18764/1.0
 - name: evadurgoat
   src: https://static-cdn.jtvnw.net/emoticons/v1/19502/1.0
-- name: evadurbk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20270/1.0
+- name: evadurchoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103315/1.0
+- name: evadurf343
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103316/1.0
+- name: evadurfronk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104427/1.0
+- name: evadurtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106993/1.0

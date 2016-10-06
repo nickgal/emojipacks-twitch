@@ -1,15 +1,31 @@
 ---
 title: Twitch Subscriber Emotes - monkeyonstrike
 emojis:
-- name: mosc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62209/1.0
+- name: mosz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92878/1.0
+- name: mosd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92882/1.0
+- name: moso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92883/1.0
 - name: mosm
   src: https://static-cdn.jtvnw.net/emoticons/v1/62210/1.0
-- name: mosh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64030/1.0
-- name: mosl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63730/1.0
-- name: mosx
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62155/1.0
 - name: mosb
   src: https://static-cdn.jtvnw.net/emoticons/v1/67574/1.0
+- name: mosw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86302/1.0
+- name: mosa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92873/1.0
+- name: mosl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92876/1.0
+- name: mosc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92875/1.0
+- name: mosh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92877/1.0
+- name: mosu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92879/1.0
+- name: mosp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92880/1.0
+- name: mosx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92881/1.0
+- name: mosy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97364/1.0

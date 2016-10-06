@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - osiris_xf
 emojis:
+- name: osirisrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88801/1.0
 - name: osirishype
   src: https://static-cdn.jtvnw.net/emoticons/v1/84202/1.0
 - name: osirisrage

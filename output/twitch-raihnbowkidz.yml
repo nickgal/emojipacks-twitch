@@ -3,21 +3,21 @@ title: Twitch Subscriber Emotes - raihnbowkidz
 emojis:
 - name: raihnhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/35387/1.0
-- name: raihnblitz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52353/1.0
 - name: raihnbird
   src: https://static-cdn.jtvnw.net/emoticons/v1/32465/1.0
 - name: raihnw
   src: https://static-cdn.jtvnw.net/emoticons/v1/32466/1.0
-- name: raihnkek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67210/1.0
-- name: raihnrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67314/1.0
 - name: raihnhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/67316/1.0
-- name: raihnthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67334/1.0
 - name: raihnwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/78088/1.0
 - name: raihngasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/78087/1.0
+- name: raihndad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94470/1.0
+- name: raihnthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105645/1.0
+- name: raihnblitz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105646/1.0
+- name: raihngive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105647/1.0

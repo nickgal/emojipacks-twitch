@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - low5ive
 emojis:
 - name: low5love
   src: https://static-cdn.jtvnw.net/emoticons/v1/72447/1.0
-- name: low5team
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72426/1.0
-- name: low5santa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75058/1.0
 - name: low5mod
   src: https://static-cdn.jtvnw.net/emoticons/v1/72544/1.0
 - name: low5buddy
   src: https://static-cdn.jtvnw.net/emoticons/v1/72543/1.0
+- name: low5creep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99817/1.0
+- name: low5poop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99814/1.0
+- name: low5gasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99812/1.0
 - name: low5kappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/72185/1.0
 - name: low5heyguys
   src: https://static-cdn.jtvnw.net/emoticons/v1/78217/1.0
-- name: low5wow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78215/1.0
+- name: low5angle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85839/1.0
+- name: low5r
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86984/1.0

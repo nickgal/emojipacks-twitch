@@ -3,19 +3,21 @@ title: Twitch Subscriber Emotes - sissorstream
 emojis:
 - name: luxcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/33107/1.0
-- name: luxfrech
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28694/1.0
-- name: luxnotbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33114/1.0
 - name: luxwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/29729/1.0
 - name: luxpretty
   src: https://static-cdn.jtvnw.net/emoticons/v1/29728/1.0
-- name: luxhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29727/1.0
-- name: luxkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44434/1.0
-- name: luxdachs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51980/1.0
+- name: luxcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98247/1.0
+- name: luxtroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98255/1.0
+- name: luxrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98254/1.0
+- name: luxlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98253/1.0
 - name: luxhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76001/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98252/1.0
+- name: luxhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98250/1.0
+- name: luxfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98249/1.0

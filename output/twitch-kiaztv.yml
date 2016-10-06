@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - kiaztv
 emojis:
-- name: kiazkiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83333/1.0
-- name: kiazorc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83055/1.0
 - name: kiazsuit
   src: https://static-cdn.jtvnw.net/emoticons/v1/83121/1.0
 - name: kiazchamp
@@ -13,3 +9,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84044/1.0
 - name: kiazcreepy
   src: https://static-cdn.jtvnw.net/emoticons/v1/83242/1.0
+- name: kiazrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95003/1.0
+- name: kiazgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95557/1.0

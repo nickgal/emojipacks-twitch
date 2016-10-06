@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - 2easy
 emojis:
-- name: eazytbag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57948/1.0
-- name: eazycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57949/1.0
+- name: eazyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105716/1.0
+- name: eazylul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102665/1.0
+- name: eazyfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102458/1.0
+- name: eazymoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105693/1.0

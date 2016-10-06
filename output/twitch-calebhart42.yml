@@ -1,30 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - calebhart42
 emojis:
-- name: calebrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4278/1.0
-- name: calebsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5335/1.0
-- name: calebhart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4721/1.0
-- name: calebpb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23130/1.0
 - name: calebfix
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23466/1.0
-- name: calebthebeast
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9416/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90945/1.0
 - name: calebjug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13926/1.0
-- name: calebchoke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15292/1.0
-- name: calebiris
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74754/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90946/1.0
+- name: calebpb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90947/1.0
 - name: calebrek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23465/1.0
-- name: calebkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23004/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90948/1.0
 - name: calebrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24293/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90949/1.0
 - name: calebflexl
   src: https://static-cdn.jtvnw.net/emoticons/v1/35935/1.0
 - name: calebflexr
@@ -33,9 +19,25 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46895/1.0
 - name: calebbop
   src: https://static-cdn.jtvnw.net/emoticons/v1/74641/1.0
-- name: calebcore
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74751/1.0
-- name: calebonemore
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74752/1.0
 - name: calebfree
   src: https://static-cdn.jtvnw.net/emoticons/v1/75461/1.0
+- name: caleb4head
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109581/1.0
+- name: calebrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108150/1.0
+- name: calebkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108149/1.0
+- name: calebhart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108136/1.0
+- name: calebiris
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104364/1.0
+- name: calebcore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109789/1.0
+- name: calebchoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110310/1.0
+- name: calebthebeast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109931/1.0
+- name: calebsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109382/1.0
+- name: calebduck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109381/1.0

@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/12988/1.0
 - name: utorage
   src: https://static-cdn.jtvnw.net/emoticons/v1/34586/1.0
-- name: utonice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35238/1.0
 - name: utosub
   src: https://static-cdn.jtvnw.net/emoticons/v1/35234/1.0
 - name: utohi
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35231/1.0
 - name: utopalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/37234/1.0
+- name: utoheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103647/1.0

@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - mmoboom_ru
 emojis:
-- name: dwarfmage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72804/1.0
-- name: dwarfdream
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68344/1.0
-- name: dwarfmlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72835/1.0
-- name: dwarfskill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67488/1.0
+- name: dwarfcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96024/1.0
 - name: dwarfhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/72209/1.0
+- name: dwarfpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102672/1.0
+- name: dwarflol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96022/1.0
+- name: dwarfgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86165/1.0
+- name: dwarfheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92780/1.0
 - name: dwarfrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72793/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111983/1.0
+- name: dwarfrofl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111969/1.0

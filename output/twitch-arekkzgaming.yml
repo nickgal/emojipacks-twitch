@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - arekkzgaming
 emojis:
-- name: arekkzengram
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61346/1.0
-- name: arekkzbane
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54797/1.0
-- name: arekkzrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59691/1.0
-- name: arekkzbaldpower
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59692/1.0
-- name: arekkzpowerup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61347/1.0
+- name: arekkzrogue
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88398/1.0
+- name: arekkzhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100283/1.0
 - name: arekkzhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61345/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100284/1.0
+- name: arekkzsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100285/1.0
+- name: arekkzrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100286/1.0
+- name: arekkzfacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/100287/1.0

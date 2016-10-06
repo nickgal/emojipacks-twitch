@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - hazardousmouse
 emojis:
-- name: hazmorekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75570/1.0
-- name: hazmowin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77985/1.0
 - name: hazmomlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75619/1.0
-- name: hazmowat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77218/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87853/1.0
+- name: hazmoheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104294/1.0
+- name: hazmoten
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104295/1.0
+- name: hazmoloot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104296/1.0
+- name: hazmohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104297/1.0
+- name: hazmorekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104308/1.0

@@ -3,11 +3,17 @@ title: Twitch Subscriber Emotes - jummychu
 emojis:
 - name: jumbless
   src: https://static-cdn.jtvnw.net/emoticons/v1/15091/1.0
-- name: jumboner
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15144/1.0
-- name: jumpoo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31406/1.0
 - name: jumw
   src: https://static-cdn.jtvnw.net/emoticons/v1/83385/1.0
 - name: jumsexy
   src: https://static-cdn.jtvnw.net/emoticons/v1/82667/1.0
+- name: jumsup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93277/1.0
+- name: jumthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/93276/1.0
+- name: jumtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101369/1.0
+- name: jumdank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101370/1.0
+- name: jumhard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114414/1.0

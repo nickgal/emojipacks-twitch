@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - jplays
 emojis:
 - name: jipdangit
   src: https://static-cdn.jtvnw.net/emoticons/v1/76518/1.0
-- name: jipkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76520/1.0
-- name: jipsalut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76521/1.0
+- name: jipwin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90099/1.0
 - name: jipohboi
   src: https://static-cdn.jtvnw.net/emoticons/v1/78880/1.0
 - name: jiphype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78879/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90098/1.0
 - name: jipheippa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78878/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90100/1.0
+- name: jipfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90101/1.0

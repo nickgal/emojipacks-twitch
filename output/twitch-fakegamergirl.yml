@@ -7,6 +7,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81445/1.0
 - name: fakeggwine
   src: https://static-cdn.jtvnw.net/emoticons/v1/81566/1.0
+- name: fakeggbird
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88731/1.0
+- name: fakeggjury
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89975/1.0
+- name: fakeggpol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90016/1.0
+- name: fakeggice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90017/1.0
 - name: fakeggcurse
   src: https://static-cdn.jtvnw.net/emoticons/v1/81567/1.0
 - name: fakegghype

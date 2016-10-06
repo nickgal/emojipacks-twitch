@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - smkgaming05
 emojis:
-- name: smkchu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17240/1.0
-- name: smkcyn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17694/1.0
 - name: smkparty
   src: https://static-cdn.jtvnw.net/emoticons/v1/37912/1.0
 - name: smkhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/65886/1.0
-- name: smkrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45129/1.0
-- name: smkkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45120/1.0
 - name: smkshiny
   src: https://static-cdn.jtvnw.net/emoticons/v1/45119/1.0
-- name: smkreal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45118/1.0
+- name: smkchu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90064/1.0
+- name: smklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90062/1.0
+- name: smkpew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90061/1.0
+- name: smkrigged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90063/1.0
+- name: smkluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89451/1.0
+- name: smkfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101528/1.0
+- name: smkrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101532/1.0

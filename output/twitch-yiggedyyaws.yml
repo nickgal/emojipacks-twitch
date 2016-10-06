@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - yiggedyyaws
 emojis:
-- name: yawsmill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66258/1.0
-- name: yawsezkatka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65954/1.0
-- name: yawsyaws
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65317/1.0
-- name: yawssurround
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72909/1.0
+- name: yawsv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95857/1.0
+- name: yawsc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95856/1.0
+- name: yawsez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96807/1.0
+- name: yawsk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96699/1.0
+- name: yawshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104131/1.0
+- name: yawsargh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104132/1.0

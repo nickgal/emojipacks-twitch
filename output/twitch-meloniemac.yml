@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - meloniemac
 emojis:
-- name: macdd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64055/1.0
-- name: macdtrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34296/1.0
-- name: macdget
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64059/1.0
-- name: macdf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64058/1.0
-- name: macdhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64057/1.0
 - name: macdrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64056/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106283/1.0
+- name: macdsmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106281/1.0
+- name: macdluv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106282/1.0
+- name: macdget
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95474/1.0
+- name: macdzoe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95475/1.0
+- name: macdcoletrain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95477/1.0
+- name: macdpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106286/1.0
+- name: macdhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106284/1.0

@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - meleeman777
 emojis:
-- name: meleebomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15781/1.0
-- name: meleeriot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70334/1.0
-- name: meleew
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70330/1.0
 - name: meleegasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70328/1.0
-- name: meleemath
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70326/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89903/1.0
+- name: meleecry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89902/1.0
+- name: meleeconcede
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89901/1.0
 - name: meleewtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49182/1.0
-- name: meleetima
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70702/1.0
-- name: melee505
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70703/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89759/1.0
+- name: meleebomb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89757/1.0
+- name: meleepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89756/1.0
+- name: meleechsv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89754/1.0
+- name: meleehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89760/1.0

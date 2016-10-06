@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - tacticaipotato
 emojis:
-- name: tachello
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81692/1.0
-- name: tacdataim
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81693/1.0
+- name: tacrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87268/1.0
+- name: tacrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108112/1.0
+- name: taclove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108109/1.0
+- name: tacfacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110026/1.0
+- name: tacrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110002/1.0
+- name: taccry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110003/1.0

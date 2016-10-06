@@ -19,6 +19,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/85355/1.0
 - name: nikowhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/85372/1.0
+- name: nikoc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86392/1.0
+- name: nikogot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86390/1.0
+- name: nikoameno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86387/1.0
 - name: nikorip
   src: https://static-cdn.jtvnw.net/emoticons/v1/53234/1.0
 - name: nikovac
@@ -29,8 +35,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/85371/1.0
 - name: nikoace
   src: https://static-cdn.jtvnw.net/emoticons/v1/82705/1.0
-- name: nikoh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82704/1.0
 - name: nikosit
   src: https://static-cdn.jtvnw.net/emoticons/v1/82701/1.0
 - name: nikoj
@@ -39,5 +43,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82582/1.0
 - name: nikoscript
   src: https://static-cdn.jtvnw.net/emoticons/v1/85358/1.0
+- name: nikoban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86641/1.0
 - name: nikoh
   src: https://static-cdn.jtvnw.net/emoticons/v1/85357/1.0
+- name: nikosap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/86642/1.0
+- name: nikosweet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85725/1.0

@@ -1,13 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - m00sician
 emojis:
-- name: chrswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77047/1.0
+- name: chrchick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104701/1.0
+- name: chrsubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108883/1.0
 - name: chrthumb
   src: https://static-cdn.jtvnw.net/emoticons/v1/77078/1.0
 - name: chrqueen
   src: https://static-cdn.jtvnw.net/emoticons/v1/77080/1.0
-- name: chrheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82107/1.0
-- name: chrhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82095/1.0
+- name: chrhype2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108882/1.0
+- name: chrhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97119/1.0
+- name: chrpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101397/1.0

@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - gogettao
 emojis:
+- name: gogcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99346/1.0
+- name: goghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99345/1.0
+- name: gograge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99342/1.0
+- name: goglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99343/1.0
 - name: goggg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83831/1.0
-- name: gogbreja
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83830/1.0
-- name: gogkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81362/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99344/1.0
 - name: gogmadeira
   src: https://static-cdn.jtvnw.net/emoticons/v1/81363/1.0
-- name: gogkuririn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81974/1.0
 - name: gogpinou
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81973/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99371/1.0
+- name: gogkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99372/1.0

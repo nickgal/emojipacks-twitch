@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - codibear
 emojis:
-- name: codiscare
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64622/1.0
 - name: codishock
   src: https://static-cdn.jtvnw.net/emoticons/v1/63792/1.0
 - name: codik
   src: https://static-cdn.jtvnw.net/emoticons/v1/66693/1.0
 - name: codihug
   src: https://static-cdn.jtvnw.net/emoticons/v1/80154/1.0
+- name: codihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/112071/1.0

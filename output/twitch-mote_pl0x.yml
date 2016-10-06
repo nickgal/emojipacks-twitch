@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mote_pl0x
 emojis:
-- name: motewhy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51574/1.0
-- name: motebald
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60590/1.0
 - name: motesub
   src: https://static-cdn.jtvnw.net/emoticons/v1/60593/1.0
 - name: motechamp

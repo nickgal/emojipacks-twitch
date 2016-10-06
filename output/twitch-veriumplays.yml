@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - veriumplays
 emojis:
+- name: veriumkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95924/1.0
 - name: veriumschwitzt
   src: https://static-cdn.jtvnw.net/emoticons/v1/39416/1.0
 - name: veriumgeldgeil

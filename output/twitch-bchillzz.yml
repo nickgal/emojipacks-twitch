@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - bchillzz
 emojis:
 - name: bchillyerdead
   src: https://static-cdn.jtvnw.net/emoticons/v1/18202/1.0
-- name: bchillwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80200/1.0
-- name: bchillbank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80450/1.0
+- name: bchillvac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94913/1.0
 - name: bchilldeep
   src: https://static-cdn.jtvnw.net/emoticons/v1/80204/1.0
-- name: bchillp250
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80206/1.0
 - name: bchillraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/80477/1.0
 - name: bchillpeace
   src: https://static-cdn.jtvnw.net/emoticons/v1/80471/1.0
+- name: bchilljuice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95404/1.0
+- name: bchilltube
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95525/1.0
 - name: bchillc4
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80886/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95526/1.0
+- name: bchilldrunk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98705/1.0
+- name: bchilllogo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/98702/1.0

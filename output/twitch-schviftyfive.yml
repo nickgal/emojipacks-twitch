@@ -1,21 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - schviftyfive
 emojis:
-- name: sh55fail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62849/1.0
 - name: sh55ew
   src: https://static-cdn.jtvnw.net/emoticons/v1/66740/1.0
+- name: sh55creep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88413/1.0
+- name: sh55mom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88417/1.0
+- name: sh55love
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88416/1.0
 - name: sh55hi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74355/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88415/1.0
+- name: sh55s
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88414/1.0
 - name: sh55o
   src: https://static-cdn.jtvnw.net/emoticons/v1/74393/1.0
-- name: sh55dog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74335/1.0
-- name: sh55kappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74336/1.0
-- name: sh55love
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79894/1.0
+- name: sh55why
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92004/1.0
+- name: sh55fail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92003/1.0
+- name: sh55pls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92002/1.0
+- name: sh55reddit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92001/1.0
+- name: sh55bye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92000/1.0
 - name: sh55y
   src: https://static-cdn.jtvnw.net/emoticons/v1/85069/1.0
 - name: sh55hype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85065/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88508/1.0
+- name: sh55onion
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88571/1.0
+- name: sh55rip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111088/1.0
+- name: sh55rage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111087/1.0
+- name: sh55tate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111086/1.0
+- name: sh55lurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111085/1.0
+- name: sh55gasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111084/1.0

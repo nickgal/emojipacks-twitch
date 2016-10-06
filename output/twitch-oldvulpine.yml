@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - oldvulpine
 emojis:
-- name: oldfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68896/1.0
 - name: old3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78786/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114715/1.0
+- name: oldblind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114716/1.0
+- name: oldbruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114717/1.0
 - name: oldchomp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51384/1.0
-- name: oldteef
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51386/1.0
-- name: oldhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51964/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114718/1.0
+- name: oldfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114719/1.0
 - name: oldlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54727/1.0
-- name: oldspice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72302/1.0
-- name: oldgood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72301/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114720/1.0
 - name: oldsick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78787/1.0
-- name: olddipe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81931/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114721/1.0
+- name: oldspoop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114722/1.0
+- name: oldteef
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114723/1.0
+- name: oldthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114724/1.0

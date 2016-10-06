@@ -3,14 +3,16 @@ title: Twitch Subscriber Emotes - cuda87
 emojis:
 - name: cudagotem
   src: https://static-cdn.jtvnw.net/emoticons/v1/75931/1.0
-- name: cudaraid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75986/1.0
-- name: cudahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75985/1.0
+- name: cudapotato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/91983/1.0
 - name: cudanova
   src: https://static-cdn.jtvnw.net/emoticons/v1/75991/1.0
+- name: cudaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101633/1.0
 - name: cudablind
   src: https://static-cdn.jtvnw.net/emoticons/v1/76899/1.0
+- name: cudaraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94104/1.0
 - name: cudah
   src: https://static-cdn.jtvnw.net/emoticons/v1/76105/1.0
 - name: cudahmvp
@@ -19,3 +21,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78612/1.0
 - name: cudamhm
   src: https://static-cdn.jtvnw.net/emoticons/v1/79019/1.0
+- name: cudastare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87679/1.0
+- name: cudanlt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/95387/1.0
+- name: cudahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/114954/1.0
+- name: cudagasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116401/1.0

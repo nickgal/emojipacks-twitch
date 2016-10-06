@@ -1,9 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - kaeyoh
 emojis:
-- name: kaekeys
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50368/1.0
-- name: kaeglove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57097/1.0
-- name: kaetheo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58610/1.0
+- name: kaetear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104890/1.0
+- name: kaecfiesta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106379/1.0
+- name: kaew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104321/1.0
+- name: kaefocus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108978/1.0
+- name: kaecore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108979/1.0
+- name: kaewow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/110099/1.0
+- name: kaekai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/111370/1.0

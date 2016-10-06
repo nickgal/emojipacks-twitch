@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - sjow
 emojis:
 - name: sjow420
   src: https://static-cdn.jtvnw.net/emoticons/v1/18362/1.0
-- name: sjowgrill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20540/1.0
 - name: sjowclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/24361/1.0
 - name: sjowhappythump
@@ -17,7 +15,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45509/1.0
 - name: sjowwaifu
   src: https://static-cdn.jtvnw.net/emoticons/v1/47365/1.0
+- name: sjowbald
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116419/1.0
 - name: sjowpride
   src: https://static-cdn.jtvnw.net/emoticons/v1/61496/1.0
 - name: sjowdumpster
   src: https://static-cdn.jtvnw.net/emoticons/v1/79010/1.0
+- name: sjowbrokeback
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116415/1.0
+- name: sjowsillygoose
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116449/1.0
+- name: sjowo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116476/1.0
+- name: sjowweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116323/1.0
+- name: sjowe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/113958/1.0
+- name: sjowfak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116738/1.0

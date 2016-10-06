@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - luigidragon
 emojis:
-- name: padaids
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55576/1.0
-- name: padchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55577/1.0
+- name: padharambe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108678/1.0
+- name: padbich
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108611/1.0
+- name: padhappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109660/1.0
+- name: padkys
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109661/1.0

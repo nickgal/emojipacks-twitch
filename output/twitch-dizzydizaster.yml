@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - dizzydizaster
 emojis:
-- name: dizasterlogo
+- name: dizhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105392/1.0
+- name: dizgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/105393/1.0
+- name: dizlogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/8040/1.0
-- name: dizastersmugpug
+- name: dizsmugpug
   src: https://static-cdn.jtvnw.net/emoticons/v1/11520/1.0
-- name: dizasterpug
+- name: dizpug
   src: https://static-cdn.jtvnw.net/emoticons/v1/8039/1.0
-- name: dizastergecko
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11523/1.0
-- name: dizastercap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14096/1.0
-- name: dizasterraid
+- name: dizraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/22774/1.0
-- name: dizasterboom
+- name: dizboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/22775/1.0
-- name: dizasterchest
+- name: dizchest
   src: https://static-cdn.jtvnw.net/emoticons/v1/33189/1.0
-- name: dizasterglom
+- name: dizglom
   src: https://static-cdn.jtvnw.net/emoticons/v1/33188/1.0
-- name: dizasterkek
+- name: dizkek
   src: https://static-cdn.jtvnw.net/emoticons/v1/65165/1.0

@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - theblairforce
 emojis:
-- name: tbfbows
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75372/1.0
-- name: tbfches
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75373/1.0
-- name: tbfhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75366/1.0
+- name: tbfangel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102203/1.0
 - name: tbflove
   src: https://static-cdn.jtvnw.net/emoticons/v1/75367/1.0
-- name: tbfgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75368/1.0
 - name: tbfrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/75369/1.0
+- name: tbfbows
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104040/1.0
+- name: tbfdevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/102266/1.0
+- name: tbfchess
+  src: https://static-cdn.jtvnw.net/emoticons/v1/104039/1.0

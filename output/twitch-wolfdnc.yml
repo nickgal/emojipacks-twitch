@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - wolfdnc
 emojis:
+- name: wdnc00
+  src: https://static-cdn.jtvnw.net/emoticons/v1/108764/1.0
 - name: wdncsup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53789/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115105/1.0
+- name: wdncjesus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115104/1.0
 - name: wdncpollo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53887/1.0
-- name: wdncs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56462/1.0
-- name: wdnct
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59357/1.0
-- name: wdncreyna
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53806/1.0
-- name: wdncbryan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53990/1.0
-- name: wdnceddy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57441/1.0
-- name: wdnchype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58640/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115103/1.0
+- name: wdncr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/88198/1.0
+- name: wdnclove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115102/1.0
+- name: wdncdied
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116109/1.0
+- name: wdncdream
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116111/1.0

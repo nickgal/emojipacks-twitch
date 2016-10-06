@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - missesmae
 emojis:
-- name: maeteam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77547/1.0
 - name: maeswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/16457/1.0
-- name: maekittymeowmeow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31264/1.0
-- name: maephil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59783/1.0
 - name: maetoodeep
   src: https://static-cdn.jtvnw.net/emoticons/v1/59787/1.0
 - name: maeniac
@@ -17,7 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81062/1.0
 - name: maerage
   src: https://static-cdn.jtvnw.net/emoticons/v1/82147/1.0
-- name: maelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82978/1.0
 - name: maerekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/82982/1.0
+- name: maemynn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92890/1.0
+- name: maecat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101636/1.0
+- name: maesuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/99364/1.0
+- name: maelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/109948/1.0

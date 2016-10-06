@@ -1,10 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - zilverk
 emojis:
-- name: zilpenoso
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66182/1.0
-- name: zilvisto
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66074/1.0
+- name: zilrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97899/1.0
 - name: zilsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/66079/1.0
 - name: zilgasm
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70531/1.0
 - name: zillove
   src: https://static-cdn.jtvnw.net/emoticons/v1/70615/1.0
+- name: zilhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/97835/1.0
+- name: zilbironga
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106044/1.0
+- name: zilvisto
+  src: https://static-cdn.jtvnw.net/emoticons/v1/106032/1.0

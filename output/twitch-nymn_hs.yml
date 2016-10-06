@@ -3,21 +3,31 @@ title: Twitch Subscriber Emotes - nymn_hs
 emojis:
 - name: nymnree
   src: https://static-cdn.jtvnw.net/emoticons/v1/69541/1.0
-- name: nymnh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73514/1.0
 - name: nymnw
   src: https://static-cdn.jtvnw.net/emoticons/v1/62338/1.0
 - name: nymndank
   src: https://static-cdn.jtvnw.net/emoticons/v1/66236/1.0
-- name: nymnsmug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80027/1.0
 - name: nymnc
   src: https://static-cdn.jtvnw.net/emoticons/v1/63891/1.0
 - name: nymnr
   src: https://static-cdn.jtvnw.net/emoticons/v1/84624/1.0
-- name: nymngun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63896/1.0
 - name: nymnxaxa
   src: https://static-cdn.jtvnw.net/emoticons/v1/63890/1.0
-- name: nymncringe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72071/1.0
+- name: nymnb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96002/1.0
+- name: nymnsmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96304/1.0
+- name: nymncry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96308/1.0
+- name: nymnbenis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96253/1.0
+- name: nymngasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96254/1.0
+- name: nymnxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96011/1.0
+- name: nymngun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96006/1.0
+- name: nymnh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96255/1.0
+- name: nymnpuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/96005/1.0

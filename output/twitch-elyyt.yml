@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - elyyt
 emojis:
-- name: elyytlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74634/1.0
 - name: elyytlit
   src: https://static-cdn.jtvnw.net/emoticons/v1/76509/1.0
+- name: elyytnation
+  src: https://static-cdn.jtvnw.net/emoticons/v1/103172/1.0
+- name: elyytface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/92430/1.0
 - name: elyytriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/75621/1.0
 - name: elyytgoal
   src: https://static-cdn.jtvnw.net/emoticons/v1/79148/1.0
+- name: elyytlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/87254/1.0
 - name: elyytea
   src: https://static-cdn.jtvnw.net/emoticons/v1/73968/1.0
 - name: elyythype
   src: https://static-cdn.jtvnw.net/emoticons/v1/73952/1.0
-- name: elyytface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79509/1.0
-- name: elyytlag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85055/1.0

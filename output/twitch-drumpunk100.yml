@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - drumpunk100
 emojis:
-- name: drumrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82479/1.0
 - name: drumhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/82477/1.0
 - name: drumlove
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82823/1.0
 - name: drumthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/82824/1.0
+- name: drumrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/90859/1.0

@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - missconfidence
 emojis:
 - name: misscpao
   src: https://static-cdn.jtvnw.net/emoticons/v1/55520/1.0
-- name: missctnmc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74647/1.0
+- name: misscthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85846/1.0
+- name: misscwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85844/1.0
+- name: misscpistola
+  src: https://static-cdn.jtvnw.net/emoticons/v1/85830/1.0

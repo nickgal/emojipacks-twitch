@@ -1,10 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - s2jfalcon
 emojis:
-- name: s2jug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66239/1.0
+- name: s2jw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/89029/1.0
 - name: s2jsmirk
   src: https://static-cdn.jtvnw.net/emoticons/v1/66554/1.0
+- name: s2jpunch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94823/1.0
 - name: s2johnnystock
   src: https://static-cdn.jtvnw.net/emoticons/v1/66251/1.0
 - name: s2jedgeguard
@@ -12,4 +14,6 @@ emojis:
 - name: s2jmysterious
   src: https://static-cdn.jtvnw.net/emoticons/v1/68525/1.0
 - name: s2jknee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74934/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/101066/1.0
+- name: s2jbanger
+  src: https://static-cdn.jtvnw.net/emoticons/v1/94822/1.0

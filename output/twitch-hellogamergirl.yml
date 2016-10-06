@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64948/1.0
 - name: hellorage
   src: https://static-cdn.jtvnw.net/emoticons/v1/64947/1.0
-- name: hellosub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64946/1.0
 - name: hellolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/64945/1.0
 - name: hellohype
@@ -25,8 +23,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66908/1.0
 - name: hellosig
   src: https://static-cdn.jtvnw.net/emoticons/v1/66909/1.0
-- name: hellobooty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65096/1.0
 - name: helloclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/65107/1.0
 - name: helloten
