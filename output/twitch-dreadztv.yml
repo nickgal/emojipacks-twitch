@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/20665/1.0
 - name: huisvch
   src: https://static-cdn.jtvnw.net/emoticons/v1/20666/1.0
-- name: huixboct
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20667/1.0
 - name: huicash
   src: https://static-cdn.jtvnw.net/emoticons/v1/91473/1.0
 - name: huilev
@@ -25,3 +23,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/87532/1.0
 - name: huikpac
   src: https://static-cdn.jtvnw.net/emoticons/v1/88668/1.0
+- name: hui25
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125241/1.0
+- name: huisobr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125240/1.0

@@ -57,3 +57,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/90755/1.0
 - name: foodbacon
   src: https://static-cdn.jtvnw.net/emoticons/v1/92904/1.0
+- name: foodtest
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125586/1.0

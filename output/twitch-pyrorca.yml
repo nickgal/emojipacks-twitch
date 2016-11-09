@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - pyrorca
 emojis:
 - name: pyromg
   src: https://static-cdn.jtvnw.net/emoticons/v1/116548/1.0
+- name: pyropere
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117615/1.0
+- name: pyrrily
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117616/1.0
 - name: pyreflexion
   src: https://static-cdn.jtvnw.net/emoticons/v1/116546/1.0

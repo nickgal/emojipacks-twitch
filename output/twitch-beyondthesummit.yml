@@ -63,14 +63,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/1454/1.0
 - name: bts2merlinis
   src: https://static-cdn.jtvnw.net/emoticons/v1/67904/1.0
-- name: btsaokiw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67906/1.0
 - name: bts4
   src: https://static-cdn.jtvnw.net/emoticons/v1/67905/1.0
 - name: btswaow
   src: https://static-cdn.jtvnw.net/emoticons/v1/67903/1.0
-- name: btsbryanw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67911/1.0
 - name: btsgodzw
   src: https://static-cdn.jtvnw.net/emoticons/v1/67912/1.0
 - name: btskotlw
@@ -79,3 +75,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67914/1.0
 - name: btsmerliniw
   src: https://static-cdn.jtvnw.net/emoticons/v1/67915/1.0
+- name: btsfight
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124156/1.0
+- name: btsding
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124155/1.0

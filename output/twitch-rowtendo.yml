@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - rowtendo
 emojis:
-- name: rowheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37225/1.0
 - name: rowknees
   src: https://static-cdn.jtvnw.net/emoticons/v1/87805/1.0
+- name: rowwhy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117274/1.0
+- name: rowthirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117288/1.0
+- name: rowz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117261/1.0
+- name: rowthinking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117263/1.0
+- name: rowboi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124193/1.0

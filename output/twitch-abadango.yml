@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - abadango
 emojis:
-- name: abapac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55131/1.0
 - name: abamurderface
   src: https://static-cdn.jtvnw.net/emoticons/v1/61998/1.0
 - name: abaknight
   src: https://static-cdn.jtvnw.net/emoticons/v1/71898/1.0
 - name: abagamble
   src: https://static-cdn.jtvnw.net/emoticons/v1/82329/1.0
+- name: abamewtwo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119130/1.0
+- name: abalg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122559/1.0
+- name: abashadowball
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124787/1.0

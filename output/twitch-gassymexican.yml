@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/6487/1.0
 - name: gassykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/30882/1.0
-- name: gassybro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46910/1.0
 - name: gassyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/46911/1.0
 - name: gassyrekt
@@ -33,3 +31,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97044/1.0
 - name: gassyoh
   src: https://static-cdn.jtvnw.net/emoticons/v1/104412/1.0
+- name: gassybro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121735/1.0

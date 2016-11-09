@@ -1,20 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - diabetech
 emojis:
-- name: diad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18191/1.0
 - name: diagasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/16979/1.0
 - name: diafail
   src: https://static-cdn.jtvnw.net/emoticons/v1/16324/1.0
-- name: diabeetus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16424/1.0
 - name: diaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/23757/1.0
-- name: diaf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42236/1.0
-- name: diacry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52741/1.0
 - name: diadeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/52740/1.0
 - name: diac
@@ -27,3 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52737/1.0
 - name: dialul
   src: https://static-cdn.jtvnw.net/emoticons/v1/117007/1.0
+- name: dianurse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117500/1.0
+- name: diab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117102/1.0
+- name: diacry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121305/1.0
+- name: diagood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121271/1.0
+- name: diaderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121267/1.0
+- name: diaahh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121364/1.0

@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - soficraft13
 emojis:
-- name: zofyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113524/1.0
-- name: zofycora
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113525/1.0
-- name: zofyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113559/1.0
 - name: zofycry
   src: https://static-cdn.jtvnw.net/emoticons/v1/116624/1.0
+- name: zofyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124854/1.0
+- name: zofyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125667/1.0
+- name: zofylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125666/1.0

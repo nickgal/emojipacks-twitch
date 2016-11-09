@@ -9,9 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89979/1.0
 - name: poropfote3
   src: https://static-cdn.jtvnw.net/emoticons/v1/81722/1.0
-- name: poropfote5
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93678/1.0
-- name: poropfote6
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93679/1.0
 - name: poropfote7
   src: https://static-cdn.jtvnw.net/emoticons/v1/108519/1.0
+- name: poropfoteduden
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118111/1.0
+- name: poropfotemimi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118112/1.0
+- name: poropfotehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118113/1.0

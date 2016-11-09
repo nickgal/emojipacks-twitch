@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - dianaclx
 emojis:
-- name: dclxg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114673/1.0
-- name: dclxlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111678/1.0
 - name: dclxrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/111679/1.0
-- name: dclxpika
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114665/1.0
 - name: dclxthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/111847/1.0
-- name: dclxgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115312/1.0
+- name: dclxblush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118813/1.0
+- name: dclxhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118815/1.0
+- name: dclxdeeka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120012/1.0
+- name: dclxlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120005/1.0

@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - lord_kirk
 emojis:
-- name: kirklmao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32162/1.0
 - name: kirkdog
   src: https://static-cdn.jtvnw.net/emoticons/v1/32161/1.0
 - name: kirkhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/32159/1.0
-- name: kirkayy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32259/1.0
 - name: kirkdenny
   src: https://static-cdn.jtvnw.net/emoticons/v1/32257/1.0
 - name: kirkheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/32331/1.0
-- name: kirksleeper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76986/1.0
-- name: kirkchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76987/1.0
+- name: kirkree
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118291/1.0
+- name: kirkcheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118292/1.0
+- name: kirkgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118420/1.0
+- name: kirkderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118421/1.0
+- name: kirkbub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118313/1.0
+- name: kirksong
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118314/1.0

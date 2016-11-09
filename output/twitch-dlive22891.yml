@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - dlive22891
 emojis:
-- name: dliverekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89792/1.0
+- name: dliveangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117463/1.0
 - name: dlivehappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89794/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117464/1.0
+- name: dlivelouie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117465/1.0
 - name: dlivesleepy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89796/1.0
-- name: dlivesilly
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89798/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117466/1.0

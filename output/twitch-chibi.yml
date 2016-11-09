@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - chibi
 emojis:
-- name: chibifeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38000/1.0
-- name: chibisquee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29514/1.0
-- name: chibihoi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73764/1.0
-- name: chibisghetti
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73765/1.0
-- name: chibipapyross
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73767/1.0
-- name: chibichill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37874/1.0
-- name: chibilewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37872/1.0
 - name: chibihi
   src: https://static-cdn.jtvnw.net/emoticons/v1/38343/1.0
+- name: chibihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118499/1.0
+- name: chibifeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117400/1.0
+- name: chibilewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117401/1.0
 - name: chibilove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38352/1.0
-- name: chibibadtime
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74293/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119486/1.0
+- name: chibiwelp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118705/1.0
+- name: chibinom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118706/1.0
+- name: chibiglee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118707/1.0
+- name: chibiayayay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118708/1.0
+- name: chibiomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119487/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - rol_7
 emojis:
 - name: rolemzik
   src: https://static-cdn.jtvnw.net/emoticons/v1/115094/1.0
-- name: rolas
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115551/1.0
 - name: rolw
   src: https://static-cdn.jtvnw.net/emoticons/v1/89544/1.0
 - name: rolgasm
@@ -13,5 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115534/1.0
 - name: rolv
   src: https://static-cdn.jtvnw.net/emoticons/v1/116730/1.0
+- name: rolfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120263/1.0
+- name: rolwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120262/1.0
 - name: roldua
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116756/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121432/1.0

@@ -37,17 +37,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84997/1.0
 - name: fragwanston
   src: https://static-cdn.jtvnw.net/emoticons/v1/85002/1.0
-- name: fragrun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84998/1.0
 - name: fraglf
   src: https://static-cdn.jtvnw.net/emoticons/v1/84994/1.0
-- name: fragtt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84999/1.0
 - name: fragrf
   src: https://static-cdn.jtvnw.net/emoticons/v1/84995/1.0
 - name: fragwinston
   src: https://static-cdn.jtvnw.net/emoticons/v1/85003/1.0
-- name: fragshuttle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85000/1.0
-- name: fragmove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84996/1.0
+- name: fragsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120566/1.0
+- name: fragfood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120567/1.0
+- name: fraglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120565/1.0
+- name: fragrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121662/1.0

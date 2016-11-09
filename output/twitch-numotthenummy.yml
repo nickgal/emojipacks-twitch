@@ -13,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55362/1.0
 - name: numotcolin
   src: https://static-cdn.jtvnw.net/emoticons/v1/34775/1.0
-- name: numotjj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38167/1.0
 - name: numothello
   src: https://static-cdn.jtvnw.net/emoticons/v1/37319/1.0
 - name: numotgross
@@ -31,3 +29,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56020/1.0
 - name: numotpoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/76134/1.0
+- name: numotw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123404/1.0
+- name: numotking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123483/1.0
+- name: numottrophy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123482/1.0
+- name: numotfrey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123481/1.0

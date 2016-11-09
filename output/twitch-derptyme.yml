@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - derptyme
 emojis:
-- name: derpssour
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104439/1.0
-- name: derpslewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67158/1.0
-- name: derpsyas
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66562/1.0
 - name: derpstoki
   src: https://static-cdn.jtvnw.net/emoticons/v1/63204/1.0
-- name: derpsderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66354/1.0
+- name: derpssour
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120555/1.0
+- name: derpsyas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120536/1.0
+- name: derpstilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120569/1.0
+- name: derpscry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121796/1.0
+- name: derpspantsu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121782/1.0
+- name: derpslewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121781/1.0
 - name: derpsrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67177/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121776/1.0

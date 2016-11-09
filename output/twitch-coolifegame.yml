@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - coolifegame
 emojis:
-- name: trollbronza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38426/1.0
 - name: trollteemo
   src: https://static-cdn.jtvnw.net/emoticons/v1/38675/1.0
+- name: trollbronza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125268/1.0
+- name: trollkhe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125260/1.0
+- name: trollshh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125308/1.0
+- name: trollgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125297/1.0
+- name: trollrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125410/1.0

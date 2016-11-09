@@ -5,11 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/96119/1.0
 - name: zomgnetwork
   src: https://static-cdn.jtvnw.net/emoticons/v1/114550/1.0
-- name: zomgp1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114549/1.0
 - name: zomgchill
   src: https://static-cdn.jtvnw.net/emoticons/v1/114374/1.0
 - name: zomgjobber
   src: https://static-cdn.jtvnw.net/emoticons/v1/114375/1.0
 - name: zomgroode
   src: https://static-cdn.jtvnw.net/emoticons/v1/114378/1.0
+- name: zomglist
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119143/1.0
+- name: zomgkappamura
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121952/1.0
+- name: zomgdelete
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122478/1.0

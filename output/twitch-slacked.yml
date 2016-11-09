@@ -9,11 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75882/1.0
 - name: slackedlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/80796/1.0
-- name: slackedrise
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94662/1.0
 - name: slackedsheesh
   src: https://static-cdn.jtvnw.net/emoticons/v1/100372/1.0
 - name: slackedrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/100374/1.0
 - name: slackedrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/100375/1.0
+- name: slackedboo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118242/1.0
+- name: slackedlgb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118243/1.0
+- name: slackedgoat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123858/1.0

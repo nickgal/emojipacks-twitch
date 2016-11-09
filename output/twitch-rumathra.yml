@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - rumathra
 emojis:
+- name: challengedmentally
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119174/1.0
 - name: challengedbierfreunde
   src: https://static-cdn.jtvnw.net/emoticons/v1/116990/1.0
 - name: challengedfeelsgraves

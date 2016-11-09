@@ -15,9 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63713/1.0
 - name: vlpsfocus
   src: https://static-cdn.jtvnw.net/emoticons/v1/64799/1.0
-- name: vlpsfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64807/1.0
 - name: vlpshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/65697/1.0
 - name: vlpsmaxbm
   src: https://static-cdn.jtvnw.net/emoticons/v1/75497/1.0
+- name: vlpsts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121239/1.0

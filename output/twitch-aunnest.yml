@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60174/1.0
 - name: shmacksub
   src: https://static-cdn.jtvnw.net/emoticons/v1/34400/1.0
-- name: shmackshmack
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32237/1.0
 - name: shmackpause
   src: https://static-cdn.jtvnw.net/emoticons/v1/32236/1.0
 - name: shmackcash
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74708/1.0
 - name: shmackbruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/74707/1.0
+- name: shmackherb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121136/1.0

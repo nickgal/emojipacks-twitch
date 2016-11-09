@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - treborray
 emojis:
-- name: trefail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83488/1.0
 - name: trelurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/108612/1.0
 - name: treshots
@@ -11,9 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86924/1.0
 - name: trebars
   src: https://static-cdn.jtvnw.net/emoticons/v1/86948/1.0
-- name: treturnup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107972/1.0
 - name: treup
   src: https://static-cdn.jtvnw.net/emoticons/v1/108550/1.0
 - name: trebruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/108373/1.0
+- name: trefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124746/1.0
+- name: trehorne
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125350/1.0

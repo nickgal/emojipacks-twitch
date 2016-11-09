@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - koilipolazia
 emojis:
-- name: koilspew3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92598/1.0
-- name: koilspew2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92597/1.0
-- name: koilspew1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92596/1.0
-- name: koilcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95502/1.0
+- name: koilfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118196/1.0
+- name: koilsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118197/1.0
 - name: koilrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/96243/1.0
 - name: koilamazing
@@ -17,17 +13,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116994/1.0
 - name: koillewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/116997/1.0
-- name: koillove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93996/1.0
-- name: koilo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96447/1.0
-- name: koilm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96448/1.0
-- name: koilg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96449/1.0
 - name: koiltroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/114559/1.0
 - name: koillol
   src: https://static-cdn.jtvnw.net/emoticons/v1/116998/1.0
 - name: koilhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/116996/1.0
+- name: koilsellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118199/1.0
+- name: koilspew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118200/1.0
+- name: koilcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118203/1.0
+- name: koildood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117455/1.0
+- name: koilsavage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118198/1.0
+- name: koillove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118195/1.0

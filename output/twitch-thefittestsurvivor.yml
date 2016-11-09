@@ -1,19 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - thefittestsurvivor
 emojis:
-- name: dekirip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87173/1.0
 - name: dekigg
   src: https://static-cdn.jtvnw.net/emoticons/v1/87172/1.0
-- name: dekipride
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82407/1.0
-- name: dekifocus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82409/1.0
-- name: dekirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82201/1.0
-- name: dekiswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83266/1.0
-- name: dekirekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87819/1.0
 - name: dekibro
   src: https://static-cdn.jtvnw.net/emoticons/v1/87820/1.0
+- name: dekihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118840/1.0
+- name: dekilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118841/1.0
+- name: dekirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118842/1.0
+- name: dekirekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118843/1.0
+- name: dekihs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118844/1.0

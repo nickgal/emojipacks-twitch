@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - kp5ive
 emojis:
-- name: kp5tb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109601/1.0
 - name: kp5love
   src: https://static-cdn.jtvnw.net/emoticons/v1/109599/1.0
 - name: kp5hype
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110296/1.0
 - name: kp5v
   src: https://static-cdn.jtvnw.net/emoticons/v1/112726/1.0
+- name: kp5lata
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123545/1.0

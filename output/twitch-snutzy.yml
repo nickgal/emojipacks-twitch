@@ -1,16 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - snutzy
 emojis:
-- name: snutztrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10391/1.0
 - name: snutzchika
   src: https://static-cdn.jtvnw.net/emoticons/v1/3024/1.0
 - name: snutzwub
   src: https://static-cdn.jtvnw.net/emoticons/v1/25653/1.0
 - name: snutzfdb
   src: https://static-cdn.jtvnw.net/emoticons/v1/10216/1.0
-- name: snutzhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10889/1.0
 - name: snutzfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/78817/1.0
 - name: snutzmoney
@@ -27,3 +23,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89209/1.0
 - name: snutzlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/105727/1.0
+- name: snutzshot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119477/1.0
+- name: snutzhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119919/1.0

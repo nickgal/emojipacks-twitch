@@ -31,8 +31,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58524/1.0
 - name: tea7
   src: https://static-cdn.jtvnw.net/emoticons/v1/81695/1.0
-- name: teabuns
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81696/1.0
 - name: teadino
   src: https://static-cdn.jtvnw.net/emoticons/v1/81698/1.0
 - name: teagasm
@@ -41,3 +39,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/99731/1.0
 - name: teadeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/99732/1.0
+- name: teapaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120433/1.0
+- name: teahappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120432/1.0
+- name: teaf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120431/1.0
+- name: tearly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120429/1.0
+- name: teanerd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120428/1.0
+- name: teabuns
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120531/1.0

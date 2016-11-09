@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - bbypandaface
 emojis:
+- name: pandafacesmirk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119525/1.0
 - name: pandafacejaysus
   src: https://static-cdn.jtvnw.net/emoticons/v1/46670/1.0
 - name: pandafacelove
@@ -21,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77626/1.0
 - name: pandafacelit
   src: https://static-cdn.jtvnw.net/emoticons/v1/92060/1.0
+- name: pandafaceyawn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118786/1.0
+- name: pandafacehehe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119523/1.0
+- name: pandafacedrunk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119522/1.0
+- name: pandafacerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119520/1.0

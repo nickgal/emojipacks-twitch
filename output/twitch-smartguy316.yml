@@ -1,16 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - smartguy316
 emojis:
-- name: smrtlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96603/1.0
-- name: smrtrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96605/1.0
 - name: smrtgum
   src: https://static-cdn.jtvnw.net/emoticons/v1/75427/1.0
 - name: smrty
   src: https://static-cdn.jtvnw.net/emoticons/v1/96568/1.0
-- name: smrtclutch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96601/1.0
 - name: smrtw
   src: https://static-cdn.jtvnw.net/emoticons/v1/90844/1.0
 - name: smrthype
@@ -21,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/112538/1.0
 - name: smrtpringle
   src: https://static-cdn.jtvnw.net/emoticons/v1/111726/1.0
+- name: smrtlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120662/1.0
+- name: smrtrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120661/1.0
+- name: smrtlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120660/1.0

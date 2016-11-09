@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - lost1nplace
 emojis:
-- name: losthax
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23172/1.0
-- name: lostbb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23174/1.0
 - name: lostgmod
   src: https://static-cdn.jtvnw.net/emoticons/v1/21723/1.0
 - name: lostbeer

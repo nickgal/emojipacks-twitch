@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - frostfangstv
 emojis:
-- name: fangsrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93578/1.0
 - name: fangsrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/116195/1.0
 - name: fangslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/116196/1.0
+- name: fangshi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117617/1.0
+- name: fangsomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117849/1.0
 - name: fangshype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116197/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122205/1.0
 - name: fangslol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116199/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122204/1.0
 - name: fangssad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116200/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123758/1.0
 - name: fangsrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116201/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123759/1.0

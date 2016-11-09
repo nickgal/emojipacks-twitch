@@ -9,14 +9,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/91838/1.0
 - name: tinaface
   src: https://static-cdn.jtvnw.net/emoticons/v1/24670/1.0
-- name: tinarage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39687/1.0
 - name: tinasave
   src: https://static-cdn.jtvnw.net/emoticons/v1/39695/1.0
-- name: tinatrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46068/1.0
-- name: tinawoo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67312/1.0
 - name: tinadance
   src: https://static-cdn.jtvnw.net/emoticons/v1/91830/1.0
 - name: tinafail
@@ -31,3 +25,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/91835/1.0
 - name: tinaswoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/91836/1.0
+- name: tinarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119454/1.0
+- name: tinaraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119456/1.0
+- name: tinaholiday
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124151/1.0

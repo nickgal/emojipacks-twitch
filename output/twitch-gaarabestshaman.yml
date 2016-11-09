@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - gaarabestshaman
 emojis:
-- name: gaaraswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11776/1.0
 - name: gaarakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/13246/1.0
-- name: gaarasalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13970/1.0
 - name: gaaraw
   src: https://static-cdn.jtvnw.net/emoticons/v1/38120/1.0
 - name: gaarathump
   src: https://static-cdn.jtvnw.net/emoticons/v1/50073/1.0
+- name: gaaraswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119663/1.0
 - name: gaaracute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105270/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119662/1.0
+- name: gaaraloli
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119698/1.0

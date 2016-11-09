@@ -3,31 +3,21 @@ title: Twitch Subscriber Emotes - wolvesatmydoor
 emojis:
 - name: wolvesrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/16517/1.0
-- name: wolvessub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18497/1.0
-- name: wolvesluck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19567/1.0
-- name: wolvesrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23238/1.0
 - name: wolveskappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/25726/1.0
-- name: wolveshype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25729/1.0
 - name: wolveshello
   src: https://static-cdn.jtvnw.net/emoticons/v1/29498/1.0
 - name: wolveswat
   src: https://static-cdn.jtvnw.net/emoticons/v1/56404/1.0
-- name: wolvesw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43479/1.0
-- name: wolvesp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43482/1.0
-- name: wolvespure
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59901/1.0
-- name: wolvescry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60281/1.0
 - name: wolvesthrow
   src: https://static-cdn.jtvnw.net/emoticons/v1/77053/1.0
 - name: wolvesdab
   src: https://static-cdn.jtvnw.net/emoticons/v1/79307/1.0
 - name: wolvesfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/83379/1.0
+- name: wolvessub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123269/1.0
+- name: wolveshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123278/1.0
+- name: wolvesbits
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124219/1.0

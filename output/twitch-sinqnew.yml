@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/88211/1.0
 - name: sinqhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/87743/1.0
-- name: sinqpoo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90088/1.0
 - name: sinqwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/92723/1.0
 - name: sinqfeels
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108658/1.0
 - name: sinqspaget
   src: https://static-cdn.jtvnw.net/emoticons/v1/108604/1.0
+- name: sinqog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118670/1.0

@@ -3,31 +3,31 @@ title: Twitch Subscriber Emotes - elegyofgames
 emojis:
 - name: eoggud
   src: https://static-cdn.jtvnw.net/emoticons/v1/49061/1.0
-- name: eogbox
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15381/1.0
 - name: eogcoy
   src: https://static-cdn.jtvnw.net/emoticons/v1/71260/1.0
 - name: eogyawn
   src: https://static-cdn.jtvnw.net/emoticons/v1/71759/1.0
 - name: eogwelp
   src: https://static-cdn.jtvnw.net/emoticons/v1/16831/1.0
-- name: eogsteve
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47498/1.0
 - name: eogfool
   src: https://static-cdn.jtvnw.net/emoticons/v1/29176/1.0
 - name: eogwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/34408/1.0
 - name: eogha
   src: https://static-cdn.jtvnw.net/emoticons/v1/15383/1.0
-- name: eogcard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48840/1.0
 - name: eogalas
   src: https://static-cdn.jtvnw.net/emoticons/v1/48839/1.0
 - name: eogace
   src: https://static-cdn.jtvnw.net/emoticons/v1/83382/1.0
-- name: eogstahp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83384/1.0
 - name: eoghey
   src: https://static-cdn.jtvnw.net/emoticons/v1/85037/1.0
-- name: eogactually
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84906/1.0
+- name: eogno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117784/1.0
+- name: eogmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117785/1.0
+- name: eoghappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117786/1.0
+- name: eogcard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117787/1.0
+- name: eogmiami
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117789/1.0

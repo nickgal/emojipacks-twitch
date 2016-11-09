@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - zhenfrl
 emojis:
-- name: zhenfrlgomhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116842/1.0
+- name: zhenfrlsiri
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123317/1.0
+- name: zhenfrldeath
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124966/1.0
 - name: zhenfrlyogg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104388/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124828/1.0
+- name: zhenfrlnico
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124962/1.0

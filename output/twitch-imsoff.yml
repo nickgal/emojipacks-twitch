@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - imsoff
 emojis:
-- name: soffkebab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85238/1.0
 - name: soffparty
   src: https://static-cdn.jtvnw.net/emoticons/v1/96640/1.0
-- name: soffpizza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88984/1.0
+- name: sofffail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120762/1.0
+- name: soffw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120763/1.0
+- name: soffcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120761/1.0
+- name: sofffat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120790/1.0
+- name: soffhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121695/1.0
+- name: sofflit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121719/1.0
 - name: soffh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108025/1.0
-- name: soffp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108024/1.0
-- name: sofft
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108032/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124596/1.0

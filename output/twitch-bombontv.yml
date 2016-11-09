@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - bombontv
 emojis:
-- name: bomwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108175/1.0
+- name: bomface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121605/1.0
+- name: bomcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121603/1.0

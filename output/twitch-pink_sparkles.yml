@@ -19,5 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116551/1.0
 - name: pnkyfeed
   src: https://static-cdn.jtvnw.net/emoticons/v1/116739/1.0
-- name: pnkycringe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116744/1.0
+- name: pnkygg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125024/1.0
+- name: pnkyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125005/1.0
+- name: pnkysellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125004/1.0
+- name: pnkysneaky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125003/1.0
+- name: pnkysleepy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125002/1.0
+- name: pnkyknee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125001/1.0

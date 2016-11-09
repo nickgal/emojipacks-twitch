@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - naireks
 emojis:
-- name: nairderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86131/1.0
-- name: nairmac10
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87765/1.0
-- name: nairsellout
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89213/1.0
-- name: nairwierdo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92865/1.0
-- name: nairwhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92867/1.0
-- name: nairsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103283/1.0
+- name: nairhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119560/1.0
+- name: nairrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119561/1.0
 - name: nairlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103284/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119562/1.0
+- name: nairfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119564/1.0
 - name: nairhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103285/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119610/1.0
+- name: naironfire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119563/1.0
+- name: nairpengu1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125747/1.0
+- name: nairpengu2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125748/1.0

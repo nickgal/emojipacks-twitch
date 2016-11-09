@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - snip3down
 emojis:
 - name: snipehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/61339/1.0
-- name: snipefight
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77984/1.0
 - name: snipefire
   src: https://static-cdn.jtvnw.net/emoticons/v1/61338/1.0
 - name: snipeonemore
@@ -25,5 +23,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75303/1.0
 - name: snipeceleste
   src: https://static-cdn.jtvnw.net/emoticons/v1/76226/1.0
-- name: snipetc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88225/1.0
+- name: snipenv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119934/1.0

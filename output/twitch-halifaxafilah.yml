@@ -1,9 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - halifaxafilah
 emojis:
+- name: faxlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118938/1.0
+- name: faxmute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118939/1.0
 - name: faxh
   src: https://static-cdn.jtvnw.net/emoticons/v1/116634/1.0
+- name: faxgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118640/1.0
 - name: faxhax
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116954/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117796/1.0
+- name: faxbadman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118960/1.0
 - name: faxlul
   src: https://static-cdn.jtvnw.net/emoticons/v1/116964/1.0
+- name: faxafk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118961/1.0
+- name: faxbuddy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118962/1.0
+- name: faxw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118963/1.0
+- name: faxhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117891/1.0
+- name: faxgoodman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117305/1.0
+- name: faxf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118345/1.0
+- name: faxthis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120808/1.0
+- name: faxgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120941/1.0

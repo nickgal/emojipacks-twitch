@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - gaminglive_tv1
 emojis:
-- name: gl1baron
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76454/1.0
-- name: gl1click
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76453/1.0
-- name: gl1passhiny
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57343/1.0
+- name: gl1hap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120023/1.0
 - name: gl1trunkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57342/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120025/1.0
+- name: gl1noel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120024/1.0
+- name: gl1passhiny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120028/1.0
 - name: gl1gwak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70425/1.0
-- name: gl1bob
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70426/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120026/1.0
+- name: gl1baron
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120027/1.0
+- name: gl1saltyprofluke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120944/1.0
+- name: gl1spider
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122538/1.0

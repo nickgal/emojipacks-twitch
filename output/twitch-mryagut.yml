@@ -11,9 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45062/1.0
 - name: yaguthype
   src: https://static-cdn.jtvnw.net/emoticons/v1/69505/1.0
-- name: yagutrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69503/1.0
 - name: yagutpride
   src: https://static-cdn.jtvnw.net/emoticons/v1/76737/1.0
 - name: yagutlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/76738/1.0
+- name: yagutsmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122866/1.0
+- name: yagute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123602/1.0
+- name: yagutshieet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123603/1.0

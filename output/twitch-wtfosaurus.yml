@@ -3,20 +3,8 @@ title: Twitch Subscriber Emotes - wtfosaurus
 emojis:
 - name: wtfohi
   src: https://static-cdn.jtvnw.net/emoticons/v1/111065/1.0
-- name: wtfogtfo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74079/1.0
-- name: wtforaid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74078/1.0
-- name: wtfolurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51362/1.0
 - name: wtfohi5
   src: https://static-cdn.jtvnw.net/emoticons/v1/50461/1.0
-- name: wtfogg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50462/1.0
-- name: wtfoshots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50463/1.0
-- name: wtforekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50607/1.0
 - name: wtfoorg
   src: https://static-cdn.jtvnw.net/emoticons/v1/70049/1.0
 - name: wtforip
@@ -31,3 +19,25 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/111061/1.0
 - name: wtfochamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/111047/1.0
+- name: wtforekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119770/1.0
+- name: wtfogg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119769/1.0
+- name: wtfolurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119768/1.0
+- name: wtfoshots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120059/1.0
+- name: wtfohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120070/1.0
+- name: wtfostaff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121120/1.0
+- name: wtfonp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121121/1.0
+- name: wtfogotem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121106/1.0
+- name: wtfolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121109/1.0
+- name: wtfofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121105/1.0
+- name: wtforaid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125261/1.0

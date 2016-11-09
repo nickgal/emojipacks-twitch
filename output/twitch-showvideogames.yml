@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - showvideogames
 emojis:
 - name: svgs
   src: https://static-cdn.jtvnw.net/emoticons/v1/11663/1.0
-- name: svgsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14656/1.0
 - name: svgb
   src: https://static-cdn.jtvnw.net/emoticons/v1/114169/1.0
 - name: svggrump
@@ -17,7 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114128/1.0
 - name: svgyay
   src: https://static-cdn.jtvnw.net/emoticons/v1/116143/1.0
-- name: svgnom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116144/1.0
 - name: svgtip
   src: https://static-cdn.jtvnw.net/emoticons/v1/114652/1.0
+- name: svgshiny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121785/1.0
+- name: svgf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124278/1.0

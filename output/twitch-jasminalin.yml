@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109823/1.0
 - name: jasrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/112157/1.0
-- name: jasw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97677/1.0
 - name: jasgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/112169/1.0
 - name: jaslul
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/112138/1.0
 - name: jasthirsty
   src: https://static-cdn.jtvnw.net/emoticons/v1/112141/1.0
+- name: jasw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120887/1.0

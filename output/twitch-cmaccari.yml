@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - cmaccari
 emojis:
-- name: cacakappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114241/1.0
 - name: cacalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/113071/1.0
+- name: cacahum
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120245/1.0
+- name: cacahappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120244/1.0
+- name: cacakappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120266/1.0

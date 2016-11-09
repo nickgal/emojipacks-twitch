@@ -1,23 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - maddenmastermind
 emojis:
-- name: mastersmyhart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77025/1.0
-- name: masterslurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40769/1.0
-- name: masterssmile
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54417/1.0
-- name: mastersmvp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54744/1.0
 - name: masterswut
   src: https://static-cdn.jtvnw.net/emoticons/v1/79168/1.0
 - name: masterswhip
   src: https://static-cdn.jtvnw.net/emoticons/v1/77115/1.0
 - name: masterscam
   src: https://static-cdn.jtvnw.net/emoticons/v1/77020/1.0
-- name: mastersl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79013/1.0
 - name: mastersmex
   src: https://static-cdn.jtvnw.net/emoticons/v1/84511/1.0
-- name: masterseazy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84510/1.0
+- name: mastershuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122252/1.0
+- name: masterschoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122243/1.0

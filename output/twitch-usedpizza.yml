@@ -5,15 +5,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/18251/1.0
 - name: usedvul
   src: https://static-cdn.jtvnw.net/emoticons/v1/20213/1.0
-- name: usedmouf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55855/1.0
-- name: usedfrost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70589/1.0
 - name: usedballoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/95748/1.0
-- name: usedez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71738/1.0
 - name: usedfinally
   src: https://static-cdn.jtvnw.net/emoticons/v1/98908/1.0
 - name: usedbalding
   src: https://static-cdn.jtvnw.net/emoticons/v1/117053/1.0
+- name: usedfrost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122742/1.0
+- name: usedgrl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122741/1.0
+- name: usedlousy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122763/1.0
+- name: usedlit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124205/1.0
+- name: usedstare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124489/1.0

@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - r1sh
 emojis:
-- name: rishrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64576/1.0
 - name: rishtat2
   src: https://static-cdn.jtvnw.net/emoticons/v1/61735/1.0
 - name: rishcheez
   src: https://static-cdn.jtvnw.net/emoticons/v1/61730/1.0
 - name: rishhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/78472/1.0
+- name: rishhamb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121677/1.0

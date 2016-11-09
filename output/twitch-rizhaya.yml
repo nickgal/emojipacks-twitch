@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - rizhaya
 emojis:
-- name: rizhaya5051
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101259/1.0
-- name: rizhayacry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101258/1.0
 - name: rizhayacool
   src: https://static-cdn.jtvnw.net/emoticons/v1/102640/1.0
 - name: rizhayahug
@@ -17,3 +13,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/101497/1.0
 - name: rizhayafacep
   src: https://static-cdn.jtvnw.net/emoticons/v1/103278/1.0
+- name: rizhayacry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125960/1.0

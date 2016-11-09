@@ -3,13 +3,11 @@ title: Twitch Subscriber Emotes - xfelicia
 emojis:
 - name: xfelblacky
   src: https://static-cdn.jtvnw.net/emoticons/v1/15933/1.0
-- name: xfelknife
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16058/1.0
 - name: xfelrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/16956/1.0
-- name: xfelspumcake
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16958/1.0
 - name: xfeltpc
   src: https://static-cdn.jtvnw.net/emoticons/v1/18388/1.0
 - name: xfelwoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/41274/1.0
+- name: xfelbolo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125798/1.0

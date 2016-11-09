@@ -3,7 +3,13 @@ title: Twitch Subscriber Emotes - m1k3rules
 emojis:
 - name: sploonshalthis
   src: https://static-cdn.jtvnw.net/emoticons/v1/66812/1.0
-- name: splooncheeky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68403/1.0
 - name: sploonthelivingroom
   src: https://static-cdn.jtvnw.net/emoticons/v1/95762/1.0
+- name: sploonkapthis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121572/1.0
+- name: sploondownunder
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121571/1.0
+- name: sploonpizzashere
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123866/1.0
+- name: sploons
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124162/1.0

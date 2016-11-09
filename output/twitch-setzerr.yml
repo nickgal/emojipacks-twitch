@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - setzerr
 emojis:
-- name: setzerop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50965/1.0
-- name: setzerneploxo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50807/1.0
 - name: setzerpotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/50805/1.0
 - name: setzerfive
@@ -13,7 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79829/1.0
 - name: setzerpandagasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/113009/1.0
-- name: setzerallo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116180/1.0
-- name: setzerkabantlen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116181/1.0
+- name: setzerkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117867/1.0
+- name: setzersad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117926/1.0
+- name: setzerneploxo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119119/1.0
+- name: setzersempai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123793/1.0

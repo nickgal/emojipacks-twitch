@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - cankodota
 emojis:
-- name: phtvcisim
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23805/1.0
-- name: phtvez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23804/1.0
-- name: phtvlost
+- name: cankolost
   src: https://static-cdn.jtvnw.net/emoticons/v1/25354/1.0
-- name: phtvas
+- name: cankoas
   src: https://static-cdn.jtvnw.net/emoticons/v1/109539/1.0
-- name: phtv322
+- name: canko322
   src: https://static-cdn.jtvnw.net/emoticons/v1/109982/1.0
-- name: phtvfail
+- name: cankofail
   src: https://static-cdn.jtvnw.net/emoticons/v1/115487/1.0
-- name: phtv01
+- name: canko01
   src: https://static-cdn.jtvnw.net/emoticons/v1/115488/1.0
-- name: phtvspec
+- name: cankospec
   src: https://static-cdn.jtvnw.net/emoticons/v1/115508/1.0
+- name: cankotours
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119672/1.0
+- name: cankohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125173/1.0

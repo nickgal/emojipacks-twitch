@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97254/1.0
 - name: ectvhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/97255/1.0
-- name: ectvpokeball
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107430/1.0
 - name: ectvmalaise
   src: https://static-cdn.jtvnw.net/emoticons/v1/106023/1.0
 - name: ectvzouloux
@@ -31,3 +29,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/111760/1.0
 - name: ectvtaip
   src: https://static-cdn.jtvnw.net/emoticons/v1/111762/1.0
+- name: ectvle10e
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122541/1.0
+- name: ectvamaury
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124642/1.0
+- name: ectvvalouzz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124641/1.0

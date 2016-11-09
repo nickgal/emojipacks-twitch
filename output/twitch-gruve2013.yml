@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - gruve2013
 emojis:
-- name: gruvemaracasy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101334/1.0
 - name: gruvekrab
   src: https://static-cdn.jtvnw.net/emoticons/v1/113193/1.0
 - name: gruveface
@@ -19,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116375/1.0
 - name: gruvebuhlo
   src: https://static-cdn.jtvnw.net/emoticons/v1/116560/1.0
+- name: gruvepolice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120907/1.0
+- name: gruvesuis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121563/1.0

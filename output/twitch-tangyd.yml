@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - tangyd
 emojis:
 - name: tangytilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/101110/1.0
-- name: tangyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108153/1.0
 - name: tangyiq
   src: https://static-cdn.jtvnw.net/emoticons/v1/108130/1.0
-- name: tangyfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97838/1.0
 - name: tangypotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/96389/1.0
+- name: tangyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119608/1.0
+- name: tangyfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119609/1.0
+- name: tangygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122267/1.0
 - name: tangyclutch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95047/1.0
-- name: tangysalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96390/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122268/1.0
+- name: tangythirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123913/1.0
+- name: tangylul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123914/1.0
 - name: tangylove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96391/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123912/1.0

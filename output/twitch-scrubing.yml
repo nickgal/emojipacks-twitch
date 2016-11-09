@@ -7,22 +7,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54937/1.0
 - name: binggasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/54680/1.0
-- name: bingheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58708/1.0
 - name: bingc
   src: https://static-cdn.jtvnw.net/emoticons/v1/97723/1.0
 - name: bingblank
   src: https://static-cdn.jtvnw.net/emoticons/v1/82183/1.0
 - name: binghype
   src: https://static-cdn.jtvnw.net/emoticons/v1/82187/1.0
-- name: binghey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82186/1.0
 - name: bingomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/82185/1.0
 - name: bingw
   src: https://static-cdn.jtvnw.net/emoticons/v1/97722/1.0
-- name: bing3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91413/1.0
 - name: bingcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/95181/1.0
 - name: bingshy
@@ -35,7 +29,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100762/1.0
 - name: bingshrug
   src: https://static-cdn.jtvnw.net/emoticons/v1/100763/1.0
-- name: binggasp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100764/1.0
 - name: bingbruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/103415/1.0
+- name: bingfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118249/1.0
+- name: bingheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121404/1.0
+- name: bingwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121403/1.0
+- name: binghey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121402/1.0
+- name: bingyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121401/1.0

@@ -5,11 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97756/1.0
 - name: alpazelingnino
   src: https://static-cdn.jtvnw.net/emoticons/v1/83052/1.0
-- name: alpazelingwurf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95831/1.0
 - name: alpazelingrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/104331/1.0
 - name: alpazelingfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/104332/1.0
 - name: alpazelingtilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/104333/1.0
+- name: alpazelingeasy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121706/1.0
+- name: alpazelingniki
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121855/1.0
+- name: alpazelingsalty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121854/1.0

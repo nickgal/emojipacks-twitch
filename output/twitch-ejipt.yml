@@ -11,9 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100270/1.0
 - name: ejiptlit
   src: https://static-cdn.jtvnw.net/emoticons/v1/110683/1.0
-- name: ejiptsaved
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110684/1.0
 - name: ejipthi
   src: https://static-cdn.jtvnw.net/emoticons/v1/110592/1.0
 - name: ejiptsmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/110593/1.0
+- name: ejiptfam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120440/1.0
+- name: ejiptlips
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122893/1.0
+- name: ejiptaf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122892/1.0

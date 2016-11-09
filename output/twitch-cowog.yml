@@ -1,18 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - cowog
 emojis:
-- name: cowgbruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111341/1.0
-- name: cowghi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111342/1.0
-- name: cowglurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111343/1.0
 - name: cowgpop
   src: https://static-cdn.jtvnw.net/emoticons/v1/111344/1.0
 - name: cowgsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/111345/1.0
-- name: cowgshrug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111346/1.0
 - name: cowghmm
   src: https://static-cdn.jtvnw.net/emoticons/v1/94737/1.0
 - name: cowgk
@@ -21,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84236/1.0
 - name: cowgl
   src: https://static-cdn.jtvnw.net/emoticons/v1/83131/1.0
+- name: cowgblast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125389/1.0
+- name: cowghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125869/1.0
+- name: cowgtip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125870/1.0
+- name: cowghi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125911/1.0

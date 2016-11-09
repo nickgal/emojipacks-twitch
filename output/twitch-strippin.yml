@@ -15,10 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44574/1.0
 - name: strippin
   src: https://static-cdn.jtvnw.net/emoticons/v1/76118/1.0
-- name: strippower
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114561/1.0
-- name: stripup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114562/1.0
 - name: stripk
   src: https://static-cdn.jtvnw.net/emoticons/v1/76381/1.0
 - name: stripo
@@ -31,3 +27,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100842/1.0
 - name: stripmwah
   src: https://static-cdn.jtvnw.net/emoticons/v1/100843/1.0
+- name: stripthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117875/1.0
+- name: stripchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117876/1.0
+- name: stripssj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119241/1.0
+- name: stripohno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119239/1.0
+- name: stripa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121944/1.0
+- name: stripm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121945/1.0
+- name: stripb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121943/1.0

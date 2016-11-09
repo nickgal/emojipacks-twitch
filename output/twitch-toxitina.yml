@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - toxitina
 emojis:
-- name: toxiloca
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116851/1.0
-- name: toxikiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116849/1.0
 - name: toxicry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116850/1.0
-- name: toxigasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65752/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117799/1.0
+- name: toxirily
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118294/1.0
+- name: toxikiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117801/1.0
+- name: toxiloca
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117802/1.0
 - name: toxirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73535/1.0
-- name: toxilove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116973/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117803/1.0
+- name: toxihappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120550/1.0
+- name: toxihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120549/1.0
+- name: toxiaamm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124496/1.0
+- name: toxigasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124492/1.0
+- name: toxisleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124491/1.0

@@ -3,7 +3,13 @@ title: Twitch Subscriber Emotes - nerdocracy
 emojis:
 - name: nerdowtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/101042/1.0
+- name: nerdohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120948/1.0
 - name: nerdomoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101041/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124600/1.0
+- name: nerdohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124598/1.0
 - name: nerdosun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101040/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124601/1.0
+- name: nerdolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124794/1.0

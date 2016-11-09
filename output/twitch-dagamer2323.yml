@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - dagamer2323
 emojis:
-- name: dagamercreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105227/1.0
 - name: dagamerdoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/105159/1.0
 - name: dagamerlit
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114759/1.0
 - name: dagamersubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/114762/1.0
+- name: dagamerchill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124662/1.0

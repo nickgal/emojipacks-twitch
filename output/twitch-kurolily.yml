@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - kurolily
 emojis:
-- name: kurolegendary
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15070/1.0
-- name: kurolili
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15069/1.0
-- name: kurobaloo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15295/1.0
 - name: kuropizza
   src: https://static-cdn.jtvnw.net/emoticons/v1/16085/1.0
-- name: kuroswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95007/1.0
-- name: kurorip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95004/1.0
 - name: kurozenzy
   src: https://static-cdn.jtvnw.net/emoticons/v1/40406/1.0
-- name: kuroderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40405/1.0
+- name: kurosad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120650/1.0
+- name: kuronot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120651/1.0
+- name: kurogrin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120649/1.0
+- name: kurowow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120646/1.0
+- name: kurohello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120645/1.0
+- name: kurorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120647/1.0

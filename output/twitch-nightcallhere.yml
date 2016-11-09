@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - nightcallhere
 emojis:
 - name: nightcallw
   src: https://static-cdn.jtvnw.net/emoticons/v1/51951/1.0
-- name: nightcallkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54119/1.0
 - name: nightcallanan
   src: https://static-cdn.jtvnw.net/emoticons/v1/55554/1.0
-- name: nightcallmisplay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54404/1.0
 - name: nightcallclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/87659/1.0
-- name: nightcalltrolden
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92059/1.0
+- name: nightcallthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123270/1.0
+- name: nightcalllul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123703/1.0
+- name: nightcallgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123711/1.0

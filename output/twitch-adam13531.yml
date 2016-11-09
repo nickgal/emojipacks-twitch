@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - adam13531
 emojis:
+- name: admbro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118758/1.0
 - name: admtroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/116751/1.0
+- name: admhack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119265/1.0
 - name: admart
   src: https://static-cdn.jtvnw.net/emoticons/v1/116752/1.0
+- name: admorange
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120390/1.0
+- name: admboat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121874/1.0
+- name: admpurple
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122052/1.0
+- name: admgreen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122051/1.0

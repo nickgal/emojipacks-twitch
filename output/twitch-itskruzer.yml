@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - itskruzer
 emojis:
-- name: kruzerface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107924/1.0
 - name: kruzertf
   src: https://static-cdn.jtvnw.net/emoticons/v1/107869/1.0
 - name: kruzerhype
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114130/1.0
 - name: kruzerfg
   src: https://static-cdn.jtvnw.net/emoticons/v1/114131/1.0
+- name: kruzerlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122010/1.0

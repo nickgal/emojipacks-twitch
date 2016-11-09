@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - dianarrr
 emojis:
 - name: dernershrug
   src: https://static-cdn.jtvnw.net/emoticons/v1/97619/1.0
-- name: derneropr8
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98614/1.0
 - name: dernershocked
   src: https://static-cdn.jtvnw.net/emoticons/v1/98613/1.0
 - name: dernerblush
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97534/1.0
 - name: dernerh
   src: https://static-cdn.jtvnw.net/emoticons/v1/108648/1.0
+- name: dernerp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118761/1.0

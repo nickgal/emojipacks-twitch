@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - bestrivenna
 emojis:
-- name: brnariven
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65476/1.0
 - name: brnafrog
   src: https://static-cdn.jtvnw.net/emoticons/v1/65478/1.0
-- name: brnaboots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65477/1.0
 - name: brnalul
   src: https://static-cdn.jtvnw.net/emoticons/v1/116523/1.0
 - name: brnahi
   src: https://static-cdn.jtvnw.net/emoticons/v1/116521/1.0
+- name: brnathink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117936/1.0
+- name: brnagasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117515/1.0
+- name: brnariven
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117516/1.0
+- name: brnalove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117940/1.0
+- name: brnawut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117946/1.0

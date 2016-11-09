@@ -11,11 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57743/1.0
 - name: peachyfire
   src: https://static-cdn.jtvnw.net/emoticons/v1/60483/1.0
-- name: peachychan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68099/1.0
 - name: peachypup
   src: https://static-cdn.jtvnw.net/emoticons/v1/68362/1.0
 - name: peachyhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/115187/1.0
 - name: peachyheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/113255/1.0
+- name: peachychan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124944/1.0
+- name: peachychamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125624/1.0

@@ -35,8 +35,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58242/1.0
 - name: mskkpl
   src: https://static-cdn.jtvnw.net/emoticons/v1/64425/1.0
-- name: mskkostrich
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74560/1.0
 - name: mskkban
   src: https://static-cdn.jtvnw.net/emoticons/v1/78970/1.0
 - name: mskkhi
@@ -51,3 +49,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116775/1.0
 - name: mskkthirsty
   src: https://static-cdn.jtvnw.net/emoticons/v1/116773/1.0
+- name: mskkop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123783/1.0

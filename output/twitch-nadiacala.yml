@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - nadiacala
 emojis:
-- name: calaconejin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39287/1.0
-- name: calachintrolas
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39834/1.0
 - name: calafail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83348/1.0
-- name: calakappita
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83349/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119326/1.0
+- name: calasad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119329/1.0
+- name: calahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119323/1.0
+- name: calaban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119528/1.0

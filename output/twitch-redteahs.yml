@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - redteahs
 emojis:
 - name: redteaumgyuk
   src: https://static-cdn.jtvnw.net/emoticons/v1/69337/1.0
-- name: redteatracer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87125/1.0
 - name: redteanawa
   src: https://static-cdn.jtvnw.net/emoticons/v1/110578/1.0
 - name: redteahosback
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108215/1.0
 - name: redteaper
   src: https://static-cdn.jtvnw.net/emoticons/v1/108310/1.0
+- name: redteamujok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118865/1.0

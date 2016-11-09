@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45869/1.0
 - name: faux4
   src: https://static-cdn.jtvnw.net/emoticons/v1/45896/1.0
-- name: fauxtrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45905/1.0
 - name: fauxmg
   src: https://static-cdn.jtvnw.net/emoticons/v1/67720/1.0
 - name: fauxsad
@@ -33,3 +31,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71413/1.0
 - name: fauxhard
   src: https://static-cdn.jtvnw.net/emoticons/v1/116639/1.0
+- name: fauxh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118132/1.0
+- name: fauxash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117426/1.0
+- name: fauxr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122250/1.0
+- name: fauxl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122249/1.0
+- name: fauxhead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122539/1.0

@@ -13,11 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33341/1.0
 - name: jadehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/91459/1.0
-- name: jadeteam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71099/1.0
 - name: jadegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/82842/1.0
-- name: jaderage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85234/1.0
 - name: jadewtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/101366/1.0
+- name: jaderage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121374/1.0
+- name: jadeteam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121371/1.0

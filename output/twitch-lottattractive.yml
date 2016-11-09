@@ -1,15 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - lottattractive
 emojis:
-- name: lottamgp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83778/1.0
-- name: lottahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83779/1.0
-- name: lottatoxic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84127/1.0
-- name: lottalove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84391/1.0
-- name: lottabaerum
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100469/1.0
 - name: lottab
   src: https://static-cdn.jtvnw.net/emoticons/v1/91769/1.0
+- name: lottatriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123420/1.0
+- name: lottaboosted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123418/1.0
+- name: lottablackjack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123419/1.0
+- name: lottabebi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123417/1.0

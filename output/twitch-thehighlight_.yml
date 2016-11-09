@@ -3,7 +3,13 @@ title: Twitch Subscriber Emotes - thehighlight_
 emojis:
 - name: highslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/115398/1.0
-- name: highsmt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116151/1.0
 - name: highsul
   src: https://static-cdn.jtvnw.net/emoticons/v1/116208/1.0
+- name: highsthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117323/1.0
+- name: highsmt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117583/1.0
+- name: highsnation
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121538/1.0
+- name: highshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121536/1.0

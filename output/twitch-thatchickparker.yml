@@ -3,21 +3,21 @@ title: Twitch Subscriber Emotes - thatchickparker
 emojis:
 - name: tcphype
   src: https://static-cdn.jtvnw.net/emoticons/v1/59232/1.0
-- name: tcpparker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60393/1.0
 - name: tcpvan
   src: https://static-cdn.jtvnw.net/emoticons/v1/82000/1.0
 - name: tcpban
   src: https://static-cdn.jtvnw.net/emoticons/v1/81999/1.0
-- name: tcpchair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90899/1.0
 - name: tcpherro
   src: https://static-cdn.jtvnw.net/emoticons/v1/90895/1.0
 - name: tcplove
   src: https://static-cdn.jtvnw.net/emoticons/v1/111021/1.0
 - name: tcprow
   src: https://static-cdn.jtvnw.net/emoticons/v1/111019/1.0
-- name: tcpfox
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110861/1.0
-- name: tcpyoshi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115951/1.0
+- name: tcprage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125377/1.0
+- name: tcpsmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125378/1.0
+- name: tcpbus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125376/1.0
+- name: tcpfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125375/1.0

@@ -7,24 +7,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79344/1.0
 - name: vioc
   src: https://static-cdn.jtvnw.net/emoticons/v1/104668/1.0
-- name: vior
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110699/1.0
 - name: violit
   src: https://static-cdn.jtvnw.net/emoticons/v1/87941/1.0
-- name: viol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85447/1.0
-- name: viobb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77583/1.0
 - name: vioh
   src: https://static-cdn.jtvnw.net/emoticons/v1/96989/1.0
 - name: vioxd
   src: https://static-cdn.jtvnw.net/emoticons/v1/104631/1.0
 - name: vios
   src: https://static-cdn.jtvnw.net/emoticons/v1/104632/1.0
-- name: viopls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109613/1.0
-- name: vioheh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105146/1.0
 - name: violol
   src: https://static-cdn.jtvnw.net/emoticons/v1/105147/1.0
 - name: viopop
@@ -41,3 +31,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110693/1.0
 - name: viotrig
   src: https://static-cdn.jtvnw.net/emoticons/v1/110866/1.0
+- name: viol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118715/1.0
+- name: vioheh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118461/1.0
+- name: vion
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117977/1.0
+- name: viopls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123900/1.0
+- name: viobb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123902/1.0

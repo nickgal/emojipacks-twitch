@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - grincherz
 emojis:
-- name: grinchrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95980/1.0
 - name: grinchhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/99385/1.0
 - name: grinchtopd
   src: https://static-cdn.jtvnw.net/emoticons/v1/98968/1.0
 - name: grinchha
   src: https://static-cdn.jtvnw.net/emoticons/v1/98982/1.0
+- name: grinchthink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124223/1.0
+- name: grinchlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125476/1.0
+- name: grinchok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125475/1.0

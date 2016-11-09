@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - coolagebrothers
 emojis:
 - name: cbsg
   src: https://static-cdn.jtvnw.net/emoticons/v1/31794/1.0
-- name: cbskk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33333/1.0
-- name: cbsp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82800/1.0
 - name: cbsr
   src: https://static-cdn.jtvnw.net/emoticons/v1/112175/1.0
 - name: cbsm2
@@ -14,4 +10,10 @@ emojis:
 - name: cbsp2
   src: https://static-cdn.jtvnw.net/emoticons/v1/112195/1.0
 - name: cbsm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112196/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117758/1.0
+- name: cbsk2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117355/1.0
+- name: cbsp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117770/1.0
+- name: cbsk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117773/1.0

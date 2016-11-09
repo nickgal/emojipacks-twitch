@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49385/1.0
 - name: sxythump
   src: https://static-cdn.jtvnw.net/emoticons/v1/54489/1.0
-- name: sxyvape
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61138/1.0
 - name: sxygo
   src: https://static-cdn.jtvnw.net/emoticons/v1/65016/1.0
 - name: sxy1
@@ -29,25 +27,27 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70496/1.0
 - name: sxyhax
   src: https://static-cdn.jtvnw.net/emoticons/v1/75312/1.0
-- name: sxyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95709/1.0
 - name: sxyt
   src: https://static-cdn.jtvnw.net/emoticons/v1/84347/1.0
-- name: sxyfat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84349/1.0
 - name: sxyhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/84521/1.0
 - name: sxyaf
   src: https://static-cdn.jtvnw.net/emoticons/v1/93803/1.0
-- name: sxysellout
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93804/1.0
 - name: sxysalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/92849/1.0
-- name: sxystar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92909/1.0
 - name: sxybirdy
   src: https://static-cdn.jtvnw.net/emoticons/v1/92908/1.0
-- name: sxyp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95548/1.0
 - name: sxygt
   src: https://static-cdn.jtvnw.net/emoticons/v1/92914/1.0
+- name: sxyboo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124784/1.0
+- name: sxya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124781/1.0
+- name: sxywoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124783/1.0
+- name: sxywut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124782/1.0
+- name: sxyfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124948/1.0
+- name: sxyq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125178/1.0

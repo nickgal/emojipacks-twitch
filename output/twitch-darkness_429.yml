@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50626/1.0
 - name: timmehlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/50625/1.0
-- name: timmehrogue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86472/1.0
 - name: timmehrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/71101/1.0
 - name: timmehbacon
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86234/1.0
 - name: timmehtp
   src: https://static-cdn.jtvnw.net/emoticons/v1/86853/1.0
+- name: timmehtrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123790/1.0

@@ -7,13 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64130/1.0
 - name: arealove
   src: https://static-cdn.jtvnw.net/emoticons/v1/63329/1.0
-- name: areawingl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63362/1.0
-- name: areawingr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63363/1.0
 - name: areachu
   src: https://static-cdn.jtvnw.net/emoticons/v1/63869/1.0
 - name: areasad
   src: https://static-cdn.jtvnw.net/emoticons/v1/70419/1.0
+- name: areawingr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123825/1.0
 - name: areahi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79666/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123826/1.0
+- name: areawingl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123824/1.0

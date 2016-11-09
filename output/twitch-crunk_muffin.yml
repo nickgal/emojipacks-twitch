@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - crunk_muffin
 emojis:
 - name: crunkgrill
   src: https://static-cdn.jtvnw.net/emoticons/v1/40907/1.0
-- name: crunkwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40993/1.0
 - name: crunkluna
   src: https://static-cdn.jtvnw.net/emoticons/v1/40996/1.0
 - name: crunkderp
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63643/1.0
 - name: crunklewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/63642/1.0
+- name: crunkmeat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121144/1.0

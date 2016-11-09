@@ -7,7 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39420/1.0
 - name: nyasalty
   src: https://static-cdn.jtvnw.net/emoticons/v1/63347/1.0
-- name: nyahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63366/1.0
 - name: nyagasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/100747/1.0
+- name: nyaburp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121206/1.0
+- name: nyahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121268/1.0
+- name: nyafart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122711/1.0
+- name: nyapalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122703/1.0

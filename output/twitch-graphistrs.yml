@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - graphistrs
 emojis:
-- name: graphspectele
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62779/1.0
 - name: graphloud
   src: https://static-cdn.jtvnw.net/emoticons/v1/59885/1.0
 - name: graphthump
@@ -15,9 +13,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60314/1.0
 - name: graphfreshair
   src: https://static-cdn.jtvnw.net/emoticons/v1/60315/1.0
-- name: graphmelon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91131/1.0
 - name: graphrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/90765/1.0
 - name: graphtrihard
   src: https://static-cdn.jtvnw.net/emoticons/v1/90858/1.0
+- name: graphh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118827/1.0
+- name: graphw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123428/1.0
+- name: graphwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123427/1.0
+- name: graphgun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123424/1.0
+- name: graphfbm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123423/1.0
+- name: graphfgm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124269/1.0

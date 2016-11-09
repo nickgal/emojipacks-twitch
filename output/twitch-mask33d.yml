@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - mask33d
 emojis:
 - name: masklg
   src: https://static-cdn.jtvnw.net/emoticons/v1/109123/1.0
-- name: maskbot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109122/1.0
+- name: maskmikew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125166/1.0
+- name: maskw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125168/1.0
+- name: maskbae
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125167/1.0

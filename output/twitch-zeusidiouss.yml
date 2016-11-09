@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - zeusidiouss
 emojis:
 - name: zeulow
   src: https://static-cdn.jtvnw.net/emoticons/v1/104441/1.0
-- name: zeutr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106639/1.0
-- name: zeubet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106641/1.0
-- name: zeurekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106640/1.0
 - name: zeuhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/106453/1.0
 - name: zeusincap
   src: https://static-cdn.jtvnw.net/emoticons/v1/112951/1.0
+- name: zeuyeter
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123933/1.0
+- name: zeukoltuk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123932/1.0
+- name: zeupride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123946/1.0

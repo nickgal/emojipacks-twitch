@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - pangaeapanga
 emojis:
-- name: pangablock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67800/1.0
 - name: pangasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/67801/1.0
 - name: pangapawr
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/96472/1.0
 - name: pangayatta
   src: https://static-cdn.jtvnw.net/emoticons/v1/110985/1.0
+- name: pangab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118542/1.0

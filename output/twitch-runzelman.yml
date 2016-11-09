@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40282/1.0
 - name: inconflex
   src: https://static-cdn.jtvnw.net/emoticons/v1/49352/1.0
-- name: inconloud
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111225/1.0
 - name: incontiggered
   src: https://static-cdn.jtvnw.net/emoticons/v1/83545/1.0
 - name: inconlove
@@ -17,27 +15,29 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110629/1.0
 - name: inconcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/110630/1.0
-- name: inconfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110631/1.0
-- name: inconhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110633/1.0
-- name: inconsteal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110635/1.0
 - name: inconclose
   src: https://static-cdn.jtvnw.net/emoticons/v1/110636/1.0
 - name: inconbait
   src: https://static-cdn.jtvnw.net/emoticons/v1/110637/1.0
 - name: inconlag
   src: https://static-cdn.jtvnw.net/emoticons/v1/110638/1.0
-- name: inconfeed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116237/1.0
-- name: inconcarry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116238/1.0
-- name: inconlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116239/1.0
-- name: incontube
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116240/1.0
-- name: inconbronze
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116241/1.0
 - name: inconjuke
   src: https://static-cdn.jtvnw.net/emoticons/v1/111204/1.0
+- name: inconlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120804/1.0
+- name: incontwitch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124370/1.0
+- name: inconwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125705/1.0
+- name: inconfeed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125700/1.0
+- name: inconkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125703/1.0
+- name: inconsteal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125704/1.0
+- name: inconfive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125702/1.0
+- name: inconfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125701/1.0
+- name: inconfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125698/1.0

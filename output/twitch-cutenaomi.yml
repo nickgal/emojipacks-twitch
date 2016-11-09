@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - cutenaomi
 emojis:
-- name: naestar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98226/1.0
-- name: naehi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81311/1.0
-- name: naelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81310/1.0
-- name: naecreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53207/1.0
-- name: naegasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53311/1.0
 - name: naemrt
   src: https://static-cdn.jtvnw.net/emoticons/v1/53394/1.0
 - name: naesad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63909/1.0
-- name: naetato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95107/1.0
-- name: naeoh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100958/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125643/1.0
 - name: naecake
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101510/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125644/1.0
+- name: naemunz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125658/1.0
+- name: naetato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125642/1.0
+- name: naegasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125640/1.0
+- name: naehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125638/1.0
+- name: naecreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125639/1.0
+- name: naepff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125637/1.0
+- name: naelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125753/1.0

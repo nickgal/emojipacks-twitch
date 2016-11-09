@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - eevisu
 emojis:
 - name: eevisuod
   src: https://static-cdn.jtvnw.net/emoticons/v1/113105/1.0
-- name: eevisumomhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41431/1.0
 - name: eevisuclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/60407/1.0
 - name: eevisusplat
@@ -13,11 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78027/1.0
 - name: eevisutheif
   src: https://static-cdn.jtvnw.net/emoticons/v1/81900/1.0
-- name: eevisurip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92641/1.0
-- name: eevisushots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113103/1.0
 - name: eevisubruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/107813/1.0
 - name: eevisuluv
   src: https://static-cdn.jtvnw.net/emoticons/v1/109788/1.0
+- name: eevisub3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123046/1.0
+- name: eevisub1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123043/1.0
+- name: eevisub2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123168/1.0

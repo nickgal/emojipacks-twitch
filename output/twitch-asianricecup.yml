@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - asianricecup
 emojis:
-- name: ricefield
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68568/1.0
-- name: ricepopo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70112/1.0
+- name: ricerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123991/1.0
 - name: ricehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70244/1.0
-- name: ricecup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68567/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123994/1.0
+- name: ricevissy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124549/1.0
+- name: ricerng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125327/1.0
+- name: ricepopo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125300/1.0
+- name: ricegasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125326/1.0

@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - grohlvana
 emojis:
-- name: vanaroy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108709/1.0
 - name: vanadong
   src: https://static-cdn.jtvnw.net/emoticons/v1/105006/1.0
-- name: vanapanels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101330/1.0
-- name: vanawowzer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108135/1.0
 - name: vanahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/104651/1.0
 - name: vanarain
   src: https://static-cdn.jtvnw.net/emoticons/v1/107472/1.0
+- name: vanarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120829/1.0
+- name: vanawow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121438/1.0
+- name: vanaohmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121439/1.0

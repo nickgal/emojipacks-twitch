@@ -5,14 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77377/1.0
 - name: slavikgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/40556/1.0
-- name: slavikgorit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43677/1.0
-- name: slavikmlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77378/1.0
 - name: slavikw
   src: https://static-cdn.jtvnw.net/emoticons/v1/76654/1.0
-- name: slavikpomoika
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87609/1.0
 - name: slavikzerg
   src: https://static-cdn.jtvnw.net/emoticons/v1/86877/1.0
 - name: slavikhype
@@ -21,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100035/1.0
 - name: slavikfeelsbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/117034/1.0
+- name: slavikmlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121578/1.0
+- name: slaviknet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122274/1.0
+- name: slavikrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122466/1.0

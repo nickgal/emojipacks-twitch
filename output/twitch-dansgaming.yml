@@ -27,69 +27,77 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86559/1.0
 - name: danno
   src: https://static-cdn.jtvnw.net/emoticons/v1/51265/1.0
-- name: danhug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116630/1.0
 - name: danw
   src: https://static-cdn.jtvnw.net/emoticons/v1/67263/1.0
-- name: danpalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116603/1.0
 - name: dank
   src: https://static-cdn.jtvnw.net/emoticons/v1/87357/1.0
 - name: dansgame
   src: https://static-cdn.jtvnw.net/emoticons/v1/109603/1.0
-- name: dancry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115258/1.0
-- name: danderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115259/1.0
-- name: danfat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115260/1.0
-- name: danhmm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115261/1.0
-- name: danhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115262/1.0
-- name: danlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115263/1.0
-- name: danwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115272/1.0
-- name: danlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115264/1.0
-- name: danlul
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115265/1.0
-- name: danpuke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115266/1.0
-- name: danrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115267/1.0
 - name: dansad
   src: https://static-cdn.jtvnw.net/emoticons/v1/115268/1.0
-- name: dansun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115269/1.0
-- name: dantroll
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115270/1.0
-- name: danwait
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115271/1.0
 - name: dannope
   src: https://static-cdn.jtvnw.net/emoticons/v1/115273/1.0
-- name: danboo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115274/1.0
 - name: dandead
   src: https://static-cdn.jtvnw.net/emoticons/v1/115275/1.0
-- name: dancash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116148/1.0
-- name: danrude
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116149/1.0
 - name: danyes
   src: https://static-cdn.jtvnw.net/emoticons/v1/116150/1.0
 - name: danrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/116484/1.0
 - name: danhappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/116293/1.0
-- name: dansexy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116294/1.0
-- name: danclap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115303/1.0
+- name: dantriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117223/1.0
+- name: danomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117224/1.0
 - name: danparty
   src: https://static-cdn.jtvnw.net/emoticons/v1/116692/1.0
+- name: danfrench
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117888/1.0
 - name: danamazing
   src: https://static-cdn.jtvnw.net/emoticons/v1/116750/1.0
-- name: danknife
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116805/1.0
+- name: dansilly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119653/1.0
+- name: danohgod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119655/1.0
+- name: danbear
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119754/1.0
+- name: danhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119909/1.0
+- name: danlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123844/1.0
+- name: danfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123830/1.0
+- name: danhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123829/1.0
+- name: danlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123832/1.0
+- name: danhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123834/1.0
+- name: danpuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123833/1.0
+- name: danderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123831/1.0
+- name: dansexy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123835/1.0
+- name: danclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123827/1.0
+- name: danrude
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123838/1.0
+- name: danrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123841/1.0
+- name: dancash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123842/1.0
+- name: dancry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123840/1.0
+- name: dan7
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123828/1.0
+- name: dantroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123843/1.0
+- name: danlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123839/1.0
+- name: danwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123837/1.0
+- name: dansun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123836/1.0
+- name: danpalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124128/1.0

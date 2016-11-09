@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - tehchanceshow
 emojis:
-- name: tcsaemblem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86514/1.0
+- name: tcsatcspoint
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119011/1.0
+- name: tcsatcsgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120461/1.0

@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - roll4it
 emojis:
 - name: rollnuyen
   src: https://static-cdn.jtvnw.net/emoticons/v1/95637/1.0
-- name: rollcaber
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106512/1.0
 - name: rollpug
   src: https://static-cdn.jtvnw.net/emoticons/v1/106513/1.0
 - name: rolllonestar
   src: https://static-cdn.jtvnw.net/emoticons/v1/106516/1.0
-- name: rollfreeze
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106515/1.0
 - name: rolldoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/106514/1.0
+- name: rollcass
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123000/1.0
+- name: rollgarr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123001/1.0
+- name: rollbran
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122998/1.0
+- name: rollcaro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122999/1.0

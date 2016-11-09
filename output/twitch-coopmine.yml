@@ -11,9 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/96889/1.0
 - name: bibermok
   src: https://static-cdn.jtvnw.net/emoticons/v1/104615/1.0
-- name: bibersalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98939/1.0
 - name: biberraus
   src: https://static-cdn.jtvnw.net/emoticons/v1/109027/1.0
 - name: biberfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/109026/1.0
+- name: biberkotz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125489/1.0
+- name: biberfunkel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125490/1.0
+- name: biberwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125491/1.0

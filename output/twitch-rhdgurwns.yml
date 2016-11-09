@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - rhdgurwns
 emojis:
 - name: gongw
   src: https://static-cdn.jtvnw.net/emoticons/v1/65558/1.0
-- name: gongna
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68067/1.0
-- name: gongnaru
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95681/1.0
 - name: gongsm
   src: https://static-cdn.jtvnw.net/emoticons/v1/91323/1.0
 - name: gongjo
   src: https://static-cdn.jtvnw.net/emoticons/v1/114417/1.0
 - name: gongeat
   src: https://static-cdn.jtvnw.net/emoticons/v1/115242/1.0
+- name: gongsn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117934/1.0
+- name: gonghh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118780/1.0

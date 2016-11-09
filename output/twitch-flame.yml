@@ -5,11 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105474/1.0
 - name: flmflame
   src: https://static-cdn.jtvnw.net/emoticons/v1/114908/1.0
-- name: flmeggplant
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105475/1.0
 - name: flmdog
   src: https://static-cdn.jtvnw.net/emoticons/v1/114595/1.0
+- name: flmspooky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119321/1.0
 - name: flmbot
   src: https://static-cdn.jtvnw.net/emoticons/v1/115968/1.0
 - name: flmfeed
   src: https://static-cdn.jtvnw.net/emoticons/v1/116705/1.0
+- name: flmult
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118151/1.0
+- name: flmsombra
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117905/1.0

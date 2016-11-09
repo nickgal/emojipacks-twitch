@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - firecrow
 emojis:
 - name: frcrhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/39230/1.0
-- name: frcrsalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34278/1.0
 - name: frcrlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/38013/1.0
 - name: frcrdoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/33223/1.0
-- name: frcrcaw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32596/1.0
 - name: frcrcheers
   src: https://static-cdn.jtvnw.net/emoticons/v1/33063/1.0
 - name: frcrkawaii
   src: https://static-cdn.jtvnw.net/emoticons/v1/35221/1.0
 - name: frcrderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/60046/1.0
+- name: frcrrdf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117925/1.0
+- name: frcrrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117931/1.0

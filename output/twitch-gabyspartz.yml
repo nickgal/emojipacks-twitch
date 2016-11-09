@@ -1,23 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - gabyspartz
 emojis:
-- name: gabyno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55340/1.0
 - name: gabyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/54466/1.0
 - name: gabyviper
   src: https://static-cdn.jtvnw.net/emoticons/v1/47159/1.0
-- name: gabyrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47160/1.0
-- name: gabyomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64287/1.0
 - name: gabywheee
   src: https://static-cdn.jtvnw.net/emoticons/v1/64288/1.0
 - name: gabydeece
   src: https://static-cdn.jtvnw.net/emoticons/v1/92634/1.0
-- name: gabysick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93249/1.0
 - name: gabyclock
   src: https://static-cdn.jtvnw.net/emoticons/v1/102939/1.0
+- name: gabyloose
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122639/1.0
 - name: gabyaggro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/102922/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122637/1.0
+- name: gabylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123562/1.0
+- name: gabyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123561/1.0
+- name: gabygarbo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123560/1.0
+- name: gabychair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123558/1.0
+- name: gabyfacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123559/1.0
+- name: gabyrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123565/1.0
+- name: gabythump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123569/1.0
+- name: gabyrtfc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123574/1.0

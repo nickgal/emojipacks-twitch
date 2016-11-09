@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - julia_tv
 emojis:
-- name: juliawtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6822/1.0
 - name: juliahai
   src: https://static-cdn.jtvnw.net/emoticons/v1/6852/1.0
 - name: juliarip
@@ -11,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/13901/1.0
 - name: juliaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/44144/1.0
-- name: juliashrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24412/1.0
 - name: juliahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/32526/1.0
 - name: juliachair
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59405/1.0
 - name: juliah
   src: https://static-cdn.jtvnw.net/emoticons/v1/59560/1.0
+- name: juliao
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120422/1.0
+- name: juliawtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120424/1.0

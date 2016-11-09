@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67812/1.0
 - name: mewnaa1
   src: https://static-cdn.jtvnw.net/emoticons/v1/91813/1.0
-- name: mewnf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69050/1.0
 - name: mewnnose
   src: https://static-cdn.jtvnw.net/emoticons/v1/74224/1.0
 - name: mewnstory
@@ -19,5 +17,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116347/1.0
 - name: mewnmisty
   src: https://static-cdn.jtvnw.net/emoticons/v1/116311/1.0
+- name: mewngasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117879/1.0
 - name: mewng
   src: https://static-cdn.jtvnw.net/emoticons/v1/116778/1.0
+- name: mewnspace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121965/1.0
+- name: mewnd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122945/1.0

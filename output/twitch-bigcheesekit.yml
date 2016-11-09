@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - bigcheesekit
 emojis:
-- name: bckitdab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100077/1.0
 - name: bckitc
   src: https://static-cdn.jtvnw.net/emoticons/v1/104419/1.0
+- name: bckitb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122409/1.0
+- name: bckitf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122561/1.0
+- name: bckitk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125238/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - lettalaquarius
 emojis:
-- name: lettalchuchu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97400/1.0
 - name: lettalchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/115188/1.0
 - name: lettalh
@@ -19,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115194/1.0
 - name: lettallul
   src: https://static-cdn.jtvnw.net/emoticons/v1/115195/1.0
-- name: lettalqq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115196/1.0
 - name: lettalkriko
   src: https://static-cdn.jtvnw.net/emoticons/v1/115197/1.0
 - name: lettalrage
@@ -29,3 +25,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115199/1.0
 - name: lettalhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/115200/1.0
+- name: lettaldown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119623/1.0
+- name: lettalqq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119659/1.0
+- name: lettalno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122773/1.0
+- name: lettalhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122826/1.0
+- name: lettalhm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122820/1.0
+- name: lettalpuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122832/1.0
+- name: lettalzzz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122840/1.0
+- name: lettalw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122853/1.0

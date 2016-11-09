@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - draskia
 emojis:
-- name: drascat1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82394/1.0
-- name: drascat2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82395/1.0
-- name: drasderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71167/1.0
-- name: drasmort
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71165/1.0
-- name: drasraid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71166/1.0
-- name: drashype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71164/1.0
 - name: drasheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71163/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124428/1.0
+- name: drasmort
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124427/1.0
+- name: draslurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124441/1.0
+- name: drasrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124435/1.0
+- name: drasrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124434/1.0
+- name: drashype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124433/1.0
 - name: drasthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71981/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124431/1.0
+- name: drasderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124430/1.0

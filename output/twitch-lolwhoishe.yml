@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - lolwhoishe
 emojis:
-- name: huhibae
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74122/1.0
 - name: huhisad
   src: https://static-cdn.jtvnw.net/emoticons/v1/116090/1.0
 - name: huhidab
   src: https://static-cdn.jtvnw.net/emoticons/v1/115445/1.0
+- name: huhilul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117172/1.0
+- name: huhiw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125218/1.0
+- name: huhichamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125215/1.0
+- name: huhiwat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125483/1.0

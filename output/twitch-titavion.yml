@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - titavion
 emojis:
-- name: titavmariohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95682/1.0
 - name: titavchoco
   src: https://static-cdn.jtvnw.net/emoticons/v1/91984/1.0
-- name: titavlinkhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93312/1.0
 - name: titavsoftlock
   src: https://static-cdn.jtvnw.net/emoticons/v1/100566/1.0
-- name: titavsonichype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103044/1.0
-- name: titavmegahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104146/1.0
+- name: titavmock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118907/1.0
+- name: titavrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118908/1.0
+- name: titavlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119833/1.0
+- name: titavlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119832/1.0
+- name: titavdead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120081/1.0
+- name: titavsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120082/1.0

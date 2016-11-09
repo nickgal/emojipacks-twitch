@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - elyyt
 emojis:
 - name: elyytlit
   src: https://static-cdn.jtvnw.net/emoticons/v1/76509/1.0
-- name: elyytnation
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103172/1.0
-- name: elyytface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92430/1.0
 - name: elyytriot
   src: https://static-cdn.jtvnw.net/emoticons/v1/75621/1.0
 - name: elyytgoal

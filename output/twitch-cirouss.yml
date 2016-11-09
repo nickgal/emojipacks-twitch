@@ -3,6 +3,14 @@ title: Twitch Subscriber Emotes - cirouss
 emojis:
 - name: cirolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/104952/1.0
+- name: cirorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119022/1.0
+- name: cirogeil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119023/1.0
+- name: cirofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119024/1.0
+- name: cirofbm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119026/1.0
 - name: cirorip
   src: https://static-cdn.jtvnw.net/emoticons/v1/73158/1.0
 - name: cirobye
@@ -11,13 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109608/1.0
 - name: cirogg
   src: https://static-cdn.jtvnw.net/emoticons/v1/73463/1.0
-- name: cirofbm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109586/1.0
-- name: cirofail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109585/1.0
+- name: cirogasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119210/1.0
 - name: cirosad
   src: https://static-cdn.jtvnw.net/emoticons/v1/94217/1.0
 - name: cirohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/94218/1.0
 - name: cirohi
   src: https://static-cdn.jtvnw.net/emoticons/v1/103300/1.0
+- name: ciroderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119019/1.0
+- name: ciromoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119021/1.0

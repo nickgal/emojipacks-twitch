@@ -9,15 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89287/1.0
 - name: genewut
   src: https://static-cdn.jtvnw.net/emoticons/v1/89286/1.0
-- name: genenoice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89312/1.0
 - name: genelg
   src: https://static-cdn.jtvnw.net/emoticons/v1/89476/1.0
 - name: genedo
   src: https://static-cdn.jtvnw.net/emoticons/v1/90360/1.0
 - name: genegasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/91226/1.0
-- name: geneno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93138/1.0
 - name: geneball
   src: https://static-cdn.jtvnw.net/emoticons/v1/93137/1.0
+- name: genelul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123704/1.0
+- name: genefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123701/1.0

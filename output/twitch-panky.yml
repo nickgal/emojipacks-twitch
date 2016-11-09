@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - panky
 emojis:
 - name: pankaim
   src: https://static-cdn.jtvnw.net/emoticons/v1/85965/1.0
+- name: pankraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119451/1.0
 - name: panklove
   src: https://static-cdn.jtvnw.net/emoticons/v1/102445/1.0
 - name: pankrip
@@ -17,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105188/1.0
 - name: panksweat
   src: https://static-cdn.jtvnw.net/emoticons/v1/106440/1.0
+- name: pankgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120328/1.0

@@ -1,12 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ramez05
 emojis:
-- name: rmzfacepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80358/1.0
-- name: rmzhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80360/1.0
-- name: rmzbackpack
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32228/1.0
 - name: rmzlurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/80359/1.0
 - name: rmzlove
@@ -21,3 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62702/1.0
 - name: rmzlit
   src: https://static-cdn.jtvnw.net/emoticons/v1/80532/1.0
+- name: rmzbackpack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123619/1.0
+- name: rmzflirt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123620/1.0
+- name: rmzwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123624/1.0
+- name: rmzthirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123631/1.0
+- name: rmzdb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123625/1.0
+- name: rmzdude
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123762/1.0
+- name: rmzrigged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123879/1.0
+- name: rmzlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123968/1.0

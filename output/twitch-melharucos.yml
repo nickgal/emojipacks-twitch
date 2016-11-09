@@ -7,17 +7,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74308/1.0
 - name: melyoba
   src: https://static-cdn.jtvnw.net/emoticons/v1/18975/1.0
-- name: melj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32770/1.0
-- name: melrak
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53599/1.0
 - name: melswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/61348/1.0
-- name: melsleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69120/1.0
 - name: melpride
   src: https://static-cdn.jtvnw.net/emoticons/v1/74845/1.0
 - name: mellove
   src: https://static-cdn.jtvnw.net/emoticons/v1/76292/1.0
 - name: melhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/84146/1.0
+- name: melj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121618/1.0
+- name: melrak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121619/1.0
+- name: melrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122575/1.0

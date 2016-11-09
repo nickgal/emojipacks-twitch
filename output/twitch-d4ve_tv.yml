@@ -3,17 +3,15 @@ title: Twitch Subscriber Emotes - d4ve_tv
 emojis:
 - name: d4vevac
   src: https://static-cdn.jtvnw.net/emoticons/v1/108875/1.0
-- name: d4vehey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112926/1.0
-- name: d4vef
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103648/1.0
 - name: d4verekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/106608/1.0
 - name: d4veheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/106607/1.0
-- name: d4veeagle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105546/1.0
-- name: d4vesavage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105543/1.0
 - name: d4vehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/105542/1.0
+- name: d4vegoldface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120655/1.0
+- name: d4vecreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121076/1.0
+- name: d4vehey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121797/1.0

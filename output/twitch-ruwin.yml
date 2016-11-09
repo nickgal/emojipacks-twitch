@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - ruwin
 emojis:
 - name: ruwbub
   src: https://static-cdn.jtvnw.net/emoticons/v1/2048/1.0
-- name: ruww
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32079/1.0
 - name: ruwgrill
   src: https://static-cdn.jtvnw.net/emoticons/v1/32655/1.0
 - name: ruwcree
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/111144/1.0
 - name: ruwhaa
   src: https://static-cdn.jtvnw.net/emoticons/v1/113971/1.0
+- name: ruww
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124986/1.0

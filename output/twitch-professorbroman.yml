@@ -39,8 +39,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59252/1.0
 - name: thickcute
   src: https://static-cdn.jtvnw.net/emoticons/v1/97695/1.0
-- name: thickcash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86809/1.0
 - name: thickham
   src: https://static-cdn.jtvnw.net/emoticons/v1/63170/1.0
 - name: thickzap
@@ -83,11 +81,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113608/1.0
 - name: thicksmart
   src: https://static-cdn.jtvnw.net/emoticons/v1/116680/1.0
-- name: thickwhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116679/1.0
 - name: thickpls
   src: https://static-cdn.jtvnw.net/emoticons/v1/116678/1.0
-- name: thicksleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116682/1.0
 - name: thicksecret
   src: https://static-cdn.jtvnw.net/emoticons/v1/116691/1.0
+- name: thickcring
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119484/1.0
+- name: thickcarry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119485/1.0
+- name: thickwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121093/1.0
+- name: thickcireating
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121096/1.0
+- name: thickkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121094/1.0
+- name: thickbus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121092/1.0
+- name: thickcash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124333/1.0
+- name: thickcs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125808/1.0

@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - demoon9
 emojis:
 - name: demfescat
   src: https://static-cdn.jtvnw.net/emoticons/v1/1883/1.0
-- name: demlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15896/1.0
 - name: demmai
   src: https://static-cdn.jtvnw.net/emoticons/v1/21349/1.0
 - name: demoiii
   src: https://static-cdn.jtvnw.net/emoticons/v1/37215/1.0
-- name: dembo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96125/1.0
-- name: demwink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96126/1.0
 - name: demlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/96123/1.0
 - name: demcookie
   src: https://static-cdn.jtvnw.net/emoticons/v1/96201/1.0
+- name: demlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124090/1.0
+- name: demchibi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124092/1.0
+- name: demchoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124095/1.0

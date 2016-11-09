@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - jogandoplay
 emojis:
-- name: playmita
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116423/1.0
 - name: playlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115538/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124461/1.0
+- name: playmita
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124460/1.0
+- name: playkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124458/1.0
+- name: playoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124456/1.0

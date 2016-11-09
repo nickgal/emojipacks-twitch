@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97834/1.0
 - name: pbgamingaxe
   src: https://static-cdn.jtvnw.net/emoticons/v1/96373/1.0
-- name: pbgamingbang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96374/1.0
 - name: pbgaminggoodguys
   src: https://static-cdn.jtvnw.net/emoticons/v1/96505/1.0
 - name: pbgamingpar
@@ -15,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116309/1.0
 - name: pbgamingbn
   src: https://static-cdn.jtvnw.net/emoticons/v1/116348/1.0
+- name: pbgaminglegend
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120574/1.0
+- name: pbgamingcwl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124222/1.0
+- name: pbgamingwhf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124221/1.0
+- name: pbgamingrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124220/1.0

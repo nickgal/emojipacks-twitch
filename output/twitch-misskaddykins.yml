@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82814/1.0
 - name: kadconcern
   src: https://static-cdn.jtvnw.net/emoticons/v1/84449/1.0
-- name: kadblush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109363/1.0
 - name: kadshades
   src: https://static-cdn.jtvnw.net/emoticons/v1/109364/1.0
 - name: kadlove
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109367/1.0
 - name: kadwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/109368/1.0
+- name: kadb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121044/1.0

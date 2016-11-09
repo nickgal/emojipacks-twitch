@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - squiiddish
 emojis:
 - name: squidbettol
   src: https://static-cdn.jtvnw.net/emoticons/v1/4013/1.0
-- name: squidkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4015/1.0
 - name: squidsol
   src: https://static-cdn.jtvnw.net/emoticons/v1/11080/1.0
 - name: squidsteven
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51962/1.0
 - name: squidstar
   src: https://static-cdn.jtvnw.net/emoticons/v1/66714/1.0
+- name: squidpew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123004/1.0

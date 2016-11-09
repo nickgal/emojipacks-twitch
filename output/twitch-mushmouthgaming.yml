@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mushmouthgaming
 emojis:
-- name: mmghype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32459/1.0
-- name: mmgrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32463/1.0
-- name: mmgrek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53930/1.0
 - name: mmgmush
   src: https://static-cdn.jtvnw.net/emoticons/v1/54522/1.0
+- name: mmghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119071/1.0
+- name: mmgyou
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119072/1.0
+- name: mmgcutt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118909/1.0
+- name: mmgwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119151/1.0
+- name: mmgthe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119446/1.0

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10517/1.0
 - name: lucahgurl
   src: https://static-cdn.jtvnw.net/emoticons/v1/10805/1.0
-- name: lucahgoom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12055/1.0
 - name: lucahshuu
   src: https://static-cdn.jtvnw.net/emoticons/v1/27782/1.0
 - name: lucahwing
@@ -19,5 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81911/1.0
 - name: lucahhello
   src: https://static-cdn.jtvnw.net/emoticons/v1/82064/1.0
-- name: lucahjasdog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82073/1.0
+- name: lucahbagel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118509/1.0
+- name: lucahchug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118510/1.0

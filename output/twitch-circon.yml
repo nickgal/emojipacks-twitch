@@ -17,17 +17,27 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35775/1.0
 - name: circem
   src: https://static-cdn.jtvnw.net/emoticons/v1/62714/1.0
-- name: circrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62783/1.0
 - name: circhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/91822/1.0
 - name: circcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/91823/1.0
 - name: circpalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/91824/1.0
-- name: circteam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91825/1.0
 - name: circg
   src: https://static-cdn.jtvnw.net/emoticons/v1/91826/1.0
 - name: circ7
   src: https://static-cdn.jtvnw.net/emoticons/v1/91827/1.0
+- name: circjaws
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119916/1.0
+- name: circmeme
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119917/1.0
+- name: circgief
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119915/1.0
+- name: circtrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119913/1.0
+- name: circlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119912/1.0
+- name: circamazing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119911/1.0
+- name: circrng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119910/1.0

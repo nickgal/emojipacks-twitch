@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - tokenasty
 emojis:
-- name: tokeplays
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65568/1.0
 - name: tokeface
   src: https://static-cdn.jtvnw.net/emoticons/v1/39272/1.0
-- name: tokehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39271/1.0
-- name: tokehyped
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65533/1.0
-- name: tokebeast
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65534/1.0
-- name: tokebruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65532/1.0
-- name: tokedude
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65531/1.0
 - name: tokelurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/40102/1.0
+- name: tokegoat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117759/1.0
+- name: tokebeard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117761/1.0
+- name: toketrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117762/1.0
+- name: tokejordan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117763/1.0
+- name: tokedab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119203/1.0
+- name: tokeshh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119969/1.0

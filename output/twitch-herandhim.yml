@@ -11,9 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81990/1.0
 - name: hahlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/81992/1.0
-- name: hahyellow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105868/1.0
-- name: hahred
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105867/1.0
-- name: hahblue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105865/1.0
+- name: hahfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124870/1.0
+- name: hahlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124892/1.0
+- name: hahflock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125016/1.0

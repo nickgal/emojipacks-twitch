@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/18888/1.0
 - name: mugslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/72100/1.0
-- name: mugsfeel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72099/1.0
 - name: mugshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/71971/1.0
 - name: mugsfist
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89432/1.0
 - name: mugscry
   src: https://static-cdn.jtvnw.net/emoticons/v1/107701/1.0
+- name: mugsomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124047/1.0

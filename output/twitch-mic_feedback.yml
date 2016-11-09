@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - mic_feedback
 emojis:
 - name: micfriendzoni
   src: https://static-cdn.jtvnw.net/emoticons/v1/15537/1.0
-- name: miclewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64586/1.0
 - name: miceyy
   src: https://static-cdn.jtvnw.net/emoticons/v1/52967/1.0
-- name: micwhy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74924/1.0
 - name: micyay
   src: https://static-cdn.jtvnw.net/emoticons/v1/74901/1.0
 - name: micpunchies
@@ -17,7 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71798/1.0
 - name: mick
   src: https://static-cdn.jtvnw.net/emoticons/v1/104888/1.0
-- name: micdrop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104887/1.0
+- name: miclewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120603/1.0
 - name: micdab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107917/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120600/1.0
+- name: micowo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120890/1.0
+- name: micthebits
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121375/1.0

@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - octane
 emojis:
 - name: octbruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/101471/1.0
-- name: octok
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101470/1.0
 - name: octgodlike
   src: https://static-cdn.jtvnw.net/emoticons/v1/76004/1.0
 - name: octpack
   src: https://static-cdn.jtvnw.net/emoticons/v1/76007/1.0
 - name: octsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76030/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120799/1.0
+- name: octhitmarker
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120797/1.0
 - name: octgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100864/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120795/1.0

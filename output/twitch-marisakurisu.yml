@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - marisakurisu
 emojis:
-- name: mariomgosh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115699/1.0
-- name: mariomgwtf
+- name: marisawtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/115700/1.0
-- name: mariomgpiki
+- name: marisapiki
   src: https://static-cdn.jtvnw.net/emoticons/v1/116788/1.0
-- name: mariomgban
+- name: marisaban
   src: https://static-cdn.jtvnw.net/emoticons/v1/116787/1.0
+- name: marisaomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117407/1.0
+- name: marisarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120783/1.0
+- name: marisacool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120784/1.0

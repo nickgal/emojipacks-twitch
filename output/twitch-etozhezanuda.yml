@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - etozhezanuda
 emojis:
 - name: etzkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/81055/1.0
-- name: etz3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56951/1.0
 - name: etzbadman
   src: https://static-cdn.jtvnw.net/emoticons/v1/99336/1.0
 - name: etzrage
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81051/1.0
 - name: etzwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/109116/1.0
+- name: etz3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120030/1.0

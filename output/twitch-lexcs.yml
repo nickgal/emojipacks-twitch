@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - lexcs
 emojis:
-- name: lexcshype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109266/1.0
 - name: lexcsusa
   src: https://static-cdn.jtvnw.net/emoticons/v1/109265/1.0
 - name: lexcsnana
@@ -20,4 +18,6 @@ emojis:
 - name: lexcskappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/109098/1.0
 - name: lexcsmythic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112758/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119819/1.0
+- name: lexcsmvp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119932/1.0

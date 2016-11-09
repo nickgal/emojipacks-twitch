@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - kaykrisify
 emojis:
 - name: kayysponge
   src: https://static-cdn.jtvnw.net/emoticons/v1/101322/1.0
-- name: kayywot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101320/1.0
 - name: kayyusd
   src: https://static-cdn.jtvnw.net/emoticons/v1/101307/1.0
 - name: kayyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/101306/1.0
-- name: kayye
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101568/1.0
 - name: kayypls
   src: https://static-cdn.jtvnw.net/emoticons/v1/101314/1.0
-- name: kayycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/102452/1.0
 - name: kayyrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/106923/1.0
+- name: kayycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120241/1.0
+- name: kayylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120242/1.0
+- name: kayywhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120243/1.0

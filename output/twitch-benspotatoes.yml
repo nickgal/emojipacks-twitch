@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - benspotatoes
 emojis:
-- name: tnkidale
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32230/1.0
 - name: tnkiwat
   src: https://static-cdn.jtvnw.net/emoticons/v1/83708/1.0
-- name: tnkicorgi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31380/1.0
 - name: tnkiderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/76412/1.0
+- name: tnkimaybe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121286/1.0
+- name: tnkinull
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121287/1.0

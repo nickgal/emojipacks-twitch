@@ -3,12 +3,6 @@ title: Twitch Subscriber Emotes - stpeach
 emojis:
 - name: peacheww
   src: https://static-cdn.jtvnw.net/emoticons/v1/86993/1.0
-- name: peachgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90725/1.0
-- name: peach7
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90720/1.0
-- name: peachchoked
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90727/1.0
 - name: peachhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/90722/1.0
 - name: peachlove
@@ -17,3 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106615/1.0
 - name: peachleo
   src: https://static-cdn.jtvnw.net/emoticons/v1/106616/1.0
+- name: peachcringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121284/1.0
+- name: peachrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121283/1.0
+- name: peachdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121282/1.0
+- name: peachthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124144/1.0
+- name: peachgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124354/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - clintstevens
 emojis:
-- name: clintgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71041/1.0
 - name: clintrem
   src: https://static-cdn.jtvnw.net/emoticons/v1/108694/1.0
 - name: clintj
@@ -31,3 +29,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113563/1.0
 - name: clintl
   src: https://static-cdn.jtvnw.net/emoticons/v1/113564/1.0
+- name: clintr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120704/1.0
+- name: clintaww
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122708/1.0
+- name: clintgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122706/1.0

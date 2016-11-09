@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - richard_hammer
 emojis:
 - name: richyolo
   src: https://static-cdn.jtvnw.net/emoticons/v1/6912/1.0
-- name: richjudgy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6913/1.0
 - name: richlip
   src: https://static-cdn.jtvnw.net/emoticons/v1/8196/1.0
 - name: richbling
@@ -21,10 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55927/1.0
 - name: richhandy
   src: https://static-cdn.jtvnw.net/emoticons/v1/28620/1.0
-- name: richsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28619/1.0
-- name: richgrump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28618/1.0
 - name: richsadb
   src: https://static-cdn.jtvnw.net/emoticons/v1/30808/1.0
 - name: richwaffle
@@ -33,11 +27,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55929/1.0
 - name: richard
   src: https://static-cdn.jtvnw.net/emoticons/v1/55931/1.0
-- name: rich1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50992/1.0
-- name: rich2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50993/1.0
-- name: rich3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50994/1.0
 - name: richh
   src: https://static-cdn.jtvnw.net/emoticons/v1/70713/1.0
+- name: richsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118006/1.0
+- name: richhappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118007/1.0
+- name: richl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118008/1.0
+- name: richr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118009/1.0
+- name: richyuck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118010/1.0
+- name: richsmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118011/1.0

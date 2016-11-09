@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - sugussusana
 emojis:
-- name: sugusrengar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115680/1.0
-- name: sugustaiga
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115679/1.0
-- name: suguslag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113887/1.0
+- name: suguscat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119495/1.0
 - name: sugusfichas
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115214/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119491/1.0
 - name: sugushype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116356/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119492/1.0
 - name: suguswtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114251/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119500/1.0
+- name: suguspro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119494/1.0
+- name: sugussad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119497/1.0
+- name: suguslag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119493/1.0
+- name: sugusgram
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120057/1.0

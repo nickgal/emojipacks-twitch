@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - liffex
 emojis:
-- name: liffexcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115130/1.0
-- name: liffexfire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115129/1.0
-- name: liffexlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115128/1.0
-- name: liffexkolbasa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114775/1.0
 - name: liffexdoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/114795/1.0
+- name: liffexlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117804/1.0
+- name: liffexcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117805/1.0
+- name: liffexfire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117807/1.0
+- name: liffexrofl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118882/1.0
 - name: liffexcoffee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114970/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118883/1.0
+- name: liffexkolbasa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117809/1.0
+- name: liffexlappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119290/1.0

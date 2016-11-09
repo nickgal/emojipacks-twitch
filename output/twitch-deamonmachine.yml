@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - deamonmachine
 emojis:
 - name: deamonface
   src: https://static-cdn.jtvnw.net/emoticons/v1/24739/1.0
-- name: deamonpancakes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30779/1.0
 - name: deamonhead
   src: https://static-cdn.jtvnw.net/emoticons/v1/24421/1.0
-- name: deamontoad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26450/1.0
 - name: deamontoffee
   src: https://static-cdn.jtvnw.net/emoticons/v1/31300/1.0
+- name: deamonblood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120505/1.0
+- name: deamonwrench
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120765/1.0
 - name: deamonjera
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30693/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121246/1.0

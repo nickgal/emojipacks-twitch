@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lilmaemaegaming
 emojis:
-- name: lmmpae
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62810/1.0
-- name: lmmmoo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66455/1.0
 - name: lmmhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79902/1.0
-- name: lmmpreach
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79903/1.0
-- name: lmmlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79904/1.0
-- name: lmmthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79905/1.0
-- name: lmmsass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79906/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119048/1.0
 - name: lmmrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79907/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119053/1.0
+- name: lmmhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119047/1.0
+- name: lmmlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119049/1.0
+- name: lmmmoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119050/1.0
+- name: lmmnom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119051/1.0
+- name: lmmpae
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119052/1.0
+- name: lmmthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119054/1.0

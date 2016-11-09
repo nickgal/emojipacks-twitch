@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - dopeyferes
 emojis:
-- name: premiumtempus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29532/1.0
 - name: premiumnaranjas
   src: https://static-cdn.jtvnw.net/emoticons/v1/29531/1.0
+- name: premiumforocoches
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119106/1.0
+- name: premiumrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118490/1.0
 - name: premiumperilla
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51664/1.0
-- name: premiumorco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50617/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120306/1.0
+- name: premiumjalabi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120307/1.0
+- name: premiumpepaso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120305/1.0

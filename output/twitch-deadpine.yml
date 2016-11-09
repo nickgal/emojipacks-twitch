@@ -13,11 +13,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29451/1.0
 - name: pinehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/40063/1.0
-- name: pineeww
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46303/1.0
 - name: pinecreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/53490/1.0
-- name: pineblind
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62733/1.0
 - name: pinefresh
   src: https://static-cdn.jtvnw.net/emoticons/v1/62732/1.0
+- name: pinelurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117741/1.0
+- name: pinebonk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117740/1.0
+- name: pineblind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119845/1.0
+- name: pineno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119961/1.0
+- name: pinewave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120729/1.0
+- name: pinefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120728/1.0
+- name: pinebad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120956/1.0

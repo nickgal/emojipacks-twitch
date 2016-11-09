@@ -5,14 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52617/1.0
 - name: jazzhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/56350/1.0
-- name: jazzl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104520/1.0
-- name: jazzm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103090/1.0
 - name: jazzcute
   src: https://static-cdn.jtvnw.net/emoticons/v1/107413/1.0
-- name: jazzsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108516/1.0
 - name: jazzdab
   src: https://static-cdn.jtvnw.net/emoticons/v1/108517/1.0
 - name: jazzeww
@@ -21,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114563/1.0
 - name: jazzh
   src: https://static-cdn.jtvnw.net/emoticons/v1/114440/1.0
+- name: jazzsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124265/1.0
+- name: jazzl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124264/1.0
+- name: jazzugh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124263/1.0

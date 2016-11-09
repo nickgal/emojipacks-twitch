@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - bubblesdelfuego
 emojis:
 - name: bubkotaku
   src: https://static-cdn.jtvnw.net/emoticons/v1/89009/1.0
-- name: bubwhy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89024/1.0
 - name: bubslow
   src: https://static-cdn.jtvnw.net/emoticons/v1/106360/1.0
 - name: bubserious
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84305/1.0
 - name: bubisaac
   src: https://static-cdn.jtvnw.net/emoticons/v1/85064/1.0
+- name: bubfeelsbatman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119001/1.0

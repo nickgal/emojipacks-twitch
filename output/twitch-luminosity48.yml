@@ -1,35 +1,53 @@
 ---
 title: Twitch Subscriber Emotes - luminosity48
 emojis:
-- name: luminw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87059/1.0
-- name: luminb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87062/1.0
-- name: luminwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87063/1.0
-- name: luminr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87060/1.0
-- name: luminh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87058/1.0
 - name: lumink
   src: https://static-cdn.jtvnw.net/emoticons/v1/81045/1.0
-- name: luminc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87057/1.0
 - name: lumina
   src: https://static-cdn.jtvnw.net/emoticons/v1/95005/1.0
 - name: lumins
   src: https://static-cdn.jtvnw.net/emoticons/v1/60671/1.0
 - name: luminhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/60670/1.0
-- name: luminmilk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62938/1.0
 - name: luminn
   src: https://static-cdn.jtvnw.net/emoticons/v1/81284/1.0
 - name: luminbaby
   src: https://static-cdn.jtvnw.net/emoticons/v1/60430/1.0
 - name: luminbsk
   src: https://static-cdn.jtvnw.net/emoticons/v1/60431/1.0
-- name: luminrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87083/1.0
 - name: luminy
   src: https://static-cdn.jtvnw.net/emoticons/v1/112868/1.0
+- name: luminpf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119750/1.0
+- name: luminz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119746/1.0
+- name: luminsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119743/1.0
+- name: luminrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119742/1.0
+- name: luminhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119740/1.0
+- name: luminlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119738/1.0
+- name: luminhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119739/1.0
+- name: luminlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119741/1.0
+- name: luminhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119736/1.0
+- name: lumingg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119735/1.0
+- name: lumincute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119734/1.0
+- name: lumincry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119733/1.0
+- name: luminw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123041/1.0
+- name: luminwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123038/1.0
+- name: luminc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123039/1.0
+- name: luminm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123037/1.0
+- name: luminb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123036/1.0

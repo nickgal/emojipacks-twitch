@@ -9,10 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/15734/1.0
 - name: koolwally
   src: https://static-cdn.jtvnw.net/emoticons/v1/15957/1.0
-- name: koolschool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16372/1.0
-- name: koolknights
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16380/1.0
 - name: koolshane
   src: https://static-cdn.jtvnw.net/emoticons/v1/18624/1.0
 - name: koolfish
@@ -25,9 +21,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29760/1.0
 - name: koolclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/32645/1.0
-- name: koolclan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32644/1.0
-- name: koolbreath
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32643/1.0
 - name: koolcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/89810/1.0
+- name: koolhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124978/1.0
+- name: koollol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124977/1.0

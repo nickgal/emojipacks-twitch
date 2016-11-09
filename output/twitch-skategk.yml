@@ -5,15 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/90836/1.0
 - name: sk8clown
   src: https://static-cdn.jtvnw.net/emoticons/v1/90837/1.0
-- name: sk8dracula
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90839/1.0
-- name: sk8knight
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90841/1.0
 - name: sk8lucha
   src: https://static-cdn.jtvnw.net/emoticons/v1/90842/1.0
 - name: sk8joy
   src: https://static-cdn.jtvnw.net/emoticons/v1/90843/1.0
-- name: sk8euro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103471/1.0
 - name: sk8drink
   src: https://static-cdn.jtvnw.net/emoticons/v1/103472/1.0
+- name: sk8sleepy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124931/1.0
+- name: sk8falling
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124922/1.0
+- name: sk8eighteenplus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124921/1.0

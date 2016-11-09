@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - spareosu
 emojis:
-- name: sparechicken
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86739/1.0
 - name: sparew
   src: https://static-cdn.jtvnw.net/emoticons/v1/86738/1.0
 - name: sparez
   src: https://static-cdn.jtvnw.net/emoticons/v1/87393/1.0
+- name: sparelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124448/1.0
+- name: sparelewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124421/1.0
 - name: sparehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87392/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125051/1.0
+- name: sparechicken
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125341/1.0

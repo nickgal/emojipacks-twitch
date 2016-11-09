@@ -13,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37281/1.0
 - name: zrtaient
   src: https://static-cdn.jtvnw.net/emoticons/v1/37283/1.0
-- name: zrtomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36085/1.0
 - name: zrtkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/36084/1.0
 - name: zrtargent
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75122/1.0
 - name: zrtcplus
   src: https://static-cdn.jtvnw.net/emoticons/v1/75124/1.0
+- name: zrtoui
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122070/1.0

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100419/1.0
 - name: alasrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/108050/1.0
-- name: alasairdrop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100430/1.0
 - name: alashype
   src: https://static-cdn.jtvnw.net/emoticons/v1/101971/1.0
 - name: alasbam
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106829/1.0
 - name: alasfacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/105533/1.0
+- name: alastrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118644/1.0

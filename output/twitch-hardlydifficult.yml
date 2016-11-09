@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - hardlydifficult
 emojis:
 - name: hardlyheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/114162/1.0
-- name: hardlythinking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96577/1.0
 - name: hardlyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/97117/1.0
 - name: hardlyfeature
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113331/1.0
 - name: hardlyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/113967/1.0
+- name: hardlybye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121640/1.0

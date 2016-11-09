@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - crream
 emojis:
-- name: crreamaj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/894/1.0
 - name: crreamsc
   src: https://static-cdn.jtvnw.net/emoticons/v1/896/1.0
 - name: crreamfb
@@ -13,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/8780/1.0
 - name: crreamcoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/30753/1.0
-- name: crreamscience
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30357/1.0
 - name: crreamhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/31907/1.0
 - name: crream0
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71439/1.0
 - name: crreamfat
   src: https://static-cdn.jtvnw.net/emoticons/v1/106730/1.0
+- name: crreamtank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122765/1.0
+- name: crreamaj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122766/1.0

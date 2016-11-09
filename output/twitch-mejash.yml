@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mejash
 emojis:
-- name: jashcheat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73783/1.0
 - name: jashcrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/92522/1.0
 - name: jashsub
@@ -17,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68217/1.0
 - name: jashluv
   src: https://static-cdn.jtvnw.net/emoticons/v1/114613/1.0
+- name: jashsubpar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125356/1.0
+- name: jashzzz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125355/1.0
+- name: jashhold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125354/1.0

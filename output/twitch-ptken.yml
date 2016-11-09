@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ptken
 emojis:
-- name: ptksashao
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96509/1.0
 - name: ptkez
   src: https://static-cdn.jtvnw.net/emoticons/v1/67384/1.0
 - name: ptkyoshi
@@ -11,9 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68235/1.0
 - name: ptkbobi
   src: https://static-cdn.jtvnw.net/emoticons/v1/67561/1.0
-- name: ptkgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70844/1.0
-- name: ptkpbanana
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83407/1.0
-- name: ptkhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96048/1.0
+- name: ptk1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119842/1.0
+- name: ptk2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119843/1.0
+- name: ptkyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119875/1.0
+- name: ptkbs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119831/1.0

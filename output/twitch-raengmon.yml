@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - raengmon
 emojis:
-- name: raenga
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112904/1.0
 - name: raengb
   src: https://static-cdn.jtvnw.net/emoticons/v1/112905/1.0
+- name: raengc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122480/1.0
+- name: raengtt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124266/1.0
+- name: raenghi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124262/1.0

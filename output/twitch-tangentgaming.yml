@@ -13,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108139/1.0
 - name: tangshock
   src: https://static-cdn.jtvnw.net/emoticons/v1/46750/1.0
-- name: tangcreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108140/1.0
 - name: tangv
   src: https://static-cdn.jtvnw.net/emoticons/v1/108141/1.0
 - name: tangi
@@ -33,11 +31,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29341/1.0
 - name: tanglewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/32080/1.0
-- name: tangham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31795/1.0
 - name: tanglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/34490/1.0
 - name: tango
   src: https://static-cdn.jtvnw.net/emoticons/v1/37287/1.0
 - name: tangsalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/53525/1.0
+- name: tangrain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124040/1.0

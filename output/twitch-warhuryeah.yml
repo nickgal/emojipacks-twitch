@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - warhuryeah
 emojis:
-- name: warhurcat
+- name: warscat
   src: https://static-cdn.jtvnw.net/emoticons/v1/45568/1.0
-- name: warhurface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91098/1.0
-- name: warhurpipe
+- name: warspipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/94514/1.0
-- name: warhurwut
+- name: warswut
   src: https://static-cdn.jtvnw.net/emoticons/v1/115465/1.0
-- name: warhurthump
+- name: warsthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/116191/1.0
-- name: warhursmile
+- name: warssmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/116192/1.0
+- name: warsface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121630/1.0

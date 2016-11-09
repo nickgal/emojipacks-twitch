@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - finalbosstv
 emojis:
-- name: finalkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16887/1.0
 - name: finalthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/24702/1.0
 - name: finalclap
@@ -17,7 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/95596/1.0
 - name: finaltone
   src: https://static-cdn.jtvnw.net/emoticons/v1/95597/1.0
+- name: finalbaycha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119386/1.0
 - name: finalglaive
   src: https://static-cdn.jtvnw.net/emoticons/v1/109900/1.0
+- name: finalright
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119387/1.0
 - name: finaldoom
   src: https://static-cdn.jtvnw.net/emoticons/v1/111537/1.0
+- name: finalprepot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119388/1.0
+- name: finalgar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119292/1.0
+- name: finalkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119293/1.0
+- name: finalleft
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123282/1.0

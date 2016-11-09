@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - s2jfalcon
 emojis:
 - name: s2jw
   src: https://static-cdn.jtvnw.net/emoticons/v1/89029/1.0
-- name: s2jsmirk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66554/1.0
 - name: s2jpunch
   src: https://static-cdn.jtvnw.net/emoticons/v1/94823/1.0
 - name: s2johnnystock
@@ -17,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/101066/1.0
 - name: s2jbanger
   src: https://static-cdn.jtvnw.net/emoticons/v1/94822/1.0
+- name: s2jkrey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119343/1.0
+- name: s2jshiet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119345/1.0
+- name: s2jfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123544/1.0

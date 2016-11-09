@@ -3,7 +3,9 @@ title: Twitch Subscriber Emotes - andrewg1990
 emojis:
 - name: quickpipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/91740/1.0
+- name: quickrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119314/1.0
+- name: quickg1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122883/1.0
 - name: quickg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91737/1.0
-- name: quickchill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89546/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122881/1.0

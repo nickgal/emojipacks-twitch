@@ -1,17 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - dannyreturns
 emojis:
-- name: dnyknacker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99247/1.0
 - name: dnysub
   src: https://static-cdn.jtvnw.net/emoticons/v1/99250/1.0
 - name: dnykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/100493/1.0
 - name: dnydaniel
   src: https://static-cdn.jtvnw.net/emoticons/v1/99266/1.0
-- name: dnydead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99477/1.0
-- name: dnydias
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99476/1.0
 - name: dnyalex
   src: https://static-cdn.jtvnw.net/emoticons/v1/99614/1.0

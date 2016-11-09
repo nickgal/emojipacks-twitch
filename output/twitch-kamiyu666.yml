@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - kamiyu666
 emojis:
-- name: donbasmile01
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16015/1.0
-- name: donbaneko01
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27849/1.0
-- name: donbasmile02
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27847/1.0
-- name: donbarabbit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35001/1.0
-- name: donbashobon01
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87942/1.0
-- name: donbaran01
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85859/1.0
-- name: donbafen01
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85858/1.0
-- name: donbaahh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91116/1.0
+- name: donbadoga04
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123527/1.0
+- name: donbadoga01
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123524/1.0
+- name: donbashroom001
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123529/1.0
+- name: donbadoga02
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123525/1.0
+- name: donbadoga03
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123526/1.0
+- name: donbadonbarip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123517/1.0

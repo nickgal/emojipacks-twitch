@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - zethiann
 emojis:
-- name: zpodloki
+- name: zethloki
   src: https://static-cdn.jtvnw.net/emoticons/v1/19600/1.0
-- name: zpodrekt
+- name: zethrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/114827/1.0
-- name: zpodhype
+- name: zethhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/114815/1.0
-- name: zpodfail
+- name: zethfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/114813/1.0
+- name: zethtets
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118687/1.0
+- name: zethgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124169/1.0

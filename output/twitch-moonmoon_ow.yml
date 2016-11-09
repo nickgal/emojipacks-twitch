@@ -27,6 +27,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/103628/1.0
 - name: moon2pachi
   src: https://static-cdn.jtvnw.net/emoticons/v1/104173/1.0
+- name: moon2mlem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119382/1.0
 - name: moon2rip
   src: https://static-cdn.jtvnw.net/emoticons/v1/106086/1.0
 - name: moon2wut
@@ -39,8 +41,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110303/1.0
 - name: moon2hey
   src: https://static-cdn.jtvnw.net/emoticons/v1/110220/1.0
-- name: moon2amazing
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109722/1.0
 - name: moon2mlady
   src: https://static-cdn.jtvnw.net/emoticons/v1/109723/1.0
 - name: moon2vape
@@ -49,8 +49,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114075/1.0
 - name: moon2teehee
   src: https://static-cdn.jtvnw.net/emoticons/v1/114074/1.0
-- name: moon2spooky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116276/1.0
 - name: moon2rage
   src: https://static-cdn.jtvnw.net/emoticons/v1/115983/1.0
 - name: moon2gums
@@ -59,7 +57,47 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115907/1.0
 - name: moon2why
   src: https://static-cdn.jtvnw.net/emoticons/v1/116437/1.0
-- name: moon2gottem1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116695/1.0
-- name: moon2gottem2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116696/1.0
+- name: moon2feels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119383/1.0
+- name: moon2cute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118566/1.0
+- name: moon2whine
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119541/1.0
+- name: moon2omg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120080/1.0
+- name: moon2rly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121063/1.0
+- name: moon2gottemr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121062/1.0
+- name: moon2gotteml
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121061/1.0
+- name: moon2lult
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121060/1.0
+- name: moon2roasted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121524/1.0
+- name: moon2kisses
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121734/1.0
+- name: moon2banned
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121936/1.0
+- name: moon2choke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122645/1.0
+- name: moon2woo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123033/1.0
+- name: moon23
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123441/1.0
+- name: moon24
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123442/1.0
+- name: moon22
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123440/1.0
+- name: moon2shrug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123403/1.0
+- name: moon2creep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123651/1.0
+- name: moon21
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123439/1.0
+- name: moon2wow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123916/1.0
+- name: moon2sleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123917/1.0
+- name: moon2boop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125992/1.0

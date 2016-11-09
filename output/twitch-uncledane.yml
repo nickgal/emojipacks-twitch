@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - uncledane
 emojis:
-- name: uncleskill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71072/1.0
 - name: unclepepe
   src: https://static-cdn.jtvnw.net/emoticons/v1/71073/1.0
 - name: unclens
   src: https://static-cdn.jtvnw.net/emoticons/v1/71648/1.0
-- name: unclewhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83111/1.0
+- name: uncleskill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119588/1.0
 - name: unclenope2
   src: https://static-cdn.jtvnw.net/emoticons/v1/95206/1.0
 - name: unclenope1
   src: https://static-cdn.jtvnw.net/emoticons/v1/95205/1.0
+- name: unclebap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120680/1.0
+- name: unclewhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120682/1.0
+- name: unclebot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120681/1.0

@@ -7,22 +7,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/15168/1.0
 - name: sipsrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/15873/1.0
-- name: sipstriangles
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57347/1.0
 - name: sipsdiddit
   src: https://static-cdn.jtvnw.net/emoticons/v1/57345/1.0
 - name: sipsgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/67846/1.0
-- name: sipsnotfire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50690/1.0
 - name: sipsuthgerd
   src: https://static-cdn.jtvnw.net/emoticons/v1/50695/1.0
 - name: sipsgonk
   src: https://static-cdn.jtvnw.net/emoticons/v1/50692/1.0
 - name: sipsgallon
   src: https://static-cdn.jtvnw.net/emoticons/v1/50752/1.0
-- name: sipsplant
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50691/1.0
 - name: sipsyes
   src: https://static-cdn.jtvnw.net/emoticons/v1/57488/1.0
 - name: sipsno
@@ -31,3 +25,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57487/1.0
 - name: sipssoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/57486/1.0
+- name: sipsshine
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121258/1.0
+- name: sipsrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121257/1.0
+- name: sipsjeez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121256/1.0
+- name: sipschamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121182/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - sonyboylevy
 emojis:
-- name: trippymafia
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100323/1.0
 - name: trippysub
   src: https://static-cdn.jtvnw.net/emoticons/v1/109411/1.0
+- name: trippymafia
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118700/1.0
+- name: trippychoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120954/1.0
+- name: trippycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120953/1.0

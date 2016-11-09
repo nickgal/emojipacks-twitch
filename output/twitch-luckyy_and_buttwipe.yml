@@ -7,10 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83847/1.0
 - name: labsuccess
   src: https://static-cdn.jtvnw.net/emoticons/v1/64656/1.0
-- name: labmlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77286/1.0
-- name: lablove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95982/1.0
 - name: labtears
   src: https://static-cdn.jtvnw.net/emoticons/v1/72615/1.0
 - name: labsubtrain
@@ -23,6 +19,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67013/1.0
 - name: labsnake
   src: https://static-cdn.jtvnw.net/emoticons/v1/67460/1.0
+- name: labk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119102/1.0
 - name: labcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/78885/1.0
 - name: lablol
@@ -31,13 +29,25 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82633/1.0
 - name: lablit
   src: https://static-cdn.jtvnw.net/emoticons/v1/81804/1.0
-- name: labvapenaysh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101638/1.0
 - name: labwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/98082/1.0
 - name: labpile
   src: https://static-cdn.jtvnw.net/emoticons/v1/100891/1.0
-- name: labfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103298/1.0
 - name: labpray
   src: https://static-cdn.jtvnw.net/emoticons/v1/102077/1.0
+- name: lab2tap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119411/1.0
+- name: labdonut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121170/1.0
+- name: labcrystals
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123464/1.0
+- name: labtrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123453/1.0
+- name: labfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123460/1.0
+- name: labkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124470/1.0
+- name: labwhiff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125710/1.0
+- name: labcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125989/1.0

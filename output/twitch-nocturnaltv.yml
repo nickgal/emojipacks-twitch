@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - nocturnaltv
 emojis:
-- name: nocsalty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114268/1.0
 - name: nocfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/114267/1.0
-- name: nochs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114266/1.0
-- name: nochype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114265/1.0
 - name: nocfat
   src: https://static-cdn.jtvnw.net/emoticons/v1/114263/1.0
 - name: nocchair
@@ -19,5 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114260/1.0
 - name: nocc
   src: https://static-cdn.jtvnw.net/emoticons/v1/72649/1.0
-- name: noccrash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114264/1.0
+- name: nochype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120911/1.0
+- name: nochey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120914/1.0
+- name: nochi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120913/1.0
+- name: nocchoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120910/1.0

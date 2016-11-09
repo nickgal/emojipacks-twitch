@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - naiman_hs
 emojis:
-- name: naimanwbear
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115654/1.0
 - name: naimanwlike
   src: https://static-cdn.jtvnw.net/emoticons/v1/78828/1.0
-- name: naimanwpwnt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116493/1.0
+- name: naimanwwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119428/1.0
+- name: naimanwhippi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119429/1.0
+- name: naimanwvp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119430/1.0
 - name: naimanwkz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117050/1.0
-- name: naimanwsuper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116797/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119431/1.0
+- name: naimanwkumys
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117674/1.0
+- name: naimanwgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117676/1.0
+- name: naimanwxixo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118339/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - avalonstar
 emojis:
-- name: avalonfocus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62330/1.0
 - name: avalon7
   src: https://static-cdn.jtvnw.net/emoticons/v1/106264/1.0
 - name: avaloncry
@@ -13,20 +11,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106267/1.0
 - name: avalonhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/106268/1.0
-- name: avalonlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106269/1.0
-- name: avalonrant
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106270/1.0
-- name: avalonrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106271/1.0
 - name: avalonstar
   src: https://static-cdn.jtvnw.net/emoticons/v1/62327/1.0
 - name: avalonhai
   src: https://static-cdn.jtvnw.net/emoticons/v1/62328/1.0
-- name: avalonawk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62329/1.0
-- name: avalondesk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65126/1.0
 - name: avalonw
   src: https://static-cdn.jtvnw.net/emoticons/v1/69191/1.0
 - name: avalonpower
@@ -41,7 +29,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/90117/1.0
 - name: avalonshy
   src: https://static-cdn.jtvnw.net/emoticons/v1/90118/1.0
-- name: avalondoot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/102048/1.0
 - name: avalonevil
   src: https://static-cdn.jtvnw.net/emoticons/v1/102049/1.0
+- name: avalonbutter
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124881/1.0
+- name: avalonderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124882/1.0
+- name: avalondoot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124883/1.0
+- name: avalonfiesta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124884/1.0
+- name: avalonlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124886/1.0
+- name: avalonlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124889/1.0
+- name: avalonspike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124891/1.0

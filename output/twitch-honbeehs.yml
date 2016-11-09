@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - honbeehs
 emojis:
-- name: honbeebbadda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87259/1.0
 - name: honbeetu
   src: https://static-cdn.jtvnw.net/emoticons/v1/110714/1.0
-- name: honbeebat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116900/1.0
 - name: honbeew
   src: https://static-cdn.jtvnw.net/emoticons/v1/116524/1.0
-- name: honbeeswipe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116619/1.0
+- name: honbeeangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118713/1.0
+- name: honbeekeyboard
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118714/1.0
 - name: honbeehos
   src: https://static-cdn.jtvnw.net/emoticons/v1/115975/1.0
+- name: honbeebbadda
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121790/1.0
+- name: honbeeheyguys
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121786/1.0
+- name: honbeeone
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121788/1.0

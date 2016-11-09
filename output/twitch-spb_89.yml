@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - spb_89
 emojis:
 - name: heronext
   src: https://static-cdn.jtvnw.net/emoticons/v1/23419/1.0
-- name: herosad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52276/1.0
 - name: herokuche
   src: https://static-cdn.jtvnw.net/emoticons/v1/109541/1.0
 - name: heropedro
   src: https://static-cdn.jtvnw.net/emoticons/v1/78328/1.0
-- name: herofeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80840/1.0
 - name: heroh
   src: https://static-cdn.jtvnw.net/emoticons/v1/113215/1.0
 - name: herog
   src: https://static-cdn.jtvnw.net/emoticons/v1/113216/1.0
 - name: heroz
   src: https://static-cdn.jtvnw.net/emoticons/v1/113217/1.0
+- name: herofeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120697/1.0
+- name: heros
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125295/1.0

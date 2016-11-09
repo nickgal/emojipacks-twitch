@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - x_dr_dave_x
 emojis:
 - name: drdavelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/62161/1.0
-- name: drdavehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51212/1.0
 - name: drdavespud
   src: https://static-cdn.jtvnw.net/emoticons/v1/51211/1.0
 - name: drdaverekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/53293/1.0
 - name: drdavenation
   src: https://static-cdn.jtvnw.net/emoticons/v1/61993/1.0
-- name: drdavelerkn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61994/1.0
-- name: drdavehey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61995/1.0
 - name: drdavesweat
   src: https://static-cdn.jtvnw.net/emoticons/v1/61991/1.0
+- name: drdavedrdavehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118182/1.0
+- name: drdavedrdavegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118184/1.0
+- name: drdavedrdavefeelsbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118185/1.0

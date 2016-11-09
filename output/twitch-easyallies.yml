@@ -1,16 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - easyallies
 emojis:
+- name: ezamagic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119027/1.0
 - name: ezasophie
   src: https://static-cdn.jtvnw.net/emoticons/v1/93642/1.0
 - name: ezajolly
   src: https://static-cdn.jtvnw.net/emoticons/v1/93645/1.0
 - name: ezasadjones
   src: https://static-cdn.jtvnw.net/emoticons/v1/93646/1.0
-- name: ezastar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93643/1.0
-- name: ezahalfstar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93644/1.0
 - name: ezasmugblood
   src: https://static-cdn.jtvnw.net/emoticons/v1/93647/1.0
 - name: ezabmben
@@ -27,3 +25,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/99716/1.0
 - name: ezadirtydon
   src: https://static-cdn.jtvnw.net/emoticons/v1/106619/1.0
+- name: ezastar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119025/1.0
+- name: ezahalfstar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119088/1.0
+- name: ezalr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120084/1.0
+- name: ezabuckle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120389/1.0
+- name: ezagodfrey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123822/1.0

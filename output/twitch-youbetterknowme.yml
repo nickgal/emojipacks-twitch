@@ -9,11 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/17267/1.0
 - name: nomifreezer
   src: https://static-cdn.jtvnw.net/emoticons/v1/54742/1.0
-- name: nomislap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54743/1.0
 - name: nomimute
   src: https://static-cdn.jtvnw.net/emoticons/v1/65439/1.0
 - name: nomiwan
   src: https://static-cdn.jtvnw.net/emoticons/v1/65440/1.0
 - name: nomilappen
   src: https://static-cdn.jtvnw.net/emoticons/v1/65757/1.0
+- name: nomitoxic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121356/1.0
+- name: nomicore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121354/1.0
+- name: nomirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121355/1.0

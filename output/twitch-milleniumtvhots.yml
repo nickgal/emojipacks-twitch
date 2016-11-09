@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - milleniumtvhots
 emojis:
-- name: mtvhotsm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57659/1.0
 - name: mtvhotsbourbie
   src: https://static-cdn.jtvnw.net/emoticons/v1/57660/1.0
 - name: mtvhotschaelind
@@ -11,3 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/111780/1.0
 - name: mtvhotsfouzibo
   src: https://static-cdn.jtvnw.net/emoticons/v1/114407/1.0
+- name: mtvhotsdanatan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121469/1.0
+- name: mtvhotscheval
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121470/1.0
+- name: mtvhotsbaguette
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121471/1.0
+- name: mtvhotsleviisninja
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123763/1.0

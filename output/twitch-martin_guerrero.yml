@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - martin_guerrero
 emojis:
 - name: mgwwelogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/97983/1.0
-- name: mgwweyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68082/1.0
 - name: mgwweface
   src: https://static-cdn.jtvnw.net/emoticons/v1/68081/1.0
 - name: mgwwemgbelt
   src: https://static-cdn.jtvnw.net/emoticons/v1/86470/1.0
-- name: mgwweno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86467/1.0
 - name: mgwwesawft
   src: https://static-cdn.jtvnw.net/emoticons/v1/97967/1.0
 - name: mgwwecena
   src: https://static-cdn.jtvnw.net/emoticons/v1/103649/1.0
 - name: mgwwetaker
   src: https://static-cdn.jtvnw.net/emoticons/v1/103650/1.0
+- name: mgwweyes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118762/1.0
+- name: mgwweno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118763/1.0
+- name: mgwweells
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118764/1.0
+- name: mgwweglorious
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118765/1.0

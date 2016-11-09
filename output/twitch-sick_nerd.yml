@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - sick_nerd
 emojis:
 - name: sicktumble
   src: https://static-cdn.jtvnw.net/emoticons/v1/16524/1.0
-- name: sicklife
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15035/1.0
 - name: sickdc
   src: https://static-cdn.jtvnw.net/emoticons/v1/15126/1.0
-- name: sickmate
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14279/1.0
 - name: sickcamel
   src: https://static-cdn.jtvnw.net/emoticons/v1/32318/1.0
 - name: sickvoice
@@ -17,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115150/1.0
 - name: sickw
   src: https://static-cdn.jtvnw.net/emoticons/v1/115246/1.0
+- name: sickcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122286/1.0
+- name: sickboo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122486/1.0
+- name: sickcya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124610/1.0
+- name: sickinit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124611/1.0

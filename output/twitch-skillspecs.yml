@@ -11,13 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30545/1.0
 - name: skill73
   src: https://static-cdn.jtvnw.net/emoticons/v1/51913/1.0
-- name: skillthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89153/1.0
 - name: skillvac
   src: https://static-cdn.jtvnw.net/emoticons/v1/84269/1.0
-- name: skillcreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88389/1.0
 - name: skillsd
   src: https://static-cdn.jtvnw.net/emoticons/v1/108324/1.0
 - name: skillbob
   src: https://static-cdn.jtvnw.net/emoticons/v1/117063/1.0
+- name: skillthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124612/1.0
+- name: skillbank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124718/1.0

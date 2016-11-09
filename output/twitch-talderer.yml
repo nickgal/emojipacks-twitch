@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - talderer
 emojis:
-- name: talderershot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46162/1.0
-- name: taldererclip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47581/1.0
 - name: taldererlogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/46542/1.0
 - name: taldererhead
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46130/1.0
 - name: talderereagle
   src: https://static-cdn.jtvnw.net/emoticons/v1/46149/1.0
+- name: talderertaldererwilson
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123657/1.0
+- name: talderertaldererservus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124296/1.0

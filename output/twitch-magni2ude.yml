@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - magni2ude
 emojis:
-- name: tbsagood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74797/1.0
-- name: tbsaget
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74796/1.0
-- name: tbsahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74792/1.0
-- name: tbsagg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76757/1.0
+- name: tbsasub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124243/1.0
+- name: tbsaez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124251/1.0
+- name: tbsaking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124388/1.0
+- name: tbsachoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124920/1.0

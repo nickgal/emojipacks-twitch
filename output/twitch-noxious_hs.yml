@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - noxious_hs
 emojis:
 - name: noxjj
   src: https://static-cdn.jtvnw.net/emoticons/v1/9945/1.0
-- name: noxlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20008/1.0
 - name: noxboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/44865/1.0
 - name: noxw
@@ -13,5 +11,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62648/1.0
 - name: noxc
   src: https://static-cdn.jtvnw.net/emoticons/v1/62666/1.0
-- name: noxrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81105/1.0

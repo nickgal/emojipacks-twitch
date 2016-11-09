@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/16149/1.0
 - name: shadyh
   src: https://static-cdn.jtvnw.net/emoticons/v1/67998/1.0
-- name: shadyface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46099/1.0
 - name: shadydiggy
   src: https://static-cdn.jtvnw.net/emoticons/v1/46100/1.0
 - name: shadyw
@@ -17,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57564/1.0
 - name: shadypala
   src: https://static-cdn.jtvnw.net/emoticons/v1/94584/1.0
+- name: shadymage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118354/1.0
+- name: shadyclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119700/1.0
+- name: shadysmorc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121168/1.0

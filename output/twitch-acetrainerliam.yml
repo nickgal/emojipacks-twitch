@@ -13,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113947/1.0
 - name: atlgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/113143/1.0
+- name: atlhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121366/1.0
+- name: atlfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121365/1.0

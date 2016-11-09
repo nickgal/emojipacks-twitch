@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - nainaimichi
 emojis:
+- name: nainaieat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118035/1.0
+- name: nainailove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118036/1.0
+- name: nainaistupid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118037/1.0
 - name: nainaimyhead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115815/1.0
-- name: nainaimyhead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116395/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118038/1.0

@@ -27,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/87482/1.0
 - name: ninjacash
   src: https://static-cdn.jtvnw.net/emoticons/v1/91135/1.0
-- name: ninjasalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91139/1.0
 - name: ninjah
   src: https://static-cdn.jtvnw.net/emoticons/v1/104071/1.0
 - name: ninjahi
@@ -41,3 +39,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/104035/1.0
 - name: ninjaaim
   src: https://static-cdn.jtvnw.net/emoticons/v1/103570/1.0
+- name: ninjaac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120229/1.0
+- name: ninjablind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122062/1.0
+- name: ninjafood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122059/1.0
+- name: ninjahs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123677/1.0
+- name: ninjafuse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123678/1.0
+- name: ninjaff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125348/1.0

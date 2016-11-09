@@ -3,21 +3,31 @@ title: Twitch Subscriber Emotes - cartmanzbs
 emojis:
 - name: zbsyshi
   src: https://static-cdn.jtvnw.net/emoticons/v1/110262/1.0
-- name: zbsrofl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110276/1.0
 - name: zbs8k
   src: https://static-cdn.jtvnw.net/emoticons/v1/79082/1.0
 - name: zbssub
   src: https://static-cdn.jtvnw.net/emoticons/v1/79948/1.0
-- name: zbsminys50
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116911/1.0
 - name: zbsart
   src: https://static-cdn.jtvnw.net/emoticons/v1/51939/1.0
-- name: zbsoh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74872/1.0
-- name: zbsoivse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110275/1.0
 - name: zbskeepo
   src: https://static-cdn.jtvnw.net/emoticons/v1/116735/1.0
 - name: zbsskip
   src: https://static-cdn.jtvnw.net/emoticons/v1/116734/1.0
+- name: zbsoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118894/1.0
+- name: zbsdemon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124938/1.0
+- name: zbsalttab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124939/1.0
+- name: zbsrak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124964/1.0
+- name: zbsmcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124940/1.0
+- name: zbsplak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124937/1.0
+- name: zbsrun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124971/1.0
+- name: zbsminys50
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124987/1.0
+- name: zbsicq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124989/1.0

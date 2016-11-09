@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - striker
 emojis:
 - name: nerdnerd
   src: https://static-cdn.jtvnw.net/emoticons/v1/17553/1.0
-- name: nerdserious
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17811/1.0
 - name: nerdserenade
   src: https://static-cdn.jtvnw.net/emoticons/v1/17809/1.0
 - name: nerdcheezits
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76234/1.0
 - name: nerdlighter
   src: https://static-cdn.jtvnw.net/emoticons/v1/115962/1.0
+- name: nerdgobble
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124060/1.0

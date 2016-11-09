@@ -1,33 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - oyunbrostv
 emojis:
-- name: togirip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81557/1.0
-- name: togisu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42078/1.0
 - name: togiagla
   src: https://static-cdn.jtvnw.net/emoticons/v1/49897/1.0
-- name: togidabbe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77334/1.0
-- name: togia
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94856/1.0
 - name: togiwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/94857/1.0
-- name: togicop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88143/1.0
-- name: togimutlu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92160/1.0
-- name: togiselam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92833/1.0
 - name: togigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/92832/1.0
-- name: togiw1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96442/1.0
-- name: togiw2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96443/1.0
-- name: togiw3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96444/1.0
-- name: togiw4
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96445/1.0
-- name: togir
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94900/1.0
+- name: togitilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124627/1.0
+- name: togirekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124620/1.0
+- name: togiavel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124623/1.0
+- name: togisu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124622/1.0
+- name: togiw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124619/1.0
+- name: togis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124618/1.0
+- name: togilul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124621/1.0

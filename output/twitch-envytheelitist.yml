@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - envytheelitist
 emojis:
-- name: envhug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109253/1.0
 - name: envhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/109260/1.0
-- name: envrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109259/1.0
 - name: envlul
   src: https://static-cdn.jtvnw.net/emoticons/v1/109257/1.0
 - name: envl
   src: https://static-cdn.jtvnw.net/emoticons/v1/109256/1.0
 - name: envlewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/109255/1.0
-- name: envhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109254/1.0
 - name: envthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/109590/1.0
+- name: envgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120816/1.0
+- name: envhappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122915/1.0
+- name: envshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124120/1.0

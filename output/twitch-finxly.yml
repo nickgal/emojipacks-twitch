@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - finxly
 emojis:
-- name: finxlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95662/1.0
 - name: finxhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/96028/1.0
+- name: finxthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125289/1.0

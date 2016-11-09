@@ -5,19 +5,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/88287/1.0
 - name: mockgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/93664/1.0
-- name: mockfreeze
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87780/1.0
 - name: mockaxle
   src: https://static-cdn.jtvnw.net/emoticons/v1/87774/1.0
-- name: mockkerry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88929/1.0
 - name: mockpe
   src: https://static-cdn.jtvnw.net/emoticons/v1/93649/1.0
-- name: mockhy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93648/1.0
-- name: mockanother1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93665/1.0
-- name: mockrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90736/1.0
+- name: mockanotha1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118571/1.0
+- name: mockhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118572/1.0
 - name: mocksave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94430/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118570/1.0
+- name: mockrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118660/1.0
+- name: mockluna
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121541/1.0

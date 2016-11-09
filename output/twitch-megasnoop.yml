@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/92224/1.0
 - name: megasyes
   src: https://static-cdn.jtvnw.net/emoticons/v1/92724/1.0
-- name: megasno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92902/1.0
 - name: megasshrug
   src: https://static-cdn.jtvnw.net/emoticons/v1/96074/1.0
 - name: megasmiss
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/112446/1.0
 - name: megaswin
   src: https://static-cdn.jtvnw.net/emoticons/v1/112447/1.0
+- name: megaslul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118771/1.0

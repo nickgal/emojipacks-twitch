@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - yuuie
 emojis:
 - name: yuuiec
   src: https://static-cdn.jtvnw.net/emoticons/v1/72465/1.0
-- name: yuuies
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64612/1.0
 - name: yuuieeeps
   src: https://static-cdn.jtvnw.net/emoticons/v1/64610/1.0
-- name: yuuierage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64608/1.0
 - name: yuuieflex
   src: https://static-cdn.jtvnw.net/emoticons/v1/18948/1.0
 - name: yuuiesub
@@ -29,5 +25,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69730/1.0
 - name: yuuiepoopy
   src: https://static-cdn.jtvnw.net/emoticons/v1/71936/1.0
+- name: yuuiehey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117806/1.0
+- name: yuuiehng
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117814/1.0
 - name: yuuiel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110703/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117815/1.0
+- name: yuuie9000
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121491/1.0
+- name: yuuiegold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121488/1.0
+- name: yuuierage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121487/1.0
+- name: yuuiesad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122453/1.0
+- name: yuuiepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122456/1.0

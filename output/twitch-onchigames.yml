@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - onchigames
 emojis:
-- name: onchibam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111325/1.0
-- name: onchiwha
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111324/1.0
 - name: onchibuddy
   src: https://static-cdn.jtvnw.net/emoticons/v1/105379/1.0
 - name: onchihypu
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105382/1.0
 - name: onchiwink
   src: https://static-cdn.jtvnw.net/emoticons/v1/116160/1.0
+- name: onchiwhabam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120200/1.0
+- name: onchicreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120201/1.0

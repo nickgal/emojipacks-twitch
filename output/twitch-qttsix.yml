@@ -5,15 +5,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82397/1.0
 - name: qttsleepy
   src: https://static-cdn.jtvnw.net/emoticons/v1/81851/1.0
-- name: qttno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81859/1.0
 - name: qttyummy
   src: https://static-cdn.jtvnw.net/emoticons/v1/81860/1.0
 - name: qttwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/81827/1.0
 - name: qttgold
   src: https://static-cdn.jtvnw.net/emoticons/v1/82166/1.0
-- name: qttwa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82398/1.0
 - name: qttyes
   src: https://static-cdn.jtvnw.net/emoticons/v1/84831/1.0
+- name: qttga
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120983/1.0
+- name: qtthehe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120990/1.0
+- name: qttpanic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120979/1.0
+- name: qtthi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121122/1.0

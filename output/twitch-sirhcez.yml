@@ -19,15 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/55538/1.0
 - name: singkiss
   src: https://static-cdn.jtvnw.net/emoticons/v1/82167/1.0
-- name: singfeed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98004/1.0
-- name: singgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103174/1.0
 - name: singpride
   src: https://static-cdn.jtvnw.net/emoticons/v1/103104/1.0
 - name: singlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/103105/1.0
 - name: singboosted
   src: https://static-cdn.jtvnw.net/emoticons/v1/103106/1.0
-- name: singsquid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105089/1.0
+- name: singcoffee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118659/1.0
+- name: singgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119298/1.0
+- name: singsleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119299/1.0

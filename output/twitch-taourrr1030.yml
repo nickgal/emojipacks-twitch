@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - taourrr1030
 emojis:
-- name: headhuntersanta
+- name: taoursanta
   src: https://static-cdn.jtvnw.net/emoticons/v1/77248/1.0
-- name: headhunteros
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52152/1.0
-- name: headhunter42
+- name: taour42
   src: https://static-cdn.jtvnw.net/emoticons/v1/50296/1.0
-- name: headhunterftc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50295/1.0
+- name: taoursubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125923/1.0
+- name: taourtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125921/1.0
+- name: taouros
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125920/1.0
+- name: taourfrere
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125918/1.0

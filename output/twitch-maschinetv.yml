@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - maschinetv
 emojis:
-- name: maschinetvantim8
+- name: matvantim8
   src: https://static-cdn.jtvnw.net/emoticons/v1/110105/1.0
-- name: maschinetvherz
+- name: matvherz
   src: https://static-cdn.jtvnw.net/emoticons/v1/107707/1.0
-- name: maschinetvhype
+- name: matvhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/107705/1.0
-- name: maschinetvmeedenrage
+- name: matvmeedenrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/115816/1.0
-- name: maschinetvfail
+- name: matvfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/115817/1.0
+- name: matvrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119729/1.0

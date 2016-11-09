@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - studyy
 emojis:
-- name: zipdab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76441/1.0
-- name: ziplit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95317/1.0
-- name: ziphype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103289/1.0
-- name: ziplg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103290/1.0
 - name: zipfam
   src: https://static-cdn.jtvnw.net/emoticons/v1/103293/1.0
 - name: zipmoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/103294/1.0
-- name: zipletsgo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103418/1.0
-- name: zippoop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105051/1.0
+- name: ziprage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122188/1.0
+- name: zipcookin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122187/1.0
+- name: zipburger
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122183/1.0
+- name: zipsleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122180/1.0
+- name: ziptrashcan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122677/1.0
+- name: zipgoat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122854/1.0

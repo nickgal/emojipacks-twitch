@@ -52,6 +52,12 @@ emojis:
 - name: doogtrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/107505/1.0
 - name: doogevil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117080/1.0
-- name: doogskull
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117081/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119228/1.0
+- name: doogholiday
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124424/1.0
+- name: doogpurrito
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124423/1.0
+- name: doogno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124422/1.0
+- name: doogye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124420/1.0

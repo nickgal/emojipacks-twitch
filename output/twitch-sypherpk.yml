@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105250/1.0
 - name: sypherhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/59155/1.0
-- name: sypherlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105248/1.0
 - name: sypherfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/105247/1.0
 - name: syphercry
@@ -29,5 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109111/1.0
 - name: syphercheck
   src: https://static-cdn.jtvnw.net/emoticons/v1/109109/1.0
-- name: sypher10
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110471/1.0
+- name: sypherw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124375/1.0
+- name: sypherlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125039/1.0

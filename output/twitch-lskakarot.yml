@@ -11,9 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/93918/1.0
 - name: lskl
   src: https://static-cdn.jtvnw.net/emoticons/v1/97553/1.0
-- name: lsklol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101949/1.0
 - name: lskchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/101948/1.0
 - name: lskgang
   src: https://static-cdn.jtvnw.net/emoticons/v1/106918/1.0
+- name: lskpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120181/1.0
+- name: lskgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120178/1.0
+- name: lskomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124303/1.0

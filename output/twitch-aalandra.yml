@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - aalandra
 emojis:
 - name: aalandradamn
   src: https://static-cdn.jtvnw.net/emoticons/v1/71974/1.0
-- name: aalandrafirm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71967/1.0
 - name: aalandrabutt
   src: https://static-cdn.jtvnw.net/emoticons/v1/104792/1.0
 - name: aalandrawine
@@ -15,5 +13,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67433/1.0
 - name: aalandrabye
   src: https://static-cdn.jtvnw.net/emoticons/v1/67466/1.0
-- name: aalandranade
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73723/1.0
+- name: aalandrarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118994/1.0

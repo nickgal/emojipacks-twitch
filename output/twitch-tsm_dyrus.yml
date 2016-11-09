@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - tsm_dyrus
 emojis:
-- name: dyrusmrpillow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/654/1.0
 - name: dyrus1800microwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/655/1.0
-- name: dyruskappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3709/1.0
 - name: dyrusika
   src: https://static-cdn.jtvnw.net/emoticons/v1/3716/1.0
 - name: dyrus17
@@ -17,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72401/1.0
 - name: dyrussell
   src: https://static-cdn.jtvnw.net/emoticons/v1/72402/1.0
-- name: dyrusball
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72403/1.0
 - name: dyrusvac
   src: https://static-cdn.jtvnw.net/emoticons/v1/72404/1.0
 - name: dyrusw
@@ -35,41 +29,43 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72832/1.0
 - name: dyrusregi
   src: https://static-cdn.jtvnw.net/emoticons/v1/39439/1.0
+- name: dyruswut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118442/1.0
 - name: dyrusjail
   src: https://static-cdn.jtvnw.net/emoticons/v1/69320/1.0
 - name: dyrusangry
   src: https://static-cdn.jtvnw.net/emoticons/v1/77579/1.0
-- name: dyrusbench
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69412/1.0
 - name: dyrusafk
   src: https://static-cdn.jtvnw.net/emoticons/v1/69705/1.0
 - name: dyrusna
   src: https://static-cdn.jtvnw.net/emoticons/v1/69711/1.0
 - name: dyrusfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/69943/1.0
-- name: dyrussanta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74437/1.0
-- name: dyrussans
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79797/1.0
-- name: dyruspap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79840/1.0
 - name: dyrusyao
   src: https://static-cdn.jtvnw.net/emoticons/v1/114849/1.0
-- name: dyrusanime
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89691/1.0
 - name: dyrusresident
   src: https://static-cdn.jtvnw.net/emoticons/v1/99540/1.0
-- name: dyrushook
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101502/1.0
-- name: dyrusnoon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101503/1.0
-- name: dyruspants
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99691/1.0
-- name: dyrusscuttle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99692/1.0
-- name: dyruswut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108306/1.0
-- name: dyrusbaby
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108307/1.0
 - name: dyruswinston
   src: https://static-cdn.jtvnw.net/emoticons/v1/108308/1.0
+- name: dyruskappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118443/1.0
+- name: dyrusyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117544/1.0
+- name: dyrusclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117545/1.0
+- name: dyruscannon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117546/1.0
+- name: dyrusgray
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117547/1.0
+- name: dyrust1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117766/1.0
+- name: dyrust2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117767/1.0
+- name: dyrust3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117768/1.0
+- name: dyrust4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117769/1.0
+- name: dyruslul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118433/1.0
+- name: dyrusbroke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118435/1.0

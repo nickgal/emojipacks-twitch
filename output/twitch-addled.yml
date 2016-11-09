@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - addled
 emojis:
 - name: addledohreally
   src: https://static-cdn.jtvnw.net/emoticons/v1/105242/1.0
-- name: addledderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105187/1.0
 - name: addledfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/105183/1.0
 - name: addledrage
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106756/1.0
 - name: addledbrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/114615/1.0
+- name: addledgold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119295/1.0

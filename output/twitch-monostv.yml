@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - monostv
 emojis:
-- name: monosgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104345/1.0
+- name: monosh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122551/1.0
+- name: monossleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122548/1.0

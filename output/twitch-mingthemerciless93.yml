@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mingthemerciless93
 emojis:
-- name: mingdunce
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115660/1.0
 - name: mingclown
   src: https://static-cdn.jtvnw.net/emoticons/v1/24968/1.0
 - name: mingskull
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/107694/1.0
 - name: mingjive
   src: https://static-cdn.jtvnw.net/emoticons/v1/112299/1.0
+- name: mingdunce
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122273/1.0

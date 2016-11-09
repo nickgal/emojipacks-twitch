@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/98863/1.0
 - name: rozopanic
   src: https://static-cdn.jtvnw.net/emoticons/v1/39164/1.0
-- name: rozocool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70262/1.0
 - name: rozohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/56170/1.0
 - name: rozolove
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86135/1.0
 - name: rozoyo
   src: https://static-cdn.jtvnw.net/emoticons/v1/114419/1.0
+- name: rozoz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119576/1.0

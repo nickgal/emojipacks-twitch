@@ -19,12 +19,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76341/1.0
 - name: zizteam
   src: https://static-cdn.jtvnw.net/emoticons/v1/78102/1.0
-- name: zizbear
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78520/1.0
 - name: ziztrig
   src: https://static-cdn.jtvnw.net/emoticons/v1/97477/1.0
 - name: zizw
   src: https://static-cdn.jtvnw.net/emoticons/v1/100960/1.0
+- name: zizfeel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118966/1.0
 - name: ziznosleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/116815/1.0
 - name: zizlove

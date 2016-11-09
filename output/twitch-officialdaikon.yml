@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - officialdaikon
 emojis:
 - name: daichanoo
   src: https://static-cdn.jtvnw.net/emoticons/v1/110054/1.0
-- name: daichancry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110053/1.0
 - name: daichanshy
   src: https://static-cdn.jtvnw.net/emoticons/v1/112909/1.0
 - name: daichanrage
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110043/1.0
 - name: daichanlurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/112623/1.0
+- name: daichancry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117726/1.0

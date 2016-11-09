@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/21368/1.0
 - name: emeydongle
   src: https://static-cdn.jtvnw.net/emoticons/v1/28892/1.0
-- name: emeyteemo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41611/1.0
 - name: emeyparty
   src: https://static-cdn.jtvnw.net/emoticons/v1/41628/1.0
 - name: emeyhand
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73135/1.0
 - name: emeylewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/73201/1.0
+- name: emeyamdoodle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122906/1.0

@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - hassan
 emojis:
-- name: haawut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110701/1.0
 - name: haalit
   src: https://static-cdn.jtvnw.net/emoticons/v1/105239/1.0
-- name: haapog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110798/1.0
-- name: haar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110799/1.0
 - name: haadan
   src: https://static-cdn.jtvnw.net/emoticons/v1/89220/1.0
 - name: haaloaf
@@ -17,21 +11,23 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/88203/1.0
 - name: haajake
   src: https://static-cdn.jtvnw.net/emoticons/v1/88071/1.0
-- name: haasup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106298/1.0
-- name: haapanda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105864/1.0
-- name: haajc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88775/1.0
-- name: haas
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106063/1.0
 - name: haaslice
   src: https://static-cdn.jtvnw.net/emoticons/v1/88781/1.0
 - name: haaicu
   src: https://static-cdn.jtvnw.net/emoticons/v1/96996/1.0
-- name: haabb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97074/1.0
 - name: haadeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/105240/1.0
-- name: haasmug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107436/1.0
+- name: haasmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120270/1.0
+- name: haapls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122386/1.0
+- name: haahi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122437/1.0
+- name: haah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122707/1.0
+- name: haapf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123042/1.0
+- name: haamad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123045/1.0
+- name: haajc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125631/1.0

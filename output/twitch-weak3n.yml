@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - weak3n
 emojis:
-- name: weakrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111986/1.0
 - name: weakpoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/52583/1.0
 - name: weakhype
@@ -31,8 +29,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80821/1.0
 - name: weakhands
   src: https://static-cdn.jtvnw.net/emoticons/v1/105558/1.0
-- name: weaksgame
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104249/1.0
 - name: weaknation
   src: https://static-cdn.jtvnw.net/emoticons/v1/105092/1.0
 - name: weak667
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105559/1.0
 - name: weakfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/105557/1.0
+- name: weakstab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124380/1.0
+- name: weaksnake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124754/1.0

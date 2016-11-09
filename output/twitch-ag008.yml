@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - ag008
 emojis:
-- name: rumblesatanclus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94947/1.0
-- name: rumblepogchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115211/1.0
+- name: rumblerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123906/1.0
+- name: rumblelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123905/1.0
+- name: rumblecry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123904/1.0
+- name: rumblehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124066/1.0
+- name: rumblexd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124069/1.0
+- name: rumblerage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124087/1.0

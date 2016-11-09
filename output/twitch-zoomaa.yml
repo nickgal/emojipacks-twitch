@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - zoomaa
 emojis:
-- name: zoomaaface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77485/1.0
-- name: zoomaaitslit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77483/1.0
-- name: zoomaaflank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77597/1.0
 - name: zoomaagg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107938/1.0
-- name: zoomaabada
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107564/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122118/1.0
+- name: zoomaabadaboom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122117/1.0
+- name: zoomaamob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122382/1.0
+- name: zoomaapoopedon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122381/1.0
+- name: zoomaahowyoudoin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122731/1.0
+- name: zoomaaflank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122730/1.0
 - name: zoomaasubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107939/1.0
-- name: zoomaadog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107565/1.0
-- name: zoomaagoodvibes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107637/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122729/1.0
+- name: zoomaamoneyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122954/1.0
+- name: zoomaaface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122961/1.0
+- name: zoomaacmondude
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122959/1.0

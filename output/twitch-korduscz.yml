@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - korduscz
 emojis:
 - name: lamaherp
   src: https://static-cdn.jtvnw.net/emoticons/v1/95544/1.0
-- name: lamathordus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60635/1.0
 - name: lamaraptor
   src: https://static-cdn.jtvnw.net/emoticons/v1/69254/1.0
 - name: lamaknir
@@ -15,5 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59506/1.0
 - name: lamaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/82475/1.0
-- name: lamahipik
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108921/1.0
+- name: lamawut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124661/1.0
+- name: lamazajda
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125770/1.0

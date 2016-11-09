@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - bloeanother
 emojis:
-- name: ymwflurrydamage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110106/1.0
 - name: ymwflurry1
   src: https://static-cdn.jtvnw.net/emoticons/v1/79385/1.0
-- name: ymwflurrydesk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111141/1.0
 - name: ymwflurryparah
   src: https://static-cdn.jtvnw.net/emoticons/v1/110059/1.0
 - name: ymwflurrycost
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116508/1.0
 - name: ymwflurry3
   src: https://static-cdn.jtvnw.net/emoticons/v1/116867/1.0
+- name: ymwflurrynahamsa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118335/1.0
+- name: ymwflurrydamage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123031/1.0

@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - gl_monsieursapin
 emojis:
+- name: sapinnul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125447/1.0
 - name: sapinrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89362/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125434/1.0
 - name: sapinswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89366/1.0
-- name: sapinmieux
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89363/1.0
-- name: sapingasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89359/1.0
-- name: sapinwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89367/1.0
-- name: sapincry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89360/1.0
-- name: sapincat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89365/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125441/1.0
+- name: sapinsave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125452/1.0
+- name: sapinkawaii
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125456/1.0
 - name: sapinfun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89502/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125600/1.0

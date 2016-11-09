@@ -23,11 +23,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36047/1.0
 - name: bigjsmash
   src: https://static-cdn.jtvnw.net/emoticons/v1/45206/1.0
-- name: bigjreset
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61420/1.0
 - name: bigjbonk
   src: https://static-cdn.jtvnw.net/emoticons/v1/61388/1.0
 - name: bigjrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/61387/1.0
 - name: bigjfast
   src: https://static-cdn.jtvnw.net/emoticons/v1/61500/1.0
+- name: bigjflexl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121409/1.0
+- name: bigjflexr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121410/1.0
+- name: bigjnice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121406/1.0
+- name: bigjcake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121407/1.0
+- name: bigjhappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121405/1.0
+- name: bigjreset
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122354/1.0

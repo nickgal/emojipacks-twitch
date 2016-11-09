@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/107459/1.0
 - name: emzgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/97624/1.0
-- name: emzwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97607/1.0
 - name: emzhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/70278/1.0
 - name: emzrekt
@@ -17,7 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89263/1.0
 - name: emzlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/98031/1.0
-- name: emzcamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97548/1.0
 - name: emzrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/97549/1.0
+- name: emzgrill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123951/1.0
+- name: emzdrive
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123999/1.0

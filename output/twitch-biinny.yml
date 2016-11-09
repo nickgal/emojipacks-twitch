@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - biinny
 emojis:
 - name: cheekykappio
   src: https://static-cdn.jtvnw.net/emoticons/v1/6509/1.0
-- name: cheekypeach
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14090/1.0
 - name: cheekygoomba
   src: https://static-cdn.jtvnw.net/emoticons/v1/56651/1.0
 - name: cheekylove
@@ -13,3 +11,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86124/1.0
 - name: cheekyssj
   src: https://static-cdn.jtvnw.net/emoticons/v1/90070/1.0
+- name: cheekytoad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124563/1.0
+- name: cheekypeach
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124564/1.0

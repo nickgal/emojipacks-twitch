@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - puzzomns
 emojis:
-- name: puzzogcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59022/1.0
 - name: puzzowcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/59021/1.0
 - name: puzzoface
@@ -11,5 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106720/1.0
 - name: puzzohibye
   src: https://static-cdn.jtvnw.net/emoticons/v1/116063/1.0
+- name: puzzorip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117574/1.0
+- name: puzzoshock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117320/1.0
+- name: puzzosub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117327/1.0
 - name: puzzopride
   src: https://static-cdn.jtvnw.net/emoticons/v1/116066/1.0

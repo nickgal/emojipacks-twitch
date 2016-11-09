@@ -1,7 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - ayitzchance
 emojis:
-- name: chancelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116205/1.0
 - name: chancesleepy
   src: https://static-cdn.jtvnw.net/emoticons/v1/116206/1.0
+- name: chancespook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118208/1.0
+- name: chancelewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118441/1.0
+- name: chancelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118976/1.0
+- name: chancepout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119536/1.0
+- name: chancehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122004/1.0

@@ -9,26 +9,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/95649/1.0
 - name: s1lvercyber
   src: https://static-cdn.jtvnw.net/emoticons/v1/95648/1.0
-- name: s1lversheriff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116859/1.0
 - name: s1lverpidrila
   src: https://static-cdn.jtvnw.net/emoticons/v1/116860/1.0
-- name: s1lverbunt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116861/1.0
 - name: s1lverallin
   src: https://static-cdn.jtvnw.net/emoticons/v1/116649/1.0
-- name: s1lvermusic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116862/1.0
-- name: s1lvergoodgame
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116835/1.0
-- name: s1lvercheater
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116834/1.0
-- name: s1lverrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116833/1.0
 - name: s1lverowl
   src: https://static-cdn.jtvnw.net/emoticons/v1/87741/1.0
-- name: s1lverfeelsbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117025/1.0
 - name: s1lverbanhammer
   src: https://static-cdn.jtvnw.net/emoticons/v1/117026/1.0
 - name: s1lverzub
@@ -37,5 +23,41 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105303/1.0
 - name: s1lver12
   src: https://static-cdn.jtvnw.net/emoticons/v1/112815/1.0
+- name: s1lverfeelsbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117618/1.0
 - name: s1lvergasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/116648/1.0
+- name: s1lverq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118868/1.0
+- name: s1lverq1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118870/1.0
+- name: s1lverhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117923/1.0
+- name: s1lverriot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117924/1.0
+- name: s1lverq2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118872/1.0
+- name: s1lverq3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118873/1.0
+- name: s1lvervac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117893/1.0
+- name: s1lvereagle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118703/1.0
+- name: s1lvergg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118824/1.0
+- name: s1lverwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120663/1.0
+- name: s1lverd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120659/1.0
+- name: s1lverbabyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121999/1.0
+- name: s1lverlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121988/1.0
+- name: s1lverkappaz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121986/1.0
+- name: s1lverlethal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122882/1.0
+- name: s1lversniper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123766/1.0
+- name: s1lverjebaited
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123768/1.0

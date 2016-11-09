@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/104365/1.0
 - name: spazzyhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/104366/1.0
-- name: spazzyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104367/1.0
 - name: spazzylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/104368/1.0
 - name: spazzyrage
@@ -19,5 +17,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/104371/1.0
 - name: spazzylul
   src: https://static-cdn.jtvnw.net/emoticons/v1/114124/1.0
-- name: spazzypls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114125/1.0
+- name: spazzyhypu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120980/1.0
+- name: spazzydim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124742/1.0
+- name: spazzycreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124786/1.0
+- name: spazzycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125318/1.0
+- name: spazzylurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125320/1.0
+- name: spazzyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125321/1.0
+- name: spazzylit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125319/1.0

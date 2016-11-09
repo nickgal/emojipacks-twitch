@@ -13,18 +13,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46008/1.0
 - name: piesnug
   src: https://static-cdn.jtvnw.net/emoticons/v1/45823/1.0
-- name: pieblethump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55395/1.0
-- name: piefu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45825/1.0
 - name: piefirsttry
   src: https://static-cdn.jtvnw.net/emoticons/v1/55396/1.0
-- name: piecup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92512/1.0
 - name: piesmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/92510/1.0
-- name: pierunetunes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92514/1.0
 - name: piehappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/54505/1.0
 - name: pielewd
@@ -35,9 +27,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64272/1.0
 - name: pieread
   src: https://static-cdn.jtvnw.net/emoticons/v1/88657/1.0
-- name: piefudgemuffins
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92722/1.0
-- name: pieitsfine
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92576/1.0
-- name: piemint
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93264/1.0
+- name: piethinkingface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119965/1.0
+- name: piemug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120100/1.0
+- name: pieblethump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120155/1.0
+- name: pieblown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120235/1.0
+- name: piehug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120272/1.0
+- name: piefu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120308/1.0
+- name: piemad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120856/1.0

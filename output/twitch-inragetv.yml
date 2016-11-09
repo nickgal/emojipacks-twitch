@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - inragetv
 emojis:
 - name: irtvgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/106527/1.0
-- name: irtvragelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96737/1.0
-- name: irtvrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93265/1.0
 - name: irtvsubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/93263/1.0
-- name: irtvhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93310/1.0
 - name: irtvdia
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116431/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117602/1.0
+- name: irtvfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117603/1.0
+- name: irtvhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117604/1.0
+- name: irtvhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117605/1.0
+- name: irtvlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117606/1.0
+- name: irtvtip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117607/1.0

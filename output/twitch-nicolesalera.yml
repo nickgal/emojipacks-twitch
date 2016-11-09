@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - nicolesalera
 emojis:
-- name: nicogg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101340/1.0
-- name: nicodoge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101548/1.0
 - name: nicospoopy
   src: https://static-cdn.jtvnw.net/emoticons/v1/101215/1.0
 - name: nicocheer
@@ -17,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/101498/1.0
 - name: nicoheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/101205/1.0
+- name: nicolick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118576/1.0
+- name: nicoshrek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118577/1.0
+- name: nicosassy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118581/1.0
+- name: nicosalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124975/1.0

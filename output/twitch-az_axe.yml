@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - az_axe
 emojis:
-- name: azaxe69
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105209/1.0
 - name: azaxetempo
   src: https://static-cdn.jtvnw.net/emoticons/v1/67145/1.0
 - name: azaxe1
@@ -15,5 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70227/1.0
 - name: azaxepog
   src: https://static-cdn.jtvnw.net/emoticons/v1/105260/1.0
-- name: azaxekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105210/1.0
+- name: azaxekapow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122355/1.0
+- name: azaxe69
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122357/1.0

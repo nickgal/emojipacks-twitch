@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - steelohs
 emojis:
 - name: steelopoopki
   src: https://static-cdn.jtvnw.net/emoticons/v1/107838/1.0
-- name: steelogoldrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113274/1.0
 - name: steelonmb
   src: https://static-cdn.jtvnw.net/emoticons/v1/112414/1.0
 - name: steeloheyguys
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114276/1.0
 - name: steelogasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/113663/1.0
+- name: steelogomhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124660/1.0

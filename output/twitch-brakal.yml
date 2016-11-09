@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - brakal
 emojis:
-- name: brakalpolicia
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71943/1.0
-- name: brakalraton
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54436/1.0
+- name: brakalpulisia
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117637/1.0
 - name: brakalyoya
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37569/1.0
-- name: brakalbrekol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51068/1.0
-- name: brakaladc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56247/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117638/1.0
+- name: brakalraton
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117639/1.0
 - name: brakalcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72000/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117641/1.0
+- name: brakalpreso
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117728/1.0
+- name: brakalhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117642/1.0
+- name: brakalpota
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117729/1.0
+- name: brakalrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117643/1.0

@@ -3,7 +3,13 @@ title: Twitch Subscriber Emotes - deredeljobber
 emojis:
 - name: edelfaust
   src: https://static-cdn.jtvnw.net/emoticons/v1/114571/1.0
-- name: edelhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114509/1.0
 - name: edelyoda
   src: https://static-cdn.jtvnw.net/emoticons/v1/114809/1.0
+- name: edelnie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119114/1.0
+- name: edelhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119586/1.0
+- name: edeljobber
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124177/1.0
+- name: edelrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124201/1.0

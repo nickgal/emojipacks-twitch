@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - yulihong22
 emojis:
-- name: mmdno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47619/1.0
-- name: mmdcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48018/1.0
-- name: mmdmipie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47754/1.0
-- name: mmdaiya
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70268/1.0
+- name: mmdpika1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119157/1.0
+- name: mmdpika2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119158/1.0
+- name: mmdpika3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119159/1.0
+- name: mmdpika4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119160/1.0
+- name: mmdmimi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120699/1.0
+- name: mmdcoco
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120712/1.0
+- name: mmdqq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123622/1.0
+- name: mmdshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123653/1.0

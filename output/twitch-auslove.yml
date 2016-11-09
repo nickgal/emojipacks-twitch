@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - auslove
 emojis:
-- name: ausrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42205/1.0
 - name: austy
   src: https://static-cdn.jtvnw.net/emoticons/v1/77565/1.0
 - name: austhump
@@ -35,13 +33,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77714/1.0
 - name: ausshiny
   src: https://static-cdn.jtvnw.net/emoticons/v1/77717/1.0
-- name: ausg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77513/1.0
 - name: aushax
   src: https://static-cdn.jtvnw.net/emoticons/v1/77514/1.0
 - name: aushug
   src: https://static-cdn.jtvnw.net/emoticons/v1/76637/1.0
-- name: auswah
+- name: auswow
   src: https://static-cdn.jtvnw.net/emoticons/v1/93033/1.0
 - name: auspaint
   src: https://static-cdn.jtvnw.net/emoticons/v1/93032/1.0
@@ -51,3 +47,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/93030/1.0
 - name: ausdono
   src: https://static-cdn.jtvnw.net/emoticons/v1/93029/1.0
+- name: auseww
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122375/1.0
+- name: aushungry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122374/1.0
+- name: austilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122372/1.0
+- name: ausyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122373/1.0
+- name: auscheeky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122371/1.0
+- name: ausgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/77513/1.0
+- name: ausrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123272/1.0

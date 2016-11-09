@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - cjmusik
 emojis:
 - name: cjmdab
   src: https://static-cdn.jtvnw.net/emoticons/v1/109700/1.0
-- name: cjmfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91443/1.0
 - name: cjmbruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/105031/1.0
-- name: cjmsquad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97682/1.0
 - name: cjmtea
   src: https://static-cdn.jtvnw.net/emoticons/v1/73406/1.0
 - name: cjmlove
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105243/1.0
 - name: cjml
   src: https://static-cdn.jtvnw.net/emoticons/v1/109975/1.0
+- name: cjmsquad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122380/1.0
+- name: cjmfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122563/1.0

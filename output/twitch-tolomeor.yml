@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - tolomeor
 emojis:
-- name: tolomeosifb
+- name: tdogsifb
   src: https://static-cdn.jtvnw.net/emoticons/v1/74692/1.0
-- name: tolomeosif
+- name: tdogsif
   src: https://static-cdn.jtvnw.net/emoticons/v1/74691/1.0
-- name: tolomeotrigger
+- name: tdogtrigger
   src: https://static-cdn.jtvnw.net/emoticons/v1/75408/1.0
-- name: tolomeourite
+- name: tdogurite
   src: https://static-cdn.jtvnw.net/emoticons/v1/76610/1.0
-- name: tolomeospace
+- name: tdogspace
   src: https://static-cdn.jtvnw.net/emoticons/v1/79799/1.0
-- name: tolomeoyodel
+- name: tdogyodel
   src: https://static-cdn.jtvnw.net/emoticons/v1/79801/1.0
-- name: tolomeogameshark
+- name: tdoggameshark
   src: https://static-cdn.jtvnw.net/emoticons/v1/79802/1.0
-- name: tolomeorat
+- name: tdograt
   src: https://static-cdn.jtvnw.net/emoticons/v1/103533/1.0
+- name: tdogcoin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121279/1.0
+- name: tdogwiggle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121570/1.0

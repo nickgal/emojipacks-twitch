@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - connectesport
 emojis:
-- name: coeskanart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113000/1.0
 - name: coesfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/113191/1.0
 - name: coeswaza
   src: https://static-cdn.jtvnw.net/emoticons/v1/106559/1.0
 - name: coesfamily
   src: https://static-cdn.jtvnw.net/emoticons/v1/106407/1.0
+- name: coestrex
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120156/1.0
+- name: coeshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121431/1.0
+- name: coeslogo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121429/1.0

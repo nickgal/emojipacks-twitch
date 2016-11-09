@@ -1,19 +1,21 @@
 ---
 title: Twitch Subscriber Emotes - attach
 emojis:
-- name: attachanothaone
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77361/1.0
-- name: attachpipeitup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77359/1.0
-- name: attachgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77038/1.0
 - name: attachp90
   src: https://static-cdn.jtvnw.net/emoticons/v1/77030/1.0
 - name: attachmolly
   src: https://static-cdn.jtvnw.net/emoticons/v1/77029/1.0
-- name: attachhitmarker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77028/1.0
-- name: attachwhitefence
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77027/1.0
 - name: attachconfused
   src: https://static-cdn.jtvnw.net/emoticons/v1/77026/1.0
+- name: attachjkap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117710/1.0
+- name: attachgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117689/1.0
+- name: attachfazeup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117690/1.0
+- name: attachsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119921/1.0
+- name: attachmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119920/1.0
+- name: attachclutch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119922/1.0

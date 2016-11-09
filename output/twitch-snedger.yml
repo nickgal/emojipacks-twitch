@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/101664/1.0
 - name: snegdrew
   src: https://static-cdn.jtvnw.net/emoticons/v1/101665/1.0
-- name: snegsock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99673/1.0
 - name: snegevolve
   src: https://static-cdn.jtvnw.net/emoticons/v1/99674/1.0
 - name: snegsub
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106421/1.0
 - name: snegrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/110895/1.0
+- name: snegdoobie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121867/1.0

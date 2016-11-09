@@ -13,10 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51869/1.0
 - name: caslol
   src: https://static-cdn.jtvnw.net/emoticons/v1/50213/1.0
-- name: casrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54269/1.0
-- name: casnoice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54693/1.0
 - name: cashey
   src: https://static-cdn.jtvnw.net/emoticons/v1/64103/1.0
 - name: casomg
@@ -29,5 +25,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78666/1.0
 - name: castrig
   src: https://static-cdn.jtvnw.net/emoticons/v1/97149/1.0
+- name: casthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120006/1.0
+- name: casap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120010/1.0
+- name: casbueno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120193/1.0
+- name: casderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120903/1.0
+- name: casno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120900/1.0
 - name: caswat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112808/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120901/1.0
+- name: caslul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120895/1.0
+- name: casthink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121186/1.0

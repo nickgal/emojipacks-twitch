@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52884/1.0
 - name: floeknows
   src: https://static-cdn.jtvnw.net/emoticons/v1/54098/1.0
-- name: floebox
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70555/1.0
 - name: floeomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/96147/1.0
 - name: floemika
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/111763/1.0
 - name: floefriend
   src: https://static-cdn.jtvnw.net/emoticons/v1/115305/1.0
+- name: floesleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121550/1.0

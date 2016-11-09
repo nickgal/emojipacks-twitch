@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - a4andre
 emojis:
-- name: afourright
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61144/1.0
-- name: afourleft
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61142/1.0
 - name: afourthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/61128/1.0
 - name: afourmika
@@ -15,5 +11,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/85575/1.0
 - name: afourmyman
   src: https://static-cdn.jtvnw.net/emoticons/v1/108186/1.0
+- name: afourright
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124848/1.0
+- name: afourleft
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124847/1.0
+- name: afouraegis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124845/1.0
 - name: afourheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101008/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124843/1.0

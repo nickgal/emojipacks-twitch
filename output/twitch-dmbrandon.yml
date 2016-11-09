@@ -11,16 +11,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105493/1.0
 - name: diembless
   src: https://static-cdn.jtvnw.net/emoticons/v1/105494/1.0
-- name: diemobj1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105521/1.0
 - name: diemcatchup
   src: https://static-cdn.jtvnw.net/emoticons/v1/111839/1.0
 - name: diemm
   src: https://static-cdn.jtvnw.net/emoticons/v1/100179/1.0
-- name: dieml
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99952/1.0
-- name: diemp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99955/1.0
 - name: diemr
   src: https://static-cdn.jtvnw.net/emoticons/v1/99957/1.0
 - name: diems
@@ -33,11 +27,27 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100180/1.0
 - name: diemsweetheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/104058/1.0
-- name: diemobj2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105520/1.0
 - name: diemdaddy
   src: https://static-cdn.jtvnw.net/emoticons/v1/105490/1.0
 - name: diemairmac
   src: https://static-cdn.jtvnw.net/emoticons/v1/105488/1.0
 - name: diemeat
   src: https://static-cdn.jtvnw.net/emoticons/v1/105526/1.0
+- name: diemgreen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124007/1.0
+- name: diemyellow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124008/1.0
+- name: diemred
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124009/1.0
+- name: diemstop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124010/1.0
+- name: diemwait
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124011/1.0
+- name: diemgo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124352/1.0
+- name: diemfuego
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124350/1.0
+- name: diemjuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124935/1.0
+- name: diemregularjob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124934/1.0

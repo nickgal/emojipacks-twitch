@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109518/1.0
 - name: burnno
   src: https://static-cdn.jtvnw.net/emoticons/v1/96645/1.0
-- name: burnpf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96644/1.0
 - name: burnsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/95309/1.0
 - name: burnlove
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/96497/1.0
 - name: burnfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/110722/1.0
+- name: burnpf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124111/1.0

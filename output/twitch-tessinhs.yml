@@ -1,5 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - tessinhs
 emojis:
-- name: tessinflexflex
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88732/1.0
+- name: tessinflexl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123400/1.0
+- name: tessinflexr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123401/1.0
+- name: tessinrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124506/1.0
+- name: tessinhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124507/1.0

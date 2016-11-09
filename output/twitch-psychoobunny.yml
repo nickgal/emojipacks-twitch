@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - psychoobunny
 emojis:
+- name: psychooscared
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125706/1.0
+- name: psychootellmemore
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125695/1.0
 - name: psychooh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99759/1.0
-- name: psychookill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99762/1.0
-- name: psychoohug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99761/1.0
-- name: psychoogasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99760/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125849/1.0
 - name: psychoocry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100125/1.0
-- name: psychoohi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100124/1.0
-- name: psychoo210
-  src: https://static-cdn.jtvnw.net/emoticons/v1/102314/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125883/1.0
 - name: psychoolewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/102477/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125925/1.0
+- name: psychoopraise
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125917/1.0
+- name: psychoosugoi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125900/1.0
+- name: psychoopuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125908/1.0

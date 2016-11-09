@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - evangelion0
 emojis:
-- name: evankappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52337/1.0
 - name: evangasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/72805/1.0
 - name: evanperkins
@@ -17,3 +15,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116029/1.0
 - name: evanorc
   src: https://static-cdn.jtvnw.net/emoticons/v1/116540/1.0
+- name: evanhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120208/1.0
+- name: evanrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120197/1.0
+- name: evanchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120418/1.0
+- name: evanpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120420/1.0
+- name: evanlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120419/1.0
+- name: evanskip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123253/1.0
+- name: evanxd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123252/1.0
+- name: evanfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123311/1.0

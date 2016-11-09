@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/37827/1.0
 - name: jefhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/39950/1.0
-- name: jefcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45742/1.0
 - name: jefhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/45850/1.0
 - name: jefmoney
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48264/1.0
 - name: jeflose
   src: https://static-cdn.jtvnw.net/emoticons/v1/65015/1.0
+- name: jeffail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123528/1.0

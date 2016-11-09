@@ -3,9 +3,11 @@ title: Twitch Subscriber Emotes - tfue
 emojis:
 - name: tfuedawg
   src: https://static-cdn.jtvnw.net/emoticons/v1/70738/1.0
-- name: tfuewtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115109/1.0
-- name: tfueocto
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115106/1.0
 - name: tfueos
   src: https://static-cdn.jtvnw.net/emoticons/v1/115108/1.0
+- name: tfuepug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119981/1.0
+- name: tfueqt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120224/1.0
+- name: tfueh1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120577/1.0

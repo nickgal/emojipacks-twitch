@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - genomaexanime
 emojis:
-- name: vvv1pacman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94958/1.0
-- name: vvv1mamon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94956/1.0
-- name: vvv1cora
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103094/1.0
-- name: vvv1angry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103095/1.0
+- name: genomanico
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118477/1.0
+- name: genomahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118479/1.0
+- name: genomazy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122447/1.0
+- name: genomawut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122446/1.0

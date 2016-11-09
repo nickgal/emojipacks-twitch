@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - trilluxelive
 emojis:
 - name: trilluxefreddy
   src: https://static-cdn.jtvnw.net/emoticons/v1/55485/1.0
-- name: trilluxeschweineaim
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95220/1.0
 - name: trilluxelogo
   src: https://static-cdn.jtvnw.net/emoticons/v1/29241/1.0
 - name: trilluxefelix
@@ -13,6 +11,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/70624/1.0
 - name: trilluxee
   src: https://static-cdn.jtvnw.net/emoticons/v1/70603/1.0
+- name: trilluxesafe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119142/1.0
 - name: trilluxeguteeco
   src: https://static-cdn.jtvnw.net/emoticons/v1/101658/1.0
 - name: trilluxeatomnade
@@ -37,8 +37,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/94365/1.0
 - name: trilluxethrow
   src: https://static-cdn.jtvnw.net/emoticons/v1/94590/1.0
-- name: trilluxe64tick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94362/1.0
 - name: trilluxerip
   src: https://static-cdn.jtvnw.net/emoticons/v1/101659/1.0
 - name: trilluxeantieco
@@ -51,3 +49,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116376/1.0
 - name: trilluxeden
   src: https://static-cdn.jtvnw.net/emoticons/v1/116377/1.0
+- name: trilluxebanger
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118287/1.0
+- name: trilluxeanfeuern
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118288/1.0
+- name: trilluxeschweineaim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118289/1.0
+- name: trilluxe64tick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118290/1.0
+- name: trilluxefahren
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119188/1.0
+- name: trilluxeeinz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117684/1.0

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3961/1.0
 - name: shamcatcop
   src: https://static-cdn.jtvnw.net/emoticons/v1/11286/1.0
-- name: shamham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46788/1.0
 - name: shampraise
   src: https://static-cdn.jtvnw.net/emoticons/v1/69330/1.0
 - name: shampositive
@@ -15,9 +13,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33403/1.0
 - name: shamspooder
   src: https://static-cdn.jtvnw.net/emoticons/v1/33401/1.0
-- name: shamdunk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60840/1.0
 - name: shamnice
   src: https://static-cdn.jtvnw.net/emoticons/v1/69328/1.0
 - name: shamrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/69896/1.0
+- name: sham1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123124/1.0
+- name: shamtortie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123159/1.0
+- name: shamham2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123138/1.0
+- name: shamham1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123136/1.0
+- name: sham4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123127/1.0
+- name: sham2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123125/1.0
+- name: sham3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123126/1.0

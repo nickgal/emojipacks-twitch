@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - bidado
 emojis:
-- name: bidapicnic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20767/1.0
 - name: bidaswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/16627/1.0
 - name: bidapinou
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/29997/1.0
 - name: bidaciclope
   src: https://static-cdn.jtvnw.net/emoticons/v1/32270/1.0
+- name: bidalul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121942/1.0

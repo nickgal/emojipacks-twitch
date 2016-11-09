@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71710/1.0
 - name: lsvgrade
   src: https://static-cdn.jtvnw.net/emoticons/v1/71711/1.0
-- name: lsvdece
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93617/1.0
 - name: lsvwin
   src: https://static-cdn.jtvnw.net/emoticons/v1/93616/1.0
 - name: lsvburrito
@@ -19,5 +17,27 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/93169/1.0
 - name: lsvwhy
   src: https://static-cdn.jtvnw.net/emoticons/v1/93173/1.0
-- name: lsvqueue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93172/1.0
+- name: lsvbeats
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118114/1.0
+- name: lsvham
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118117/1.0
+- name: lsvfine
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118115/1.0
+- name: lsvgas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118116/1.0
+- name: lsvrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118118/1.0
+- name: lsvhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118120/1.0
+- name: lsvdob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120698/1.0
+- name: lsvpunt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123364/1.0
+- name: lsvpeel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123363/1.0
+- name: lsvlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123478/1.0
+- name: lsvhuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123479/1.0
+- name: lsvtaste
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123697/1.0

@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - classykatie
 emojis:
-- name: classykhorns
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87983/1.0
-- name: classyktotoro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90975/1.0
 - name: classykbeard
   src: https://static-cdn.jtvnw.net/emoticons/v1/87984/1.0
 - name: classykhole
   src: https://static-cdn.jtvnw.net/emoticons/v1/80098/1.0
-- name: classykmu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79683/1.0
 - name: classykgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/82736/1.0
 - name: classykloins
   src: https://static-cdn.jtvnw.net/emoticons/v1/82737/1.0
-- name: classykhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89216/1.0
+- name: classyksir
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123681/1.0
+- name: classyklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123679/1.0
+- name: classyknuglife
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123689/1.0
+- name: classykrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123683/1.0

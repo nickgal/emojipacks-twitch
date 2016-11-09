@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - regi1337
 emojis:
-- name: regipantoffel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31936/1.0
 - name: regisub
   src: https://static-cdn.jtvnw.net/emoticons/v1/31935/1.0
 - name: regifail
@@ -11,9 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80224/1.0
 - name: regikani
   src: https://static-cdn.jtvnw.net/emoticons/v1/80223/1.0
-- name: regibaff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67246/1.0
 - name: regidentsleeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/80225/1.0
 - name: regikappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/105201/1.0
+- name: regihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118381/1.0
+- name: regiwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118384/1.0
+- name: registuhllp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123211/1.0
+- name: regianele
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123202/1.0

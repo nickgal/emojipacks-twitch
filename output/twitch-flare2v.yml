@@ -3,17 +3,13 @@ title: Twitch Subscriber Emotes - flare2v
 emojis:
 - name: flare2rip
   src: https://static-cdn.jtvnw.net/emoticons/v1/73634/1.0
-- name: flare2kill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85421/1.0
 - name: flare2art
   src: https://static-cdn.jtvnw.net/emoticons/v1/59662/1.0
 - name: flare2pack
   src: https://static-cdn.jtvnw.net/emoticons/v1/82810/1.0
-- name: flare2nasty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65406/1.0
 - name: flare2bob
   src: https://static-cdn.jtvnw.net/emoticons/v1/68218/1.0
-- name: flare2wiki
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84931/1.0
-- name: flare2gang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86839/1.0
+- name: flare2for
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125368/1.0
+- name: flare2sorry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125366/1.0

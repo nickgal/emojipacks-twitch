@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - nanonoko
 emojis:
 - name: nanoak
   src: https://static-cdn.jtvnw.net/emoticons/v1/88240/1.0
-- name: nanocall
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93799/1.0
-- name: nanonoko
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101477/1.0
 - name: nanoheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/50495/1.0
 - name: nanoallin
   src: https://static-cdn.jtvnw.net/emoticons/v1/91692/1.0
 - name: nanoshake
   src: https://static-cdn.jtvnw.net/emoticons/v1/88180/1.0
-- name: nanohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88185/1.0
 - name: nanocalc
   src: https://static-cdn.jtvnw.net/emoticons/v1/114372/1.0
+- name: nanonano
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117974/1.0
+- name: nanopray
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117847/1.0
+- name: nanogong
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117985/1.0

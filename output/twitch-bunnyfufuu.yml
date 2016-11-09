@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - bunnyfufuu
 emojis:
-- name: bungasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55480/1.0
 - name: bunhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/68133/1.0
 - name: bunbun
@@ -15,19 +13,31 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47452/1.0
 - name: bunrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/47451/1.0
-- name: bunporo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47449/1.0
 - name: bunhook
   src: https://static-cdn.jtvnw.net/emoticons/v1/47450/1.0
-- name: bunbard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50211/1.0
 - name: bunmeep
   src: https://static-cdn.jtvnw.net/emoticons/v1/50236/1.0
-- name: bunhlife
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58776/1.0
 - name: bungg
   src: https://static-cdn.jtvnw.net/emoticons/v1/68138/1.0
 - name: bunwelcome
   src: https://static-cdn.jtvnw.net/emoticons/v1/68135/1.0
 - name: bunweeb
   src: https://static-cdn.jtvnw.net/emoticons/v1/113106/1.0
+- name: bunfbm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118241/1.0
+- name: bunw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118399/1.0
+- name: bunpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118402/1.0
+- name: buntilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123607/1.0
+- name: buntrain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123605/1.0
+- name: bunboosted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123604/1.0
+- name: bunghost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123606/1.0
+- name: bunskip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124546/1.0
+- name: bungasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124545/1.0

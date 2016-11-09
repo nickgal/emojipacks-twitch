@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - liaph
 emojis:
-- name: liaphkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97062/1.0
 - name: liaphrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/115457/1.0
 - name: liaphthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/115456/1.0
-- name: liaphtbag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115155/1.0
+- name: liaphlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122420/1.0
+- name: liaphhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122419/1.0
+- name: liaphlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123726/1.0
+- name: liaphfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123725/1.0

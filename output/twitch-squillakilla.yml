@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - squillakilla
 emojis:
 - name: squillove
   src: https://static-cdn.jtvnw.net/emoticons/v1/61204/1.0
-- name: squillewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68581/1.0
 - name: squilgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/90048/1.0
 - name: squilmeme
   src: https://static-cdn.jtvnw.net/emoticons/v1/107625/1.0
 - name: squilpb
   src: https://static-cdn.jtvnw.net/emoticons/v1/107965/1.0
-- name: squilrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110208/1.0
-- name: squilhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109658/1.0
 - name: squiledgelord
   src: https://static-cdn.jtvnw.net/emoticons/v1/110076/1.0
+- name: squilgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117121/1.0
+- name: squilhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119661/1.0
+- name: squillewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120358/1.0
+- name: squilwaifu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124239/1.0
+- name: squilrude
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125349/1.0

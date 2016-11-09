@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - cglas
 emojis:
-- name: sadpigburn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115671/1.0
 - name: sadpigumaru
   src: https://static-cdn.jtvnw.net/emoticons/v1/93694/1.0
+- name: sadpigcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122054/1.0

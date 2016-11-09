@@ -1,23 +1,29 @@
 ---
 title: Twitch Subscriber Emotes - handiofiblood
 emojis:
-- name: spastbutz
+- name: spandaubutz
   src: https://static-cdn.jtvnw.net/emoticons/v1/45576/1.0
-- name: spastschlitz
+- name: spandauschlitz
   src: https://static-cdn.jtvnw.net/emoticons/v1/45577/1.0
-- name: spastdexter2
+- name: spandaudexter2
   src: https://static-cdn.jtvnw.net/emoticons/v1/101897/1.0
-- name: spastspinne
+- name: spandauspinne
   src: https://static-cdn.jtvnw.net/emoticons/v1/84860/1.0
-- name: spastcaptain
+- name: spandaucaptain
   src: https://static-cdn.jtvnw.net/emoticons/v1/84862/1.0
-- name: spastspin
+- name: spandauspin
   src: https://static-cdn.jtvnw.net/emoticons/v1/84863/1.0
-- name: spastglatze
+- name: spandauglatze
   src: https://static-cdn.jtvnw.net/emoticons/v1/102023/1.0
-- name: spastdexter
+- name: spandaudexter
   src: https://static-cdn.jtvnw.net/emoticons/v1/101898/1.0
-- name: spastohweia
+- name: spandauohweia
   src: https://static-cdn.jtvnw.net/emoticons/v1/102429/1.0
-- name: spastglatzeohweia
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116871/1.0
+- name: spandauglatzeohweia
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117538/1.0
+- name: spandaudone
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117558/1.0
+- name: spandauready
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117559/1.0
+- name: spandaufailsmite
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118350/1.0

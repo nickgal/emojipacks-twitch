@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - ppd
 emojis:
 - name: ppdbb
   src: https://static-cdn.jtvnw.net/emoticons/v1/13678/1.0
-- name: ppdgs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19634/1.0
-- name: ppddead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21846/1.0
 - name: ppdsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/21847/1.0
 - name: ppdusa
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77243/1.0
 - name: ppdangel
   src: https://static-cdn.jtvnw.net/emoticons/v1/77242/1.0
+- name: ppdevil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125540/1.0
+- name: ppdboss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125787/1.0

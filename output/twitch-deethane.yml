@@ -1,23 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - deethane
 emojis:
-- name: thanefail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29665/1.0
-- name: thanehappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28904/1.0
-- name: thanepanda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28899/1.0
-- name: thanerekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30669/1.0
-- name: thanehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30668/1.0
 - name: thanelogic
   src: https://static-cdn.jtvnw.net/emoticons/v1/43714/1.0
 - name: thanew
   src: https://static-cdn.jtvnw.net/emoticons/v1/55750/1.0
-- name: thanecar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60607/1.0
 - name: thanetlupa
   src: https://static-cdn.jtvnw.net/emoticons/v1/60608/1.0
 - name: thanedd
   src: https://static-cdn.jtvnw.net/emoticons/v1/79640/1.0
+- name: thanevac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122673/1.0
+- name: thanebug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122660/1.0
+- name: thanehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122661/1.0
+- name: thanerekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122668/1.0
+- name: thanefeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122670/1.0
+- name: thanesexy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122655/1.0
+- name: thanehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122654/1.0
+- name: thanerage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122652/1.0
+- name: thanekappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123060/1.0
+- name: thanelag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123055/1.0
+- name: thanefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123064/1.0

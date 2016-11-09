@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - thetruevanguard
 emojis:
-- name: truevjuice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81247/1.0
 - name: truevsnipe
   src: https://static-cdn.jtvnw.net/emoticons/v1/76410/1.0
 - name: truevneedadult
@@ -21,3 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/95787/1.0
 - name: truevhelloyt
   src: https://static-cdn.jtvnw.net/emoticons/v1/95926/1.0
+- name: truevcougarfoul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117122/1.0
+- name: truevloveofdonuts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121237/1.0
+- name: truevburn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121233/1.0
+- name: truevtroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121234/1.0
+- name: truevbob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121236/1.0
+- name: truevrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121235/1.0

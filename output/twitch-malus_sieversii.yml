@@ -1,13 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - malus_sieversii
 emojis:
-- name: malusrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16491/1.0
-- name: malushype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43477/1.0
 - name: malusrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100225/1.0
-- name: maluswut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100308/1.0
-- name: malusbb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100215/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119599/1.0
+- name: malushype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119600/1.0
+- name: malusthirst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119604/1.0
+- name: malusl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120216/1.0

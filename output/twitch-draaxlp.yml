@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - draaxlp
 emojis:
+- name: draaxrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124723/1.0
+- name: draaxlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124721/1.0
+- name: draaxfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124719/1.0
+- name: draaxsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124724/1.0
+- name: draaxrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124722/1.0
 - name: draaxhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79103/1.0
-- name: draaxmask
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76100/1.0
-- name: draaxkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78941/1.0
-- name: draaxluck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87970/1.0
-- name: draaxusb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87639/1.0
-- name: draaxrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87832/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124720/1.0

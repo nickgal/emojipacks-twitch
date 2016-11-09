@@ -53,8 +53,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100984/1.0
 - name: sodaluck
   src: https://static-cdn.jtvnw.net/emoticons/v1/100985/1.0
-- name: sodang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100986/1.0
 - name: sodapepe
   src: https://static-cdn.jtvnw.net/emoticons/v1/100987/1.0
 - name: sodarage
@@ -69,3 +67,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/99299/1.0
 - name: sodalouder
   src: https://static-cdn.jtvnw.net/emoticons/v1/99300/1.0
+- name: sodang
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123169/1.0

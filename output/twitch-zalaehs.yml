@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - zalaehs
 emojis:
-- name: zalaenadia
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48294/1.0
 - name: zalaew
   src: https://static-cdn.jtvnw.net/emoticons/v1/48299/1.0
 - name: zalaerng
@@ -21,3 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79674/1.0
 - name: zalaedr
   src: https://static-cdn.jtvnw.net/emoticons/v1/79676/1.0
+- name: zalaes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119896/1.0
+- name: zalaechamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119897/1.0
+- name: zalaestupid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119923/1.0
+- name: zalaebb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119905/1.0
+- name: zalaeh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119914/1.0
+- name: zalaea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119895/1.0

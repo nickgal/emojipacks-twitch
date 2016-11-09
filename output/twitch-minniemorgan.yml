@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/42256/1.0
 - name: minmolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/58920/1.0
-- name: minmod
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84170/1.0
 - name: minmohi
   src: https://static-cdn.jtvnw.net/emoticons/v1/84172/1.0
 - name: minmogrill
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105572/1.0
 - name: minmoyes
   src: https://static-cdn.jtvnw.net/emoticons/v1/105573/1.0
+- name: minmosouls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118563/1.0

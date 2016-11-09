@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - dennsen86
 emojis:
 - name: dennsenyatta
   src: https://static-cdn.jtvnw.net/emoticons/v1/102104/1.0
-- name: dennsenfacepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99502/1.0
 - name: dennsenmaker
   src: https://static-cdn.jtvnw.net/emoticons/v1/98316/1.0
 - name: dennsenlasttry
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/102155/1.0
 - name: dennsenrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/102154/1.0
+- name: dennsencoin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118663/1.0
+- name: dennsenhae
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118664/1.0
+- name: dennsenez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118665/1.0

@@ -3,20 +3,12 @@ title: Twitch Subscriber Emotes - manvsgame
 emojis:
 - name: manhurr
   src: https://static-cdn.jtvnw.net/emoticons/v1/1324/1.0
-- name: mangry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/279/1.0
 - name: mansel
   src: https://static-cdn.jtvnw.net/emoticons/v1/1726/1.0
 - name: manfist
   src: https://static-cdn.jtvnw.net/emoticons/v1/4155/1.0
 - name: manbro
   src: https://static-cdn.jtvnw.net/emoticons/v1/6401/1.0
-- name: manaww
-  src: https://static-cdn.jtvnw.net/emoticons/v1/942/1.0
-- name: manzeke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1249/1.0
-- name: manmartin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/452/1.0
 - name: manmad
   src: https://static-cdn.jtvnw.net/emoticons/v1/454/1.0
 - name: mansun
@@ -27,11 +19,35 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/22077/1.0
 - name: manchain
   src: https://static-cdn.jtvnw.net/emoticons/v1/23884/1.0
-- name: manforge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25339/1.0
 - name: manpot
   src: https://static-cdn.jtvnw.net/emoticons/v1/25351/1.0
 - name: manmini
   src: https://static-cdn.jtvnw.net/emoticons/v1/32608/1.0
 - name: mantus
   src: https://static-cdn.jtvnw.net/emoticons/v1/40401/1.0
+- name: manhuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121843/1.0
+- name: mangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121844/1.0
+- name: manhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121851/1.0
+- name: manlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121849/1.0
+- name: manzeke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122577/1.0
+- name: manbat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122576/1.0
+- name: manzapr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122630/1.0
+- name: manmartin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122613/1.0
+- name: mancry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122612/1.0
+- name: manzapl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122629/1.0
+- name: manfood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122628/1.0
+- name: manaww
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123185/1.0
+- name: manlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124030/1.0

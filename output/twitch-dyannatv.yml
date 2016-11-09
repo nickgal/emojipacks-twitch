@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - dyannatv
 emojis:
 - name: dyatvcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/99318/1.0
-- name: dyatvderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97292/1.0
-- name: dyatvhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97300/1.0
 - name: dyatvlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/102558/1.0
 - name: dyatvgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/102559/1.0
-- name: dyatvsodead
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99473/1.0
+- name: dyatvhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119822/1.0
+- name: dyatvhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121472/1.0
+- name: dyatvfb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121919/1.0
+- name: dyatvrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122665/1.0
+- name: dyatvfg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122781/1.0

@@ -19,5 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106927/1.0
 - name: gotcoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/116102/1.0
+- name: gotrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118513/1.0
+- name: gotit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118514/1.0
+- name: gotsoda
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118515/1.0
 - name: gotsalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116103/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125996/1.0
+- name: gotmath
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125997/1.0
+- name: gotw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125998/1.0

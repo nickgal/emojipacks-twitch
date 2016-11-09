@@ -1,20 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - jendenise
 emojis:
-- name: jendrool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55320/1.0
 - name: jenhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/55324/1.0
 - name: jensexy
   src: https://static-cdn.jtvnw.net/emoticons/v1/26664/1.0
-- name: jenwaifu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66634/1.0
 - name: jenpraise
   src: https://static-cdn.jtvnw.net/emoticons/v1/100530/1.0
 - name: jengasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/100527/1.0
-- name: jenfat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100483/1.0
 - name: jenfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/100470/1.0
 - name: jentoast
@@ -31,3 +25,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106403/1.0
 - name: jenbooty
   src: https://static-cdn.jtvnw.net/emoticons/v1/106404/1.0
+- name: jena
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119788/1.0
+- name: jendazed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121632/1.0
+- name: jenfat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121609/1.0
+- name: jenlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121663/1.0
+- name: jenkiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122215/1.0
+- name: jendrool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122356/1.0

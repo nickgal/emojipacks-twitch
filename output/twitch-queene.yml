@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - queene
 emojis:
-- name: brobenoj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103701/1.0
-- name: brobestache
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66881/1.0
 - name: brobepizza
   src: https://static-cdn.jtvnw.net/emoticons/v1/45124/1.0
 - name: brobeheart
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/87588/1.0
 - name: brobes
   src: https://static-cdn.jtvnw.net/emoticons/v1/87831/1.0
+- name: brobea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123641/1.0
+- name: brobestick
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123640/1.0

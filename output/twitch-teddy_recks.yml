@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105269/1.0
 - name: teddykobe
   src: https://static-cdn.jtvnw.net/emoticons/v1/105268/1.0
-- name: teddysnapper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105554/1.0
 - name: teddycash
   src: https://static-cdn.jtvnw.net/emoticons/v1/105119/1.0
 - name: teddysubhype
@@ -19,5 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106977/1.0
 - name: teddybears
   src: https://static-cdn.jtvnw.net/emoticons/v1/105553/1.0
-- name: teddygold
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106978/1.0
+- name: teddyteddypika
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121461/1.0
+- name: teddyteddylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121459/1.0

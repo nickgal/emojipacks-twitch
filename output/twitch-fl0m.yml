@@ -17,16 +17,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67208/1.0
 - name: fl0mscum
   src: https://static-cdn.jtvnw.net/emoticons/v1/26086/1.0
-- name: fl0mpanic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26550/1.0
 - name: fl0malpha
   src: https://static-cdn.jtvnw.net/emoticons/v1/53778/1.0
 - name: fl0mhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/54230/1.0
 - name: fl0mnoble
   src: https://static-cdn.jtvnw.net/emoticons/v1/60076/1.0
-- name: fl0mpuma
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52197/1.0
 - name: fl0mhear
   src: https://static-cdn.jtvnw.net/emoticons/v1/66656/1.0
 - name: fl0mgoose
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71133/1.0
 - name: fl0ms
   src: https://static-cdn.jtvnw.net/emoticons/v1/88477/1.0
+- name: fl0mrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118440/1.0
+- name: fl0mmythic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120196/1.0

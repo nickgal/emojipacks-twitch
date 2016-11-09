@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - korea10
 emojis:
-- name: korean
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77272/1.0
 - name: korearice
   src: https://static-cdn.jtvnw.net/emoticons/v1/63889/1.0
 - name: koreacarry
   src: https://static-cdn.jtvnw.net/emoticons/v1/62435/1.0
-- name: koreapray
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62397/1.0
 - name: korear
   src: https://static-cdn.jtvnw.net/emoticons/v1/84085/1.0
 - name: koreahi
@@ -17,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84218/1.0
 - name: koreah
   src: https://static-cdn.jtvnw.net/emoticons/v1/84219/1.0
+- name: korealul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121726/1.0
+- name: koreagasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121918/1.0
+- name: koreafeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121916/1.0
+- name: koreaez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122098/1.0

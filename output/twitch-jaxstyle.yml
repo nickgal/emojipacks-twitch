@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - jaxstyle
 emojis:
-- name: jaxichamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101051/1.0
 - name: jaxiskaal
   src: https://static-cdn.jtvnw.net/emoticons/v1/101031/1.0
 - name: jaxigasm
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/102141/1.0
 - name: jaxilul
   src: https://static-cdn.jtvnw.net/emoticons/v1/114040/1.0
+- name: jaxivac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123090/1.0

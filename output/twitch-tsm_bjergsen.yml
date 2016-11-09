@@ -27,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71706/1.0
 - name: bjergw
   src: https://static-cdn.jtvnw.net/emoticons/v1/71975/1.0
-- name: bjergmia
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73507/1.0
 - name: bjergna
   src: https://static-cdn.jtvnw.net/emoticons/v1/73506/1.0
 - name: bjergdanish
@@ -37,7 +35,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75199/1.0
 - name: bjergsostrong
   src: https://static-cdn.jtvnw.net/emoticons/v1/75200/1.0
-- name: bjergpowerspike
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75201/1.0
 - name: bjergtear
   src: https://static-cdn.jtvnw.net/emoticons/v1/75202/1.0
+- name: bjergfed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121146/1.0
+- name: bjerggasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122925/1.0

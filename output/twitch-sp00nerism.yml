@@ -5,29 +5,27 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82476/1.0
 - name: sp00nsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/10529/1.0
-- name: sp00ngood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22795/1.0
-- name: sp00ncry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22845/1.0
 - name: sp00ngasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/38859/1.0
-- name: sp00ncat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38865/1.0
 - name: sp00npalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/38867/1.0
 - name: sp00nay
   src: https://static-cdn.jtvnw.net/emoticons/v1/38963/1.0
 - name: sp00nwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/44487/1.0
-- name: sp00nwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53807/1.0
-- name: sp00nomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63946/1.0
 - name: sp00nrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/69555/1.0
 - name: sp00nrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/69559/1.0
-- name: sp00ncat2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81801/1.0
 - name: sp00nvac
   src: https://static-cdn.jtvnw.net/emoticons/v1/81802/1.0
+- name: sp00nw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122248/1.0
+- name: sp00nduck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122311/1.0
+- name: sp00nchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122278/1.0
+- name: sp00nlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122271/1.0
+- name: sp00ncat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122247/1.0

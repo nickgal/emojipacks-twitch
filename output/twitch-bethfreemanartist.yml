@@ -1,19 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - bethfreemanartist
 emojis:
-- name: bethdance
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73521/1.0
 - name: bethhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/73518/1.0
-- name: bethdistract
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47514/1.0
-- name: bethpie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47490/1.0
-- name: bethhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49193/1.0
-- name: bethginger
-  src: https://static-cdn.jtvnw.net/emoticons/v1/49194/1.0
 - name: bethmum
   src: https://static-cdn.jtvnw.net/emoticons/v1/60219/1.0
 - name: bethgolfclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/73517/1.0
+- name: bethhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119175/1.0
+- name: betho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119415/1.0
+- name: bethrock
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119141/1.0
+- name: bethmoan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119416/1.0

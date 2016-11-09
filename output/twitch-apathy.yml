@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - apathy
 emojis:
 - name: apathyd
   src: https://static-cdn.jtvnw.net/emoticons/v1/100448/1.0
-- name: apathysubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81908/1.0
-- name: apathysupersaiyan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81998/1.0
+- name: apathycarry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118237/1.0
+- name: apathyss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118239/1.0
 - name: apathyfacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/81760/1.0
-- name: apathygg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100449/1.0
-- name: apathygl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100451/1.0
 - name: apathyenergy
   src: https://static-cdn.jtvnw.net/emoticons/v1/107250/1.0
 - name: apathylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/107251/1.0
+- name: apathyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118238/1.0
+- name: apathyre
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118236/1.0
+- name: apathygg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123963/1.0
+- name: apathylgb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123961/1.0

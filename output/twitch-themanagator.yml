@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/111621/1.0
 - name: gatorgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/110466/1.0
-- name: gatorrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113046/1.0
 - name: gatorz
   src: https://static-cdn.jtvnw.net/emoticons/v1/113045/1.0
 - name: gatorhype
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100826/1.0
 - name: gatorlit
   src: https://static-cdn.jtvnw.net/emoticons/v1/110772/1.0
+- name: gatorlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123443/1.0

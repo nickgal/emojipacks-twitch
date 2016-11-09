@@ -7,6 +7,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83811/1.0
 - name: staiyban
   src: https://static-cdn.jtvnw.net/emoticons/v1/12340/1.0
+- name: staiyfeelsgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118123/1.0
 - name: staiygril
   src: https://static-cdn.jtvnw.net/emoticons/v1/84617/1.0
 - name: staiykappa
@@ -43,3 +45,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116829/1.0
 - name: staiydete
   src: https://static-cdn.jtvnw.net/emoticons/v1/114524/1.0
+- name: staiyfeelsbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118124/1.0
+- name: staiybart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118438/1.0
+- name: staiylul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118439/1.0

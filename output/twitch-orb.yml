@@ -1,33 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - orb
 emojis:
-- name: orbhubba
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17969/1.0
-- name: orbplays
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18013/1.0
-- name: orbsafe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30499/1.0
-- name: orbsleeper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52231/1.0
 - name: orbw
   src: https://static-cdn.jtvnw.net/emoticons/v1/52151/1.0
-- name: orbdank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69312/1.0
 - name: orbgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/68452/1.0
-- name: orbso
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68450/1.0
-- name: orbf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68645/1.0
-- name: orbc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70743/1.0
-- name: orblove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72240/1.0
-- name: orbhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72152/1.0
-- name: orbvac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73136/1.0
 - name: orba
   src: https://static-cdn.jtvnw.net/emoticons/v1/74880/1.0
-- name: orbv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74058/1.0
+- name: orbrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123848/1.0
+- name: orbfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123849/1.0
+- name: orbpray
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123847/1.0
+- name: orblove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123846/1.0
+- name: orbcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123845/1.0
+- name: orbhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125209/1.0
+- name: orbgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125212/1.0
+- name: orbomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125214/1.0
+- name: orbrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125216/1.0
+- name: orb10
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125512/1.0
+- name: orbrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125514/1.0
+- name: orbwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125513/1.0

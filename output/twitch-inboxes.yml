@@ -13,11 +13,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/98019/1.0
 - name: inboxrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/80017/1.0
-- name: inboxhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80016/1.0
 - name: inboxgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/81094/1.0
 - name: inboxsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/81092/1.0
+- name: inbox2tap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122111/1.0
+- name: inboxhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122659/1.0
 - name: inboxrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81091/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124827/1.0

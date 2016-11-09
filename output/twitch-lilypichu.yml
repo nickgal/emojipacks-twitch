@@ -15,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50894/1.0
 - name: lilyhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/48032/1.0
-- name: lilystrawberry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48038/1.0
 - name: lilychubby
   src: https://static-cdn.jtvnw.net/emoticons/v1/48177/1.0
 - name: lilyblue
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100248/1.0
 - name: lilytilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/100249/1.0
+- name: lilyhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119162/1.0

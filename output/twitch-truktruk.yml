@@ -11,9 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/79014/1.0
 - name: trukdd
   src: https://static-cdn.jtvnw.net/emoticons/v1/91312/1.0
-- name: trukface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91311/1.0
 - name: trukcool
   src: https://static-cdn.jtvnw.net/emoticons/v1/98647/1.0
 - name: trukpuke
   src: https://static-cdn.jtvnw.net/emoticons/v1/98649/1.0
+- name: trukpeek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118810/1.0
+- name: trukshpee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120444/1.0
+- name: trukw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120445/1.0

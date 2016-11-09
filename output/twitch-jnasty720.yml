@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - jnasty720
 emojis:
-- name: nastysub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33470/1.0
-- name: nastyquit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71286/1.0
-- name: nastysquad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71287/1.0
-- name: nastyhitmarker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71606/1.0
-- name: nastyairhorn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71607/1.0
-- name: nastyteam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71285/1.0
+- name: nastyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122461/1.0
+- name: nastysellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122462/1.0
+- name: nastyfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122457/1.0
+- name: nastychoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122460/1.0
+- name: nastynuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122459/1.0
+- name: nastyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122458/1.0

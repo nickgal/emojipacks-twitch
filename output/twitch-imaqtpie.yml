@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - imaqtpie
 emojis:
 - name: qtpspooky
   src: https://static-cdn.jtvnw.net/emoticons/v1/3176/1.0
-- name: qtpswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19673/1.0
 - name: qtpblessed
   src: https://static-cdn.jtvnw.net/emoticons/v1/12576/1.0
 - name: qtpusa
@@ -33,8 +31,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86537/1.0
 - name: qtpurgod
   src: https://static-cdn.jtvnw.net/emoticons/v1/40894/1.0
-- name: qtpassist
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40895/1.0
 - name: qtpmoist
   src: https://static-cdn.jtvnw.net/emoticons/v1/44081/1.0
 - name: qtplucian
@@ -47,10 +43,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/67391/1.0
 - name: qtpmew
   src: https://static-cdn.jtvnw.net/emoticons/v1/69103/1.0
-- name: qtpbabyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68194/1.0
-- name: qtpopenmid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68195/1.0
 - name: qtpbaked
   src: https://static-cdn.jtvnw.net/emoticons/v1/69729/1.0
 - name: qtpfeels
@@ -59,8 +51,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73073/1.0
 - name: qtplul
   src: https://static-cdn.jtvnw.net/emoticons/v1/116948/1.0
-- name: qtp2nd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116947/1.0
 - name: qtpweeb
   src: https://static-cdn.jtvnw.net/emoticons/v1/99081/1.0
 - name: qtpowo
@@ -87,3 +77,27 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114091/1.0
 - name: qtpnlt
   src: https://static-cdn.jtvnw.net/emoticons/v1/114093/1.0
+- name: qtpcs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118279/1.0
+- name: qtp2nd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118201/1.0
+- name: qtpswag
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117351/1.0
+- name: qtpbot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118492/1.0
+- name: qtpkawaii
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117329/1.0
+- name: qtpsmorc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118456/1.0
+- name: qtplit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117334/1.0
+- name: qtpno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118250/1.0
+- name: qtpboosted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117471/1.0
+- name: qtpedge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117343/1.0
+- name: qtphahaa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117608/1.0
+- name: qtpdapper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119799/1.0

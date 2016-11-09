@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - reggitar
 emojis:
-- name: reggiwave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68549/1.0
-- name: reggiboo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50975/1.0
-- name: reggichill
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82806/1.0
-- name: reggibaka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61852/1.0
-- name: reggih
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62432/1.0
+- name: reggic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119375/1.0
 - name: reggilewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68548/1.0
-- name: reggicry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68547/1.0
-- name: reggicool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85209/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119378/1.0
+- name: reggisad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119379/1.0
+- name: reggiwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119381/1.0
+- name: reggiaww
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119692/1.0
+- name: reggih
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119693/1.0
+- name: reggihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119694/1.0
+- name: reggiwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119695/1.0

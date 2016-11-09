@@ -3,18 +3,12 @@ title: Twitch Subscriber Emotes - miss_rage
 emojis:
 - name: yunaicri
   src: https://static-cdn.jtvnw.net/emoticons/v1/34193/1.0
-- name: yunarage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6887/1.0
 - name: yunamartyn
   src: https://static-cdn.jtvnw.net/emoticons/v1/7542/1.0
 - name: yunabaguette
   src: https://static-cdn.jtvnw.net/emoticons/v1/11191/1.0
 - name: yunaburp
   src: https://static-cdn.jtvnw.net/emoticons/v1/19217/1.0
-- name: yunahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19310/1.0
-- name: yunarekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27775/1.0
 - name: yunakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/27773/1.0
 - name: yunac
@@ -25,9 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51717/1.0
 - name: yunasalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/51718/1.0
-- name: yunakawaii
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51719/1.0
-- name: yunaheyguys
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51720/1.0
 - name: yunayuna
   src: https://static-cdn.jtvnw.net/emoticons/v1/51721/1.0
+- name: yunaez
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117411/1.0
+- name: yunahi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117412/1.0
+- name: yunahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117414/1.0
+- name: yunarip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117415/1.0
+- name: yunarekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117416/1.0

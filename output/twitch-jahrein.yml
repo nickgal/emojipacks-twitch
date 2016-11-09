@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60007/1.0
 - name: jahseven
   src: https://static-cdn.jtvnw.net/emoticons/v1/9193/1.0
-- name: jahocam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59738/1.0
 - name: jahuganda
   src: https://static-cdn.jtvnw.net/emoticons/v1/59743/1.0
 - name: jahdanjor
@@ -23,14 +21,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59761/1.0
 - name: jahfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/61271/1.0
-- name: jahchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61272/1.0
 - name: jahpride
   src: https://static-cdn.jtvnw.net/emoticons/v1/61273/1.0
 - name: jahaim
   src: https://static-cdn.jtvnw.net/emoticons/v1/69825/1.0
-- name: jahkont
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69827/1.0
 - name: jahfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/69826/1.0
 - name: jahbalta
@@ -39,3 +33,21 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71501/1.0
 - name: jahudi
   src: https://static-cdn.jtvnw.net/emoticons/v1/88138/1.0
+- name: jahlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123780/1.0
+- name: jahwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123779/1.0
+- name: jahanime
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123782/1.0
+- name: jahnotlikethis
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123778/1.0
+- name: jahw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123777/1.0
+- name: jahseems
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123776/1.0
+- name: jahcancur
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123775/1.0
+- name: jahagla
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123774/1.0
+- name: jahhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123773/1.0

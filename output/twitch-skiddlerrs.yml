@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41253/1.0
 - name: skidfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/45687/1.0
-- name: skiddumb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45417/1.0
 - name: skidcreeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/68177/1.0
 - name: skidhey
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/96793/1.0
 - name: skidfart
   src: https://static-cdn.jtvnw.net/emoticons/v1/115990/1.0
+- name: skidlift
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125172/1.0

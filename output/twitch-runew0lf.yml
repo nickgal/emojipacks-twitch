@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - runew0lf
 emojis:
 - name: kinipride
   src: https://static-cdn.jtvnw.net/emoticons/v1/74587/1.0
-- name: kinisaur
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54435/1.0
 - name: kinimod
   src: https://static-cdn.jtvnw.net/emoticons/v1/54433/1.0
 - name: kinilove
@@ -13,5 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54431/1.0
 - name: kinihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/54430/1.0
-- name: kinigasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70199/1.0
+- name: kiniheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119812/1.0

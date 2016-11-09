@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - chewiemelodies
 emojis:
-- name: chewiefeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35693/1.0
 - name: chewiehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/36049/1.0
 - name: chewielove
   src: https://static-cdn.jtvnw.net/emoticons/v1/40526/1.0
 - name: chewietotoro
   src: https://static-cdn.jtvnw.net/emoticons/v1/55013/1.0
-- name: chewieheh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86238/1.0
-- name: chewiefood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86235/1.0
 - name: chewiewut
   src: https://static-cdn.jtvnw.net/emoticons/v1/86236/1.0
 - name: chewiepapi
   src: https://static-cdn.jtvnw.net/emoticons/v1/86237/1.0
+- name: chewienuu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119033/1.0
+- name: chewiealways
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117820/1.0
+- name: chewiehuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117818/1.0
+- name: chewiefeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117819/1.0
+- name: chewielate
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117821/1.0

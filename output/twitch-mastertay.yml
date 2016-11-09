@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/93544/1.0
 - name: tayronrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/104875/1.0
-- name: tayronpizza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93358/1.0
 - name: tayronmoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/93357/1.0
 - name: tayronban
@@ -41,3 +39,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108002/1.0
 - name: tayronhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/108618/1.0
+- name: tayronws
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125980/1.0
+- name: tayrontrain
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125978/1.0
+- name: tayronwm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125979/1.0
+- name: tayronup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125966/1.0
+- name: tayronapu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125969/1.0
+- name: tayrondieter
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125968/1.0

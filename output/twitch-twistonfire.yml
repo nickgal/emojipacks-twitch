@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - twistonfire
 emojis:
 - name: twisheep
   src: https://static-cdn.jtvnw.net/emoticons/v1/114146/1.0
-- name: twiheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113983/1.0
 - name: twibad
   src: https://static-cdn.jtvnw.net/emoticons/v1/114552/1.0
 - name: twigood
@@ -13,3 +11,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114551/1.0
 - name: twidance
   src: https://static-cdn.jtvnw.net/emoticons/v1/113924/1.0
+- name: twih
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118330/1.0
+- name: twifbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118331/1.0
+- name: twihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118257/1.0
+- name: twirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118258/1.0
+- name: twifgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118150/1.0
+- name: twibenzin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118262/1.0
+- name: twiherz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118265/1.0
+- name: twibye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118349/1.0

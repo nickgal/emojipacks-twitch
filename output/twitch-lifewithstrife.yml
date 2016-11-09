@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lifewithstrife
 emojis:
-- name: strifehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68029/1.0
-- name: strifelewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68025/1.0
-- name: strifethump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67853/1.0
 - name: strifelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/67919/1.0
+- name: strifeomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119652/1.0
+- name: strifeface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119797/1.0
+- name: strifelewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125249/1.0
 - name: strifehey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68751/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125244/1.0
+- name: strifethump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125246/1.0
+- name: strifetrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125245/1.0
 - name: striferip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67723/1.0
-- name: striferage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82461/1.0
-- name: strifewut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95350/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125243/1.0

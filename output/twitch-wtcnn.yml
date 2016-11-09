@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/112656/1.0
 - name: wtcnlul
   src: https://static-cdn.jtvnw.net/emoticons/v1/112654/1.0
-- name: wtcnplayboy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11552/1.0
 - name: wtcnkespir
   src: https://static-cdn.jtvnw.net/emoticons/v1/112655/1.0
 - name: wtcnkaka
@@ -37,7 +35,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108043/1.0
 - name: wtcnozur
   src: https://static-cdn.jtvnw.net/emoticons/v1/108048/1.0
-- name: wtcnkol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112270/1.0
 - name: wtcnyak
   src: https://static-cdn.jtvnw.net/emoticons/v1/112273/1.0
+- name: wtcncasper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120677/1.0
+- name: wtcnkol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120696/1.0

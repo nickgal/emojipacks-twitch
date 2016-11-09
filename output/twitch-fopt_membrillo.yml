@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75754/1.0
 - name: membtitanic
   src: https://static-cdn.jtvnw.net/emoticons/v1/106518/1.0
-- name: memb11
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108168/1.0
 - name: membgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/96155/1.0
 - name: membboom
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/107945/1.0
 - name: membkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/108029/1.0
+- name: membpc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125763/1.0

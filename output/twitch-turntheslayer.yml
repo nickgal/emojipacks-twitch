@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - turntheslayer
 emojis:
 - name: turnhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/55071/1.0
-- name: turndefeat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53931/1.0
 - name: turngasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/53945/1.0
 - name: turnbenyan
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/54783/1.0
 - name: turndealwithit
   src: https://static-cdn.jtvnw.net/emoticons/v1/54784/1.0
+- name: turnturnsleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122361/1.0

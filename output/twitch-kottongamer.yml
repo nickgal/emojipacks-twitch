@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - kottongamer
 emojis:
 - name: kottonjimmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/87077/1.0
-- name: kottonchair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79864/1.0
 - name: kottontree
   src: https://static-cdn.jtvnw.net/emoticons/v1/79865/1.0
-- name: kottonrig
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79866/1.0
 - name: kottonking
   src: https://static-cdn.jtvnw.net/emoticons/v1/84380/1.0
-- name: kottonrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84381/1.0
 - name: kottonmlj
   src: https://static-cdn.jtvnw.net/emoticons/v1/84309/1.0
 - name: kottonlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/84388/1.0
+- name: kottonreto
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119310/1.0
+- name: kottonmoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119313/1.0
+- name: kottonrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119312/1.0
+- name: kottonwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117968/1.0
+- name: kottonrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120041/1.0

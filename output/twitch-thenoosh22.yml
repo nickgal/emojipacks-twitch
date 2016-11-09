@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/16375/1.0
 - name: nooshdrop
   src: https://static-cdn.jtvnw.net/emoticons/v1/21168/1.0
-- name: nooshcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26849/1.0
 - name: nooshkawaii
   src: https://static-cdn.jtvnw.net/emoticons/v1/26847/1.0
 - name: nooshnail
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80019/1.0
 - name: nooshderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/100153/1.0
+- name: nooshpoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125557/1.0

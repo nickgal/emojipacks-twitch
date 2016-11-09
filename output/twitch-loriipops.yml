@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105430/1.0
 - name: loriiok
   src: https://static-cdn.jtvnw.net/emoticons/v1/105428/1.0
-- name: loriiwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105429/1.0
 - name: loriilol
   src: https://static-cdn.jtvnw.net/emoticons/v1/96016/1.0
 - name: loriirock
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/85867/1.0
 - name: loriilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/95323/1.0
+- name: loriik
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117949/1.0

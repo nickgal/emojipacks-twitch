@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110390/1.0
 - name: akademikspause
   src: https://static-cdn.jtvnw.net/emoticons/v1/104828/1.0
-- name: akademikscatfish
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107987/1.0
 - name: akademikswhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/100373/1.0
 - name: akademiks6inches
@@ -21,3 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108023/1.0
 - name: akademiksabort
   src: https://static-cdn.jtvnw.net/emoticons/v1/108044/1.0
+- name: akademikscutitoff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120138/1.0
+- name: akademikswhatstheproblem
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120137/1.0
+- name: akademiksshook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123510/1.0
+- name: akademiksexposed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123509/1.0
+- name: akademikstrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123819/1.0
+- name: akademiksspooky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123820/1.0

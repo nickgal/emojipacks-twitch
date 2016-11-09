@@ -21,13 +21,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/49664/1.0
 - name: stickburn
   src: https://static-cdn.jtvnw.net/emoticons/v1/67573/1.0
-- name: stick300
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109007/1.0
-- name: stick50
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108831/1.0
 - name: stickhen
   src: https://static-cdn.jtvnw.net/emoticons/v1/108832/1.0
-- name: stickhoh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108833/1.0
 - name: sticklove
   src: https://static-cdn.jtvnw.net/emoticons/v1/108834/1.0
+- name: sticksalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124399/1.0
+- name: stickcheer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124400/1.0
+- name: sticksleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124398/1.0

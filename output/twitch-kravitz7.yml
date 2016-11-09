@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - kravitz7
 emojis:
 - name: kravf
   src: https://static-cdn.jtvnw.net/emoticons/v1/7377/1.0
-- name: kravb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9575/1.0
-- name: kravs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10840/1.0
 - name: kravk
   src: https://static-cdn.jtvnw.net/emoticons/v1/12580/1.0
 - name: kravr
   src: https://static-cdn.jtvnw.net/emoticons/v1/27021/1.0
 - name: kravfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/113032/1.0
+- name: kravl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122608/1.0
+- name: kravhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122611/1.0
+- name: kravaim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122610/1.0
+- name: kravhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122609/1.0

@@ -3,9 +3,9 @@ title: Twitch Subscriber Emotes - danaie
 emojis:
 - name: danagasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/53068/1.0
-- name: danarage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106936/1.0
-- name: danaqq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106935/1.0
 - name: danahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106830/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125625/1.0
+- name: danarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125627/1.0
+- name: danasad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125626/1.0

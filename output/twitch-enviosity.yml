@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - enviosity
 emojis:
-- name: envishy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115674/1.0
 - name: envibad
   src: https://static-cdn.jtvnw.net/emoticons/v1/116659/1.0
 - name: envirage
@@ -27,6 +25,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114981/1.0
 - name: enviy
   src: https://static-cdn.jtvnw.net/emoticons/v1/116122/1.0
+- name: envibaka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119007/1.0
 - name: envidk
   src: https://static-cdn.jtvnw.net/emoticons/v1/116798/1.0
 - name: envig

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - cainethedarkfather
 emojis:
+- name: caineghost
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118898/1.0
 - name: cainecaine
   src: https://static-cdn.jtvnw.net/emoticons/v1/109205/1.0
 - name: cainebite
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109206/1.0
 - name: cainegasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/109473/1.0
+- name: cainechamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118899/1.0

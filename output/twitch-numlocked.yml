@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - numlocked
 emojis:
-- name: numlockedgasm
+- name: lockgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/112708/1.0
-- name: numlocked3g
+- name: lock3g
   src: https://static-cdn.jtvnw.net/emoticons/v1/112192/1.0
+- name: lockw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117835/1.0
+- name: lockz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121448/1.0

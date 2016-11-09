@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - zmiju97
 emojis:
-- name: zmitutaj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23229/1.0
-- name: zmisub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48003/1.0
 - name: zmisiemka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48410/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122624/1.0
+- name: zmirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122634/1.0
 - name: zmilufa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111367/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122635/1.0
+- name: zmilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122671/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - dekar173
 emojis:
 - name: dekarlenny
   src: https://static-cdn.jtvnw.net/emoticons/v1/31849/1.0
-- name: dekarkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36167/1.0
 - name: dekarfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/72950/1.0
 - name: dekargromp
@@ -19,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75225/1.0
 - name: dekarvn
   src: https://static-cdn.jtvnw.net/emoticons/v1/97037/1.0
+- name: dekarroach1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118547/1.0
+- name: dekarroach2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118548/1.0

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52748/1.0
 - name: smexdunk
   src: https://static-cdn.jtvnw.net/emoticons/v1/52749/1.0
-- name: smexfunk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52747/1.0
 - name: smexold
   src: https://static-cdn.jtvnw.net/emoticons/v1/84364/1.0
 - name: smexorc
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86292/1.0
 - name: smexrespect
   src: https://static-cdn.jtvnw.net/emoticons/v1/86300/1.0
+- name: smexkill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118716/1.0

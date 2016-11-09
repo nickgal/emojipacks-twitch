@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/111656/1.0
 - name: devannt
   src: https://static-cdn.jtvnw.net/emoticons/v1/111658/1.0
-- name: devannuh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113792/1.0
 - name: devannhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/77137/1.0
 - name: devannhome
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/112722/1.0
 - name: devannrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/112723/1.0
+- name: devannluna
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123494/1.0

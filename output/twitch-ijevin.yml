@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - ijevin
 emojis:
 - name: jevdatluna
   src: https://static-cdn.jtvnw.net/emoticons/v1/1622/1.0
-- name: jevdaticewater
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5232/1.0
 - name: jevpizzatime
   src: https://static-cdn.jtvnw.net/emoticons/v1/5231/1.0
-- name: jevrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77914/1.0
+- name: jevrigged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123019/1.0
+- name: jevrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125265/1.0
+- name: jevwater
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125264/1.0
 - name: jevgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77927/1.0
-- name: jevfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77929/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125263/1.0
 - name: jevheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77930/1.0
-- name: jevcoin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88616/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125262/1.0
+- name: jevrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125346/1.0

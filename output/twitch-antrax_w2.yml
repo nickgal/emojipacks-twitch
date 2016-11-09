@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - antrax_w2
 emojis:
 - name: antraxbg
   src: https://static-cdn.jtvnw.net/emoticons/v1/99816/1.0
-- name: antraxtacos
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99559/1.0
 - name: antraxlili
   src: https://static-cdn.jtvnw.net/emoticons/v1/100868/1.0
 - name: antraxpls
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116212/1.0
 - name: antraxantraxmmm
   src: https://static-cdn.jtvnw.net/emoticons/v1/116210/1.0
+- name: antraxtrince
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117842/1.0

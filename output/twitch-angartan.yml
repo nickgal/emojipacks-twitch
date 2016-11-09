@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - angartan
 emojis:
 - name: angarfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/97913/1.0
-- name: angarwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97909/1.0
 - name: angarten
   src: https://static-cdn.jtvnw.net/emoticons/v1/115941/1.0
 - name: angarqq
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115939/1.0
 - name: angarh
   src: https://static-cdn.jtvnw.net/emoticons/v1/115938/1.0
+- name: angarsleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121395/1.0
+- name: angarwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121887/1.0
+- name: angarmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122326/1.0

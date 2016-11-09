@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - rxnexus
 emojis:
 - name: nexvgovne
   src: https://static-cdn.jtvnw.net/emoticons/v1/31141/1.0
-- name: nexnex
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31145/1.0
-- name: nexwp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31902/1.0
 - name: nexpohoroni
   src: https://static-cdn.jtvnw.net/emoticons/v1/32797/1.0
 - name: nexlev
@@ -15,5 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/87156/1.0
 - name: nexsellout
   src: https://static-cdn.jtvnw.net/emoticons/v1/87169/1.0
+- name: nexmlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118982/1.0
 - name: nexhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/87450/1.0
+- name: nexcool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118418/1.0
+- name: nexbt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118423/1.0
+- name: nexkreygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118974/1.0

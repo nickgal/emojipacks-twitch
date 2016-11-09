@@ -3,17 +3,9 @@ title: Twitch Subscriber Emotes - sherwoodlive
 emojis:
 - name: shermeme
   src: https://static-cdn.jtvnw.net/emoticons/v1/89097/1.0
-- name: sherwink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92384/1.0
-- name: sherlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92383/1.0
-- name: sherwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92633/1.0
-- name: sherlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92381/1.0
-- name: sherrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92646/1.0
 - name: sherhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/92638/1.0
-- name: sherfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92625/1.0
+- name: sherfox
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118481/1.0
+- name: sherhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117735/1.0

@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - catonmarz
 emojis:
 - name: catonrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/93593/1.0
+- name: catonlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119453/1.0
 - name: catonface
   src: https://static-cdn.jtvnw.net/emoticons/v1/113743/1.0
 - name: catonfine
   src: https://static-cdn.jtvnw.net/emoticons/v1/113744/1.0
 - name: catonhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/113745/1.0
+- name: catonyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119760/1.0

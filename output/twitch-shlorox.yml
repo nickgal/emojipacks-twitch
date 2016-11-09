@@ -3,14 +3,8 @@ title: Twitch Subscriber Emotes - shlorox
 emojis:
 - name: shlosalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/105353/1.0
-- name: shlocrash
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95720/1.0
 - name: shloholy
   src: https://static-cdn.jtvnw.net/emoticons/v1/95716/1.0
-- name: shlocosta
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93612/1.0
-- name: shloslow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107205/1.0
 - name: shlofail
   src: https://static-cdn.jtvnw.net/emoticons/v1/107204/1.0
 - name: shlorip
@@ -41,3 +35,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/107195/1.0
 - name: shlomoin
   src: https://static-cdn.jtvnw.net/emoticons/v1/107196/1.0
+- name: shlogabel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122934/1.0
+- name: shlocop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122933/1.0
+- name: shlosombrero
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123067/1.0
+- name: shlorage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123668/1.0
+- name: shlolove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123667/1.0
+- name: shlohug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123666/1.0
+- name: shlocool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123664/1.0
+- name: shlooh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123785/1.0

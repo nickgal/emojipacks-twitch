@@ -5,13 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/104890/1.0
 - name: kaecfiesta
   src: https://static-cdn.jtvnw.net/emoticons/v1/106379/1.0
-- name: kaew
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104321/1.0
-- name: kaefocus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108978/1.0
 - name: kaecore
   src: https://static-cdn.jtvnw.net/emoticons/v1/108979/1.0
 - name: kaewow
   src: https://static-cdn.jtvnw.net/emoticons/v1/110099/1.0
 - name: kaekai
   src: https://static-cdn.jtvnw.net/emoticons/v1/111370/1.0
+- name: kaepepper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119104/1.0
+- name: kaekaew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121779/1.0
+- name: kaegood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123455/1.0

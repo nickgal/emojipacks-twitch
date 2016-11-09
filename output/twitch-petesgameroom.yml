@@ -7,13 +7,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108223/1.0
 - name: dorrcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/111389/1.0
-- name: dorrgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116275/1.0
-- name: dorrjoy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116281/1.0
-- name: dorrface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116285/1.0
+- name: dorrserious
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118753/1.0
+- name: dorrnana
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118754/1.0
 - name: dorrrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/115852/1.0
 - name: dorrcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/115853/1.0
+- name: dorrgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123578/1.0
+- name: dorrjoy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123577/1.0
+- name: dorrface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123576/1.0

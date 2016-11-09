@@ -25,8 +25,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60257/1.0
 - name: forsenclown
   src: https://static-cdn.jtvnw.net/emoticons/v1/60378/1.0
-- name: forsenc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60379/1.0
 - name: forsensheffy
   src: https://static-cdn.jtvnw.net/emoticons/v1/60390/1.0
 - name: forsenpuke
@@ -57,3 +55,49 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/96553/1.0
 - name: forsene
   src: https://static-cdn.jtvnw.net/emoticons/v1/93064/1.0
+- name: forsenfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116273/1.0
+- name: forsen2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116052/1.0
+- name: forsen3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116053/1.0
+- name: forsenog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116056/1.0
+- name: forsenlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116245/1.0
+- name: forsenh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/115996/1.0
+- name: forsenmonkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118949/1.0
+- name: forsen4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116055/1.0
+- name: forsenr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118088/1.0
+- name: forsen1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116051/1.0
+- name: forsended
+  src: https://static-cdn.jtvnw.net/emoticons/v1/116256/1.0
+- name: forsenskip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117635/1.0
+- name: forsenhorsen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117644/1.0
+- name: forseno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118074/1.0
+- name: forsencpooky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120830/1.0
+- name: forsentemporary
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120833/1.0
+- name: forsenstein
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120832/1.0
+- name: forsenpuke3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122261/1.0
+- name: forsendiglett
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122255/1.0
+- name: forsenemote
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122323/1.0
+- name: forsenlooted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122325/1.0
+- name: forsenpuke4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122327/1.0
+- name: forsenemote2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123094/1.0

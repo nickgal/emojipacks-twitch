@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - megan_mhmmd
 emojis:
-- name: meghype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88794/1.0
-- name: megchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88819/1.0
 - name: megbarry
   src: https://static-cdn.jtvnw.net/emoticons/v1/88808/1.0
 - name: meglove
@@ -13,3 +9,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97131/1.0
 - name: megderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/97133/1.0
+- name: megthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119856/1.0
+- name: meghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122678/1.0

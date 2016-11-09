@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - acidicblitzz
 emojis:
-- name: undeadhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30029/1.0
 - name: undeadfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/71203/1.0
 - name: undeadsalty
@@ -11,9 +9,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74083/1.0
 - name: undeadkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/71098/1.0
-- name: undeadbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111024/1.0
+- name: undeadgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121745/1.0
 - name: undeadxd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110918/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123015/1.0
 - name: undeadhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110917/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123014/1.0
+- name: undeadhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123013/1.0
+- name: undeadbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125290/1.0
+- name: undeadbit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125328/1.0

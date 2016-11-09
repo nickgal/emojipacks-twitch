@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/1237/1.0
 - name: pvpnope
   src: https://static-cdn.jtvnw.net/emoticons/v1/4355/1.0
-- name: pvpallowme
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4403/1.0
 - name: pvpgankerz
   src: https://static-cdn.jtvnw.net/emoticons/v1/8170/1.0
 - name: pvpgreed
@@ -29,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/45859/1.0
 - name: pvppatcha
   src: https://static-cdn.jtvnw.net/emoticons/v1/47423/1.0
-- name: pvpzen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98261/1.0
 - name: pvpfeelsradman
   src: https://static-cdn.jtvnw.net/emoticons/v1/96833/1.0
 - name: pvppraise
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/93056/1.0
 - name: pvpfeelsredman
   src: https://static-cdn.jtvnw.net/emoticons/v1/96754/1.0
+- name: pvpchug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121089/1.0
+- name: pvphonor
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121091/1.0

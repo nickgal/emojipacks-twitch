@@ -3,9 +3,7 @@ title: Twitch Subscriber Emotes - looksam
 emojis:
 - name: looksambs
   src: https://static-cdn.jtvnw.net/emoticons/v1/95820/1.0
-- name: looksamfrog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103263/1.0
-- name: looksamcircle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104811/1.0
 - name: looksambakbak
   src: https://static-cdn.jtvnw.net/emoticons/v1/109107/1.0
+- name: looksamhots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119473/1.0

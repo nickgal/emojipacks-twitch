@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - tarababcock
 emojis:
 - name: tarathirsty
   src: https://static-cdn.jtvnw.net/emoticons/v1/45663/1.0
-- name: tararage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45661/1.0
 - name: taranerd
   src: https://static-cdn.jtvnw.net/emoticons/v1/45659/1.0
 - name: taraoh
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108781/1.0
 - name: taralove
   src: https://static-cdn.jtvnw.net/emoticons/v1/108835/1.0
+- name: taradie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124361/1.0

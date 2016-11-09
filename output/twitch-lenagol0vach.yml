@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - lenagol0vach
 emojis:
 - name: golovachvitas
   src: https://static-cdn.jtvnw.net/emoticons/v1/111060/1.0
-- name: golovachsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111357/1.0
 - name: golovachjaga
   src: https://static-cdn.jtvnw.net/emoticons/v1/111226/1.0
 - name: golovachunsub
@@ -17,14 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/111358/1.0
 - name: golovachpudge
   src: https://static-cdn.jtvnw.net/emoticons/v1/111356/1.0
-- name: golovachpiv4ik
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116221/1.0
 - name: golovachnova
   src: https://static-cdn.jtvnw.net/emoticons/v1/116222/1.0
-- name: golovachup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116225/1.0
-- name: golovachveter
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116226/1.0
 - name: golovachsunboy
   src: https://static-cdn.jtvnw.net/emoticons/v1/117039/1.0
 - name: golovachsiga1
@@ -33,3 +25,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116676/1.0
 - name: golovachmac2
   src: https://static-cdn.jtvnw.net/emoticons/v1/116690/1.0
+- name: golovachagent47
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117716/1.0
+- name: golovachhu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117899/1.0
+- name: golovachsos
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117900/1.0
+- name: golovach4ikatilo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119707/1.0
+- name: golovachminusstream
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119702/1.0
+- name: golovachagent
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119706/1.0
+- name: golovachlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123227/1.0
+- name: golovachzmei
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123716/1.0

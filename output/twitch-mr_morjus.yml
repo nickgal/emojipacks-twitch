@@ -5,11 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72797/1.0
 - name: morjpapka
   src: https://static-cdn.jtvnw.net/emoticons/v1/51199/1.0
-- name: morjbletr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51198/1.0
 - name: morjlico
   src: https://static-cdn.jtvnw.net/emoticons/v1/63830/1.0
 - name: morjson
   src: https://static-cdn.jtvnw.net/emoticons/v1/71140/1.0
 - name: morjkaka
   src: https://static-cdn.jtvnw.net/emoticons/v1/90515/1.0
+- name: morjlak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119113/1.0
+- name: morjrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119137/1.0
+- name: morjpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119419/1.0

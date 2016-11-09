@@ -3,5 +3,13 @@ title: Twitch Subscriber Emotes - lenovogaming
 emojis:
 - name: lenovohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/116045/1.0
+- name: lenovosploosh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123745/1.0
+- name: lenovoraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124076/1.0
 - name: lenovolurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116394/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124075/1.0
+- name: lenovohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124074/1.0
+- name: lenovorekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124072/1.0

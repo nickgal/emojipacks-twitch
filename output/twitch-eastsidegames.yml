@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - eastsidegames
 emojis:
-- name: esghey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115407/1.0
 - name: esg420
   src: https://static-cdn.jtvnw.net/emoticons/v1/115243/1.0
+- name: esglike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120828/1.0
+- name: esglove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120987/1.0
+- name: esghey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121031/1.0

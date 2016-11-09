@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - naniheichou
 emojis:
 - name: nane
   src: https://static-cdn.jtvnw.net/emoticons/v1/111648/1.0
-- name: nanhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66900/1.0
-- name: nanbite
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66501/1.0
 - name: nanblush
   src: https://static-cdn.jtvnw.net/emoticons/v1/66744/1.0
 - name: nanreip
   src: https://static-cdn.jtvnw.net/emoticons/v1/66749/1.0
-- name: nanthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75253/1.0
-- name: nansmirk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113900/1.0
-- name: nannep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113565/1.0
+- name: nanpuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120396/1.0
+- name: nanfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120392/1.0
+- name: nansee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120454/1.0
+- name: nanhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120787/1.0
+- name: nanhappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122574/1.0

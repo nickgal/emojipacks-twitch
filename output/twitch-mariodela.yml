@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - mariodela
 emojis:
-- name: mariodelatrophy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89937/1.0
 - name: mariodelaswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/87905/1.0
+- name: mariodelatopdeck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119279/1.0
+- name: mariodelafelicidades
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119280/1.0
+- name: mariodelamiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120145/1.0

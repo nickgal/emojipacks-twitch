@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - cervantestv
 emojis:
-- name: cervshots
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105815/1.0
 - name: cervlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/105297/1.0
 - name: cervkappa
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/94014/1.0
 - name: cervrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/97053/1.0
+- name: cervshots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125427/1.0

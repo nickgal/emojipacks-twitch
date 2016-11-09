@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - hansensm
 emojis:
-- name: hansenapprouved
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115416/1.0
-- name: hansensvg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115417/1.0
-- name: hansentk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116414/1.0
 - name: hansengg
   src: https://static-cdn.jtvnw.net/emoticons/v1/116413/1.0
+- name: hansentk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120985/1.0
+- name: hansenok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120999/1.0
+- name: hansenoak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120986/1.0

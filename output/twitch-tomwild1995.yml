@@ -9,11 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/103157/1.0
 - name: tomwildfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/103149/1.0
-- name: tomwildsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53860/1.0
 - name: tomwildh
   src: https://static-cdn.jtvnw.net/emoticons/v1/52519/1.0
 - name: tomwildhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/88748/1.0
 - name: tomwildbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/103043/1.0
+- name: tomwildsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118662/1.0

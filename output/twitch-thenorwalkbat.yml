@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/104458/1.0
 - name: thebatfuego
   src: https://static-cdn.jtvnw.net/emoticons/v1/64305/1.0
-- name: thebatumr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72254/1.0
 - name: thebatbob
   src: https://static-cdn.jtvnw.net/emoticons/v1/87354/1.0
 - name: thebatw
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106083/1.0
 - name: thebatcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/116611/1.0
+- name: thebatweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119008/1.0

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/112811/1.0
 - name: kyentehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/112810/1.0
-- name: kyentew
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109143/1.0
 - name: kyentebun
   src: https://static-cdn.jtvnw.net/emoticons/v1/109145/1.0
 - name: kyenteomg
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110729/1.0
 - name: kyentegasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/109183/1.0
+- name: kyentesmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122242/1.0

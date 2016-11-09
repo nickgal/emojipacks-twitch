@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - aalaguna
 emojis:
-- name: aalbatnana
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80342/1.0
-- name: aal3rf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80341/1.0
-- name: aalrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84594/1.0
-- name: aalspin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80689/1.0
 - name: aalgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/85685/1.0
 - name: aalomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/102370/1.0
+- name: aalfailfish
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124950/1.0
+- name: aalheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124951/1.0
+- name: aalhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124949/1.0
+- name: aalhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124952/1.0

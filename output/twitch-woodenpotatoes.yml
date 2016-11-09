@@ -1,9 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - woodenpotatoes
 emojis:
-- name: tatohighhorse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65625/1.0
-- name: tatorip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65624/1.0
-- name: tatolys
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65623/1.0
+- name: tatotatowut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123299/1.0
+- name: tatotatosalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123298/1.0
+- name: tatotatosad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123297/1.0
+- name: tatotatorekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123296/1.0
+- name: tatotatorant
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123295/1.0
+- name: tatotatohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123294/1.0
+- name: tatohorse
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123492/1.0
+- name: tatotatodeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123293/1.0

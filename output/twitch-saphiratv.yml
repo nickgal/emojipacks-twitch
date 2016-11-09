@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - saphiratv
 emojis:
-- name: sapswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60958/1.0
 - name: sapbeer
   src: https://static-cdn.jtvnw.net/emoticons/v1/58985/1.0
 - name: sapede
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59409/1.0
 - name: saprip
   src: https://static-cdn.jtvnw.net/emoticons/v1/100300/1.0
+- name: saprapgod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120331/1.0
+- name: sapblind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120332/1.0
+- name: sapgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120333/1.0

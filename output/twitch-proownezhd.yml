@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - proownezhd
 emojis:
-- name: proownezwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11058/1.0
-- name: proownezlogo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11059/1.0
+- name: proownezarmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123600/1.0
+- name: proownezpackluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123588/1.0
+- name: proownezhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123587/1.0
+- name: proownezrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123586/1.0
+- name: proownezpssst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123581/1.0
+- name: proownezomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123580/1.0
+- name: proownezgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123706/1.0
+- name: proownezfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123705/1.0

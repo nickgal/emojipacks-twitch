@@ -3,9 +3,9 @@ title: Twitch Subscriber Emotes - yoitzsonnytv
 emojis:
 - name: yistvteamsonny
   src: https://static-cdn.jtvnw.net/emoticons/v1/108255/1.0
-- name: yistvbestbrid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108177/1.0
 - name: yistvspec
   src: https://static-cdn.jtvnw.net/emoticons/v1/108183/1.0
 - name: yistvsplash
   src: https://static-cdn.jtvnw.net/emoticons/v1/108013/1.0
+- name: yistvchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125204/1.0

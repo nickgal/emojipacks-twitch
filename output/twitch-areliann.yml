@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - areliann
 emojis:
-- name: subarewidow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104639/1.0
 - name: subaresub
   src: https://static-cdn.jtvnw.net/emoticons/v1/104638/1.0
 - name: subarerip
   src: https://static-cdn.jtvnw.net/emoticons/v1/104637/1.0
 - name: subaregg
   src: https://static-cdn.jtvnw.net/emoticons/v1/104636/1.0
-- name: subarefail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108441/1.0
 - name: subarehi
   src: https://static-cdn.jtvnw.net/emoticons/v1/108440/1.0
+- name: subarerage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119214/1.0
+- name: subarehello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119178/1.0

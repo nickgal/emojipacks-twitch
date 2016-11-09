@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89611/1.0
 - name: m4xrupee
   src: https://static-cdn.jtvnw.net/emoticons/v1/89612/1.0
-- name: m4xfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88545/1.0
 - name: m4xhide
   src: https://static-cdn.jtvnw.net/emoticons/v1/88547/1.0
 - name: m4xdoge
@@ -47,3 +45,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89609/1.0
 - name: m4xempty
   src: https://static-cdn.jtvnw.net/emoticons/v1/89613/1.0
+- name: m4xheh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117712/1.0
+- name: m4xfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117713/1.0
+- name: m4xyea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117723/1.0
+- name: m4xgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117724/1.0

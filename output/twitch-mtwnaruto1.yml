@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64934/1.0
 - name: brvsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/65128/1.0
-- name: brvpsm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114555/1.0
 - name: brvrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/114556/1.0
 - name: brvhype
@@ -17,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/65121/1.0
 - name: brvabo
   src: https://static-cdn.jtvnw.net/emoticons/v1/114554/1.0
+- name: brvpsm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118398/1.0
+- name: brvgen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124108/1.0
+- name: brvrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124132/1.0

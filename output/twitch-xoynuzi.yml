@@ -1,12 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - xoynuzi
 emojis:
-- name: enirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116870/1.0
-- name: enizugriff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109545/1.0
-- name: eniboosted
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109525/1.0
 - name: enigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/109833/1.0
 - name: enialdimate
@@ -17,3 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110457/1.0
 - name: enicoco
   src: https://static-cdn.jtvnw.net/emoticons/v1/110877/1.0
+- name: enirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118717/1.0
+- name: enirip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119401/1.0
+- name: enizugriff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120053/1.0
+- name: eniwp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122536/1.0
+- name: eniboosted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123323/1.0

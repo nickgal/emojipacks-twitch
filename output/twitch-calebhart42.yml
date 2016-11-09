@@ -9,14 +9,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/90947/1.0
 - name: calebrek
   src: https://static-cdn.jtvnw.net/emoticons/v1/90948/1.0
-- name: calebrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90949/1.0
 - name: calebflexl
   src: https://static-cdn.jtvnw.net/emoticons/v1/35935/1.0
 - name: calebflexr
   src: https://static-cdn.jtvnw.net/emoticons/v1/35936/1.0
-- name: calebreset
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46895/1.0
 - name: calebbop
   src: https://static-cdn.jtvnw.net/emoticons/v1/74641/1.0
 - name: calebfree
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109382/1.0
 - name: calebduck
   src: https://static-cdn.jtvnw.net/emoticons/v1/109381/1.0
+- name: caleblul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121760/1.0
+- name: calebreset
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122439/1.0

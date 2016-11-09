@@ -19,15 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89705/1.0
 - name: jratelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/95487/1.0
-- name: jrateup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98957/1.0
 - name: jratelit
   src: https://static-cdn.jtvnw.net/emoticons/v1/98967/1.0
-- name: jrateeat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106491/1.0
 - name: jratecool
   src: https://static-cdn.jtvnw.net/emoticons/v1/106084/1.0
 - name: jratehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/107102/1.0
 - name: jrateqt
   src: https://static-cdn.jtvnw.net/emoticons/v1/107397/1.0
+- name: jratecry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121993/1.0
+- name: jrateeat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123040/1.0

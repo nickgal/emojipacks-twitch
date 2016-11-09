@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - fotigames
 emojis:
-- name: fotineo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62370/1.0
 - name: fotilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/62367/1.0
-- name: foti7
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62366/1.0
-- name: fotiounce
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62419/1.0
 - name: fotioops
   src: https://static-cdn.jtvnw.net/emoticons/v1/116844/1.0
-- name: fotipotg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116852/1.0
 - name: fotiko
   src: https://static-cdn.jtvnw.net/emoticons/v1/116847/1.0
-- name: fotihands
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65185/1.0
-- name: fotistacks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81757/1.0
 - name: fotibs
   src: https://static-cdn.jtvnw.net/emoticons/v1/115626/1.0
+- name: fotidodge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118529/1.0
+- name: fotiheh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118530/1.0
+- name: fotigad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117550/1.0
+- name: fotilit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117774/1.0
+- name: fotiha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117775/1.0
+- name: fotisalut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117776/1.0

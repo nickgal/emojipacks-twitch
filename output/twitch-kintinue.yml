@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - kintinue
 emojis:
-- name: kinthey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104500/1.0
 - name: kintrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/101087/1.0
 - name: kinthype
@@ -13,11 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100966/1.0
 - name: kintcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/100967/1.0
-- name: kintlost
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100969/1.0
 - name: kintrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/103175/1.0
 - name: kintbucket
   src: https://static-cdn.jtvnw.net/emoticons/v1/101187/1.0
 - name: kinttank
   src: https://static-cdn.jtvnw.net/emoticons/v1/101188/1.0
+- name: kintderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119924/1.0
+- name: kinthey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121253/1.0

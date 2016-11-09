@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - sussulevrai
 emojis:
-- name: ssauvagesface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78796/1.0
-- name: ssauvagescadegagesussulevrai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116642/1.0
-- name: ssauvagescaclashsussulevrai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116636/1.0
-- name: ssauvagesnewdonsussulevrai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116631/1.0
+- name: ssauvagesnewdon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118901/1.0
 - name: ssauvagessubsussulevrai
   src: https://static-cdn.jtvnw.net/emoticons/v1/116627/1.0
-- name: ssauvagesggsussulevrai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116622/1.0
+- name: ssauvagesetbim
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119436/1.0
+- name: ssauvagesggsvge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118896/1.0
+- name: ssauvagesface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119445/1.0
+- name: ssauvagesmdr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119449/1.0
+- name: ssauvagessussulevraienpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122867/1.0
+- name: ssauvagessussuzbra
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122868/1.0

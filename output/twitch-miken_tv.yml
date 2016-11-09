@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - miken_tv
 emojis:
-- name: mikenfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61552/1.0
 - name: mikenrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/89307/1.0
+- name: mikenw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121676/1.0

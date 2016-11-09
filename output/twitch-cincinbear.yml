@@ -1,33 +1,43 @@
 ---
 title: Twitch Subscriber Emotes - cincinbear
 emojis:
-- name: cincinfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50951/1.0
-- name: cincinhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50954/1.0
 - name: cincinyas
   src: https://static-cdn.jtvnw.net/emoticons/v1/50958/1.0
-- name: cincinhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35680/1.0
-- name: cincinrigged
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53247/1.0
-- name: cincinten
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53194/1.0
 - name: cincincreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/104536/1.0
-- name: cincinawk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104538/1.0
 - name: cincingasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/114924/1.0
 - name: cincincry
   src: https://static-cdn.jtvnw.net/emoticons/v1/114923/1.0
-- name: cincinrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104544/1.0
-- name: cincinbaka
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96383/1.0
 - name: cincinrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/115004/1.0
 - name: cincinlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/113541/1.0
 - name: cincinshrug
   src: https://static-cdn.jtvnw.net/emoticons/v1/113543/1.0
+- name: cincinfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118679/1.0
+- name: cincinhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118680/1.0
+- name: cincinrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118681/1.0
+- name: cincinrigged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118682/1.0
+- name: cincinlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118177/1.0
+- name: cincinten
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118683/1.0
+- name: cincinshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119860/1.0
+- name: cincindab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119964/1.0
+- name: cincinbruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120274/1.0
+- name: cincinlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121104/1.0
+- name: cincinfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121997/1.0
+- name: cincinhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122193/1.0
+- name: cincinbaka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124163/1.0

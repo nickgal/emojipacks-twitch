@@ -3,21 +3,31 @@ title: Twitch Subscriber Emotes - hellyeahplay
 emojis:
 - name: hpbshock
   src: https://static-cdn.jtvnw.net/emoticons/v1/44801/1.0
-- name: hpbtrue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92040/1.0
-- name: hpbcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92041/1.0
 - name: hpbfrog
   src: https://static-cdn.jtvnw.net/emoticons/v1/92037/1.0
 - name: hpbbunt
   src: https://static-cdn.jtvnw.net/emoticons/v1/98237/1.0
 - name: hpbbrutal
   src: https://static-cdn.jtvnw.net/emoticons/v1/109285/1.0
-- name: hpbdog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92061/1.0
-- name: hpbofc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96234/1.0
 - name: hpblove
   src: https://static-cdn.jtvnw.net/emoticons/v1/96109/1.0
 - name: hpblul
   src: https://static-cdn.jtvnw.net/emoticons/v1/109126/1.0
+- name: hpbdog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118205/1.0
+- name: hpbofc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118206/1.0
+- name: hpbbadum
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119145/1.0
+- name: hpbgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119501/1.0
+- name: hpbtrue
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118618/1.0
+- name: hpbgenius
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118926/1.0
+- name: hpbrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118927/1.0
+- name: hpbrly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118928/1.0
+- name: hpbsaddog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118672/1.0

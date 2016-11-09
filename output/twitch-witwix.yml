@@ -35,8 +35,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/35182/1.0
 - name: wixskerp
   src: https://static-cdn.jtvnw.net/emoticons/v1/35951/1.0
-- name: wixclaude
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37160/1.0
 - name: wixl
   src: https://static-cdn.jtvnw.net/emoticons/v1/65923/1.0
 - name: wixr
@@ -69,3 +67,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116569/1.0
 - name: wixw4
   src: https://static-cdn.jtvnw.net/emoticons/v1/116584/1.0
+- name: wixt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120643/1.0
+- name: wixlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121068/1.0

@@ -3,13 +3,21 @@ title: Twitch Subscriber Emotes - phy_lol
 emojis:
 - name: phychamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/99750/1.0
-- name: phycannon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99744/1.0
-- name: phycry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81430/1.0
 - name: phyrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/81429/1.0
 - name: phyhappens
   src: https://static-cdn.jtvnw.net/emoticons/v1/76615/1.0
 - name: phyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/76727/1.0
+- name: physnipe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119879/1.0
+- name: phyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119880/1.0
+- name: phyheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119882/1.0
+- name: phyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119883/1.0
+- name: phyboosted
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120714/1.0
+- name: phywelcome
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120716/1.0

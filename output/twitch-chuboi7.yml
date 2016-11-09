@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61989/1.0
 - name: chuboiplayboy
   src: https://static-cdn.jtvnw.net/emoticons/v1/60855/1.0
-- name: chuboiclass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60862/1.0
 - name: chuboirekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/61614/1.0
 - name: chuboikappa
@@ -15,9 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69656/1.0
 - name: chuboilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/69653/1.0
-- name: chuboione
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77901/1.0
 - name: chuboigasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/81927/1.0
 - name: chuboicheese
   src: https://static-cdn.jtvnw.net/emoticons/v1/84340/1.0
+- name: chuboilul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125177/1.0
+- name: chuboihey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125585/1.0

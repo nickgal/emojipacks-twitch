@@ -11,6 +11,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114187/1.0
 - name: hlysad
   src: https://static-cdn.jtvnw.net/emoticons/v1/56757/1.0
+- name: hlycat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119544/1.0
 - name: hlyfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/80433/1.0
 - name: hlywut
@@ -31,3 +33,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114726/1.0
 - name: hlyscary
   src: https://static-cdn.jtvnw.net/emoticons/v1/114183/1.0
+- name: hlyyou
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119545/1.0
+- name: hlyfunny
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119643/1.0
+- name: hlyrly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119546/1.0
+- name: hlyhihi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120204/1.0

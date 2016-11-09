@@ -1,9 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - protech
 emojis:
-- name: ptchpoo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3966/1.0
 - name: ptchez
   src: https://static-cdn.jtvnw.net/emoticons/v1/29725/1.0
 - name: ptchrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/29726/1.0
+- name: ptchhax
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123929/1.0
+- name: ptchhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124271/1.0
+- name: ptchasuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124270/1.0
+- name: ptchtrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124272/1.0
+- name: ptchbeast
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124471/1.0
+- name: ptchpoo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124499/1.0

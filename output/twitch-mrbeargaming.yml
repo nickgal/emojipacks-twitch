@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - mrbeargaming
 emojis:
-- name: bhrhunny
-  src: https://static-cdn.jtvnw.net/emoticons/v1/8071/1.0
-- name: bhrfist
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15634/1.0
-- name: bhrninja
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36006/1.0
+- name: bhrlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121547/1.0
+- name: bhrnom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121548/1.0
 - name: bhrhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59005/1.0
-- name: bhrsandwich
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79145/1.0
-- name: bhrhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79143/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121545/1.0
+- name: bhrhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121544/1.0
+- name: bhrlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121546/1.0
+- name: bhrgrump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121543/1.0
 - name: bhrcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79310/1.0
-- name: bhrzzz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79311/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121542/1.0
+- name: bhroh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121549/1.0

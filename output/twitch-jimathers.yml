@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - jimathers
 emojis:
-- name: bagelzpg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80469/1.0
-- name: bagelzwtduck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60262/1.0
 - name: bagelztml
   src: https://static-cdn.jtvnw.net/emoticons/v1/60263/1.0
 - name: bagelznutz
@@ -13,3 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59106/1.0
 - name: bagelzrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/80446/1.0
+- name: bagelzfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122903/1.0
+- name: bagelzpg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122912/1.0
+- name: bagelzderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123079/1.0
+- name: bagelzhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123081/1.0

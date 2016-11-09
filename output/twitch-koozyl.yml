@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - koozyl
 emojis:
-- name: koozgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45801/1.0
 - name: koozrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45800/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121615/1.0
+- name: koozgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121614/1.0
+- name: koozrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123285/1.0
+- name: koozhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123286/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - gmart711
 emojis:
-- name: gmartholy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84571/1.0
 - name: gmartwuh
   src: https://static-cdn.jtvnw.net/emoticons/v1/115935/1.0
 - name: gmartdream
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86621/1.0
 - name: gmartkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/93662/1.0
+- name: gmartkrey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122651/1.0

@@ -5,7 +5,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/112821/1.0
 - name: prlpunch
   src: https://static-cdn.jtvnw.net/emoticons/v1/112807/1.0
-- name: prlkiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111748/1.0
 - name: prlgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/111455/1.0
+- name: prlh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119918/1.0
+- name: prlborked
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122047/1.0

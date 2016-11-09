@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/1928/1.0
 - name: reptosick
   src: https://static-cdn.jtvnw.net/emoticons/v1/3402/1.0
-- name: reptobau
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3919/1.0
 - name: reptoprost
   src: https://static-cdn.jtvnw.net/emoticons/v1/3970/1.0
 - name: reptoban
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10923/1.0
 - name: reptowurst
   src: https://static-cdn.jtvnw.net/emoticons/v1/40223/1.0
+- name: reptovaal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119654/1.0

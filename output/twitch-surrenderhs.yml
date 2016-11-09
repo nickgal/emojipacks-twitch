@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - surrenderhs
 emojis:
 - name: surrenderw
   src: https://static-cdn.jtvnw.net/emoticons/v1/98166/1.0
-- name: surrenderwk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112577/1.0
 - name: surrendersig
   src: https://static-cdn.jtvnw.net/emoticons/v1/97202/1.0
 - name: surrendertina
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116547/1.0
 - name: surrenderchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/116606/1.0
+- name: surrenderhit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117333/1.0
+- name: surrenderpupki
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117335/1.0
+- name: surrenderb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125397/1.0

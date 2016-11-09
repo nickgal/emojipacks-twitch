@@ -13,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/100710/1.0
 - name: charipf
   src: https://static-cdn.jtvnw.net/emoticons/v1/100714/1.0
-- name: charimlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100713/1.0
 - name: chariraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/100716/1.0
 - name: charisleep
@@ -27,7 +25,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115966/1.0
 - name: charihappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/115965/1.0
-- name: charifat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115964/1.0
 - name: charichoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/115963/1.0
+- name: charinom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121188/1.0
+- name: charideal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121187/1.0

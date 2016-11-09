@@ -1,14 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - theyordles
 emojis:
-- name: yordlesshroom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9105/1.0
-- name: yordlesmakeitrain
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9145/1.0
-- name: yordlesmiles
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9150/1.0
-- name: yordlesugp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14803/1.0
 - name: yordlesitsk
   src: https://static-cdn.jtvnw.net/emoticons/v1/14489/1.0
 - name: yordlesspu
@@ -19,5 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64664/1.0
 - name: yordlespeasant
   src: https://static-cdn.jtvnw.net/emoticons/v1/64663/1.0
-- name: yordleskappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64662/1.0
+- name: yordlesgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123447/1.0
+- name: yordlesshroom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123451/1.0
+- name: yordlescash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123450/1.0
+- name: yordleskawaii
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123449/1.0
+- name: yordlesgrumpy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123448/1.0

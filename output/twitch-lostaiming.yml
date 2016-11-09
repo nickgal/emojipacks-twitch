@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - lostaiming
 emojis:
-- name: lostaimhy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93878/1.0
 - name: lostaimlul
   src: https://static-cdn.jtvnw.net/emoticons/v1/111329/1.0
 - name: lostaimhi
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76802/1.0
 - name: lostaimk
   src: https://static-cdn.jtvnw.net/emoticons/v1/97085/1.0
+- name: lostaimhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117854/1.0
+- name: lostaimfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123501/1.0
+- name: lostaimpot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123918/1.0

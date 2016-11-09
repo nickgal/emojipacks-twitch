@@ -85,6 +85,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/98970/1.0
 - name: brownsalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/110535/1.0
+- name: browncringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118789/1.0
+- name: brownfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118790/1.0
+- name: brownpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118791/1.0
+- name: brownbits
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118792/1.0
+- name: brownspooky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118793/1.0
 - name: brownchoke
   src: https://static-cdn.jtvnw.net/emoticons/v1/116809/1.0
 - name: brownchillax

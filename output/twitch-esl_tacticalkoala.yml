@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - esl_tacticalkoala
 emojis:
-- name: koalasub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59459/1.0
 - name: koalakap
   src: https://static-cdn.jtvnw.net/emoticons/v1/68829/1.0
-- name: koalagg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72795/1.0
 - name: koalaheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/72796/1.0
+- name: koalastein
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119513/1.0
+- name: koalawat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125594/1.0
+- name: koalasub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125593/1.0
+- name: koalaboop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125592/1.0

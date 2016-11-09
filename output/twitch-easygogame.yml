@@ -1,17 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - easygogame
 emojis:
-- name: gusarmlgmalina
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60905/1.0
-- name: gusarmlgwhaaat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109589/1.0
-- name: gusarmlglol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109588/1.0
+- name: gusarmlgfacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119829/1.0
+- name: gusarmlgmda
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119828/1.0
 - name: gusarmlgrofl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109584/1.0
-- name: gusarmlgeh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109597/1.0
-- name: gusarmlgmlg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109596/1.0
-- name: gusarmlgleo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109592/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119826/1.0
+- name: gusarmlgrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119827/1.0
+- name: gusarmlgsleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119825/1.0
+- name: gusarmlgehh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119823/1.0
+- name: gusarmlgheh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119824/1.0
+- name: gusarmlghappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120062/1.0
+- name: gusarmlgsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120049/1.0
+- name: gusarmlgcute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120061/1.0

@@ -3,16 +3,12 @@ title: Twitch Subscriber Emotes - cohhcarnage
 emojis:
 - name: cohhkhandog
   src: https://static-cdn.jtvnw.net/emoticons/v1/2322/1.0
-- name: cohhtorque
-  src: https://static-cdn.jtvnw.net/emoticons/v1/2316/1.0
 - name: cohhcup
   src: https://static-cdn.jtvnw.net/emoticons/v1/5630/1.0
 - name: cohhf
   src: https://static-cdn.jtvnw.net/emoticons/v1/19416/1.0
 - name: cohhfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/11713/1.0
-- name: cohhkitten
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72618/1.0
 - name: cohhpts
   src: https://static-cdn.jtvnw.net/emoticons/v1/11772/1.0
 - name: cohhloot
@@ -37,8 +33,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66629/1.0
 - name: cohhmvp
   src: https://static-cdn.jtvnw.net/emoticons/v1/66630/1.0
-- name: cohhdi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25513/1.0
 - name: cohhham
   src: https://static-cdn.jtvnw.net/emoticons/v1/33605/1.0
 - name: cohhderp
@@ -49,8 +43,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/74055/1.0
 - name: cohhlul
   src: https://static-cdn.jtvnw.net/emoticons/v1/104518/1.0
-- name: cohhty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104519/1.0
 - name: cohhomy
   src: https://static-cdn.jtvnw.net/emoticons/v1/52531/1.0
 - name: cohhle
@@ -69,18 +61,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/98270/1.0
 - name: cohhh
   src: https://static-cdn.jtvnw.net/emoticons/v1/98271/1.0
-- name: cohhg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61308/1.0
 - name: cohhbass
   src: https://static-cdn.jtvnw.net/emoticons/v1/55220/1.0
-- name: cohhrude
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74060/1.0
 - name: cohhhk
   src: https://static-cdn.jtvnw.net/emoticons/v1/74059/1.0
-- name: cohhby
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74056/1.0
-- name: cohhomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74345/1.0
 - name: cohhrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/74347/1.0
 - name: cohhdingus
@@ -101,3 +85,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110905/1.0
 - name: cohhfa
   src: https://static-cdn.jtvnw.net/emoticons/v1/111576/1.0
+- name: cohhcheer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118989/1.0
+- name: cohhshame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118991/1.0
+- name: cohhcats
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118990/1.0
+- name: cohhrude
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118992/1.0
+- name: cohhblind
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118993/1.0
+- name: cohhomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118997/1.0
+- name: cohhhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124138/1.0
+- name: cohhlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124137/1.0

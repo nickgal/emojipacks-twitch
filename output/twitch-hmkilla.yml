@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77488/1.0
 - name: hmksalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/77491/1.0
-- name: hmkhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75620/1.0
 - name: hmkyooo
   src: https://static-cdn.jtvnw.net/emoticons/v1/75618/1.0
 - name: hmkrip
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116769/1.0
 - name: hmkmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/116771/1.0
+- name: hmkhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119953/1.0

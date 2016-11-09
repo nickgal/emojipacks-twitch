@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - xchica_boricuax
 emojis:
 - name: chicahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/60549/1.0
-- name: chicaban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64435/1.0
-- name: chicachicaace
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115973/1.0
 - name: chicachicateam
   src: https://static-cdn.jtvnw.net/emoticons/v1/115974/1.0
 - name: chicagg
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97056/1.0
 - name: chicafail
   src: https://static-cdn.jtvnw.net/emoticons/v1/97057/1.0
+- name: chicachicadont
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122745/1.0
+- name: chicachicarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122744/1.0

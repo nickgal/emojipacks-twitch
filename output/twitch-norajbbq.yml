@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - norajbbq
 emojis:
-- name: nbbqaigri
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76947/1.0
-- name: nbbqcd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55959/1.0
 - name: nbbqbiz
   src: https://static-cdn.jtvnw.net/emoticons/v1/56373/1.0
+- name: nbbqaigri
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119534/1.0
 - name: nbbqazy
   src: https://static-cdn.jtvnw.net/emoticons/v1/56209/1.0
-- name: nbbqlieft
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55966/1.0
-- name: nbbqduper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56062/1.0
 - name: nbbqhmf
   src: https://static-cdn.jtvnw.net/emoticons/v1/55793/1.0
 - name: nbbqkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/77162/1.0
+- name: nbbqmmb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120073/1.0
+- name: nbbqcd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125313/1.0
+- name: nbbqgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125399/1.0

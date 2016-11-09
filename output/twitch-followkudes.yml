@@ -7,13 +7,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/104075/1.0
 - name: kudesfacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/104074/1.0
-- name: kudes1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104073/1.0
-- name: kudes10
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104072/1.0
 - name: kudeshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/114513/1.0
-- name: kudesoskar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110025/1.0
-- name: kudes10k
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110029/1.0
+- name: kudeshook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119530/1.0
+- name: kudesbadman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121827/1.0
+- name: kudeslul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123034/1.0
+- name: kudespanin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123028/1.0
+- name: kudespes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123340/1.0
+- name: kudeskot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123341/1.0

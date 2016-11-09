@@ -3,15 +3,17 @@ title: Twitch Subscriber Emotes - dancingfighter
 emojis:
 - name: ayawuv
   src: https://static-cdn.jtvnw.net/emoticons/v1/54760/1.0
-- name: ayashy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114491/1.0
-- name: ayalewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114490/1.0
 - name: ayapunch
   src: https://static-cdn.jtvnw.net/emoticons/v1/54759/1.0
 - name: ayahype
   src: https://static-cdn.jtvnw.net/emoticons/v1/90532/1.0
 - name: ayacream
   src: https://static-cdn.jtvnw.net/emoticons/v1/115758/1.0
+- name: ayadoge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117196/1.0
 - name: ayawright
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106886/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125677/1.0
+- name: ayalewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125676/1.0
+- name: ayashy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125675/1.0

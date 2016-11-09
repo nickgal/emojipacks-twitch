@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - ch4x
 emojis:
-- name: chaxnewsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92368/1.0
 - name: chaxrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92369/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125533/1.0
+- name: chaxsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125534/1.0

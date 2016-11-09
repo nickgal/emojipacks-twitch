@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - aureylian
 emojis:
 - name: aureyheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/25137/1.0
-- name: aureyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116670/1.0
 - name: aureyrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/116671/1.0
 - name: aureymuted
@@ -13,3 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116672/1.0
 - name: aureyhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/116668/1.0
+- name: aureyhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118913/1.0
+- name: aureypro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118914/1.0
+- name: aureyx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118915/1.0
+- name: aureylewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117691/1.0
+- name: aureyoops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117692/1.0

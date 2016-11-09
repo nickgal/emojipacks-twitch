@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84092/1.0
 - name: couragefall
   src: https://static-cdn.jtvnw.net/emoticons/v1/103698/1.0
-- name: couragerage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87348/1.0
 - name: couragecarry
   src: https://static-cdn.jtvnw.net/emoticons/v1/115061/1.0
 - name: couragedude
@@ -35,9 +33,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/103417/1.0
 - name: couragemilk
   src: https://static-cdn.jtvnw.net/emoticons/v1/106215/1.0
-- name: couragepotato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106214/1.0
 - name: couragejoked
   src: https://static-cdn.jtvnw.net/emoticons/v1/106216/1.0
 - name: couragebotgod
   src: https://static-cdn.jtvnw.net/emoticons/v1/106217/1.0
+- name: couragememe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125844/1.0
+- name: couragegas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125847/1.0

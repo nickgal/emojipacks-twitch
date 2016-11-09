@@ -1,17 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - nomanz
 emojis:
-- name: nomanzglobal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28075/1.0
-- name: nomanzaltf4
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28080/1.0
-- name: nomanzsalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28083/1.0
 - name: nomanzfeelsblob
   src: https://static-cdn.jtvnw.net/emoticons/v1/65434/1.0
 - name: nomanzfeelsbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/65980/1.0
 - name: nomanzhello
   src: https://static-cdn.jtvnw.net/emoticons/v1/66302/1.0
-- name: nomanzrusrs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64478/1.0
+- name: nomanznot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120237/1.0

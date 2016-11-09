@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - denferok
 emojis:
-- name: denhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5722/1.0
 - name: denfork
   src: https://static-cdn.jtvnw.net/emoticons/v1/53818/1.0
 - name: densad
   src: https://static-cdn.jtvnw.net/emoticons/v1/53878/1.0
 - name: denhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/53877/1.0
-- name: denhue
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53876/1.0
 - name: denlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/53875/1.0
+- name: denhue
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117866/1.0
+- name: denoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119090/1.0
+- name: denhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119630/1.0
+- name: dengood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119631/1.0

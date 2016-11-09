@@ -7,13 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84925/1.0
 - name: glzrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/84915/1.0
-- name: glzhot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84918/1.0
 - name: glzfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/102926/1.0
 - name: glzlol
   src: https://static-cdn.jtvnw.net/emoticons/v1/102925/1.0
 - name: glzhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/102924/1.0
-- name: glzevil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116277/1.0
+- name: glzcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118089/1.0
+- name: glzw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125807/1.0

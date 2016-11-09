@@ -3,12 +3,12 @@ title: Twitch Subscriber Emotes - ramblinnn
 emojis:
 - name: rambhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/87753/1.0
-- name: rambslip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87752/1.0
 - name: rambpls
   src: https://static-cdn.jtvnw.net/emoticons/v1/85156/1.0
 - name: rambcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/86834/1.0
+- name: rambhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119216/1.0
 - name: ramblurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/93038/1.0
 - name: rambbait
@@ -18,4 +18,6 @@ emojis:
 - name: rambdaze
   src: https://static-cdn.jtvnw.net/emoticons/v1/95833/1.0
 - name: rambzzz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115913/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119215/1.0
+- name: rambcool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124526/1.0

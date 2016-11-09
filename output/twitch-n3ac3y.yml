@@ -19,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114880/1.0
 - name: n3ateam
   src: https://static-cdn.jtvnw.net/emoticons/v1/107688/1.0
-- name: n3anoobie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114881/1.0
 - name: n3anice
   src: https://static-cdn.jtvnw.net/emoticons/v1/112724/1.0
 - name: n3atr2
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114746/1.0
 - name: n3achamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/116461/1.0
+- name: n3axd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125337/1.0

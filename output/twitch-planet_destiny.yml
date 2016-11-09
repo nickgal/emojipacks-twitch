@@ -1,23 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - planet_destiny
 emojis:
-- name: destinyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55382/1.0
-- name: destinyteftjam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55397/1.0
-- name: destinyscaryteft
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55429/1.0
-- name: destinyboop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52881/1.0
 - name: destinypope
   src: https://static-cdn.jtvnw.net/emoticons/v1/52885/1.0
 - name: destinyablove
   src: https://static-cdn.jtvnw.net/emoticons/v1/57382/1.0
-- name: destinyrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84698/1.0
-- name: destinyfoil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84699/1.0
-- name: destinywallygasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55704/1.0
 - name: destinykapptarch
   src: https://static-cdn.jtvnw.net/emoticons/v1/62050/1.0
+- name: destinycrisp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121613/1.0
+- name: destinystory
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125720/1.0
+- name: destinylink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125723/1.0
+- name: destinypvp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125755/1.0
+- name: destinyfar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125834/1.0

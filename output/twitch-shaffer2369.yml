@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/19038/1.0
 - name: shafferdflop
   src: https://static-cdn.jtvnw.net/emoticons/v1/57176/1.0
-- name: shaffercop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63770/1.0
 - name: shafferfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/63876/1.0
 - name: shafferrage
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/103782/1.0
 - name: shaffernaish
   src: https://static-cdn.jtvnw.net/emoticons/v1/100565/1.0
+- name: shaffer2tap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120382/1.0

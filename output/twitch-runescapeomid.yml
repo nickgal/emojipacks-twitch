@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - runescapeomid
 emojis:
+- name: omidh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117952/1.0
 - name: omidf
   src: https://static-cdn.jtvnw.net/emoticons/v1/107033/1.0
 - name: omidx
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86262/1.0
 - name: omidw
   src: https://static-cdn.jtvnw.net/emoticons/v1/89191/1.0
+- name: omidd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117951/1.0

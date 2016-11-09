@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - mr_mammal
 emojis:
 - name: mammalexcite
   src: https://static-cdn.jtvnw.net/emoticons/v1/15868/1.0
-- name: mammaldwi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16368/1.0
 - name: mammalyawn
   src: https://static-cdn.jtvnw.net/emoticons/v1/17321/1.0
 - name: mammalbanana
@@ -23,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47173/1.0
 - name: mammalluck
   src: https://static-cdn.jtvnw.net/emoticons/v1/45994/1.0
-- name: mammalconfirmed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45995/1.0
 - name: mammalcringy
   src: https://static-cdn.jtvnw.net/emoticons/v1/46034/1.0
 - name: mammalswag
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89581/1.0
 - name: mammalmad
   src: https://static-cdn.jtvnw.net/emoticons/v1/108312/1.0
+- name: mammalwhipped
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119360/1.0
+- name: mammalspec
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121304/1.0

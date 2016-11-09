@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - sup3rcar1bou
 emojis:
-- name: car1salut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104958/1.0
 - name: car1love
   src: https://static-cdn.jtvnw.net/emoticons/v1/105004/1.0
 - name: car1rip
   src: https://static-cdn.jtvnw.net/emoticons/v1/104512/1.0
-- name: car1ez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104511/1.0
 - name: car1hype
   src: https://static-cdn.jtvnw.net/emoticons/v1/106564/1.0
 - name: car1hs
   src: https://static-cdn.jtvnw.net/emoticons/v1/106563/1.0
+- name: car1lobby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118751/1.0
+- name: car1respect
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121054/1.0

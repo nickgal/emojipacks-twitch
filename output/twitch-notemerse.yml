@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - notemerse
 emojis:
+- name: notegd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119318/1.0
 - name: noteheart
   src: https://static-cdn.jtvnw.net/emoticons/v1/114874/1.0
 - name: notebslurp
@@ -11,3 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115283/1.0
 - name: notefine
   src: https://static-cdn.jtvnw.net/emoticons/v1/115301/1.0
+- name: notec
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119320/1.0
+- name: noteyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119319/1.0
+- name: noterly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119650/1.0
+- name: notewtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119649/1.0

@@ -41,8 +41,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/92712/1.0
 - name: lobosmindblank
   src: https://static-cdn.jtvnw.net/emoticons/v1/92685/1.0
-- name: loboswolf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92708/1.0
 - name: lobosfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/92671/1.0
 - name: lobosgasm
@@ -51,3 +49,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/92921/1.0
 - name: loboscool
   src: https://static-cdn.jtvnw.net/emoticons/v1/113140/1.0
+- name: loboschamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117881/1.0
+- name: lobosraisin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117883/1.0
+- name: loboscringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118417/1.0
+- name: lobosgoldblank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117890/1.0
+- name: loboskappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118429/1.0
+- name: loboswolf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124212/1.0

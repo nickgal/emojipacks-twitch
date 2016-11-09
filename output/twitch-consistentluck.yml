@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - consistentluck
 emojis:
-- name: luckmanatee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5592/1.0
 - name: lucknothumbs
   src: https://static-cdn.jtvnw.net/emoticons/v1/6293/1.0
 - name: luckgoat
@@ -13,7 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/102959/1.0
 - name: luckaye
   src: https://static-cdn.jtvnw.net/emoticons/v1/102958/1.0
-- name: luckmanatee2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110211/1.0
 - name: luckrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/109912/1.0
+- name: luckmanatee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117994/1.0
+- name: luckt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117993/1.0

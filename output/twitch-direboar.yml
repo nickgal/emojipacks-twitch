@@ -1,12 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - direboar
 emojis:
-- name: diremiku
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103612/1.0
 - name: direlul
   src: https://static-cdn.jtvnw.net/emoticons/v1/106095/1.0
-- name: direkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96511/1.0
 - name: diregasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/47026/1.0
 - name: direpig
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71144/1.0
 - name: direrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/106156/1.0
+- name: direlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125898/1.0
+- name: direfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125899/1.0

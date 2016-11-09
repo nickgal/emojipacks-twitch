@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - zombiekingny
 emojis:
-- name: zknybaby
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104933/1.0
 - name: zknyayy
   src: https://static-cdn.jtvnw.net/emoticons/v1/102261/1.0
 - name: zknylove
@@ -13,7 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110171/1.0
 - name: zknylol
   src: https://static-cdn.jtvnw.net/emoticons/v1/110060/1.0
+- name: zknylurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124517/1.0
 - name: zknydad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114082/1.0
-- name: zknywut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114078/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124516/1.0
+- name: zknybruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125445/1.0

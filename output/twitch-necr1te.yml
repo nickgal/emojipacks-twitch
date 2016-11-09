@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/81178/1.0
 - name: neclove
   src: https://static-cdn.jtvnw.net/emoticons/v1/81173/1.0
-- name: necfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84676/1.0
 - name: nechype
   src: https://static-cdn.jtvnw.net/emoticons/v1/81852/1.0
 - name: necdeal
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108603/1.0
 - name: necsalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/114041/1.0
+- name: nectato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124586/1.0

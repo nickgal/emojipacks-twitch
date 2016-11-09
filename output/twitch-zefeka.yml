@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - zefeka
 emojis:
 - name: zeft
   src: https://static-cdn.jtvnw.net/emoticons/v1/102060/1.0
+- name: zefm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119100/1.0
 - name: zefa
   src: https://static-cdn.jtvnw.net/emoticons/v1/101015/1.0
 - name: zefr

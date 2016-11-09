@@ -1,16 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - nds_talon
 emojis:
-- name: ndspls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112111/1.0
-- name: ndsraid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112113/1.0
+- name: ndslurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119594/1.0
 - name: ndshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/112114/1.0
-- name: ndslove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112115/1.0
-- name: ndslurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112117/1.0
 - name: ndsno
   src: https://static-cdn.jtvnw.net/emoticons/v1/112118/1.0
 - name: ndsmad
@@ -20,4 +14,20 @@ emojis:
 - name: ndssub
   src: https://static-cdn.jtvnw.net/emoticons/v1/112331/1.0
 - name: ndswhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112332/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119593/1.0
+- name: ndslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119591/1.0
+- name: ndspls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119592/1.0
+- name: ndsbuns
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120405/1.0
+- name: ndsrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120409/1.0
+- name: ndsgusta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120407/1.0
+- name: ndslol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120408/1.0
+- name: ndsgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120406/1.0
+- name: ndssicc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122398/1.0

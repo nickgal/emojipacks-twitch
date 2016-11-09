@@ -9,16 +9,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116587/1.0
 - name: heavybeardtop
   src: https://static-cdn.jtvnw.net/emoticons/v1/116588/1.0
-- name: heavybeardpriest
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96543/1.0
 - name: heavybeardkrab
   src: https://static-cdn.jtvnw.net/emoticons/v1/80878/1.0
 - name: heavybeardserg
   src: https://static-cdn.jtvnw.net/emoticons/v1/80879/1.0
-- name: heavybeardlethal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82744/1.0
-- name: heavybeardtopdeck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83002/1.0
 - name: heavybeardkapibara
   src: https://static-cdn.jtvnw.net/emoticons/v1/96408/1.0
 - name: heavybeardfire
@@ -29,5 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116585/1.0
 - name: heavybeardrighth
   src: https://static-cdn.jtvnw.net/emoticons/v1/116586/1.0
-- name: heavybeardcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116589/1.0
+- name: heavybeardclaw1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118586/1.0
+- name: heavybeardclaw2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118587/1.0
+- name: heavybeard25rank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117564/1.0
+- name: heavybeardvape
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117567/1.0

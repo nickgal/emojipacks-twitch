@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - gl_metalchewbacca
 emojis:
+- name: metalchewrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124364/1.0
 - name: metalchewtammy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95194/1.0
-- name: metalchewpyrax
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113677/1.0
-- name: metalchewpigeon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113536/1.0
-- name: metalchewswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113686/1.0
-- name: metalchewtarinor
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113905/1.0
-- name: metalchewcucrapok
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113698/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124372/1.0
+- name: metalchewsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124367/1.0
+- name: metalchewconfus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124365/1.0
+- name: metalchewklarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124363/1.0
+- name: metalchewbalec
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124410/1.0

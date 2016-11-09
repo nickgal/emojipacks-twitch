@@ -3,11 +3,13 @@ title: Twitch Subscriber Emotes - seogui
 emojis:
 - name: undercityhithit
   src: https://static-cdn.jtvnw.net/emoticons/v1/112651/1.0
-- name: undercityarmy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115356/1.0
 - name: undercitygood
   src: https://static-cdn.jtvnw.net/emoticons/v1/116254/1.0
 - name: undercitysanity
   src: https://static-cdn.jtvnw.net/emoticons/v1/115692/1.0
-- name: undercitymsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115466/1.0
+- name: undercitydog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117790/1.0
+- name: undercityyugioh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122777/1.0
+- name: undercityheyguys
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122787/1.0

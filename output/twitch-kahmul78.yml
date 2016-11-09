@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - kahmul78
 emojis:
 - name: multhump
   src: https://static-cdn.jtvnw.net/emoticons/v1/52960/1.0
-- name: mulmule
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52595/1.0
 - name: muldoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/52836/1.0
 - name: mulworm
@@ -15,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53540/1.0
 - name: mulpup
   src: https://static-cdn.jtvnw.net/emoticons/v1/116974/1.0
+- name: mulhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121430/1.0
+- name: mulclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121462/1.0

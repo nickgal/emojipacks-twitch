@@ -31,8 +31,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/39793/1.0
 - name: mangow
   src: https://static-cdn.jtvnw.net/emoticons/v1/88281/1.0
-- name: mangokrey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/45241/1.0
 - name: mangowiener
   src: https://static-cdn.jtvnw.net/emoticons/v1/49150/1.0
 - name: mangohamburgers
@@ -61,3 +59,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/98696/1.0
 - name: mangoa
   src: https://static-cdn.jtvnw.net/emoticons/v1/98697/1.0
+- name: mangokrey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121312/1.0
+- name: mangojoey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121313/1.0
+- name: mangosellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122029/1.0
+- name: mangodegen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123132/1.0

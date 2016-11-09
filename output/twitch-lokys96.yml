@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lokys96
 emojis:
-- name: lokysgrr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86358/1.0
-- name: lokyslove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84803/1.0
 - name: lokyspie
   src: https://static-cdn.jtvnw.net/emoticons/v1/81896/1.0
-- name: lokysunlokys
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83288/1.0
-- name: lokysrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82196/1.0
 - name: lokyshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/85949/1.0
+- name: lokystilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118739/1.0
+- name: lokysgrr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118737/1.0
+- name: lokyslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118738/1.0
+- name: lokyscry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118741/1.0
+- name: lokysgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124065/1.0
+- name: lokysfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124083/1.0

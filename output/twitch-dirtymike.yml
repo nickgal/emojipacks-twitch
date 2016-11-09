@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - dirtymike
 emojis:
-- name: dirtybody
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33477/1.0
-- name: dirtykid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33479/1.0
-- name: dirtypro
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33480/1.0
 - name: dirtyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33482/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120772/1.0
+- name: dirtyzam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120774/1.0
+- name: dirtyarm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123374/1.0
 - name: dirtysalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33481/1.0
-- name: dirtyball
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37425/1.0
-- name: dirtyhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37426/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123371/1.0
+- name: dirtykid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123373/1.0
+- name: dirtypro
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123375/1.0
+- name: dirtytrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125407/1.0
+- name: dirtybus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125406/1.0

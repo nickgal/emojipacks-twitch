@@ -15,9 +15,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109045/1.0
 - name: poshpf
   src: https://static-cdn.jtvnw.net/emoticons/v1/113328/1.0
-- name: poshh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113330/1.0
 - name: poshtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/115827/1.0
 - name: poshs
   src: https://static-cdn.jtvnw.net/emoticons/v1/115828/1.0
+- name: poshh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122213/1.0
+- name: poshlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122211/1.0
+- name: poshwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122210/1.0
+- name: poshtrig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122209/1.0
+- name: poshrly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122208/1.0

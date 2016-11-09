@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - neeydchan
 emojis:
+- name: neeydwave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124200/1.0
+- name: neeydwoah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124199/1.0
 - name: neeydfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81084/1.0
-- name: neeydluv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79893/1.0
-- name: neeydcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81089/1.0
-- name: neeydhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81086/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125161/1.0
+- name: neeydwat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125162/1.0

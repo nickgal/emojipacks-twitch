@@ -15,12 +15,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114668/1.0
 - name: brokind
   src: https://static-cdn.jtvnw.net/emoticons/v1/114669/1.0
-- name: brogood
+- name: brovibes
   src: https://static-cdn.jtvnw.net/emoticons/v1/114670/1.0
-- name: brosudoku
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114683/1.0
-- name: brono
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99043/1.0
 - name: brobosco
   src: https://static-cdn.jtvnw.net/emoticons/v1/85537/1.0
 - name: broriot
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/103572/1.0
 - name: brodoge
   src: https://static-cdn.jtvnw.net/emoticons/v1/109663/1.0
+- name: brobad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125905/1.0
+- name: brogood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125904/1.0

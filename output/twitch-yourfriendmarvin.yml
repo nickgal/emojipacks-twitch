@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - yourfriendmarvin
 emojis:
-- name: yfmpma
-  src: https://static-cdn.jtvnw.net/emoticons/v1/102336/1.0
 - name: yfmpfma
   src: https://static-cdn.jtvnw.net/emoticons/v1/103319/1.0
 - name: yfmdigums
   src: https://static-cdn.jtvnw.net/emoticons/v1/108563/1.0
 - name: yfmlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/108562/1.0
+- name: yfmpma
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121741/1.0

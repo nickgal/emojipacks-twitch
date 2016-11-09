@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - riyuuka
 emojis:
-- name: riyuunaisu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115388/1.0
 - name: riyuuriyu
   src: https://static-cdn.jtvnw.net/emoticons/v1/74744/1.0
 - name: riyuurr
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113227/1.0
 - name: riyuurem
   src: https://static-cdn.jtvnw.net/emoticons/v1/115175/1.0
+- name: riyuum7
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121036/1.0

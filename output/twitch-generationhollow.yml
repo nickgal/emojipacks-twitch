@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - generationhollow
 emojis:
-- name: hollowcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16607/1.0
 - name: hollowbatman
   src: https://static-cdn.jtvnw.net/emoticons/v1/18521/1.0
-- name: hollowsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24318/1.0
-- name: hollowface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36065/1.0
-- name: hollowcube
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36064/1.0
 - name: hollowgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40230/1.0
-- name: hollowhappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69700/1.0
-- name: hollowcool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69698/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122844/1.0
+- name: hollowcube
+  src: https://static-cdn.jtvnw.net/emoticons/v1/122843/1.0
+- name: hollowmlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123996/1.0
+- name: hollowfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124168/1.0
+- name: hollowrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124639/1.0
+- name: hollowhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125339/1.0
+- name: hollowhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/125340/1.0

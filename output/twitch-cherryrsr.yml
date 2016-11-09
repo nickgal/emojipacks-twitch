@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - cherryrsr
 emojis:
-- name: cherlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47529/1.0
 - name: cherspud
   src: https://static-cdn.jtvnw.net/emoticons/v1/102892/1.0
+- name: cherlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118943/1.0
 - name: chermad
   src: https://static-cdn.jtvnw.net/emoticons/v1/64007/1.0
 - name: cherthumb
@@ -13,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/64005/1.0
 - name: cherpalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/64004/1.0
+- name: chersad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118437/1.0
+- name: cherheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118436/1.0

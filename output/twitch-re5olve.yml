@@ -5,13 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115567/1.0
 - name: resolvemayo
   src: https://static-cdn.jtvnw.net/emoticons/v1/115568/1.0
-- name: resolveface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115570/1.0
 - name: resolves
   src: https://static-cdn.jtvnw.net/emoticons/v1/116187/1.0
 - name: resolvelit
   src: https://static-cdn.jtvnw.net/emoticons/v1/116189/1.0
-- name: resolvewap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116190/1.0
 - name: resolvemad
   src: https://static-cdn.jtvnw.net/emoticons/v1/115836/1.0
+- name: resolvelul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/117103/1.0
+- name: resolvec
+  src: https://static-cdn.jtvnw.net/emoticons/v1/119758/1.0
+- name: resolvep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/121607/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - gogcom
 emojis:
+- name: gogcomr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118858/1.0
 - name: gogcomded
   src: https://static-cdn.jtvnw.net/emoticons/v1/83677/1.0
 - name: gogcomfree
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86746/1.0
 - name: gogcomseat
   src: https://static-cdn.jtvnw.net/emoticons/v1/86752/1.0
+- name: gogcoml
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118856/1.0
