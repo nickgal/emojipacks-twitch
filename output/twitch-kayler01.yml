@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84412/1.0
 - name: kaylerz
   src: https://static-cdn.jtvnw.net/emoticons/v1/84413/1.0
-- name: kaylerwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84414/1.0
 - name: kaylerdeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/84407/1.0
 - name: kaylerfail
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84410/1.0
 - name: kaylerrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/84411/1.0
+- name: kaylerrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129992/1.0

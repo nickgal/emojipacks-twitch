@@ -7,6 +7,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/10383/1.0
 - name: poki10
   src: https://static-cdn.jtvnw.net/emoticons/v1/12457/1.0
+- name: pokichu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129257/1.0
 - name: pokilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/35533/1.0
 - name: pokipunch
@@ -35,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/117757/1.0
 - name: pokirage
   src: https://static-cdn.jtvnw.net/emoticons/v1/121456/1.0
+- name: pokichamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127055/1.0
+- name: pokic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127521/1.0

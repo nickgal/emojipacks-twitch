@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - wraxu
 emojis:
+- name: wraxuthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130198/1.0
 - name: wraxuteatime
   src: https://static-cdn.jtvnw.net/emoticons/v1/120106/1.0
 - name: wraxusmug

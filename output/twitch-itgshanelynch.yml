@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - itgshanelynch
 emojis:
+- name: itgrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130637/1.0
+- name: itgnotbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130102/1.0
 - name: itgwhoa
   src: https://static-cdn.jtvnw.net/emoticons/v1/122940/1.0
 - name: itggoodjob

@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - asianpoet
 emojis:
-- name: asianpoetcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78911/1.0
 - name: asianpoetdpp
   src: https://static-cdn.jtvnw.net/emoticons/v1/101977/1.0
-- name: asianpoetbear
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114341/1.0
 - name: asianpoetdog
   src: https://static-cdn.jtvnw.net/emoticons/v1/114349/1.0
 - name: asianpoetflash
   src: https://static-cdn.jtvnw.net/emoticons/v1/114350/1.0
 - name: asianpoetload
   src: https://static-cdn.jtvnw.net/emoticons/v1/114647/1.0
+- name: asianpoetsmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127380/1.0
+- name: asianpoetsinged
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127660/1.0
+- name: asianpoetone
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127863/1.0
+- name: asianpoetkmt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127866/1.0

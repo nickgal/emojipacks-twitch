@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - ashe_aelois
 emojis:
+- name: aeloisderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129178/1.0
+- name: aeloiswat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129299/1.0
 - name: aeloisxd
   src: https://static-cdn.jtvnw.net/emoticons/v1/98297/1.0
 - name: aeloiskappa
@@ -13,11 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/73648/1.0
 - name: aeloisgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/69615/1.0
-- name: aeloisrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69679/1.0
 - name: aeloislove
   src: https://static-cdn.jtvnw.net/emoticons/v1/69678/1.0
 - name: aeloisthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/79300/1.0
-- name: aeloisderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115285/1.0

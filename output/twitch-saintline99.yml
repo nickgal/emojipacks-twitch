@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - saintline99
 emojis:
-- name: saintbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21381/1.0
-- name: saintfriend
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21380/1.0
 - name: saintban
   src: https://static-cdn.jtvnw.net/emoticons/v1/23362/1.0
 - name: saintsniper
   src: https://static-cdn.jtvnw.net/emoticons/v1/23364/1.0
+- name: saintogurec
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130848/1.0
+- name: saintgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130531/1.0

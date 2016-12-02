@@ -1,15 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - cammierenee
 emojis:
+- name: catn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129177/1.0
+- name: cataw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129460/1.0
 - name: cathype
   src: https://static-cdn.jtvnw.net/emoticons/v1/44353/1.0
 - name: catlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/48676/1.0
-- name: catgasp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67024/1.0
-- name: catw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88208/1.0
-- name: catwhat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104434/1.0
 - name: cats
   src: https://static-cdn.jtvnw.net/emoticons/v1/125323/1.0

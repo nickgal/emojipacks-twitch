@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - ghswktkfrl1
 emojis:
-- name: opretty1oprettytwo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124562/1.0
-- name: opretty1opretty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124805/1.0
+- name: opretty1order
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130470/1.0
+- name: opretty1missile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126037/1.0
+- name: opretty1gtg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126527/1.0

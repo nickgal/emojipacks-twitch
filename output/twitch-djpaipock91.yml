@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - djpaipock91
 emojis:
-- name: pckchpck01
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114028/1.0
+- name: pckchpcklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130792/1.0
+- name: pckchpcksad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130791/1.0
+- name: pckchpckjabngoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130028/1.0
 - name: pckchpckhaha
   src: https://static-cdn.jtvnw.net/emoticons/v1/114029/1.0

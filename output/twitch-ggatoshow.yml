@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - ggatoshow
 emojis:
-- name: dinosgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124107/1.0
+- name: dinosgatogg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128121/1.0
+- name: dinosgatorip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128120/1.0

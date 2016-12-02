@@ -1,7 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - dutchj
 emojis:
-- name: dutchjpanic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125773/1.0
 - name: dutchjlfg
   src: https://static-cdn.jtvnw.net/emoticons/v1/125772/1.0
+- name: dutchjhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126286/1.0
+- name: dutchjdestroy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126333/1.0
+- name: dutchjpanic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126567/1.0
+- name: dutchjlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128083/1.0

@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - jschritte
 emojis:
-- name: jdtkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58798/1.0
 - name: jdtblindao
   src: https://static-cdn.jtvnw.net/emoticons/v1/58832/1.0
+- name: jdtkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130258/1.0
+- name: jdtxitao
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130259/1.0
+- name: jdtbatata
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130159/1.0
+- name: jdttilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130162/1.0
 - name: jdtrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107504/1.0
-- name: jdtcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107859/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130166/1.0

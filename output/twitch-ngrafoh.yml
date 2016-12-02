@@ -1,9 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - ngrafoh
 emojis:
-- name: grafooye
-  src: https://static-cdn.jtvnw.net/emoticons/v1/118169/1.0
 - name: grafokodi
   src: https://static-cdn.jtvnw.net/emoticons/v1/118170/1.0
 - name: grafocoscu
   src: https://static-cdn.jtvnw.net/emoticons/v1/118221/1.0
+- name: grafooye
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128837/1.0
+- name: grafosony
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128846/1.0

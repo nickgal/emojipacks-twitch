@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - misamusaly
 emojis:
+- name: misaomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129646/1.0
 - name: misalove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80884/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129647/1.0
 - name: misagasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82917/1.0
-- name: misaqq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82956/1.0
-- name: misarage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83001/1.0
-- name: misakiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83135/1.0
-- name: misakawaii
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83244/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129648/1.0
+- name: misahug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129649/1.0
 - name: misahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83245/1.0
-- name: misa10
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83171/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129650/1.0
+- name: misalul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129651/1.0

@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - banzaibaby
 emojis:
+- name: bzbmallet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129492/1.0
 - name: bzblove
   src: https://static-cdn.jtvnw.net/emoticons/v1/121626/1.0
 - name: bzbwheel
   src: https://static-cdn.jtvnw.net/emoticons/v1/121627/1.0
 - name: bzbpup
   src: https://static-cdn.jtvnw.net/emoticons/v1/122425/1.0
+- name: bzbzai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128643/1.0
+- name: bzbban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128642/1.0

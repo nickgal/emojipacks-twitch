@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/68452/1.0
 - name: orba
   src: https://static-cdn.jtvnw.net/emoticons/v1/74880/1.0
-- name: orbrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123848/1.0
 - name: orbfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/123849/1.0
 - name: orbpray
@@ -19,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/123845/1.0
 - name: orbhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/125209/1.0
-- name: orbgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125212/1.0
 - name: orbomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/125214/1.0
 - name: orbrekt

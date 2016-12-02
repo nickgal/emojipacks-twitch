@@ -3,8 +3,10 @@ title: Twitch Subscriber Emotes - thedragonfeeney
 emojis:
 - name: feenwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/94933/1.0
-- name: feenspoop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98347/1.0
+- name: feensave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130719/1.0
+- name: feenkill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129821/1.0
 - name: feenpapple
   src: https://static-cdn.jtvnw.net/emoticons/v1/94873/1.0
 - name: feenrekt
@@ -15,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/117979/1.0
 - name: feenhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/118591/1.0
-- name: feenaww
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123071/1.0
 - name: feencry
   src: https://static-cdn.jtvnw.net/emoticons/v1/123551/1.0
 - name: feenlove

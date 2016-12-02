@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - esgame
 emojis:
-- name: partbubba
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38540/1.0
-- name: partshelby
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38931/1.0
 - name: parthype
   src: https://static-cdn.jtvnw.net/emoticons/v1/97227/1.0
 - name: partrip
@@ -21,3 +17,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97238/1.0
 - name: part7
   src: https://static-cdn.jtvnw.net/emoticons/v1/97239/1.0
+- name: part10
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129975/1.0
+- name: partbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129976/1.0
+- name: partban
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129977/1.0
+- name: partbo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129978/1.0
+- name: partfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129979/1.0
+- name: partkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129981/1.0

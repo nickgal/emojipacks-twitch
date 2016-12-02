@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - commonly
 emojis:
+- name: commonlymilk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130790/1.0
 - name: commonlyproblem
   src: https://static-cdn.jtvnw.net/emoticons/v1/101625/1.0
 - name: commonlyface
@@ -9,7 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97726/1.0
 - name: commonlynlt
   src: https://static-cdn.jtvnw.net/emoticons/v1/79006/1.0
-- name: commonlyflys
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79004/1.0
 - name: commonlyflag
   src: https://static-cdn.jtvnw.net/emoticons/v1/114750/1.0

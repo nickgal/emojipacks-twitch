@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - tharixer
 emojis:
-- name: thadax
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17259/1.0
-- name: thalurker
-  src: https://static-cdn.jtvnw.net/emoticons/v1/17696/1.0
 - name: thawink
   src: https://static-cdn.jtvnw.net/emoticons/v1/41756/1.0
 - name: thaprick
   src: https://static-cdn.jtvnw.net/emoticons/v1/39097/1.0
-- name: thajakop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41561/1.0
 - name: thakingfurry
   src: https://static-cdn.jtvnw.net/emoticons/v1/62542/1.0
-- name: thalewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62780/1.0
 - name: tharoasted
   src: https://static-cdn.jtvnw.net/emoticons/v1/84971/1.0
+- name: thalewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126276/1.0
+- name: thasmirk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126277/1.0

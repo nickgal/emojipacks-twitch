@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - snaski
 emojis:
+- name: snasrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129247/1.0
 - name: snascat
   src: https://static-cdn.jtvnw.net/emoticons/v1/107960/1.0
 - name: snasdwi
   src: https://static-cdn.jtvnw.net/emoticons/v1/107961/1.0
-- name: snaskiss
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116638/1.0
 - name: snaslamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/116637/1.0

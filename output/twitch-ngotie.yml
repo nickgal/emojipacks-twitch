@@ -1,21 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - ngotie
 emojis:
-- name: ngoc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73807/1.0
-- name: ngophil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1685/1.0
-- name: ngoflank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1683/1.0
-- name: ngomug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5180/1.0
-- name: ngobc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22960/1.0
 - name: ngol
   src: https://static-cdn.jtvnw.net/emoticons/v1/39040/1.0
-- name: ngoa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75486/1.0
-- name: ngop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75484/1.0
 - name: ngot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78636/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130416/1.0
+- name: ngolurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130418/1.0
+- name: ngocheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130424/1.0
+- name: ngoomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130425/1.0
+- name: ngook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130426/1.0
+- name: ngoderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130427/1.0
+- name: ngosalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130428/1.0

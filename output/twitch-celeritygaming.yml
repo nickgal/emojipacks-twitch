@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - celeritygaming
 emojis:
-- name: celeritybite
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50935/1.0
+- name: celeritysigh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128290/1.0
+- name: celerityyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128520/1.0

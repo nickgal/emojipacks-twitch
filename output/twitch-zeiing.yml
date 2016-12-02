@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/83052/1.0
 - name: alpazelingrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/104331/1.0
-- name: alpazelingfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104332/1.0
 - name: alpazelingtilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/104333/1.0
 - name: alpazelingeasy
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/121855/1.0
 - name: alpazelingsalty
   src: https://static-cdn.jtvnw.net/emoticons/v1/121854/1.0
+- name: alpazelingteam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127211/1.0

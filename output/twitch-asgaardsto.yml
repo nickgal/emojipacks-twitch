@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - asgaardsto
 emojis:
+- name: asgaardrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130299/1.0
+- name: asgaardready
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130322/1.0
 - name: asgaardhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/124369/1.0
 - name: asgaardomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/124368/1.0
 - name: asgaardrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/124371/1.0
-- name: asgaardlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124606/1.0
 - name: asgaardwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/125112/1.0
 - name: asgaardhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/125543/1.0
+- name: asgaardlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130544/1.0

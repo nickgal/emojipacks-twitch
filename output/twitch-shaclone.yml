@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71075/1.0
 - name: cloneomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/69226/1.0
-- name: clonekappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26540/1.0
 - name: cloneblue
   src: https://static-cdn.jtvnw.net/emoticons/v1/49486/1.0
 - name: clonebiblethump
@@ -15,5 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61816/1.0
 - name: clonekappabro
   src: https://static-cdn.jtvnw.net/emoticons/v1/73195/1.0
-- name: clonehype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103047/1.0
+- name: clonewtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127877/1.0
+- name: cloneclutch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127875/1.0

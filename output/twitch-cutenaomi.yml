@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - cutenaomi
 emojis:
 - name: naemrt
   src: https://static-cdn.jtvnw.net/emoticons/v1/53394/1.0
+- name: naegame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130397/1.0
 - name: naesad
   src: https://static-cdn.jtvnw.net/emoticons/v1/125643/1.0
 - name: naecake
@@ -21,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125637/1.0
 - name: naelove
   src: https://static-cdn.jtvnw.net/emoticons/v1/125753/1.0
+- name: naefox
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127736/1.0
+- name: naelurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127737/1.0
+- name: naewtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127805/1.0
+- name: naerip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127801/1.0

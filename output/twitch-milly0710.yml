@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - milly0710
 emojis:
+- name: baby66laugh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129330/1.0
 - name: baby6666puli
   src: https://static-cdn.jtvnw.net/emoticons/v1/114006/1.0
 - name: baby6666love
   src: https://static-cdn.jtvnw.net/emoticons/v1/114003/1.0
-- name: baby666687
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114005/1.0
 - name: baby66eat
   src: https://static-cdn.jtvnw.net/emoticons/v1/114432/1.0
 - name: baby66puli
   src: https://static-cdn.jtvnw.net/emoticons/v1/114433/1.0
 - name: baby66hi
   src: https://static-cdn.jtvnw.net/emoticons/v1/114442/1.0
+- name: baby6602
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127524/1.0
+- name: baby6601
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127523/1.0

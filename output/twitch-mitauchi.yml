@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - mitauchi
 emojis:
+- name: mitauchikappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129426/1.0
+- name: mitauchirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129425/1.0
 - name: mitauchiskull
   src: https://static-cdn.jtvnw.net/emoticons/v1/124192/1.0
 - name: mitauchibros
@@ -11,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/124552/1.0
 - name: mitauchiraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/124551/1.0
+- name: mitauchirekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126063/1.0

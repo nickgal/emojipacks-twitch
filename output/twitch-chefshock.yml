@@ -5,9 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/123731/1.0
 - name: chefshockjdollar
   src: https://static-cdn.jtvnw.net/emoticons/v1/123729/1.0
-- name: chefshocknope
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125587/1.0
 - name: chefshocksaltpig
   src: https://static-cdn.jtvnw.net/emoticons/v1/125588/1.0
 - name: chefshockacid
   src: https://static-cdn.jtvnw.net/emoticons/v1/125610/1.0
+- name: chefshockbennope
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126440/1.0
+- name: chefshockspice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126439/1.0
+- name: chefshockfoodiscold
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126438/1.0
+- name: chefshockdabs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126437/1.0

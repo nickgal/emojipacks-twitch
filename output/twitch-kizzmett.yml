@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - kizzmett
 emojis:
-- name: kiizzkitty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20391/1.0
-- name: kiizzrubick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24090/1.0
-- name: kiizzhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36824/1.0
-- name: kiizzrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38223/1.0
-- name: kiizzsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38224/1.0
-- name: kiizzmer
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38987/1.0
-- name: kiizzreject
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48096/1.0
+- name: kiizzwhut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126056/1.0
 - name: kiizzgush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48135/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126057/1.0
+- name: kiizzmer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126058/1.0
+- name: kiizzsalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126060/1.0
+- name: kiizzthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126477/1.0
+- name: kiizzreject
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126559/1.0

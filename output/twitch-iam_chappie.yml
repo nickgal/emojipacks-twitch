@@ -1,6 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - iam_chappie
 emojis:
+- name: chappiehype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129779/1.0
+- name: chappiehappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129780/1.0
+- name: chappiegoat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129781/1.0
+- name: chappiechill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129782/1.0
 - name: chappiego
   src: https://static-cdn.jtvnw.net/emoticons/v1/124249/1.0
 - name: chappietrash
@@ -11,3 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/124289/1.0
 - name: chappiect
   src: https://static-cdn.jtvnw.net/emoticons/v1/124918/1.0
+- name: chappiedamn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127537/1.0
+- name: chappierip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127536/1.0
+- name: chappiegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127535/1.0
+- name: chappielove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127534/1.0
+- name: chappieclap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127761/1.0
+- name: chappiehi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128959/1.0

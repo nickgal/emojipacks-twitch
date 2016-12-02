@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - llcupido
 emojis:
 - name: cupicute
   src: https://static-cdn.jtvnw.net/emoticons/v1/73737/1.0
-- name: cupinom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73042/1.0
 - name: cupiniveau
   src: https://static-cdn.jtvnw.net/emoticons/v1/76704/1.0
 - name: cupipat
   src: https://static-cdn.jtvnw.net/emoticons/v1/76702/1.0
-- name: cupiboy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76700/1.0
 - name: cupihey
   src: https://static-cdn.jtvnw.net/emoticons/v1/116748/1.0
+- name: cupimad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128603/1.0
+- name: cupigasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128607/1.0

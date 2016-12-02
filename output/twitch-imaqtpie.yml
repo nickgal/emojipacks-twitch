@@ -47,8 +47,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69729/1.0
 - name: qtpfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/69731/1.0
-- name: qtpmellow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73073/1.0
 - name: qtplul
   src: https://static-cdn.jtvnw.net/emoticons/v1/116948/1.0
 - name: qtpweeb
@@ -77,8 +75,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114091/1.0
 - name: qtpnlt
   src: https://static-cdn.jtvnw.net/emoticons/v1/114093/1.0
-- name: qtpcs
-  src: https://static-cdn.jtvnw.net/emoticons/v1/118279/1.0
 - name: qtp2nd
   src: https://static-cdn.jtvnw.net/emoticons/v1/118201/1.0
 - name: qtpswag
@@ -101,3 +97,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/117608/1.0
 - name: qtpdapper
   src: https://static-cdn.jtvnw.net/emoticons/v1/119799/1.0
+- name: qtphehe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126889/1.0

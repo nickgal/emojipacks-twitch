@@ -5,15 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/69513/1.0
 - name: uni05fail
   src: https://static-cdn.jtvnw.net/emoticons/v1/69566/1.0
-- name: uni05snipe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114689/1.0
 - name: uni05lulz
   src: https://static-cdn.jtvnw.net/emoticons/v1/83874/1.0
 - name: uni05stroke
   src: https://static-cdn.jtvnw.net/emoticons/v1/74645/1.0
+- name: uni05cry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129822/1.0
 - name: uni05smirk
   src: https://static-cdn.jtvnw.net/emoticons/v1/102951/1.0
-- name: uni05cry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110305/1.0
 - name: uni05splash
   src: https://static-cdn.jtvnw.net/emoticons/v1/110771/1.0
+- name: uni05feed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128723/1.0

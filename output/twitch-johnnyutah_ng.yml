@@ -1,5 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - johnnyutah_ng
 emojis:
+- name: jeffsighpokemaster
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129483/1.0
+- name: jeffsighscowl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129484/1.0
+- name: jeffsighdemoman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129485/1.0
 - name: jeffsigheyeroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/112314/1.0

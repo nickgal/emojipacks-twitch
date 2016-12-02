@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - saywallahbruh
 emojis:
 - name: wallahb
   src: https://static-cdn.jtvnw.net/emoticons/v1/114709/1.0
+- name: wallahaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129656/1.0
 - name: wallahr
   src: https://static-cdn.jtvnw.net/emoticons/v1/113859/1.0
 - name: wallahwut
@@ -13,9 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116137/1.0
 - name: wallahp
   src: https://static-cdn.jtvnw.net/emoticons/v1/122108/1.0
-- name: wallahgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122105/1.0
-- name: wallahhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122226/1.0
 - name: wallahtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/125932/1.0
+- name: wallahhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126708/1.0
+- name: wallahhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128784/1.0

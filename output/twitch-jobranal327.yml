@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - jobranal327
 emojis:
-- name: jobradog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115612/1.0
 - name: jobrapride
   src: https://static-cdn.jtvnw.net/emoticons/v1/98406/1.0
-- name: jobracry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114226/1.0
 - name: jobrazupo
   src: https://static-cdn.jtvnw.net/emoticons/v1/113572/1.0
+- name: jobrarat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128914/1.0
+- name: jobramoto
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129128/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - kurtjmac
 emojis:
+- name: kurtfacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129409/1.0
 - name: kurtscience
   src: https://static-cdn.jtvnw.net/emoticons/v1/94758/1.0
 - name: kurtmagic
@@ -11,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/94757/1.0
 - name: kurtcone
   src: https://static-cdn.jtvnw.net/emoticons/v1/94756/1.0
-- name: kurteva
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94752/1.0
 - name: kurtindeed
   src: https://static-cdn.jtvnw.net/emoticons/v1/94750/1.0
 - name: kurtwolfie

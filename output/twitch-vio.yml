@@ -21,16 +21,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105148/1.0
 - name: viopf
   src: https://static-cdn.jtvnw.net/emoticons/v1/110580/1.0
-- name: vioz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108314/1.0
 - name: viohug
   src: https://static-cdn.jtvnw.net/emoticons/v1/110691/1.0
-- name: viom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110692/1.0
 - name: vioshrug
   src: https://static-cdn.jtvnw.net/emoticons/v1/110693/1.0
-- name: viotrig
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110866/1.0
 - name: viol
   src: https://static-cdn.jtvnw.net/emoticons/v1/118715/1.0
 - name: vioheh
@@ -41,3 +35,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/123900/1.0
 - name: viobb
   src: https://static-cdn.jtvnw.net/emoticons/v1/123902/1.0
+- name: vioy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127469/1.0
+- name: viok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129110/1.0

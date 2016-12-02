@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - vickypan
 emojis:
+- name: hahahasss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130580/1.0
+- name: hahahagood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130585/1.0
+- name: hahahadog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130596/1.0
+- name: hahahanice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130597/1.0
+- name: hahahakp7
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130606/1.0
 - name: hahahaoh
   src: https://static-cdn.jtvnw.net/emoticons/v1/11442/1.0
-- name: hahaha87
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40748/1.0
-- name: hahahamm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40516/1.0
-- name: hahahass
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40514/1.0
-- name: hahahaqq
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122616/1.0
-- name: hahaha88
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122606/1.0
+- name: hahahabrave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129633/1.0
+- name: hahahaad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129629/1.0

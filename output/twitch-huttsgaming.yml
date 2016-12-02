@@ -1,23 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - huttsgaming
 emojis:
-- name: huttshappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75167/1.0
-- name: huttscry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75168/1.0
-- name: huttshype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75169/1.0
-- name: huttsrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75171/1.0
-- name: huttsbumbo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87677/1.0
-- name: huttsrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87674/1.0
-- name: huttsdon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87680/1.0
 - name: huttstom
   src: https://static-cdn.jtvnw.net/emoticons/v1/114875/1.0
 - name: huttsleo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112880/1.0
-- name: huttsgreed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120516/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127407/1.0
+- name: huttsrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127403/1.0
+- name: huttsrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127405/1.0
+- name: huttslame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127404/1.0
+- name: huttslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127402/1.0
+- name: huttscry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127400/1.0
+- name: huttshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127399/1.0
+- name: huttshappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127398/1.0
+- name: huttsbumbo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128839/1.0
+- name: huttsluck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129138/1.0
+- name: huttswow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129139/1.0
+- name: huttscringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129136/1.0
+- name: huttsdon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129137/1.0
+- name: huttsbreak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129135/1.0

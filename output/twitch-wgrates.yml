@@ -11,6 +11,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/91043/1.0
 - name: wgr7
   src: https://static-cdn.jtvnw.net/emoticons/v1/91044/1.0
+- name: wgrhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129771/1.0
+- name: wgrrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129774/1.0
+- name: wgrsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129775/1.0
+- name: wgrhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129843/1.0
 - name: wgrlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/89510/1.0
 - name: wgrbutt
@@ -21,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89675/1.0
 - name: wgrsocks
   src: https://static-cdn.jtvnw.net/emoticons/v1/92750/1.0
+- name: wgrscared
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129955/1.0

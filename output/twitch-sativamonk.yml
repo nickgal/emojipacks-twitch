@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - sativamonk
 emojis:
-- name: sativb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125429/1.0
 - name: sativpg
   src: https://static-cdn.jtvnw.net/emoticons/v1/125431/1.0
 - name: sativg
   src: https://static-cdn.jtvnw.net/emoticons/v1/125430/1.0
 - name: sativw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125942/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128128/1.0
+- name: sativscoob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128193/1.0

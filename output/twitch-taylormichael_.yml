@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - taylormichael_
 emojis:
-- name: redeemthermite
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109142/1.0
 - name: redeemhotbunz
   src: https://static-cdn.jtvnw.net/emoticons/v1/109323/1.0
+- name: redeembabythermite
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130200/1.0
+- name: redeemkappamite
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127558/1.0
+- name: redeembabydoc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127557/1.0

@@ -1,11 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - golden
 emojis:
-- name: goldpride
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6738/1.0
+- name: goldlemon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130484/1.0
+- name: goldgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130486/1.0
 - name: goldgappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6885/1.0
-- name: goldcast
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6512/1.0
-- name: goldyay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6589/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130490/1.0

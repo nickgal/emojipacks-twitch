@@ -1,14 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - keybladesarah
 emojis:
+- name: kbssenpai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129673/1.0
+- name: kbspinto
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129674/1.0
 - name: kbsrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/124692/1.0
-- name: kbspinto
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124690/1.0
 - name: kbshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/124688/1.0
-- name: kbssenpai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124687/1.0
 - name: kbscry
   src: https://static-cdn.jtvnw.net/emoticons/v1/124691/1.0
 - name: kbswink

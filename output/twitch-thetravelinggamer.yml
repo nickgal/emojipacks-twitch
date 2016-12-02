@@ -1,14 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - thetravelinggamer
 emojis:
-- name: tutugang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106786/1.0
-- name: tutu3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94121/1.0
-- name: tutuwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94114/1.0
-- name: tutubax
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94129/1.0
+- name: tutucool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129606/1.0
+- name: tutudak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129610/1.0
+- name: tutume
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129613/1.0
+- name: tutu1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129627/1.0
+- name: tutu2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129628/1.0
 - name: tutuw
   src: https://static-cdn.jtvnw.net/emoticons/v1/94145/1.0
 - name: tutucry
@@ -17,7 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106946/1.0
 - name: tutucmills
   src: https://static-cdn.jtvnw.net/emoticons/v1/110962/1.0
-- name: tutulenny
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110961/1.0
 - name: tutushook
   src: https://static-cdn.jtvnw.net/emoticons/v1/110975/1.0

@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - itheendeer98
 emojis:
 - name: itheirun
   src: https://static-cdn.jtvnw.net/emoticons/v1/118900/1.0
-- name: itheifire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/118902/1.0
-- name: ithexray
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120207/1.0
-- name: ithecreeper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120449/1.0
+- name: itheflamer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130381/1.0
+- name: ithegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130448/1.0
 - name: itheneta2
   src: https://static-cdn.jtvnw.net/emoticons/v1/124947/1.0
 - name: itheneta1
   src: https://static-cdn.jtvnw.net/emoticons/v1/124946/1.0
+- name: ithexray
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126737/1.0

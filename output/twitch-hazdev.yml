@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - hazdev
 emojis:
-- name: hazv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106309/1.0
 - name: hazrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/79612/1.0
 - name: hazmoist
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/98582/1.0
 - name: hazchair
   src: https://static-cdn.jtvnw.net/emoticons/v1/99669/1.0
+- name: hazk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126845/1.0

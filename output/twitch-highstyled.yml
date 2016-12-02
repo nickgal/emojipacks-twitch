@@ -5,9 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105257/1.0
 - name: highsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/74590/1.0
+- name: highbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129325/1.0
+- name: highcrap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129326/1.0
 - name: highwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/77961/1.0
 - name: highban
   src: https://static-cdn.jtvnw.net/emoticons/v1/74984/1.0
 - name: highrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/105259/1.0
+- name: highk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126039/1.0

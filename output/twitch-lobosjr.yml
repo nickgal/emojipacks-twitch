@@ -7,30 +7,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110531/1.0
 - name: lobosshrug
   src: https://static-cdn.jtvnw.net/emoticons/v1/100099/1.0
-- name: loboscreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92670/1.0
-- name: loboshi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92675/1.0
 - name: loboschair
   src: https://static-cdn.jtvnw.net/emoticons/v1/92677/1.0
-- name: loboscheese
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92678/1.0
 - name: lobossad
   src: https://static-cdn.jtvnw.net/emoticons/v1/92679/1.0
-- name: lobosgame
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92680/1.0
-- name: loboslewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92681/1.0
 - name: lobosno
   src: https://static-cdn.jtvnw.net/emoticons/v1/92682/1.0
-- name: lobosscream
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92683/1.0
-- name: lobosz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92684/1.0
-- name: lobosrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92686/1.0
-- name: lobossleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92687/1.0
 - name: lobossub
   src: https://static-cdn.jtvnw.net/emoticons/v1/92700/1.0
 - name: lobosrekt
@@ -39,25 +21,43 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/92709/1.0
 - name: lobosdied
   src: https://static-cdn.jtvnw.net/emoticons/v1/92712/1.0
-- name: lobosmindblank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92685/1.0
-- name: lobosfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92671/1.0
-- name: lobosgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92672/1.0
 - name: lobosfall
   src: https://static-cdn.jtvnw.net/emoticons/v1/92921/1.0
+- name: lobosgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130122/1.0
+- name: loboscheese
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130118/1.0
+- name: loboscreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130119/1.0
+- name: lobosfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130120/1.0
+- name: lobosgame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130121/1.0
+- name: loboshi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130123/1.0
+- name: loboskappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130124/1.0
+- name: loboslewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130125/1.0
+- name: lobosrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130126/1.0
+- name: lobosscream
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130127/1.0
+- name: lobossleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130128/1.0
+- name: loboswolf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130129/1.0
+- name: lobosz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130130/1.0
 - name: loboscool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113140/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130132/1.0
+- name: lobosraisin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130135/1.0
+- name: lobosmindblank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130136/1.0
 - name: loboschamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/117881/1.0
-- name: lobosraisin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117883/1.0
 - name: loboscringe
   src: https://static-cdn.jtvnw.net/emoticons/v1/118417/1.0
 - name: lobosgoldblank
   src: https://static-cdn.jtvnw.net/emoticons/v1/117890/1.0
-- name: loboskappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/118429/1.0
-- name: loboswolf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124212/1.0

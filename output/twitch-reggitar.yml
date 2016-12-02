@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - reggitar
 emojis:
 - name: reggic
   src: https://static-cdn.jtvnw.net/emoticons/v1/119375/1.0
-- name: reggilewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119378/1.0
 - name: reggisad
   src: https://static-cdn.jtvnw.net/emoticons/v1/119379/1.0
 - name: reggiwut
@@ -13,7 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/119692/1.0
 - name: reggih
   src: https://static-cdn.jtvnw.net/emoticons/v1/119693/1.0
-- name: reggihype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119694/1.0
 - name: reggiwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/119695/1.0
+- name: reggioho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130398/1.0
+- name: reggiehe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128744/1.0

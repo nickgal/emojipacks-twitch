@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - chisey0
 emojis:
 - name: chicoco
   src: https://static-cdn.jtvnw.net/emoticons/v1/86192/1.0
+- name: chideer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129661/1.0
 - name: chiw
   src: https://static-cdn.jtvnw.net/emoticons/v1/88462/1.0
 - name: chigasp
@@ -15,5 +17,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/85776/1.0
 - name: chihello
   src: https://static-cdn.jtvnw.net/emoticons/v1/120211/1.0
-- name: chispooky
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120210/1.0

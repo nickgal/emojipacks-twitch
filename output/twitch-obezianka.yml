@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - obezianka
 emojis:
+- name: obesenpai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130682/1.0
 - name: obemad
   src: https://static-cdn.jtvnw.net/emoticons/v1/40547/1.0
 - name: obedrink
@@ -21,3 +23,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114831/1.0
 - name: obestory
   src: https://static-cdn.jtvnw.net/emoticons/v1/114828/1.0
+- name: obefist
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129129/1.0
+- name: obedaddy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129130/1.0
+- name: obewillow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129131/1.0

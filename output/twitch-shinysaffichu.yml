@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - shinysaffichu
 emojis:
+- name: saffismug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129246/1.0
+- name: saffiblush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129277/1.0
+- name: safficry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129541/1.0
+- name: saffilove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129548/1.0
 - name: saffirage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25376/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129532/1.0
 - name: saffihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/91245/1.0
-- name: safficute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91243/1.0
-- name: saffiwat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91244/1.0

@@ -1,5 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - marcostylenl
 emojis:
+- name: marcostylesad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129324/1.0
 - name: marcostylemanhunt
   src: https://static-cdn.jtvnw.net/emoticons/v1/124589/1.0
+- name: marcostylecalculated
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126304/1.0

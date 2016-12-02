@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - zico39
 emojis:
-- name: zicogasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110122/1.0
+- name: zicorealgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130809/1.0
+- name: zicobikkuri
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129529/1.0
+- name: zicocry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129530/1.0
 - name: ziconiyari
   src: https://static-cdn.jtvnw.net/emoticons/v1/110082/1.0

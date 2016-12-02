@@ -5,9 +5,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/58167/1.0
 - name: pwdrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/58168/1.0
-- name: pwdw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58170/1.0
 - name: pwdrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/99347/1.0
 - name: pwdmug
   src: https://static-cdn.jtvnw.net/emoticons/v1/109344/1.0
+- name: pwdwelcome
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129090/1.0
+- name: pwdw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129089/1.0

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - fengrush
 emojis:
-- name: fengaoe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79919/1.0
 - name: fengbigplay
   src: https://static-cdn.jtvnw.net/emoticons/v1/76838/1.0
 - name: fengdanger
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109442/1.0
 - name: fengwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/124988/1.0
+- name: fenggasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126662/1.0

@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/111327/1.0
 - name: lostaimrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/96765/1.0
-- name: lostaimh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76802/1.0
 - name: lostaimk
   src: https://static-cdn.jtvnw.net/emoticons/v1/97085/1.0
 - name: lostaimhype
@@ -17,3 +15,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/123501/1.0
 - name: lostaimpot
   src: https://static-cdn.jtvnw.net/emoticons/v1/123918/1.0
+- name: lostaiml
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126307/1.0
+- name: lostaimha
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128066/1.0

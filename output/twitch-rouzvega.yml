@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - rouzvega
 emojis:
 - name: rouzcangreji
   src: https://static-cdn.jtvnw.net/emoticons/v1/66692/1.0
-- name: rouzks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/43721/1.0
-- name: rouzmiau
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44275/1.0
-- name: rouzgnar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47009/1.0
 - name: rouzpotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/98257/1.0
 - name: rouzsubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/45204/1.0
+- name: rouzpuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126257/1.0
+- name: rouzhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126698/1.0
+- name: rouzbabas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126697/1.0

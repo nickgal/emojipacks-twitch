@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - ultraarcade
 emojis:
+- name: xboxvikinguawheels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130623/1.0
+- name: xboxvikingkicon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130629/1.0
 - name: xboxvikinguatoise
   src: https://static-cdn.jtvnw.net/emoticons/v1/119532/1.0
-- name: xboxvikingeclion
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119356/1.0
 - name: xboxvikinguaviking
   src: https://static-cdn.jtvnw.net/emoticons/v1/119352/1.0
 - name: xboxvikinguablastoise
   src: https://static-cdn.jtvnw.net/emoticons/v1/119353/1.0
-- name: xboxvikinguatb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125522/1.0
+- name: xboxvikingfrank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126791/1.0

@@ -1,11 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - studingo
 emojis:
-- name: stubeard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5111/1.0
-- name: stuleaf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5577/1.0
-- name: stuham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6037/1.0
 - name: sturage
   src: https://static-cdn.jtvnw.net/emoticons/v1/16740/1.0
+- name: stuboop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126486/1.0

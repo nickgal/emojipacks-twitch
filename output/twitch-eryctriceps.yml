@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - eryctriceps
 emojis:
+- name: eryctilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129145/1.0
+- name: eryctriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129146/1.0
 - name: erycchill
   src: https://static-cdn.jtvnw.net/emoticons/v1/115656/1.0
 - name: eryclove

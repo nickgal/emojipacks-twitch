@@ -3,6 +3,16 @@ title: Twitch Subscriber Emotes - benzaie
 emojis:
 - name: bnzvegeta
   src: https://static-cdn.jtvnw.net/emoticons/v1/54597/1.0
+- name: bnzrly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130767/1.0
+- name: bnzhap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130768/1.0
+- name: bnzprds
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130769/1.0
+- name: bnzsun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130770/1.0
+- name: bnznova
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130771/1.0
 - name: bnzdev
   src: https://static-cdn.jtvnw.net/emoticons/v1/44438/1.0
 - name: bnzhc

@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - ponycornyo
 emojis:
+- name: ponilol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129153/1.0
+- name: poniju
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129159/1.0
 - name: poniniko
   src: https://static-cdn.jtvnw.net/emoticons/v1/119063/1.0
 - name: ponifail
   src: https://static-cdn.jtvnw.net/emoticons/v1/118259/1.0
 - name: ponicora
   src: https://static-cdn.jtvnw.net/emoticons/v1/119481/1.0
-- name: poniban
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119559/1.0

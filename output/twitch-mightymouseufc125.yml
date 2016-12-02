@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76696/1.0
 - name: mm1shame
   src: https://static-cdn.jtvnw.net/emoticons/v1/111676/1.0
-- name: mm1rp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79398/1.0
 - name: mm1bg
   src: https://static-cdn.jtvnw.net/emoticons/v1/80271/1.0
 - name: mm1bos
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/94236/1.0
 - name: mm1ty
   src: https://static-cdn.jtvnw.net/emoticons/v1/94237/1.0
+- name: mm1brt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127791/1.0

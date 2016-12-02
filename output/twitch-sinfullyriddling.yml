@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - sinfullyriddling
 emojis:
 - name: ridderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/87081/1.0
-- name: ridcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108719/1.0
 - name: ridhey
   src: https://static-cdn.jtvnw.net/emoticons/v1/108720/1.0
 - name: ridhype
@@ -15,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108723/1.0
 - name: ridxd
   src: https://static-cdn.jtvnw.net/emoticons/v1/108724/1.0
-- name: ridwot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104545/1.0
 - name: rido
   src: https://static-cdn.jtvnw.net/emoticons/v1/104543/1.0
 - name: ridw
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/107911/1.0
 - name: ridaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/107912/1.0
+- name: ridheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127290/1.0
+- name: ridcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127722/1.0

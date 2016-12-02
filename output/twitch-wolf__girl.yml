@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - wolf__girl
 emojis:
-- name: wolfyok
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103378/1.0
 - name: wolfyfat
   src: https://static-cdn.jtvnw.net/emoticons/v1/74786/1.0
 - name: wolfyh
@@ -11,6 +9,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/41285/1.0
 - name: wolfybrave
   src: https://static-cdn.jtvnw.net/emoticons/v1/41343/1.0
+- name: wolfyyawn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130863/1.0
 - name: wolfythump
   src: https://static-cdn.jtvnw.net/emoticons/v1/74644/1.0
 - name: wolfylewd

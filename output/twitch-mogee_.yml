@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - mogee_
 emojis:
-- name: mogslove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/53902/1.0
 - name: mogsflock
   src: https://static-cdn.jtvnw.net/emoticons/v1/22736/1.0
 - name: mogsloud
@@ -13,11 +11,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/61503/1.0
 - name: mogsbang
   src: https://static-cdn.jtvnw.net/emoticons/v1/66867/1.0
-- name: mogsamazing
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107775/1.0
 - name: mogshue
   src: https://static-cdn.jtvnw.net/emoticons/v1/114355/1.0
 - name: mogsmusic
   src: https://static-cdn.jtvnw.net/emoticons/v1/114356/1.0
 - name: mogsdetect
   src: https://static-cdn.jtvnw.net/emoticons/v1/113970/1.0
+- name: mogslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126502/1.0

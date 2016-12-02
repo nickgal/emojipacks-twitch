@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - raupling
 emojis:
+- name: raupenhiebe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129346/1.0
 - name: raupenliebe
   src: https://static-cdn.jtvnw.net/emoticons/v1/119393/1.0
-- name: raupenhiebe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120304/1.0
 - name: raupenwow
   src: https://static-cdn.jtvnw.net/emoticons/v1/121856/1.0
 - name: raupenhi
@@ -13,3 +13,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/123098/1.0
 - name: raupenloot
   src: https://static-cdn.jtvnw.net/emoticons/v1/123459/1.0
+- name: raupenrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126328/1.0

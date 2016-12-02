@@ -1,10 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - theorangedoom
 emojis:
+- name: selloutkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129361/1.0
 - name: selloutaverage
   src: https://static-cdn.jtvnw.net/emoticons/v1/102386/1.0
-- name: selloutkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95697/1.0
 - name: selloutjj
   src: https://static-cdn.jtvnw.net/emoticons/v1/111022/1.0
 - name: selloutmoney

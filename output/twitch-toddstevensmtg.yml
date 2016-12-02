@@ -3,5 +3,17 @@ title: Twitch Subscriber Emotes - toddstevensmtg
 emojis:
 - name: tsmtgtks
   src: https://static-cdn.jtvnw.net/emoticons/v1/115659/1.0
+- name: tsmtghi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130006/1.0
+- name: tsmtgtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130008/1.0
+- name: tsmtgcheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130010/1.0
+- name: tsmtgcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130012/1.0
+- name: tsmtgsunmoon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130014/1.0
+- name: tsmtgtodd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130015/1.0
 - name: tsmtggas
   src: https://static-cdn.jtvnw.net/emoticons/v1/117104/1.0

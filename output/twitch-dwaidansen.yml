@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - dwaidansen
 emojis:
-- name: dansenfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65378/1.0
+- name: dansenhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130604/1.0
 - name: dansenlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108399/1.0
-- name: dansenkaffee
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108407/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130605/1.0
+- name: dansenmoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130607/1.0
 - name: dansentilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/108404/1.0
+- name: dansenhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129587/1.0
 - name: dansenw
   src: https://static-cdn.jtvnw.net/emoticons/v1/64451/1.0
-- name: dansenmoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64491/1.0
-- name: dansenhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87186/1.0
+- name: dansensad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129586/1.0
 - name: dansenaim
   src: https://static-cdn.jtvnw.net/emoticons/v1/125074/1.0

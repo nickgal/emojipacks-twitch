@@ -7,13 +7,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66744/1.0
 - name: nanreip
   src: https://static-cdn.jtvnw.net/emoticons/v1/66749/1.0
-- name: nanpuke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120396/1.0
-- name: nanfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120392/1.0
 - name: nansee
   src: https://static-cdn.jtvnw.net/emoticons/v1/120454/1.0
 - name: nanhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/120787/1.0
 - name: nanhappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122574/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129100/1.0
+- name: nansalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129098/1.0
+- name: nanpuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129097/1.0

@@ -9,20 +9,18 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78141/1.0
 - name: casfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/62198/1.0
+- name: casjolly
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130713/1.0
 - name: casgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/51869/1.0
 - name: caslol
   src: https://static-cdn.jtvnw.net/emoticons/v1/50213/1.0
-- name: cashey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64103/1.0
 - name: casomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/73833/1.0
 - name: casohmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/75188/1.0
 - name: caschamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/69902/1.0
-- name: cashmoney
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78666/1.0
 - name: castrig
   src: https://static-cdn.jtvnw.net/emoticons/v1/97149/1.0
 - name: casthump
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/120895/1.0
 - name: casthink
   src: https://static-cdn.jtvnw.net/emoticons/v1/121186/1.0
+- name: casmerry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130412/1.0

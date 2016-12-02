@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116485/1.0
 - name: envitroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/114977/1.0
-- name: envistar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114978/1.0
 - name: envithump
   src: https://static-cdn.jtvnw.net/emoticons/v1/114980/1.0
 - name: envisenpai
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116798/1.0
 - name: envig
   src: https://static-cdn.jtvnw.net/emoticons/v1/117047/1.0
+- name: envistar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130172/1.0

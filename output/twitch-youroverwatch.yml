@@ -1,6 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - youroverwatch
 emojis:
+- name: yowtoxic
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129258/1.0
+- name: yowsynergy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129259/1.0
+- name: yowmanchild
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129795/1.0
+- name: yowwall
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129797/1.0
 - name: yowcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/121367/1.0
 - name: yowtilted
@@ -13,9 +21,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/122549/1.0
 - name: yowoooo
   src: https://static-cdn.jtvnw.net/emoticons/v1/123080/1.0
-- name: yowtoxic
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125097/1.0
 - name: yowpotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/125102/1.0
 - name: yowhithere
   src: https://static-cdn.jtvnw.net/emoticons/v1/125094/1.0
+- name: yowvalue
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128633/1.0

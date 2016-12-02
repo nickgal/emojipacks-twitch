@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - lauralania
 emojis:
 - name: lauloss
   src: https://static-cdn.jtvnw.net/emoticons/v1/111210/1.0
-- name: laupoke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106405/1.0
 - name: lautato
   src: https://static-cdn.jtvnw.net/emoticons/v1/110581/1.0
 - name: laucalc
@@ -13,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/111334/1.0
 - name: lauweb
   src: https://static-cdn.jtvnw.net/emoticons/v1/110875/1.0
+- name: laufeed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130323/1.0
+- name: lausteeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128722/1.0
+- name: laubeck
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128720/1.0

@@ -9,9 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/23842/1.0
 - name: heinzcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/25270/1.0
-- name: heinzbt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117722/1.0
 - name: heinzstr8
   src: https://static-cdn.jtvnw.net/emoticons/v1/124771/1.0
 - name: heinzgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/125498/1.0
+- name: heinzbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127519/1.0
+- name: heinzgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127551/1.0

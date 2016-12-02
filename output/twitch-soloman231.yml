@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - soloman231
 emojis:
-- name: slmhmm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123983/1.0
+- name: slmlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130218/1.0
 - name: slmfaito
   src: https://static-cdn.jtvnw.net/emoticons/v1/123984/1.0
 - name: slmshy
   src: https://static-cdn.jtvnw.net/emoticons/v1/123985/1.0
 - name: slmy
   src: https://static-cdn.jtvnw.net/emoticons/v1/124609/1.0
+- name: slmtsuki
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126814/1.0
+- name: slmorb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127082/1.0
 - name: slmasked
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125396/1.0
-- name: slmlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125067/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128947/1.0
+- name: slmsmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128946/1.0

@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - andy
 emojis:
-- name: andyoooo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11758/1.0
 - name: andybleh
   src: https://static-cdn.jtvnw.net/emoticons/v1/11759/1.0
-- name: andybody
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11867/1.0
-- name: andytail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11868/1.0
 - name: andypugchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/20736/1.0
 - name: andyohmypug
@@ -17,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/117904/1.0
 - name: andyw
   src: https://static-cdn.jtvnw.net/emoticons/v1/124142/1.0
+- name: andyheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127268/1.0
+- name: andyhide
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127458/1.0
+- name: andyyay
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127457/1.0

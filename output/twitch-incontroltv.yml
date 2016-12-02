@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105638/1.0
 - name: incnogg
   src: https://static-cdn.jtvnw.net/emoticons/v1/105639/1.0
-- name: incxcom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106072/1.0
 - name: increally
   src: https://static-cdn.jtvnw.net/emoticons/v1/105640/1.0
 - name: incrngesus
@@ -29,5 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105636/1.0
 - name: incbarristan
   src: https://static-cdn.jtvnw.net/emoticons/v1/105635/1.0
-- name: incwt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107559/1.0
+- name: incb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126240/1.0
+- name: incy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126239/1.0

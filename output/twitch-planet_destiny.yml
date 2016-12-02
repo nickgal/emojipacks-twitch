@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52885/1.0
 - name: destinyablove
   src: https://static-cdn.jtvnw.net/emoticons/v1/57382/1.0
-- name: destinykapptarch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62050/1.0
 - name: destinycrisp
   src: https://static-cdn.jtvnw.net/emoticons/v1/121613/1.0
 - name: destinystory
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125755/1.0
 - name: destinyfar
   src: https://static-cdn.jtvnw.net/emoticons/v1/125834/1.0
+- name: destiny64
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126782/1.0

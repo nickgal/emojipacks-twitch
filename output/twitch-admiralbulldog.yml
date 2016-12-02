@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - admiralbulldog
 emojis:
 - name: admiralrapira
   src: https://static-cdn.jtvnw.net/emoticons/v1/63593/1.0
+- name: admiralti
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129249/1.0
 - name: admiralhappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/21757/1.0
 - name: admiralw
@@ -33,11 +35,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71685/1.0
 - name: admiralnox
   src: https://static-cdn.jtvnw.net/emoticons/v1/78045/1.0
-- name: admiralfrog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81222/1.0
 - name: admiralalfredo
   src: https://static-cdn.jtvnw.net/emoticons/v1/81565/1.0
 - name: admiralbackpack
   src: https://static-cdn.jtvnw.net/emoticons/v1/122604/1.0
 - name: admiralfedora
   src: https://static-cdn.jtvnw.net/emoticons/v1/122621/1.0
+- name: admiralcs
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126638/1.0
+- name: admiral4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127210/1.0
+- name: admiral3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127209/1.0
+- name: admiral1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127206/1.0
+- name: admiral2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127208/1.0

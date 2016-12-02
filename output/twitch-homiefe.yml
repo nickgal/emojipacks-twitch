@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - homiefe
 emojis:
-- name: homihype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106544/1.0
 - name: homiw
   src: https://static-cdn.jtvnw.net/emoticons/v1/106543/1.0
 - name: homithor
   src: https://static-cdn.jtvnw.net/emoticons/v1/108070/1.0
 - name: homiult
   src: https://static-cdn.jtvnw.net/emoticons/v1/108069/1.0
+- name: homizotz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130385/1.0

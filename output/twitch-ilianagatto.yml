@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - ilianagatto
 emojis:
+- name: gattobleh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129407/1.0
+- name: gattocry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129585/1.0
 - name: gattohi
   src: https://static-cdn.jtvnw.net/emoticons/v1/124070/1.0
 - name: gatto66

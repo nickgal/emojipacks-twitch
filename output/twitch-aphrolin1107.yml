@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - aphrolin1107
 emojis:
+- name: lovek7angry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130653/1.0
+- name: lovek7sing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130654/1.0
 - name: lovek7heart
   src: https://static-cdn.jtvnw.net/emoticons/v1/82963/1.0
 - name: lovek787down

@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - arquel
 emojis:
-- name: arqzuk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66890/1.0
 - name: arqd
   src: https://static-cdn.jtvnw.net/emoticons/v1/66126/1.0
 - name: arqniee
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/105957/1.0
 - name: arqtp
   src: https://static-cdn.jtvnw.net/emoticons/v1/120148/1.0
+- name: arqulumulu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126661/1.0

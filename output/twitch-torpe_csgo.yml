@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - torpe_csgo
 emojis:
+- name: pingurokappatorpe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130821/1.0
+- name: pinguropinguarmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130822/1.0
 - name: pinguropingu
   src: https://static-cdn.jtvnw.net/emoticons/v1/82709/1.0
 - name: pingurotorpe

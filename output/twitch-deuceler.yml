@@ -1,11 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - deuceler
 emojis:
+- name: deucebichchoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127245/1.0
 - name: deucehey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37511/1.0
-- name: deuceharoldz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72511/1.0
-- name: deucenerd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56285/1.0
-- name: deucegg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75275/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127251/1.0

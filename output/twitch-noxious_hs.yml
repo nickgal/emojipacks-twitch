@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - noxious_hs
 emojis:
+- name: noxwee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130584/1.0
 - name: noxjj
   src: https://static-cdn.jtvnw.net/emoticons/v1/9945/1.0
 - name: noxboom

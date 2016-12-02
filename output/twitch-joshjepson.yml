@@ -13,7 +13,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115978/1.0
 - name: jepsonpizza
   src: https://static-cdn.jtvnw.net/emoticons/v1/95811/1.0
-- name: jepsonmeat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115905/1.0
 - name: jepsonroad
   src: https://static-cdn.jtvnw.net/emoticons/v1/116120/1.0
+- name: jepsonchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128335/1.0
+- name: jepsonbad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128332/1.0

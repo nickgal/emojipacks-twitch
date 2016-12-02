@@ -1,19 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - iddqdow
 emojis:
-- name: fncidfnc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112530/1.0
-- name: fncidhnoon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112535/1.0
-- name: fncidbabyrage
+- name: iddbabyrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/112532/1.0
-- name: fncidwhale
+- name: iddwhale
   src: https://static-cdn.jtvnw.net/emoticons/v1/112531/1.0
-- name: fncidsubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112534/1.0
-- name: fncidpog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113353/1.0
-- name: fncidkappa
+- name: iddkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/113248/1.0
-- name: fncidgasm
+- name: iddgasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/116693/1.0
+- name: iddlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126316/1.0
+- name: iddkiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126795/1.0
+- name: iddgod
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127017/1.0
+- name: iddpog
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126977/1.0
+- name: iddwink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127153/1.0
+- name: iddthink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127154/1.0
+- name: iddnot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128876/1.0
+- name: iddthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128874/1.0
+- name: iddlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128873/1.0
+- name: iddvohi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128875/1.0
+- name: iddtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128872/1.0

@@ -3,17 +3,21 @@ title: Twitch Subscriber Emotes - nanardbe
 emojis:
 - name: nanardgol
   src: https://static-cdn.jtvnw.net/emoticons/v1/105168/1.0
-- name: nanardbiceps
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73770/1.0
-- name: nanardsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38564/1.0
 - name: nanardcd
   src: https://static-cdn.jtvnw.net/emoticons/v1/47275/1.0
-- name: nanardkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50558/1.0
 - name: nanardlm
   src: https://static-cdn.jtvnw.net/emoticons/v1/60241/1.0
+- name: nanardkr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129697/1.0
+- name: nanards1q
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129993/1.0
 - name: nanardryes
   src: https://static-cdn.jtvnw.net/emoticons/v1/108545/1.0
+- name: nanardsub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130363/1.0
 - name: nanardtox
   src: https://static-cdn.jtvnw.net/emoticons/v1/120077/1.0
+- name: nanardhihi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130388/1.0
+- name: nanardgp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130563/1.0

@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/3824/1.0
 - name: singsingmimimi
   src: https://static-cdn.jtvnw.net/emoticons/v1/3825/1.0
-- name: singsingstayinthetrees
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12324/1.0
 - name: singsingfcuk
   src: https://static-cdn.jtvnw.net/emoticons/v1/70144/1.0
 - name: singsingdoge
@@ -21,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/87366/1.0
 - name: singsingd
   src: https://static-cdn.jtvnw.net/emoticons/v1/116057/1.0
-- name: singsingkp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116058/1.0
 - name: singsingw
   src: https://static-cdn.jtvnw.net/emoticons/v1/116059/1.0
 - name: singsingpotm
@@ -35,7 +31,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/123476/1.0
 - name: singsingf
   src: https://static-cdn.jtvnw.net/emoticons/v1/123474/1.0
-- name: singsingfeelsbadman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125521/1.0
 - name: singsingtrump
   src: https://static-cdn.jtvnw.net/emoticons/v1/125725/1.0
+- name: singsingwall
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126956/1.0
+- name: singsingmurica
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126989/1.0
+- name: singsingbabby
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128384/1.0
+- name: singsingfeelsbadman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128416/1.0

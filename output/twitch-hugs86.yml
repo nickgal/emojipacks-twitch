@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - hugs86
 emojis:
+- name: hugstriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129147/1.0
 - name: hugsniceshot
   src: https://static-cdn.jtvnw.net/emoticons/v1/31771/1.0
 - name: hugsw
@@ -17,7 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/96190/1.0
 - name: hugssamusw
   src: https://static-cdn.jtvnw.net/emoticons/v1/94654/1.0
-- name: hugstriggered
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106985/1.0
-- name: hugsmoneyshot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106986/1.0
+- name: hugssellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127712/1.0

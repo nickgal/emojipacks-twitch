@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - markstromtv
 emojis:
+- name: mstvmh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130696/1.0
 - name: mstvlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/121709/1.0
 - name: mstvonec
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/121710/1.0
 - name: mstvcray
   src: https://static-cdn.jtvnw.net/emoticons/v1/124186/1.0
+- name: mstvcheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128893/1.0

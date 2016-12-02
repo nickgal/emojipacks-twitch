@@ -7,12 +7,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/120688/1.0
 - name: myztihue
   src: https://static-cdn.jtvnw.net/emoticons/v1/120710/1.0
-- name: myztisad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120691/1.0
 - name: myztirage
   src: https://static-cdn.jtvnw.net/emoticons/v1/120690/1.0
-- name: myztihug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120687/1.0
 - name: myztilove
   src: https://static-cdn.jtvnw.net/emoticons/v1/120686/1.0
 - name: myztihya
@@ -21,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/120692/1.0
 - name: myztichan
   src: https://static-cdn.jtvnw.net/emoticons/v1/122529/1.0
+- name: myztiqt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126480/1.0
+- name: myztihug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126479/1.0

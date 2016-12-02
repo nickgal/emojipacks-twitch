@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - nuke73
 emojis:
-- name: nukeyay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73683/1.0
 - name: nukemeh
   src: https://static-cdn.jtvnw.net/emoticons/v1/73680/1.0
 - name: nukelove
@@ -13,11 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114069/1.0
 - name: nukepabeda
   src: https://static-cdn.jtvnw.net/emoticons/v1/114068/1.0
-- name: nukerage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34389/1.0
 - name: nukepeka
   src: https://static-cdn.jtvnw.net/emoticons/v1/79131/1.0
 - name: nukeomg
   src: https://static-cdn.jtvnw.net/emoticons/v1/73681/1.0
 - name: nukecry
   src: https://static-cdn.jtvnw.net/emoticons/v1/119217/1.0
+- name: nukemember
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126687/1.0
+- name: nukerofl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126759/1.0

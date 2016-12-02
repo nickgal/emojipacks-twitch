@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - manuelferraratv
 emojis:
+- name: mftvbagarre
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130282/1.0
 - name: mftvmanu
   src: https://static-cdn.jtvnw.net/emoticons/v1/119779/1.0
 - name: mftvclaque

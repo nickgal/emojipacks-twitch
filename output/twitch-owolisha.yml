@@ -1,11 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - owolisha
 emojis:
-- name: owo4
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123380/1.0
-- name: owo2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123378/1.0
-- name: owo3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123379/1.0
 - name: owo1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123377/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129542/1.0
+- name: owo2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129543/1.0
+- name: owo3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129544/1.0
+- name: owo4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129545/1.0
+- name: oworee
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129778/1.0
+- name: owokiss
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126890/1.0
+- name: owospooky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128701/1.0

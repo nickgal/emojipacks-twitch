@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36793/1.0
 - name: gunnredeye
   src: https://static-cdn.jtvnw.net/emoticons/v1/37929/1.0
-- name: gunnfarmin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37398/1.0
 - name: gunnsub
   src: https://static-cdn.jtvnw.net/emoticons/v1/54896/1.0
 - name: gunnblame
@@ -17,3 +15,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56492/1.0
 - name: gunnrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/56716/1.0
+- name: gunngg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130407/1.0
+- name: gunnfresh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130435/1.0
+- name: gunnlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126840/1.0

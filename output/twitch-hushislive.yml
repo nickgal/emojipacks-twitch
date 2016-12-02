@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - hushislive
 emojis:
-- name: hushhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88682/1.0
-- name: hushlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85653/1.0
 - name: hushcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85987/1.0
-- name: hushdab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85988/1.0
-- name: hushcreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88665/1.0
-- name: hushgo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88664/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129192/1.0
+- name: hushlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129193/1.0
+- name: hushhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127889/1.0
+- name: hushmlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127888/1.0
+- name: hushbungo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127949/1.0
+- name: hushgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128090/1.0

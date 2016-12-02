@@ -37,8 +37,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110135/1.0
 - name: pugtrap
   src: https://static-cdn.jtvnw.net/emoticons/v1/104969/1.0
-- name: pughook
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107368/1.0
 - name: pugnike
   src: https://static-cdn.jtvnw.net/emoticons/v1/104673/1.0
 - name: pugwow
@@ -51,3 +49,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108257/1.0
 - name: pugbd
   src: https://static-cdn.jtvnw.net/emoticons/v1/119547/1.0
+- name: puge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126280/1.0

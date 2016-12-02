@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - dandlee
 emojis:
+- name: dandgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129441/1.0
 - name: dandhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/115459/1.0
 - name: dandcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/116140/1.0
 - name: dandrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/116295/1.0
-- name: dandgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115833/1.0

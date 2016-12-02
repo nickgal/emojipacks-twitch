@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - mstym
 emojis:
+- name: tymchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129487/1.0
+- name: tymfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130207/1.0
 - name: tymwhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/124170/1.0
 - name: tymsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125922/1.0
-- name: tymwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125919/1.0
-- name: tympepe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125916/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126731/1.0
 - name: tymlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125914/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126730/1.0
+- name: tymcreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126729/1.0
+- name: tympepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126732/1.0
+- name: tymwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126728/1.0

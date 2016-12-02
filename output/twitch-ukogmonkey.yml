@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80362/1.0
 - name: ukogjabba
   src: https://static-cdn.jtvnw.net/emoticons/v1/74965/1.0
-- name: ukogasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/87895/1.0
 - name: ukoghmm
   src: https://static-cdn.jtvnw.net/emoticons/v1/99883/1.0
 - name: ukogweej
@@ -19,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/95931/1.0
 - name: ukogcheers
   src: https://static-cdn.jtvnw.net/emoticons/v1/99881/1.0
-- name: ukogshoe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69928/1.0
 - name: ukogswag
   src: https://static-cdn.jtvnw.net/emoticons/v1/100132/1.0
 - name: ukoghype
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/118091/1.0
 - name: ukoghi
   src: https://static-cdn.jtvnw.net/emoticons/v1/117898/1.0
+- name: ukogross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126874/1.0
+- name: ukogshoe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127038/1.0

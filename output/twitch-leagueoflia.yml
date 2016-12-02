@@ -1,13 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - leagueoflia
 emojis:
-- name: lialia01
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105980/1.0
 - name: lialiagasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/99074/1.0
 - name: lialiawaifu
   src: https://static-cdn.jtvnw.net/emoticons/v1/98210/1.0
-- name: lialiapreg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95573/1.0
 - name: lialiavohiyo
   src: https://static-cdn.jtvnw.net/emoticons/v1/105981/1.0
+- name: lialiamad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126713/1.0
+- name: lialiaqq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126861/1.0
+- name: lialiapreg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127496/1.0

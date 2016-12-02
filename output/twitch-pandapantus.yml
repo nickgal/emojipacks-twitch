@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - pandapantus
 emojis:
+- name: pdptgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130263/1.0
+- name: pdptbug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130264/1.0
 - name: pdptkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/115597/1.0
 - name: pdptneko

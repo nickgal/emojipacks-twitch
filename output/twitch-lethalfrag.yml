@@ -31,8 +31,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48565/1.0
 - name: fragcute
   src: https://static-cdn.jtvnw.net/emoticons/v1/58371/1.0
-- name: fragruined
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85001/1.0
 - name: fragq
   src: https://static-cdn.jtvnw.net/emoticons/v1/84997/1.0
 - name: fragwanston
@@ -51,3 +49,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/120565/1.0
 - name: fragrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/121662/1.0
+- name: fragmas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129114/1.0

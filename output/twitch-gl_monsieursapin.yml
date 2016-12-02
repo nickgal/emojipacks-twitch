@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - gl_monsieursapin
 emojis:
+- name: sapinscary
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130840/1.0
+- name: sapineuh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130842/1.0
 - name: sapinnul
   src: https://static-cdn.jtvnw.net/emoticons/v1/125447/1.0
 - name: sapinrage

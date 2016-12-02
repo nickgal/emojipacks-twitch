@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - apocalyptickitten
 emojis:
-- name: kitnom
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34861/1.0
 - name: kitrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/34860/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127999/1.0
+- name: kithype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127997/1.0
+- name: kitlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127998/1.0
+- name: kitsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127995/1.0
+- name: kithi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127996/1.0
 - name: kitlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39774/1.0
-- name: kitwheelparty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39917/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128082/1.0

@@ -2,14 +2,14 @@
 title: Twitch Subscriber Emotes - symbioticstv
 emojis:
 - name: symmoody
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114468/1.0
-- name: symcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116269/1.0
-- name: symlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116270/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129375/1.0
 - name: symhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116271/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130837/1.0
+- name: symsaluut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130838/1.0
+- name: symcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130839/1.0
 - name: symsalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116561/1.0
-- name: sympotato
-  src: https://static-cdn.jtvnw.net/emoticons/v1/121047/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130841/1.0
+- name: symlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130835/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - dua3362
 emojis:
+- name: yshsn3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130297/1.0
 - name: yshsn2
   src: https://static-cdn.jtvnw.net/emoticons/v1/125545/1.0
 - name: yshsn1
   src: https://static-cdn.jtvnw.net/emoticons/v1/125544/1.0
+- name: yshsn4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130509/1.0

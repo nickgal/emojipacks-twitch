@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - legendary_qstor
 emojis:
-- name: legendaryrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111976/1.0
-- name: legendaryzomboheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112479/1.0
-- name: legendarycrown
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111981/1.0
 - name: legendarykingzombo
   src: https://static-cdn.jtvnw.net/emoticons/v1/111490/1.0
 - name: legendaryletsride
   src: https://static-cdn.jtvnw.net/emoticons/v1/104124/1.0
 - name: legendarygg
   src: https://static-cdn.jtvnw.net/emoticons/v1/111701/1.0
+- name: legendarydnlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126790/1.0
 - name: legendaryhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112390/1.0
-- name: legendaryloot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112391/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126771/1.0
+- name: legendaryrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126803/1.0
+- name: legendaryhail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126776/1.0
+- name: legendaryyo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126779/1.0

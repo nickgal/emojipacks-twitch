@@ -1,10 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - clamtaco
 emojis:
-- name: clamfish
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39397/1.0
+- name: clamazing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130812/1.0
 - name: clamsword
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47167/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130813/1.0
+- name: clamlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130814/1.0
+- name: clambronson
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130815/1.0
+- name: clamfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130816/1.0
 - name: claml
   src: https://static-cdn.jtvnw.net/emoticons/v1/62297/1.0
 - name: clamr
@@ -13,11 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/112527/1.0
 - name: clamcreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/112492/1.0
-- name: clamlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83340/1.0
-- name: clambronson
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94171/1.0
-- name: clamfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116286/1.0
-- name: clamazing
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116287/1.0
+- name: clamwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127359/1.0

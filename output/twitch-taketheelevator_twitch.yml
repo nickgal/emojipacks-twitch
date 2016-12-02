@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - taketheelevator_twitch
 emojis:
-- name: br0fire
-  src: https://static-cdn.jtvnw.net/emoticons/v1/42187/1.0
 - name: br0tukan
   src: https://static-cdn.jtvnw.net/emoticons/v1/79897/1.0
 - name: br0piratkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/79450/1.0
 - name: br0dudes
   src: https://static-cdn.jtvnw.net/emoticons/v1/122517/1.0
+- name: br0yobapirat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128561/1.0
+- name: br0elevatorpolice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128586/1.0
+- name: br0dyadyafaedor
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128780/1.0

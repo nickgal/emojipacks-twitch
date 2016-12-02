@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - xhankyy
 emojis:
+- name: hankyydab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130832/1.0
+- name: hankyymlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130833/1.0
+- name: hankyynacken
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130847/1.0
 - name: hankyypepeknife
   src: https://static-cdn.jtvnw.net/emoticons/v1/125087/1.0
 - name: hankyymartinihenry
   src: https://static-cdn.jtvnw.net/emoticons/v1/125088/1.0
+- name: hankyyhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126554/1.0
+- name: hankyyahntdas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126552/1.0
+- name: hankyyfliegerlife
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126553/1.0

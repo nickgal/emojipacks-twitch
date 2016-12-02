@@ -3,6 +3,8 @@ title: Twitch Subscriber Emotes - msscoeur
 emojis:
 - name: camiiw
   src: https://static-cdn.jtvnw.net/emoticons/v1/96766/1.0
+- name: camiiwink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130643/1.0
 - name: camiiz
   src: https://static-cdn.jtvnw.net/emoticons/v1/99420/1.0
 - name: camiihype

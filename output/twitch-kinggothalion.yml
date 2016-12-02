@@ -51,8 +51,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57696/1.0
 - name: kgothnlt
   src: https://static-cdn.jtvnw.net/emoticons/v1/62362/1.0
-- name: kgothaxe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103206/1.0
 - name: kgothclown
   src: https://static-cdn.jtvnw.net/emoticons/v1/66416/1.0
 - name: kgothfundad
@@ -101,3 +99,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/123397/1.0
 - name: kgothsuperior
   src: https://static-cdn.jtvnw.net/emoticons/v1/125150/1.0
+- name: kgothchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127952/1.0

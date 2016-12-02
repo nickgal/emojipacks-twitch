@@ -3,13 +3,13 @@ title: Twitch Subscriber Emotes - girlonduty
 emojis:
 - name: girlonhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/24712/1.0
-- name: girlonsingstar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24713/1.0
-- name: girlonrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/24858/1.0
 - name: girlonuwot
   src: https://static-cdn.jtvnw.net/emoticons/v1/25915/1.0
 - name: girlonmelon
   src: https://static-cdn.jtvnw.net/emoticons/v1/125128/1.0
 - name: girlongj
   src: https://static-cdn.jtvnw.net/emoticons/v1/125129/1.0
+- name: girlonthinking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126356/1.0
+- name: girlonfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126423/1.0

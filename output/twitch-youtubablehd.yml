@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - youtubablehd
 emojis:
-- name: ythdsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61001/1.0
+- name: ythdsolo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129638/1.0
+- name: ythdrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129641/1.0
+- name: ythdhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129640/1.0
 - name: ythdullr
   src: https://static-cdn.jtvnw.net/emoticons/v1/110028/1.0

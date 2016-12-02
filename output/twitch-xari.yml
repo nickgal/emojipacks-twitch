@@ -7,7 +7,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/92516/1.0
 - name: xaritapis
   src: https://static-cdn.jtvnw.net/emoticons/v1/98595/1.0
-- name: xarihappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97753/1.0
 - name: xaripenseur
   src: https://static-cdn.jtvnw.net/emoticons/v1/98599/1.0
+- name: xarirekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128212/1.0
+- name: xarihappy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128214/1.0
+- name: xariw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128213/1.0

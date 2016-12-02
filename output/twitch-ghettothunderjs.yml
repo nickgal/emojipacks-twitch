@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - ghettothunderjs
 emojis:
 - name: ghettolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/46952/1.0
-- name: ghettorule
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46563/1.0
 - name: ghettonora
   src: https://static-cdn.jtvnw.net/emoticons/v1/46417/1.0
 - name: ghettoface
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114629/1.0
 - name: ghettodid
   src: https://static-cdn.jtvnw.net/emoticons/v1/114628/1.0
+- name: ghettoakari
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126221/1.0

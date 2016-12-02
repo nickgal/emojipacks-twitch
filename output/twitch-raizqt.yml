@@ -3,10 +3,6 @@ title: Twitch Subscriber Emotes - raizqt
 emojis:
 - name: raizkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/20162/1.0
-- name: raizrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20481/1.0
-- name: raizkfc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23738/1.0
 - name: raizsoup
   src: https://static-cdn.jtvnw.net/emoticons/v1/33644/1.0
 - name: raizp
@@ -15,5 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97216/1.0
 - name: raizlul
   src: https://static-cdn.jtvnw.net/emoticons/v1/109804/1.0
-- name: raizhero
-  src: https://static-cdn.jtvnw.net/emoticons/v1/70224/1.0
+- name: raizftm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126962/1.0
+- name: raizg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126984/1.0
+- name: raizx
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127652/1.0

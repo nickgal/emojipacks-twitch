@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - innerpsycho
 emojis:
+- name: innersimp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130899/1.0
 - name: innerapple
   src: https://static-cdn.jtvnw.net/emoticons/v1/112485/1.0
+- name: innerdirt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129869/1.0
+- name: innerop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129870/1.0
 - name: innerrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/112869/1.0
 - name: innerwoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/112382/1.0
-- name: innerbad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124583/1.0
 - name: innervodka
   src: https://static-cdn.jtvnw.net/emoticons/v1/124573/1.0
+- name: innersuda
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128842/1.0

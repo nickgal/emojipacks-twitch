@@ -1,5 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - westheeditor
 emojis:
+- name: happeunimpressed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129393/1.0
+- name: happesadpanda
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129396/1.0
 - name: happekittywes
   src: https://static-cdn.jtvnw.net/emoticons/v1/98418/1.0

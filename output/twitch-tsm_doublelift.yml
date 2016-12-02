@@ -9,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/56798/1.0
 - name: lifttrash
   src: https://static-cdn.jtvnw.net/emoticons/v1/56799/1.0
-- name: liftgold
-  src: https://static-cdn.jtvnw.net/emoticons/v1/64810/1.0
 - name: lift2can
   src: https://static-cdn.jtvnw.net/emoticons/v1/64812/1.0
 - name: liftp
@@ -21,8 +19,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/71576/1.0
 - name: liftwow
   src: https://static-cdn.jtvnw.net/emoticons/v1/71577/1.0
-- name: liftm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71578/1.0
 - name: lifth
   src: https://static-cdn.jtvnw.net/emoticons/v1/71579/1.0
 - name: liftn
@@ -39,3 +35,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/123724/1.0
 - name: liftkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/124252/1.0
+- name: liftpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126628/1.0
+- name: lifthey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127420/1.0
+- name: liftwelcome
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128257/1.0
+- name: lift1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128543/1.0
+- name: liftvayne
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128542/1.0
+- name: lift2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128544/1.0
+- name: lift3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128545/1.0
+- name: lift4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128546/1.0

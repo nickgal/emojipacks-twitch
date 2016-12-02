@@ -2,14 +2,18 @@
 title: Twitch Subscriber Emotes - pacifae
 emojis:
 - name: pacisub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98591/1.0
-- name: pacigg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98593/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129535/1.0
+- name: pacikappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129536/1.0
+- name: pacirage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129537/1.0
+- name: pacilol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129538/1.0
+- name: pacicry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129539/1.0
 - name: pacipls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98616/1.0
-- name: paciexe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98598/1.0
-- name: pacinc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98594/1.0
-- name: pacirspct
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98635/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129540/1.0
+- name: pacihelp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129534/1.0
+- name: pacigg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129582/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - animeilluminati
 emojis:
 - name: jiyusad
   src: https://static-cdn.jtvnw.net/emoticons/v1/26225/1.0
-- name: jiyusenpai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26226/1.0
 - name: jiyuthief
   src: https://static-cdn.jtvnw.net/emoticons/v1/26227/1.0
 - name: jiyulk
@@ -15,9 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/24453/1.0
 - name: jiyuthug
   src: https://static-cdn.jtvnw.net/emoticons/v1/24454/1.0
-- name: jiyuazrael
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26222/1.0
-- name: jiyubonjour
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26223/1.0
 - name: jiyumax
   src: https://static-cdn.jtvnw.net/emoticons/v1/26224/1.0
+- name: jiyuleech
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128911/1.0
+- name: jiyunice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128909/1.0
+- name: jiyupr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128908/1.0

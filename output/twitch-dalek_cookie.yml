@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/87072/1.0
 - name: daltit
   src: https://static-cdn.jtvnw.net/emoticons/v1/53067/1.0
-- name: dallewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52733/1.0
 - name: dalw
   src: https://static-cdn.jtvnw.net/emoticons/v1/57015/1.0
 - name: dalmod
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/99938/1.0
 - name: dalroast
   src: https://static-cdn.jtvnw.net/emoticons/v1/108551/1.0
+- name: dallewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128474/1.0

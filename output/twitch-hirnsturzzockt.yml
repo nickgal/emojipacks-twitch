@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116424/1.0
 - name: hizoizzie
   src: https://static-cdn.jtvnw.net/emoticons/v1/116425/1.0
-- name: hizoaid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116426/1.0
 - name: hizoprost
   src: https://static-cdn.jtvnw.net/emoticons/v1/116427/1.0
 - name: hizoscreen
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/117871/1.0
 - name: hizowtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/118451/1.0
+- name: hizoschwie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126948/1.0

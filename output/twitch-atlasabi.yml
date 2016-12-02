@@ -1,7 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - atlasabi
 emojis:
-- name: aatlasabibraum
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22212/1.0
-- name: aatlasabifotur
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22215/1.0
+- name: atlsdirek
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129575/1.0
+- name: atlsgol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129576/1.0
+- name: atlslaz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130371/1.0

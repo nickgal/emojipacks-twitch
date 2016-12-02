@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - xargon0731
 emojis:
 - name: xargonba
   src: https://static-cdn.jtvnw.net/emoticons/v1/5544/1.0
-- name: xargonwait
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23808/1.0
 - name: xargonangry
   src: https://static-cdn.jtvnw.net/emoticons/v1/49789/1.0
 - name: xargonmiao
@@ -31,3 +29,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/90071/1.0
 - name: xargonnei
   src: https://static-cdn.jtvnw.net/emoticons/v1/89292/1.0
+- name: xargonerr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128371/1.0
+- name: xargonsir
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128363/1.0
+- name: xargonyogurt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128581/1.0
+- name: xargonnie87
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128596/1.0
+- name: xargonpon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128597/1.0
+- name: xargonezgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128798/1.0

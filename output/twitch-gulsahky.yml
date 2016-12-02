@@ -1,8 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - gulsahky
 emojis:
+- name: gulsahwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129234/1.0
+- name: gulsahlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129235/1.0
 - name: gulsahfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124655/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129237/1.0
 - name: gulsahrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/124961/1.0
 - name: gulsahhype
@@ -11,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125528/1.0
 - name: gulsahgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/125519/1.0
+- name: gulsahselam
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127395/1.0

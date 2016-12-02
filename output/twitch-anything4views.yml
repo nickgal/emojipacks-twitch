@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - anything4views
 emojis:
-- name: anything4inet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113672/1.0
 - name: anything4doge
   src: https://static-cdn.jtvnw.net/emoticons/v1/113811/1.0
 - name: anything4ted
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/120309/1.0
 - name: anything4meme
   src: https://static-cdn.jtvnw.net/emoticons/v1/121739/1.0
+- name: anything4tatta
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127321/1.0

@@ -51,8 +51,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59540/1.0
 - name: nb3feels
   src: https://static-cdn.jtvnw.net/emoticons/v1/60316/1.0
-- name: nb3wow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60317/1.0
 - name: nb3faint
   src: https://static-cdn.jtvnw.net/emoticons/v1/75385/1.0
 - name: nb3cool
@@ -101,3 +99,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/122927/1.0
 - name: nb3happy
   src: https://static-cdn.jtvnw.net/emoticons/v1/122928/1.0
+- name: nb3baka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128324/1.0

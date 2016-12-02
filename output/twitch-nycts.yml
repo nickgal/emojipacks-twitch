@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - nycts
 emojis:
+- name: nyctsporo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130666/1.0
+- name: nyctsjanna
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130662/1.0
 - name: nyctsnaice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/121458/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130664/1.0
 - name: nyctsgoku
   src: https://static-cdn.jtvnw.net/emoticons/v1/121457/1.0

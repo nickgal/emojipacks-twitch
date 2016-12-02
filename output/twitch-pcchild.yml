@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108425/1.0
 - name: zizpride
   src: https://static-cdn.jtvnw.net/emoticons/v1/116817/1.0
-- name: zizknow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116814/1.0
 - name: zizsleeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/78539/1.0
 - name: zizrip
@@ -21,13 +19,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78102/1.0
 - name: ziztrig
   src: https://static-cdn.jtvnw.net/emoticons/v1/97477/1.0
+- name: zizc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129951/1.0
+- name: zizo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129952/1.0
+- name: zizwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129953/1.0
 - name: zizw
   src: https://static-cdn.jtvnw.net/emoticons/v1/100960/1.0
 - name: zizfeel
   src: https://static-cdn.jtvnw.net/emoticons/v1/118966/1.0
-- name: ziznosleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116815/1.0
 - name: zizlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/116816/1.0
-- name: zizgasp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116818/1.0

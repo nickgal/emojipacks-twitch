@@ -7,6 +7,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110115/1.0
 - name: ugsparty
   src: https://static-cdn.jtvnw.net/emoticons/v1/98578/1.0
+- name: ugsalliance
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129764/1.0
+- name: ugsnojohns
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129765/1.0
+- name: ugsswedishmango
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129769/1.0
 - name: ugsarmadaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/94326/1.0
 - name: ugsarmadapopoff

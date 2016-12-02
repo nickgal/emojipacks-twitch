@@ -1,15 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - kangqui
 emojis:
+- name: tearsbaeang
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129504/1.0
 - name: tearsstormqui
   src: https://static-cdn.jtvnw.net/emoticons/v1/68831/1.0
 - name: tearsbating
   src: https://static-cdn.jtvnw.net/emoticons/v1/68830/1.0
 - name: tearskong
   src: https://static-cdn.jtvnw.net/emoticons/v1/116446/1.0
-- name: tearsnyang
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116447/1.0
-- name: tearssham
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116448/1.0
 - name: tearssleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/116450/1.0
+- name: tearsnoryuk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126717/1.0
+- name: tearsbbak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128393/1.0

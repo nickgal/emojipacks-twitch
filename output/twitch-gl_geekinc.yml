@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - gl_geekinc
 emojis:
+- name: gplayginew
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129160/1.0
 - name: gplayfaisan
   src: https://static-cdn.jtvnw.net/emoticons/v1/80109/1.0
 - name: gplayinternet
@@ -13,7 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/95516/1.0
 - name: gplaypls
   src: https://static-cdn.jtvnw.net/emoticons/v1/95517/1.0
-- name: gplaygeekinc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116557/1.0
 - name: gplaypelle
   src: https://static-cdn.jtvnw.net/emoticons/v1/117859/1.0

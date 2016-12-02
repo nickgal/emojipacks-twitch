@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - iamdiamondd
 emojis:
-- name: iamdiamondsubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108997/1.0
-- name: iamdiamondface
+- name: amdtilt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129580/1.0
+- name: amdint
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129816/1.0
+- name: amdequipoa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129947/1.0
+- name: amdgenial
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129948/1.0
+- name: amdsalty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129949/1.0
+- name: amdtambor
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129950/1.0
+- name: amdhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130009/1.0
+- name: amdface
   src: https://static-cdn.jtvnw.net/emoticons/v1/114314/1.0
-- name: iamdiamondequipoa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109431/1.0
-- name: iamdiamondtilt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107702/1.0
-- name: iamdiamondtambor
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107849/1.0
-- name: iamdiamondsalty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108533/1.0

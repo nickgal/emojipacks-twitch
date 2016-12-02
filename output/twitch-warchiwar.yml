@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/25171/1.0
 - name: warchihype
   src: https://static-cdn.jtvnw.net/emoticons/v1/30430/1.0
-- name: warchihashtag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31303/1.0
 - name: warchigorra
   src: https://static-cdn.jtvnw.net/emoticons/v1/31289/1.0
 - name: warchirekt
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/92991/1.0
 - name: warchicry
   src: https://static-cdn.jtvnw.net/emoticons/v1/92990/1.0
+- name: warchigato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127631/1.0

@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - mic_feedback
 emojis:
-- name: micfriendzoni
-  src: https://static-cdn.jtvnw.net/emoticons/v1/15537/1.0
-- name: miceyy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52967/1.0
+- name: micdab
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129496/1.0
+- name: miclewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129498/1.0
 - name: micyay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74901/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129499/1.0
+- name: miceyy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129497/1.0
 - name: micpunchies
   src: https://static-cdn.jtvnw.net/emoticons/v1/71809/1.0
+- name: micowo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129860/1.0
 - name: micpet
-  src: https://static-cdn.jtvnw.net/emoticons/v1/71798/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129861/1.0
+- name: micfriendzoni
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129862/1.0
 - name: mick
   src: https://static-cdn.jtvnw.net/emoticons/v1/104888/1.0
-- name: miclewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120603/1.0
-- name: micdab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120600/1.0
-- name: micowo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120890/1.0
 - name: micthebits
   src: https://static-cdn.jtvnw.net/emoticons/v1/121375/1.0

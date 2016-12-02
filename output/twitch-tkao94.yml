@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - tkao94
 emojis:
-- name: tiffshnk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113374/1.0
 - name: tiffsgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114325/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129601/1.0
 - name: tiffsded
   src: https://static-cdn.jtvnw.net/emoticons/v1/113370/1.0
 - name: tiffsfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/113372/1.0
-- name: tiffshey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113373/1.0
 - name: tiffsbless
   src: https://static-cdn.jtvnw.net/emoticons/v1/120292/1.0
+- name: tiffshnk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127571/1.0
+- name: tiffshey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127569/1.0

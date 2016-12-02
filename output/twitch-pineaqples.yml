@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - pineaqples
 emojis:
+- name: qpinerekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129398/1.0
+- name: qpinegasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129399/1.0
 - name: qpinehype
   src: https://static-cdn.jtvnw.net/emoticons/v1/123936/1.0
 - name: qpinelove

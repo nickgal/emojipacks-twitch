@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - stealthshampoo
 emojis:
 - name: nickypalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/20817/1.0
-- name: nickytie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20852/1.0
 - name: nickytried
   src: https://static-cdn.jtvnw.net/emoticons/v1/43908/1.0
 - name: nickyrekt
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/48564/1.0
 - name: nickyow
   src: https://static-cdn.jtvnw.net/emoticons/v1/53148/1.0
+- name: nickycarry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128145/1.0

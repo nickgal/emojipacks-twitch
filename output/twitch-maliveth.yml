@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - maliveth
 emojis:
 - name: malivbuttie
   src: https://static-cdn.jtvnw.net/emoticons/v1/92386/1.0
-- name: malivlaserr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92179/1.0
-- name: malivlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92067/1.0
-- name: malivhiccup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92096/1.0
-- name: malivlaser
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92163/1.0
+- name: malivo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130285/1.0
 - name: malivrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93399/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130145/1.0
 - name: malivmlem
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103085/1.0
-- name: malivgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/102915/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130146/1.0
+- name: malivhiccup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130147/1.0
+- name: malivr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130149/1.0
+- name: malivl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130151/1.0
+- name: malivlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130153/1.0

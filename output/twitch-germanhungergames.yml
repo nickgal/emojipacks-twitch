@@ -1,26 +1,26 @@
 ---
 title: Twitch Subscriber Emotes - germanhungergames
 emojis:
+- name: zickzackbruh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129179/1.0
+- name: zickzackgeil
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129180/1.0
+- name: zickzackwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129182/1.0
+- name: zickzackwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129181/1.0
 - name: zickzackspanier
   src: https://static-cdn.jtvnw.net/emoticons/v1/87218/1.0
 - name: zickzackrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/85412/1.0
-- name: zickzackapfeldieb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83724/1.0
 - name: zickzackghg
   src: https://static-cdn.jtvnw.net/emoticons/v1/79598/1.0
 - name: zickzacknase
   src: https://static-cdn.jtvnw.net/emoticons/v1/79161/1.0
-- name: zickzacksalz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79597/1.0
 - name: zickzackschwitzen
   src: https://static-cdn.jtvnw.net/emoticons/v1/80917/1.0
 - name: zickzacksad
   src: https://static-cdn.jtvnw.net/emoticons/v1/82780/1.0
-- name: zickzackdia
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84177/1.0
-- name: zickzacklenkrad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85094/1.0
 - name: zickzackmatze
   src: https://static-cdn.jtvnw.net/emoticons/v1/86950/1.0
 - name: zickzack11

@@ -1,16 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - bwana
 emojis:
-- name: bwnahunh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/203/1.0
-- name: bwnadapper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/836/1.0
 - name: bwnacool
   src: https://static-cdn.jtvnw.net/emoticons/v1/835/1.0
 - name: bwnaawesome
   src: https://static-cdn.jtvnw.net/emoticons/v1/834/1.0
-- name: bwnaderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/837/1.0
 - name: bwnaslug
   src: https://static-cdn.jtvnw.net/emoticons/v1/882/1.0
 - name: bwnacakie
@@ -29,3 +23,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/34618/1.0
 - name: bwnacrazy
   src: https://static-cdn.jtvnw.net/emoticons/v1/48700/1.0
+- name: bwnagoldslug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127007/1.0
+- name: bwnalul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127008/1.0
+- name: bwnakent
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127009/1.0

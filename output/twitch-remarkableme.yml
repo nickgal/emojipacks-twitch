@@ -1,13 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - remarkableme
 emojis:
-- name: remhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98761/1.0
-- name: remsalute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98758/1.0
-- name: remrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98759/1.0
-- name: remlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98760/1.0
 - name: remrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98757/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129480/1.0
+- name: remsalute
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129479/1.0
+- name: remnade
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129482/1.0
+- name: remlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130092/1.0

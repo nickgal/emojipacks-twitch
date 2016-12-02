@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - hybridpanda
 emojis:
-- name: hybcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60978/1.0
-- name: hybmonk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60475/1.0
 - name: hybpanda
   src: https://static-cdn.jtvnw.net/emoticons/v1/60490/1.0
 - name: hybnya
   src: https://static-cdn.jtvnw.net/emoticons/v1/60491/1.0
 - name: hyblove
   src: https://static-cdn.jtvnw.net/emoticons/v1/61135/1.0
-- name: hybooo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61550/1.0
 - name: hybrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/61551/1.0
+- name: hybr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129786/1.0
+- name: hybl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129788/1.0
 - name: hybdwight
   src: https://static-cdn.jtvnw.net/emoticons/v1/110920/1.0
+- name: hybtent
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130510/1.0

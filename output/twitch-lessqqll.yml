@@ -1,14 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - lessqqll
 emojis:
-- name: lesssalz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81172/1.0
 - name: lesstroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/80007/1.0
 - name: lessbad
   src: https://static-cdn.jtvnw.net/emoticons/v1/80006/1.0
 - name: lesssalt
   src: https://static-cdn.jtvnw.net/emoticons/v1/65559/1.0
+- name: lessomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129546/1.0
+- name: lesstriggered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129547/1.0
 - name: lesscarry
   src: https://static-cdn.jtvnw.net/emoticons/v1/65828/1.0
 - name: lessheart
@@ -21,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75208/1.0
 - name: lessrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/85100/1.0
+- name: lesssexy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128275/1.0
+- name: lesshappens
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128274/1.0
+- name: lesskorea
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128277/1.0
+- name: lessna
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128276/1.0

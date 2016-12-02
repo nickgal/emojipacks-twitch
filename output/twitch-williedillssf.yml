@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109570/1.0
 - name: dillsvape
   src: https://static-cdn.jtvnw.net/emoticons/v1/109577/1.0
-- name: dillsdivh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109573/1.0
 - name: dillsscience
   src: https://static-cdn.jtvnw.net/emoticons/v1/110551/1.0
 - name: dillsyes
@@ -17,11 +15,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110548/1.0
 - name: dillsiggy
   src: https://static-cdn.jtvnw.net/emoticons/v1/117318/1.0
-- name: dillsdalton
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120544/1.0
 - name: dillssub
   src: https://static-cdn.jtvnw.net/emoticons/v1/120598/1.0
 - name: dills50
   src: https://static-cdn.jtvnw.net/emoticons/v1/120630/1.0
-- name: dillsboys
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120627/1.0
+- name: dillsright
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128321/1.0
+- name: dillsdone
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128322/1.0
+- name: dillsleft
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128320/1.0

@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/51471/1.0
 - name: neppochat
   src: https://static-cdn.jtvnw.net/emoticons/v1/55174/1.0
-- name: neppogalaxy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66972/1.0
 - name: neppoinform
   src: https://static-cdn.jtvnw.net/emoticons/v1/66973/1.0
 - name: neppofamily
@@ -17,8 +15,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66974/1.0
 - name: neppogg
   src: https://static-cdn.jtvnw.net/emoticons/v1/80137/1.0
-- name: neppototy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80138/1.0
 - name: nepposub
   src: https://static-cdn.jtvnw.net/emoticons/v1/80139/1.0
 - name: neppoface

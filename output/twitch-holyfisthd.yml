@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - holyfisthd
 emojis:
-- name: fistheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83593/1.0
 - name: fistkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/83429/1.0
-- name: fistfist
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83425/1.0
 - name: fist7
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83424/1.0
-- name: fistsun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83678/1.0
-- name: fistgood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83682/1.0
-- name: fistcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83685/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129928/1.0
+- name: fistheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129934/1.0
 - name: fistfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83686/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129930/1.0
+- name: fistfist
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129931/1.0
+- name: fistgood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129933/1.0
+- name: fistrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129935/1.0
+- name: fistsun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129936/1.0
+- name: fistcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129929/1.0
+- name: fistgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130212/1.0

@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - unitlost
 emojis:
-- name: unitkiri
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3185/1.0
-- name: unitgorman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3862/1.0
-- name: unittea
-  src: https://static-cdn.jtvnw.net/emoticons/v1/3863/1.0
 - name: unitsalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/72957/1.0
-- name: unittrade
-  src: https://static-cdn.jtvnw.net/emoticons/v1/55223/1.0
-- name: unitfull
-  src: https://static-cdn.jtvnw.net/emoticons/v1/54920/1.0
 - name: unitsty
   src: https://static-cdn.jtvnw.net/emoticons/v1/59650/1.0
 - name: unitrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/76938/1.0
-- name: unitgrinder
-  src: https://static-cdn.jtvnw.net/emoticons/v1/74193/1.0
-- name: unitsieg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116060/1.0
+- name: unithug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129937/1.0
+- name: unitsos
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129938/1.0
+- name: unitrank
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129939/1.0
+- name: unitsmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129940/1.0
+- name: unitlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129941/1.0
+- name: unitdown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129942/1.0
+- name: unitthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129943/1.0

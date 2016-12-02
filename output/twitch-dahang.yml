@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - dahang
 emojis:
 - name: dahanghype
   src: https://static-cdn.jtvnw.net/emoticons/v1/112694/1.0
+- name: dahanggameface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130038/1.0
+- name: dahangemergentcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130039/1.0
 - name: dahangnoloot
   src: https://static-cdn.jtvnw.net/emoticons/v1/125915/1.0

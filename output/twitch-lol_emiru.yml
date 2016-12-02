@@ -1,16 +1,18 @@
 ---
 title: Twitch Subscriber Emotes - lol_emiru
 emojis:
+- name: emirugasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129423/1.0
+- name: emiruthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129424/1.0
 - name: emiruw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/121557/1.0
-- name: emirudisgust
-  src: https://static-cdn.jtvnw.net/emoticons/v1/121555/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129573/1.0
+- name: emiruchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130916/1.0
 - name: emirudab
   src: https://static-cdn.jtvnw.net/emoticons/v1/121742/1.0
 - name: emiruwave
   src: https://static-cdn.jtvnw.net/emoticons/v1/122095/1.0
-- name: emirugremlin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122096/1.0
 - name: emirulove
   src: https://static-cdn.jtvnw.net/emoticons/v1/122094/1.0
 - name: emiruloki

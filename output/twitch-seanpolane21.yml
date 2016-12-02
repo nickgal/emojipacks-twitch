@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - seanpolane21
 emojis:
+- name: sean21rekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129251/1.0
 - name: sean21love
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125818/1.0
-- name: sean21rollade
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125823/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129252/1.0
+- name: sean21gg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129253/1.0
+- name: sean21hype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129250/1.0

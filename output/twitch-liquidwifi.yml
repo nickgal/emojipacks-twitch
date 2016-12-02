@@ -9,9 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/72214/1.0
 - name: wifidance
   src: https://static-cdn.jtvnw.net/emoticons/v1/79375/1.0
-- name: wifistare
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79540/1.0
 - name: wifihey
   src: https://static-cdn.jtvnw.net/emoticons/v1/103030/1.0
 - name: wifimeme
   src: https://static-cdn.jtvnw.net/emoticons/v1/119435/1.0
+- name: wifireset
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130199/1.0
+- name: wifistare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127548/1.0

@@ -1,19 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - carlosstory
 emojis:
+- name: sxcwashed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129851/1.0
 - name: sxchype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60300/1.0
-- name: sxcgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61714/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129855/1.0
+- name: sxcoff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129856/1.0
 - name: sxcw
   src: https://static-cdn.jtvnw.net/emoticons/v1/99387/1.0
 - name: sxc3
   src: https://static-cdn.jtvnw.net/emoticons/v1/103917/1.0
-- name: sxcankles
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107689/1.0
-- name: sxcsnipe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109507/1.0
-- name: sxccry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109376/1.0
 - name: sxcletsgo
   src: https://static-cdn.jtvnw.net/emoticons/v1/109377/1.0

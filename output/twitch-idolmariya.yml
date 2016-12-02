@@ -1,17 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - idolmariya
 emojis:
-- name: idolremi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99313/1.0
 - name: idollewd
   src: https://static-cdn.jtvnw.net/emoticons/v1/91852/1.0
-- name: idolthump
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91718/1.0
 - name: idolyuno
   src: https://static-cdn.jtvnw.net/emoticons/v1/91149/1.0
 - name: idolmozao
   src: https://static-cdn.jtvnw.net/emoticons/v1/91294/1.0
-- name: idolcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91296/1.0
 - name: idolb
   src: https://static-cdn.jtvnw.net/emoticons/v1/91150/1.0
+- name: idolthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128433/1.0
+- name: idolremi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128434/1.0
+- name: idolkya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128431/1.0
+- name: idolcat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128432/1.0

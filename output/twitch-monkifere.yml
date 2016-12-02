@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - monkifere
 emojis:
+- name: vocisalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130856/1.0
 - name: vocibench
   src: https://static-cdn.jtvnw.net/emoticons/v1/118653/1.0
 - name: vocired

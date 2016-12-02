@@ -3,9 +3,15 @@ title: Twitch Subscriber Emotes - thegamingterroriser
 emojis:
 - name: terrorsubhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/36694/1.0
+- name: terrorkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129214/1.0
 - name: terrorwiener
   src: https://static-cdn.jtvnw.net/emoticons/v1/39514/1.0
+- name: terrorrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129602/1.0
+- name: terrorcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129608/1.0
+- name: terrortip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129609/1.0
 - name: terrorrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/56808/1.0
-- name: terrorkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69938/1.0

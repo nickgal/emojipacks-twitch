@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - justnvc
 emojis:
-- name: nvcafk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/20095/1.0
 - name: nvcatr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112351/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129568/1.0
+- name: nvcafk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126666/1.0

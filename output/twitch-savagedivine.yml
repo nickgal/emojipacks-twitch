@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - savagedivine
 emojis:
-- name: vinellesheiva
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120234/1.0
-- name: vinellehot60
-  src: https://static-cdn.jtvnw.net/emoticons/v1/121681/1.0
+- name: vinellegg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128777/1.0
+- name: vinellebeamer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128776/1.0
+- name: vinellesubhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128775/1.0
+- name: vinellejoked
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128774/1.0

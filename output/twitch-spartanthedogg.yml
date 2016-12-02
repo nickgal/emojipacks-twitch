@@ -1,21 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - spartanthedogg
 emojis:
-- name: spartyface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/36256/1.0
-- name: spartypug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47997/1.0
+- name: spartygg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130774/1.0
+- name: spartysellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130778/1.0
+- name: spartylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130779/1.0
+- name: spartyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130780/1.0
+- name: spartyliquid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130785/1.0
+- name: spartyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130786/1.0
+- name: spartyhelp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130789/1.0
 - name: spartykappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/48951/1.0
-- name: spartyrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85688/1.0
-- name: spartyohmy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85681/1.0
-- name: spartylove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97311/1.0
-- name: spartyliquid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97312/1.0
 - name: spartyhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97313/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130845/1.0
 - name: spartygasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/97314/1.0

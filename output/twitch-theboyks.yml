@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - theboyks
 emojis:
-- name: boykshug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/19847/1.0
 - name: boyksvalue
   src: https://static-cdn.jtvnw.net/emoticons/v1/29218/1.0
 - name: boykslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/29217/1.0
-- name: boykssides
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31016/1.0
 - name: boyksshrug
   src: https://static-cdn.jtvnw.net/emoticons/v1/67884/1.0
 - name: boykshi
   src: https://static-cdn.jtvnw.net/emoticons/v1/101773/1.0
+- name: boykscaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127508/1.0
+- name: boykshug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127516/1.0

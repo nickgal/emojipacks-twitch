@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mesardion
 emojis:
+- name: mesarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130810/1.0
 - name: mesahi
   src: https://static-cdn.jtvnw.net/emoticons/v1/99019/1.0
 - name: mesalucky

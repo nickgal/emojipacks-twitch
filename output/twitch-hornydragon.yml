@@ -1,6 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - hornydragon
 emojis:
+- name: hornydlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130763/1.0
+- name: hornydmo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130765/1.0
+- name: hornydfu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130764/1.0
 - name: hornydyaranaika
   src: https://static-cdn.jtvnw.net/emoticons/v1/75680/1.0
 - name: hornydtemmie

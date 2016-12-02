@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - anniinap
 emojis:
 - name: anniinapmiau
   src: https://static-cdn.jtvnw.net/emoticons/v1/89872/1.0
-- name: anniinapdoge
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89887/1.0
-- name: anniinapcarried
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89488/1.0
 - name: anniinapvroom
   src: https://static-cdn.jtvnw.net/emoticons/v1/94783/1.0
 - name: anniinapkeppa
   src: https://static-cdn.jtvnw.net/emoticons/v1/92869/1.0
-- name: anniinapxd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123151/1.0
-- name: anniinaprip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123237/1.0
 - name: anniinaplove
   src: https://static-cdn.jtvnw.net/emoticons/v1/123860/1.0
+- name: anniinapdoge
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128624/1.0
+- name: anniinaphi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128621/1.0
+- name: anniinapmoti
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128699/1.0
+- name: anniinapomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128897/1.0

@@ -3,9 +3,13 @@ title: Twitch Subscriber Emotes - purrluna
 emojis:
 - name: purrhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/125439/1.0
-- name: purrhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125602/1.0
 - name: purrrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/125598/1.0
+- name: purrlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128273/1.0
+- name: purrsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128272/1.0
 - name: purrlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125913/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128271/1.0
+- name: purrhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128270/1.0

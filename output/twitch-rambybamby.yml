@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - rambybamby
 emojis:
+- name: rambyrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130695/1.0
 - name: rambyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/124593/1.0
 - name: rambycash

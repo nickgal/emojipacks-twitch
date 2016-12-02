@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - browiththefro
 emojis:
-- name: frokappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16828/1.0
-- name: frorip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21439/1.0
 - name: frokappak
   src: https://static-cdn.jtvnw.net/emoticons/v1/40312/1.0
 - name: frogotthis
   src: https://static-cdn.jtvnw.net/emoticons/v1/49255/1.0
+- name: frorip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126711/1.0
+- name: frokappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126710/1.0

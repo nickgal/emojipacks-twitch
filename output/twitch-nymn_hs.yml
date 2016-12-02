@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63891/1.0
 - name: nymnr
   src: https://static-cdn.jtvnw.net/emoticons/v1/84624/1.0
-- name: nymnxaxa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/63890/1.0
 - name: nymnb
   src: https://static-cdn.jtvnw.net/emoticons/v1/96002/1.0
 - name: nymnsmug
@@ -31,3 +29,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/96255/1.0
 - name: nymnpuke
   src: https://static-cdn.jtvnw.net/emoticons/v1/96005/1.0
+- name: nymns
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130112/1.0

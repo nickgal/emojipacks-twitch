@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - shootsgud
 emojis:
 - name: shootslife
   src: https://static-cdn.jtvnw.net/emoticons/v1/121987/1.0
+- name: shootslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128362/1.0
 - name: shootsrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122012/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128713/1.0
+- name: shootshype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128714/1.0

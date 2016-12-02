@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - generationhollow
 emojis:
-- name: hollowbatman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/18521/1.0
 - name: hollowgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/122844/1.0
 - name: hollowcube
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125339/1.0
 - name: hollowhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/125340/1.0
+- name: hollowshrug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126871/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - mari0712
 emojis:
+- name: mari0712k
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130781/1.0
 - name: mari0712mj
   src: https://static-cdn.jtvnw.net/emoticons/v1/122149/1.0
 - name: mari0712js
@@ -13,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/123319/1.0
 - name: mari0712si
   src: https://static-cdn.jtvnw.net/emoticons/v1/123318/1.0
+- name: mari0712t
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130492/1.0

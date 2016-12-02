@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - dickhiskhan
 emojis:
 - name: khanvilethump
   src: https://static-cdn.jtvnw.net/emoticons/v1/72016/1.0
-- name: khanohhaimark
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72014/1.0
 - name: khancappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/72013/1.0
 - name: khanquack
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115757/1.0
 - name: khanbarnjo
   src: https://static-cdn.jtvnw.net/emoticons/v1/113151/1.0
+- name: khanwuddup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128528/1.0

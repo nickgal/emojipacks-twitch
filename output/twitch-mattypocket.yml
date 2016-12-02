@@ -21,16 +21,18 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/44080/1.0
 - name: mattyfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/83624/1.0
-- name: mattyulu
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111231/1.0
 - name: mattyroxx
   src: https://static-cdn.jtvnw.net/emoticons/v1/86582/1.0
 - name: mattytiny
   src: https://static-cdn.jtvnw.net/emoticons/v1/81865/1.0
 - name: mattybig
   src: https://static-cdn.jtvnw.net/emoticons/v1/82797/1.0
-- name: mattyoceans
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97949/1.0
+- name: mattyulu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130031/1.0
+- name: mattycreep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130033/1.0
+- name: mattypride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130068/1.0
 - name: matty1
   src: https://static-cdn.jtvnw.net/emoticons/v1/112301/1.0
 - name: mattyna
@@ -39,5 +41,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/112304/1.0
 - name: mattyblue
   src: https://static-cdn.jtvnw.net/emoticons/v1/112305/1.0
-- name: mattyfeed
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115834/1.0

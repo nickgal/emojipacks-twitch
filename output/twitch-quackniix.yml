@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - quackniix
 emojis:
-- name: quackkgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93881/1.0
 - name: quackkattack
   src: https://static-cdn.jtvnw.net/emoticons/v1/93880/1.0
+- name: quackkw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127257/1.0
+- name: quackkstad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127253/1.0
+- name: quackkfeed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128174/1.0

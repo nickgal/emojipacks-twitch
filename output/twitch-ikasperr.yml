@@ -1,33 +1,35 @@
 ---
 title: Twitch Subscriber Emotes - ikasperr
 emojis:
-- name: kasperheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6348/1.0
-- name: kaspergasm
+- name: kasperg
   src: https://static-cdn.jtvnw.net/emoticons/v1/6425/1.0
-- name: kaspersenpai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/6464/1.0
-- name: kasperhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68454/1.0
-- name: kasperpoop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52438/1.0
-- name: kasperw
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52560/1.0
-- name: kaspersellout
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52439/1.0
-- name: kaspertoucan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52441/1.0
-- name: kasperluna
-  src: https://static-cdn.jtvnw.net/emoticons/v1/52444/1.0
-- name: kasperwaffle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61324/1.0
-- name: kasperpeeko
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75002/1.0
-- name: kasperpip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100149/1.0
 - name: kasperwaifu
   src: https://static-cdn.jtvnw.net/emoticons/v1/100150/1.0
-- name: kasperlurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100148/1.0
+- name: kaspergasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130229/1.0
+- name: kasperheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130230/1.0
+- name: kasperhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130231/1.0
 - name: kasperlewd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100147/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130232/1.0
+- name: kasperluna
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130233/1.0
+- name: kasperlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130234/1.0
+- name: kasperomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130235/1.0
+- name: kasperpip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130237/1.0
+- name: kasperraid
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130238/1.0
+- name: kaspersellout
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130239/1.0
+- name: kaspersenpai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130240/1.0
+- name: kasperw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130241/1.0
+- name: kasperwaffle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130242/1.0
+- name: kasperpeeko
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130325/1.0

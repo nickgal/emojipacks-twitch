@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40945/1.0
 - name: retrodad
   src: https://static-cdn.jtvnw.net/emoticons/v1/93782/1.0
-- name: retrokappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105406/1.0
 - name: retroslice
   src: https://static-cdn.jtvnw.net/emoticons/v1/41419/1.0
 - name: retroyes
@@ -29,8 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110963/1.0
 - name: retrogasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/110964/1.0
-- name: retrosad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119615/1.0
 - name: retrodunk
   src: https://static-cdn.jtvnw.net/emoticons/v1/119614/1.0
 - name: retroanime
@@ -41,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/119618/1.0
 - name: retrolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/121994/1.0
+- name: retrothink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127474/1.0
+- name: retrolaugh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127475/1.0

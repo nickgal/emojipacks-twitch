@@ -5,9 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/22464/1.0
 - name: yozhykball
   src: https://static-cdn.jtvnw.net/emoticons/v1/29493/1.0
-- name: yozhykomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56280/1.0
 - name: yozhykfacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/56869/1.0
 - name: yozhyk5
   src: https://static-cdn.jtvnw.net/emoticons/v1/78060/1.0
+- name: yozhykyozhyk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126357/1.0
+- name: yozhykyozhykcookie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126355/1.0
+- name: yozhyktikitaka
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126359/1.0
+- name: yozhykomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126513/1.0

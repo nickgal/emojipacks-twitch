@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - gageu
 emojis:
+- name: hospolice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129144/1.0
 - name: hoshos
   src: https://static-cdn.jtvnw.net/emoticons/v1/114228/1.0
 - name: hossad

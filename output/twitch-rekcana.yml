@@ -3,16 +3,14 @@ title: Twitch Subscriber Emotes - rekcana
 emojis:
 - name: rek3
   src: https://static-cdn.jtvnw.net/emoticons/v1/108385/1.0
-- name: rek2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108384/1.0
-- name: rek1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108383/1.0
 - name: rekclap
   src: https://static-cdn.jtvnw.net/emoticons/v1/45234/1.0
 - name: rekhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/65746/1.0
 - name: reklove
   src: https://static-cdn.jtvnw.net/emoticons/v1/65747/1.0
+- name: rekd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129799/1.0
 - name: rekcry
   src: https://static-cdn.jtvnw.net/emoticons/v1/98931/1.0
 - name: rekwave

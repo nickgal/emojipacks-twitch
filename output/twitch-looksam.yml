@@ -1,6 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - looksam
 emojis:
+- name: looksamgabun
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129140/1.0
+- name: looksamtreeo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129141/1.0
+- name: looksamtreeot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129142/1.0
 - name: looksambs
   src: https://static-cdn.jtvnw.net/emoticons/v1/95820/1.0
 - name: looksambakbak

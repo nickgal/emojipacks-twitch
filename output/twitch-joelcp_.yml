@@ -1,9 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - joelcp_
 emojis:
+- name: jcpsweat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129618/1.0
+- name: jcpwhat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129619/1.0
+- name: jcpcap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129620/1.0
 - name: jcprex
   src: https://static-cdn.jtvnw.net/emoticons/v1/124729/1.0
-- name: jcptd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124739/1.0
-- name: jcpsubhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124953/1.0
+- name: jcp21
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127281/1.0
+- name: jcpice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127872/1.0

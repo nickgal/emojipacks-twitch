@@ -3,17 +3,17 @@ title: Twitch Subscriber Emotes - ant1ka
 emojis:
 - name: ant1ka
   src: https://static-cdn.jtvnw.net/emoticons/v1/74629/1.0
-- name: ant1hype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90261/1.0
-- name: ant1face
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90265/1.0
 - name: ant1fear
   src: https://static-cdn.jtvnw.net/emoticons/v1/90251/1.0
-- name: ant1rulon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90234/1.0
-- name: ant1vac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90203/1.0
+- name: ant1cry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126804/1.0
 - name: ant14sv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116685/1.0
-- name: ant1lol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116688/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127037/1.0
+- name: ant1wut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127054/1.0
+- name: ant1fu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127060/1.0
+- name: ant1censored
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127386/1.0
+- name: ant1domoi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127392/1.0

@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - la_huitlacocha
 emojis:
-- name: huitla1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97076/1.0
-- name: huitla2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97077/1.0
 - name: huitlagasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/101391/1.0
 - name: huitlasnoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/101394/1.0
+- name: huitla1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130262/1.0
+- name: huitlahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130117/1.0

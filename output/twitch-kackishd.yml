@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - kackishd
 emojis:
+- name: kacktrash
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129270/1.0
+- name: kackcheeky
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129274/1.0
 - name: kacklolwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/88560/1.0
 - name: kackrickt

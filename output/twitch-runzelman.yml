@@ -7,26 +7,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/40282/1.0
 - name: inconflex
   src: https://static-cdn.jtvnw.net/emoticons/v1/49352/1.0
-- name: incontiggered
-  src: https://static-cdn.jtvnw.net/emoticons/v1/83545/1.0
 - name: inconlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/82077/1.0
-- name: inconchair
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110629/1.0
-- name: inconcat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110630/1.0
 - name: inconclose
   src: https://static-cdn.jtvnw.net/emoticons/v1/110636/1.0
-- name: inconbait
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110637/1.0
-- name: inconlag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110638/1.0
 - name: inconjuke
   src: https://static-cdn.jtvnw.net/emoticons/v1/111204/1.0
-- name: inconlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120804/1.0
-- name: incontwitch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124370/1.0
 - name: inconwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/125705/1.0
 - name: inconfeed
@@ -41,3 +27,17 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125701/1.0
 - name: inconfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/125698/1.0
+- name: inconshy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128211/1.0
+- name: incondrama
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128210/1.0
+- name: inconhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128207/1.0
+- name: inconlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128209/1.0
+- name: inconhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128208/1.0
+- name: inconloud
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128249/1.0
+- name: inconhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128206/1.0

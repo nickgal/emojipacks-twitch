@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - dibbsgg
 emojis:
+- name: dibchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129442/1.0
 - name: dibegg
   src: https://static-cdn.jtvnw.net/emoticons/v1/111632/1.0
 - name: dibhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/111631/1.0
-- name: dibfrank
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111154/1.0
+- name: dibtm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129700/1.0
+- name: diblove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129814/1.0
 - name: dibeel
   src: https://static-cdn.jtvnw.net/emoticons/v1/111155/1.0

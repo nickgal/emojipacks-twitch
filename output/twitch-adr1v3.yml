@@ -33,6 +33,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77311/1.0
 - name: adrdeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/53464/1.0
+- name: adrbit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130893/1.0
+- name: adrlord
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129794/1.0
 - name: adrchair
   src: https://static-cdn.jtvnw.net/emoticons/v1/81813/1.0
 - name: adrban
@@ -41,3 +45,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89092/1.0
 - name: adr151
   src: https://static-cdn.jtvnw.net/emoticons/v1/121460/1.0
+- name: adrnf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130565/1.0

@@ -3,11 +3,13 @@ title: Twitch Subscriber Emotes - 007sjm
 emojis:
 - name: kingjmhrr
   src: https://static-cdn.jtvnw.net/emoticons/v1/124357/1.0
-- name: kingjmnd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125741/1.0
 - name: kingjmdd
   src: https://static-cdn.jtvnw.net/emoticons/v1/125746/1.0
 - name: kingjmhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/125744/1.0
 - name: kingjmhb
   src: https://static-cdn.jtvnw.net/emoticons/v1/125742/1.0
+- name: kingjmbus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126062/1.0
+- name: kingjmkwz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126777/1.0

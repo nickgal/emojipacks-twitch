@@ -1,5 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - emjanee
 emojis:
+- name: emjanewink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129157/1.0
 - name: emjanew
   src: https://static-cdn.jtvnw.net/emoticons/v1/31897/1.0
+- name: emjanelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126821/1.0
+- name: emjanerage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126820/1.0
+- name: emjanecool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126822/1.0
+- name: emjanep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128204/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - p0wersl1de
 emojis:
-- name: sl1devgolos
-  src: https://static-cdn.jtvnw.net/emoticons/v1/38796/1.0
 - name: sl1decool
   src: https://static-cdn.jtvnw.net/emoticons/v1/38794/1.0
+- name: sl1dekappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126393/1.0
+- name: sl1dekak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126538/1.0
+- name: sl1detop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127962/1.0

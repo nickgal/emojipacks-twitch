@@ -1,7 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - shishaschmitty
 emojis:
-- name: sheeshjo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125446/1.0
-- name: sheeshhype
+- name: schmittyeklig
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129960/1.0
+- name: schmittymoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129967/1.0
+- name: schmittyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/125444/1.0
+- name: schmittysub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126226/1.0
+- name: schmittykohle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126227/1.0

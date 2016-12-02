@@ -13,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46548/1.0
 - name: lacerage
   src: https://static-cdn.jtvnw.net/emoticons/v1/46550/1.0
-- name: lacerip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/46551/1.0
 - name: lacetears
   src: https://static-cdn.jtvnw.net/emoticons/v1/46552/1.0
 - name: laceten
@@ -53,11 +51,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/94599/1.0
 - name: lacesalute
   src: https://static-cdn.jtvnw.net/emoticons/v1/94600/1.0
-- name: lacehug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94601/1.0
 - name: lacepls
   src: https://static-cdn.jtvnw.net/emoticons/v1/94602/1.0
 - name: laceno
   src: https://static-cdn.jtvnw.net/emoticons/v1/107145/1.0
 - name: lacesad
   src: https://static-cdn.jtvnw.net/emoticons/v1/111261/1.0
+- name: lacehug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127743/1.0
+- name: lacet
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127744/1.0

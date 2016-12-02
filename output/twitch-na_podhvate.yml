@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - na_podhvate
 emojis:
 - name: napomurr
   src: https://static-cdn.jtvnw.net/emoticons/v1/81264/1.0
-- name: naposub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72460/1.0
 - name: napourod
   src: https://static-cdn.jtvnw.net/emoticons/v1/48559/1.0
 - name: napovoid
@@ -13,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/53080/1.0
 - name: napolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/80552/1.0
-- name: napocry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80649/1.0
 - name: napomeow
   src: https://static-cdn.jtvnw.net/emoticons/v1/81265/1.0
 - name: napouhadi

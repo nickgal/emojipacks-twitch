@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - tigressx
 emojis:
-- name: tiggyhippo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25026/1.0
 - name: tiggyhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/30853/1.0
 - name: tiggylove
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116601/1.0
 - name: tiggygtfo
   src: https://static-cdn.jtvnw.net/emoticons/v1/97569/1.0
+- name: tiggyjing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128392/1.0

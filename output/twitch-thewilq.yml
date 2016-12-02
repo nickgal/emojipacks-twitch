@@ -1,15 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - thewilq
 emojis:
-- name: toxilqmute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93808/1.0
 - name: toxilqpolak
   src: https://static-cdn.jtvnw.net/emoticons/v1/92390/1.0
-- name: toxilqgg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91917/1.0
-- name: toxilqhilki
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91789/1.0
+- name: toxilqkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129559/1.0
 - name: toxilqmoshpit
   src: https://static-cdn.jtvnw.net/emoticons/v1/94491/1.0
-- name: toxilqhook
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94494/1.0
+- name: toxilqpride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126289/1.0
+- name: toxilqbuk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127878/1.0

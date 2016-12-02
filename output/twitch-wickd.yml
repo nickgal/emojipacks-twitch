@@ -3,7 +3,9 @@ title: Twitch Subscriber Emotes - wickd
 emojis:
 - name: wickdwurf
   src: https://static-cdn.jtvnw.net/emoticons/v1/12668/1.0
-- name: wickdpos
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12725/1.0
+- name: wickdhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129590/1.0
 - name: wickdirelia
   src: https://static-cdn.jtvnw.net/emoticons/v1/101012/1.0
+- name: wickdhammered
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130026/1.0

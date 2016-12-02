@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - erin1021
 emojis:
+- name: erinhserinhssmile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130869/1.0
+- name: erinhserinhsv
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130870/1.0
 - name: erinhscrying
   src: https://static-cdn.jtvnw.net/emoticons/v1/99531/1.0
 - name: erinhsang

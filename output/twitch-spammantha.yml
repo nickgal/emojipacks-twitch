@@ -1,17 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - spammantha
 emojis:
-- name: spamc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1242/1.0
-- name: spamt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/1409/1.0
-- name: spamsub
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33945/1.0
-- name: spamegirls
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77493/1.0
-- name: spamh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72311/1.0
 - name: spamknot
   src: https://static-cdn.jtvnw.net/emoticons/v1/75798/1.0
-- name: spamrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80645/1.0
+- name: spamcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126704/1.0
+- name: spamegirls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126701/1.0
+- name: spamhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126702/1.0
+- name: spamh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126703/1.0
+- name: spamgus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126700/1.0

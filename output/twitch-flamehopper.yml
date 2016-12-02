@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - flamehopper
 emojis:
+- name: hopperfocus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129440/1.0
+- name: hoppernoloot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129800/1.0
 - name: hopperlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/123738/1.0
 - name: hoppergg

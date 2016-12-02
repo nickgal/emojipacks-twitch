@@ -5,8 +5,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/93895/1.0
 - name: thanhha
   src: https://static-cdn.jtvnw.net/emoticons/v1/111822/1.0
-- name: thanhnl
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111820/1.0
 - name: thanht
   src: https://static-cdn.jtvnw.net/emoticons/v1/87799/1.0
 - name: thanhl
@@ -25,9 +23,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/119057/1.0
 - name: thanhschelle
   src: https://static-cdn.jtvnw.net/emoticons/v1/119058/1.0
-- name: thanhtop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119060/1.0
 - name: thanheat
   src: https://static-cdn.jtvnw.net/emoticons/v1/119059/1.0
 - name: thanhver
   src: https://static-cdn.jtvnw.net/emoticons/v1/119061/1.0
+- name: thanhnl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129093/1.0

@@ -9,11 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/52633/1.0
 - name: oshddon
   src: https://static-cdn.jtvnw.net/emoticons/v1/109298/1.0
-- name: oshdsalut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79465/1.0
-- name: oshdfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109299/1.0
 - name: oshdgg
   src: https://static-cdn.jtvnw.net/emoticons/v1/109294/1.0
 - name: oshdtalent
   src: https://static-cdn.jtvnw.net/emoticons/v1/109289/1.0
+- name: oshdcmb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127485/1.0
+- name: oshdslt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127503/1.0

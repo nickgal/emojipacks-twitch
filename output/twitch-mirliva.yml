@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66743/1.0
 - name: mirpatates
   src: https://static-cdn.jtvnw.net/emoticons/v1/66747/1.0
-- name: mirrus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67088/1.0
 - name: mirslup
   src: https://static-cdn.jtvnw.net/emoticons/v1/69335/1.0
 - name: mirprim
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/123120/1.0
 - name: mirpls
   src: https://static-cdn.jtvnw.net/emoticons/v1/123137/1.0
+- name: mirkus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127813/1.0

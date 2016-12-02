@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - duedrop
 emojis:
-- name: duedropys
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86511/1.0
 - name: duedrop2
   src: https://static-cdn.jtvnw.net/emoticons/v1/86512/1.0
-- name: duedropup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90127/1.0
 - name: duedropcoco
   src: https://static-cdn.jtvnw.net/emoticons/v1/94838/1.0
+- name: duedropsri
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127170/1.0
+- name: duedropri
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127171/1.0

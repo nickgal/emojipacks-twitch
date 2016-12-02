@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - magni2ude
 emojis:
+- name: tbsasn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130298/1.0
 - name: tbsasub
   src: https://static-cdn.jtvnw.net/emoticons/v1/124243/1.0
 - name: tbsaez

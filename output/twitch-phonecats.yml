@@ -5,31 +5,39 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/63983/1.0
 - name: pcatsrg
   src: https://static-cdn.jtvnw.net/emoticons/v1/103014/1.0
-- name: pcatsdiep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103011/1.0
+- name: pcatsbarrel
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129380/1.0
+- name: pcatsr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129381/1.0
 - name: pcatsf
   src: https://static-cdn.jtvnw.net/emoticons/v1/63984/1.0
 - name: pcatslol
   src: https://static-cdn.jtvnw.net/emoticons/v1/86096/1.0
 - name: pcatsmad
   src: https://static-cdn.jtvnw.net/emoticons/v1/86094/1.0
-- name: pcatshog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86085/1.0
-- name: pcatsc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/97668/1.0
 - name: pcatscry
   src: https://static-cdn.jtvnw.net/emoticons/v1/97664/1.0
 - name: pcatsup
   src: https://static-cdn.jtvnw.net/emoticons/v1/97661/1.0
 - name: pcatsdx
   src: https://static-cdn.jtvnw.net/emoticons/v1/103026/1.0
-- name: pcatsspam
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103033/1.0
 - name: pcatsbowler
   src: https://static-cdn.jtvnw.net/emoticons/v1/111335/1.0
-- name: pcatslogo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111337/1.0
-- name: pcatslogo2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/111336/1.0
-- name: pcatsxbow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124042/1.0
+- name: pcatsnut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127165/1.0
+- name: pcatsbip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127152/1.0
+- name: pcatsbm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127406/1.0
+- name: pcatsq
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127394/1.0
+- name: pcatsp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127645/1.0
+- name: pcatst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127664/1.0
+- name: pcatscar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127666/1.0
+- name: pcatsl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127657/1.0
+- name: pcatsb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127661/1.0

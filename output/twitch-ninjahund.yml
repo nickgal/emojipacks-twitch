@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - ninjahund
 emojis:
+- name: hundhunt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129913/1.0
 - name: hundcheers
   src: https://static-cdn.jtvnw.net/emoticons/v1/123943/1.0
 - name: hundfeels
@@ -11,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125296/1.0
 - name: hundfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/125889/1.0
+- name: hundlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126562/1.0
+- name: hundtears
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128762/1.0

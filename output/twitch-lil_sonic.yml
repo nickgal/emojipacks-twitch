@@ -1,23 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - lil_sonic
 emojis:
-- name: soniclove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80853/1.0
-- name: sonichype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80856/1.0
-- name: sonickappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80297/1.0
-- name: sonicfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80852/1.0
-- name: sonicfg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82081/1.0
 - name: sonicc
   src: https://static-cdn.jtvnw.net/emoticons/v1/86934/1.0
-- name: soniclol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95158/1.0
+- name: sonicpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127247/1.0
+- name: sonics
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127248/1.0
+- name: sonica
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127242/1.0
+- name: sonich
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127243/1.0
+- name: sonicl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127244/1.0
+- name: sonicpf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127246/1.0
 - name: sonicd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/95159/1.0
-- name: sonicwtf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106994/1.0
-- name: sonick
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107078/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128682/1.0
+- name: soniclol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128683/1.0
+- name: sonicshrug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128684/1.0

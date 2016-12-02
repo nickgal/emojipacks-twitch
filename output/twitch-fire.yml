@@ -49,8 +49,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50648/1.0
 - name: firebugged
   src: https://static-cdn.jtvnw.net/emoticons/v1/52122/1.0
-- name: firedealwithit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50737/1.0
 - name: firebugg3d
   src: https://static-cdn.jtvnw.net/emoticons/v1/52123/1.0
 - name: firestyle
@@ -61,5 +59,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62114/1.0
 - name: firebreak
   src: https://static-cdn.jtvnw.net/emoticons/v1/67045/1.0
+- name: firey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/131165/1.0
 - name: firebase
   src: https://static-cdn.jtvnw.net/emoticons/v1/68706/1.0

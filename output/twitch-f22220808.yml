@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - f22220808
 emojis:
+- name: tootallmissing
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130828/1.0
 - name: tootallpervert
   src: https://static-cdn.jtvnw.net/emoticons/v1/114180/1.0
 - name: tootall666

@@ -9,14 +9,20 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/75567/1.0
 - name: poogasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/76576/1.0
-- name: pooshotsfired
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116945/1.0
 - name: poofail
   src: https://static-cdn.jtvnw.net/emoticons/v1/75877/1.0
 - name: pookoopapride
   src: https://static-cdn.jtvnw.net/emoticons/v1/112683/1.0
 - name: poolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/117002/1.0
+- name: poojarjar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130035/1.0
+- name: poochoke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130036/1.0
+- name: poomunch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130037/1.0
+- name: poohotgarb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130116/1.0
 - name: poofairenough
   src: https://static-cdn.jtvnw.net/emoticons/v1/117097/1.0
 - name: poo2
@@ -31,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/117653/1.0
 - name: poorain
   src: https://static-cdn.jtvnw.net/emoticons/v1/120271/1.0
+- name: poomeh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129044/1.0
+- name: pookaizo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129043/1.0

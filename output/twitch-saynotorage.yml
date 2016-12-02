@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113023/1.0
 - name: lonowhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/113021/1.0
-- name: lonopew
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113019/1.0
 - name: lonohype
   src: https://static-cdn.jtvnw.net/emoticons/v1/91109/1.0
 - name: lonolove
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/120350/1.0
 - name: lonowhy
   src: https://static-cdn.jtvnw.net/emoticons/v1/120353/1.0
+- name: lonobake
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127214/1.0

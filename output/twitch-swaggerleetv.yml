@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - swaggerleetv
 emojis:
-- name: leewrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105218/1.0
+- name: leewrelax
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130620/1.0
 - name: leewbang
   src: https://static-cdn.jtvnw.net/emoticons/v1/104891/1.0
 - name: leeww
@@ -11,7 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106666/1.0
 - name: leewhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/105597/1.0
-- name: leewomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109952/1.0
 - name: leewpotato
   src: https://static-cdn.jtvnw.net/emoticons/v1/109780/1.0

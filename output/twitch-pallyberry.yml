@@ -8,12 +8,12 @@ emojis:
 - name: pallyknight
   src: https://static-cdn.jtvnw.net/emoticons/v1/17318/1.0
 - name: pallysad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/56057/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130775/1.0
+- name: pallyderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130776/1.0
+- name: pallyrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130777/1.0
 - name: pallylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/40619/1.0
-- name: pally7
-  src: https://static-cdn.jtvnw.net/emoticons/v1/57381/1.0
-- name: pallys
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103748/1.0
 - name: pallyrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/100353/1.0

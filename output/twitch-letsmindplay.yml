@@ -3,5 +3,9 @@ title: Twitch Subscriber Emotes - letsmindplay
 emojis:
 - name: magespytki
   src: https://static-cdn.jtvnw.net/emoticons/v1/95953/1.0
-- name: magesolek
-  src: https://static-cdn.jtvnw.net/emoticons/v1/96261/1.0
+- name: mageantonaut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126916/1.0
+- name: mageantonwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126912/1.0
+- name: mageantonrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128235/1.0

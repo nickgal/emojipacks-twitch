@@ -7,10 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/84533/1.0
 - name: purpleice
   src: https://static-cdn.jtvnw.net/emoticons/v1/80215/1.0
-- name: purplehuh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115309/1.0
-- name: purpleleo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73632/1.0
 - name: purple2
   src: https://static-cdn.jtvnw.net/emoticons/v1/96874/1.0
 - name: purple3
@@ -49,3 +45,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/121772/1.0
 - name: purplethink
   src: https://static-cdn.jtvnw.net/emoticons/v1/121770/1.0
+- name: purplelul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126511/1.0

@@ -5,15 +5,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/90597/1.0
 - name: jpsrapeface
   src: https://static-cdn.jtvnw.net/emoticons/v1/59248/1.0
-- name: jpswat
-  src: https://static-cdn.jtvnw.net/emoticons/v1/102385/1.0
-- name: jpshype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78675/1.0
-- name: jpsezskins
-  src: https://static-cdn.jtvnw.net/emoticons/v1/80827/1.0
 - name: jpsfacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/102848/1.0
-- name: jpslove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99427/1.0
 - name: jpscrazydaisy
   src: https://static-cdn.jtvnw.net/emoticons/v1/99284/1.0
+- name: jpscry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126963/1.0
+- name: jpslove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126964/1.0

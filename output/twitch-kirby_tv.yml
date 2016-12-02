@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - kirby_tv
 emojis:
+- name: kirbyyafk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130599/1.0
 - name: kirbyydeagle
   src: https://static-cdn.jtvnw.net/emoticons/v1/23677/1.0
 - name: kirbyyrage
@@ -9,7 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/76474/1.0
 - name: kirbyylenkrad
   src: https://static-cdn.jtvnw.net/emoticons/v1/54062/1.0
-- name: kirbyypducks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/75695/1.0
 - name: kirbyylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/110394/1.0

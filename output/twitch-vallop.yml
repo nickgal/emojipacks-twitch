@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - vallop
 emojis:
+- name: memazogasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129395/1.0
 - name: memazosad
   src: https://static-cdn.jtvnw.net/emoticons/v1/99086/1.0
 - name: memazorage

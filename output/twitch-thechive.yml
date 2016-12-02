@@ -1,10 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - thechive
 emojis:
-- name: kccosoup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50114/1.0
-- name: kccokcco
-  src: https://static-cdn.jtvnw.net/emoticons/v1/50117/1.0
 - name: kccoray
   src: https://static-cdn.jtvnw.net/emoticons/v1/90159/1.0
 - name: kccotop
@@ -17,3 +13,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125546/1.0
 - name: kccohero
   src: https://static-cdn.jtvnw.net/emoticons/v1/125547/1.0
+- name: kccokcco
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126558/1.0
+- name: kccosoup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126556/1.0
+- name: kccoloud
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126555/1.0

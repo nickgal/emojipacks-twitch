@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - eightby6ix
 emojis:
+- name: 8x6hey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129572/1.0
 - name: 8x6weenie
   src: https://static-cdn.jtvnw.net/emoticons/v1/85047/1.0
 - name: 8x6rage
@@ -11,8 +13,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/85045/1.0
 - name: 8x6love
   src: https://static-cdn.jtvnw.net/emoticons/v1/85043/1.0
-- name: 8x6hey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85041/1.0
 - name: 8x6greed
   src: https://static-cdn.jtvnw.net/emoticons/v1/102947/1.0
 - name: 8x6wut

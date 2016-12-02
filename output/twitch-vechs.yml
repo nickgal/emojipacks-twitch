@@ -1,11 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - vechs
 emojis:
-- name: vexderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115009/1.0
 - name: vexwheck
   src: https://static-cdn.jtvnw.net/emoticons/v1/115020/1.0
 - name: vexfeesh
   src: https://static-cdn.jtvnw.net/emoticons/v1/118721/1.0
 - name: vexfly
   src: https://static-cdn.jtvnw.net/emoticons/v1/118731/1.0
+- name: vexlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127026/1.0
+- name: vexhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127223/1.0
+- name: vexlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128190/1.0

@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - viking_lass
 emojis:
-- name: vikingbutts
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98298/1.0
-- name: vikingbrown
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62335/1.0
-- name: vikingrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62336/1.0
-- name: vikingderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/62337/1.0
 - name: vikinglove
   src: https://static-cdn.jtvnw.net/emoticons/v1/64769/1.0
 - name: vikingale
   src: https://static-cdn.jtvnw.net/emoticons/v1/62393/1.0
 - name: vikingwhip
   src: https://static-cdn.jtvnw.net/emoticons/v1/62394/1.0
-- name: vikinglurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100269/1.0
+- name: vikingbow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127259/1.0
+- name: vikingdot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127258/1.0
+- name: vikingchair
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127256/1.0
+- name: vikingcorn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127255/1.0
+- name: vikingbutts
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127298/1.0

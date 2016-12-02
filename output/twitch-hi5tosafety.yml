@@ -5,15 +5,19 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113507/1.0
 - name: hi5hi5
   src: https://static-cdn.jtvnw.net/emoticons/v1/84360/1.0
-- name: hi5salute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91258/1.0
 - name: hi5cry
   src: https://static-cdn.jtvnw.net/emoticons/v1/113506/1.0
 - name: hi5o
   src: https://static-cdn.jtvnw.net/emoticons/v1/106434/1.0
 - name: hi5creep
   src: https://static-cdn.jtvnw.net/emoticons/v1/113505/1.0
-- name: hi5blush
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113504/1.0
+- name: hi5c
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130150/1.0
+- name: hi5u
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130152/1.0
+- name: hi5t
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130154/1.0
+- name: hi5e
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130155/1.0
 - name: hi5excellent
   src: https://static-cdn.jtvnw.net/emoticons/v1/123896/1.0

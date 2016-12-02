@@ -1,14 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - swifty
 emojis:
-- name: swiftynaga
-  src: https://static-cdn.jtvnw.net/emoticons/v1/5774/1.0
 - name: swiftyoneshot
   src: https://static-cdn.jtvnw.net/emoticons/v1/9975/1.0
 - name: swiftyalarm
   src: https://static-cdn.jtvnw.net/emoticons/v1/25691/1.0
-- name: swiftytenexcorp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/25693/1.0
 - name: swiftydeal
   src: https://static-cdn.jtvnw.net/emoticons/v1/18615/1.0
 - name: swiftychair
@@ -23,29 +19,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/20031/1.0
 - name: swiftyflower
   src: https://static-cdn.jtvnw.net/emoticons/v1/20034/1.0
-- name: swiftypoints
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27314/1.0
-- name: swiftyomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27444/1.0
 - name: swiftythump
   src: https://static-cdn.jtvnw.net/emoticons/v1/27472/1.0
-- name: swiftyheist
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27315/1.0
-- name: swiftyfacebomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27340/1.0
-- name: swiftygym
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27299/1.0
-- name: swiftybomb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27320/1.0
-- name: swiftyraffle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27329/1.0
 - name: swiftymuted
   src: https://static-cdn.jtvnw.net/emoticons/v1/27430/1.0
-- name: swiftyrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27429/1.0
-- name: swiftytrouble
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31221/1.0
-- name: swiftygasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/33385/1.0
 - name: swiftystare
   src: https://static-cdn.jtvnw.net/emoticons/v1/33386/1.0
+- name: swiftylol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129040/1.0
+- name: swiftyd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129041/1.0

@@ -1,6 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - b4nny
 emojis:
+- name: bannyclaudio
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129167/1.0
+- name: bannyt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129168/1.0
+- name: bannyyikes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129170/1.0
+- name: bannylove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129171/1.0
+- name: bannyidiot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129169/1.0
 - name: bannycat
   src: https://static-cdn.jtvnw.net/emoticons/v1/29849/1.0
 - name: bannyfat

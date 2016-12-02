@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - hungrybox
 emojis:
-- name: hboxcalen
-  src: https://static-cdn.jtvnw.net/emoticons/v1/51708/1.0
 - name: hboxness
   src: https://static-cdn.jtvnw.net/emoticons/v1/46180/1.0
 - name: hboxfam
@@ -11,8 +9,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/36067/1.0
 - name: hboxhungerstrike
   src: https://static-cdn.jtvnw.net/emoticons/v1/36230/1.0
-- name: hboxplup
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44585/1.0
 - name: hbox1
   src: https://static-cdn.jtvnw.net/emoticons/v1/49209/1.0
 - name: hboxcockfight
@@ -31,3 +27,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/120185/1.0
 - name: hboxw
   src: https://static-cdn.jtvnw.net/emoticons/v1/120179/1.0
+- name: hboxcalen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127793/1.0
+- name: hboxsong
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127808/1.0

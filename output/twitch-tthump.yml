@@ -1,8 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - tthump
 emojis:
+- name: thumpthink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129490/1.0
 - name: thumpmaga
-  src: https://static-cdn.jtvnw.net/emoticons/v1/121684/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130384/1.0
 - name: thumpblast
   src: https://static-cdn.jtvnw.net/emoticons/v1/121789/1.0
 - name: thumpfeels

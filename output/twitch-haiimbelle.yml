@@ -9,11 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/114928/1.0
 - name: haiimrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/114930/1.0
-- name: haiimrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116338/1.0
-- name: haiimhai
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116339/1.0
-- name: haiimhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116340/1.0
 - name: haiimcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120838/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130497/1.0
+- name: haiimhai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130498/1.0
+- name: haiimrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130499/1.0
+- name: haiimhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130500/1.0

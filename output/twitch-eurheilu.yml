@@ -1,5 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - eurheilu
 emojis:
+- name: eurhplots
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130787/1.0
+- name: eurhtenu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130788/1.0
 - name: eurhjohan
   src: https://static-cdn.jtvnw.net/emoticons/v1/120629/1.0

@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - epiclan
 emojis:
+- name: epiclanduty
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130612/1.0
+- name: epiclanpapareech
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130613/1.0
 - name: epiclancuat
   src: https://static-cdn.jtvnw.net/emoticons/v1/78203/1.0
 - name: epiclantrekt

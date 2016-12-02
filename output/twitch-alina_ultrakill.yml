@@ -1,15 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - alina_ultrakill
 emojis:
+- name: alishatup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129195/1.0
+- name: alishawut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129772/1.0
+- name: alishachmok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129813/1.0
+- name: alishasad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129815/1.0
 - name: alishamur
   src: https://static-cdn.jtvnw.net/emoticons/v1/95278/1.0
-- name: alishacry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116831/1.0
 - name: alishalemon
   src: https://static-cdn.jtvnw.net/emoticons/v1/94180/1.0
-- name: alishahug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116578/1.0
-- name: alisharage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119101/1.0
 - name: alishaheh
   src: https://static-cdn.jtvnw.net/emoticons/v1/116566/1.0
+- name: alishawow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128612/1.0
+- name: alishacry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128968/1.0
+- name: alishafacepalm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129032/1.0

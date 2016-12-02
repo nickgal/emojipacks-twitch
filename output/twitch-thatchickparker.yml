@@ -17,7 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125377/1.0
 - name: tcpsmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/125378/1.0
-- name: tcpbus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125376/1.0
-- name: tcpfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125375/1.0
+- name: tcpwhale
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126756/1.0
+- name: tcpfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126753/1.0

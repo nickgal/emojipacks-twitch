@@ -1,22 +1,18 @@
 ---
 title: Twitch Subscriber Emotes - easygogame
 emojis:
+- name: gusarmlgmalina
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129845/1.0
+- name: gusarmlgmlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129849/1.0
+- name: gusarmlgwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129974/1.0
 - name: gusarmlgfacepalm
   src: https://static-cdn.jtvnw.net/emoticons/v1/119829/1.0
-- name: gusarmlgmda
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119828/1.0
 - name: gusarmlgrofl
   src: https://static-cdn.jtvnw.net/emoticons/v1/119826/1.0
-- name: gusarmlgrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119827/1.0
-- name: gusarmlgsleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119825/1.0
-- name: gusarmlgehh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/119823/1.0
 - name: gusarmlgheh
   src: https://static-cdn.jtvnw.net/emoticons/v1/119824/1.0
-- name: gusarmlghappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120062/1.0
 - name: gusarmlgsad
   src: https://static-cdn.jtvnw.net/emoticons/v1/120049/1.0
 - name: gusarmlgcute

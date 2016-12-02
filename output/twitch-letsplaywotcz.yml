@@ -1,5 +1,9 @@
 ---
 title: Twitch Subscriber Emotes - letsplaywotcz
 emojis:
+- name: letsplaycats
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129345/1.0
 - name: letsplaykarma
   src: https://static-cdn.jtvnw.net/emoticons/v1/115528/1.0
+- name: letsplaytomato
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127028/1.0

@@ -5,15 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/12406/1.0
 - name: thiefbux
   src: https://static-cdn.jtvnw.net/emoticons/v1/14141/1.0
-- name: thiefhappy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/14136/1.0
-- name: thiefrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/28056/1.0
 - name: thiefdansen
   src: https://static-cdn.jtvnw.net/emoticons/v1/45854/1.0
-- name: thieflove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/66146/1.0
 - name: thiefhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/94803/1.0
 - name: thiefhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/83321/1.0
+- name: thiefrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126980/1.0
+- name: thiefangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126978/1.0
+- name: thieflove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127197/1.0

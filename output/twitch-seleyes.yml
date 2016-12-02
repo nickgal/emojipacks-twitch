@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - seleyes
 emojis:
+- name: seleyesfire
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129288/1.0
 - name: seleyestenta
   src: https://static-cdn.jtvnw.net/emoticons/v1/97555/1.0
 - name: seleyesporacc
@@ -11,5 +13,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/98981/1.0
 - name: seleyespeng
   src: https://static-cdn.jtvnw.net/emoticons/v1/120822/1.0
-- name: seleyeszarya
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122389/1.0

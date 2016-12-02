@@ -5,15 +5,15 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/30841/1.0
 - name: jtmmafia
   src: https://static-cdn.jtvnw.net/emoticons/v1/36586/1.0
-- name: jtmkappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125119/1.0
-- name: jtmface
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125791/1.0
 - name: jtmlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/125790/1.0
-- name: jtmcool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125786/1.0
 - name: jtmthump
   src: https://static-cdn.jtvnw.net/emoticons/v1/125805/1.0
 - name: jtmhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125803/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126501/1.0
+- name: jtmface
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128404/1.0
+- name: jtmomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128584/1.0
+- name: jtmcool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128576/1.0

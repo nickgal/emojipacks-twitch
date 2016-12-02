@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - shurjoka
 emojis:
+- name: jokakappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129614/1.0
+- name: jokasleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129699/1.0
 - name: jokacute
   src: https://static-cdn.jtvnw.net/emoticons/v1/91896/1.0
 - name: jokahi
@@ -9,11 +13,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/91898/1.0
 - name: jokalove
   src: https://static-cdn.jtvnw.net/emoticons/v1/91899/1.0
-- name: jokaevil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/91900/1.0
 - name: jokawtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/91901/1.0
-- name: jokahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93103/1.0
-- name: jokagetrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93288/1.0

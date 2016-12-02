@@ -3,16 +3,16 @@ title: Twitch Subscriber Emotes - nichtnilo
 emojis:
 - name: nilogg
   src: https://static-cdn.jtvnw.net/emoticons/v1/98211/1.0
+- name: nilosad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129390/1.0
+- name: nilonice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129392/1.0
+- name: nilocringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129391/1.0
 - name: nilosexy
   src: https://static-cdn.jtvnw.net/emoticons/v1/108242/1.0
 - name: nilomoney
   src: https://static-cdn.jtvnw.net/emoticons/v1/117477/1.0
-- name: nilolike
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117700/1.0
-- name: nilosad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117699/1.0
-- name: nilonice
-  src: https://static-cdn.jtvnw.net/emoticons/v1/121435/1.0
 - name: nilowhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/122349/1.0
 - name: nilodonut

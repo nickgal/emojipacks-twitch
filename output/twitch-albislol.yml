@@ -13,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/47134/1.0
 - name: albissmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/64330/1.0
+- name: albisangry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127547/1.0
+- name: albissad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127979/1.0

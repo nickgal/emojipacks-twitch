@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - dakyl
 emojis:
-- name: dakyljk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/58130/1.0
 - name: dakyldg
   src: https://static-cdn.jtvnw.net/emoticons/v1/108690/1.0
 - name: dakyllove
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109396/1.0
 - name: dakylpac
   src: https://static-cdn.jtvnw.net/emoticons/v1/113655/1.0
+- name: dakylouin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126269/1.0

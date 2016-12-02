@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - nobanknoob
 emojis:
 - name: nbnkarhu
   src: https://static-cdn.jtvnw.net/emoticons/v1/109250/1.0
-- name: nbnmoi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/109261/1.0
 - name: nbn8d
   src: https://static-cdn.jtvnw.net/emoticons/v1/100474/1.0
 - name: nbnchamp
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109089/1.0
 - name: nbnnhjp
   src: https://static-cdn.jtvnw.net/emoticons/v1/108922/1.0
+- name: nbnheat
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127927/1.0

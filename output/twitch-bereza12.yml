@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - bereza12
 emojis:
-- name: berarmydab
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115971/1.0
 - name: berarmygoodone
   src: https://static-cdn.jtvnw.net/emoticons/v1/100343/1.0
 - name: berarmycodepls
@@ -17,3 +15,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108511/1.0
 - name: berarmyhappy
   src: https://static-cdn.jtvnw.net/emoticons/v1/115969/1.0
+- name: berarmynoice
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126696/1.0
+- name: berarmyshed
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126691/1.0

@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - woodenpotatoes
 emojis:
-- name: tatotatowut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123299/1.0
-- name: tatotatosalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123298/1.0
-- name: tatotatosad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123297/1.0
-- name: tatotatorekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123296/1.0
-- name: tatotatorant
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123295/1.0
-- name: tatotatohype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123294/1.0
+- name: tatosalt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130417/1.0
+- name: tatohype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127031/1.0
+- name: tatowtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127036/1.0
+- name: tatosad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127034/1.0
+- name: tatorant
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127032/1.0
+- name: tatorekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127033/1.0
 - name: tatohorse
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123492/1.0
-- name: tatotatodeal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123293/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127030/1.0
+- name: tatodeal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127029/1.0

@@ -3,18 +3,8 @@ title: Twitch Subscriber Emotes - tigerwriter
 emojis:
 - name: tigerparty
   src: https://static-cdn.jtvnw.net/emoticons/v1/36511/1.0
-- name: tigeromg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/39163/1.0
 - name: tigerhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/46478/1.0
-- name: tigeruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/68041/1.0
-- name: tigerlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67969/1.0
-- name: tigers
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67971/1.0
-- name: tigerz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/67981/1.0
 - name: tigerwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/117995/1.0
 - name: tigerrage
@@ -35,6 +25,16 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/118004/1.0
 - name: tigergasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/118005/1.0
+- name: tigeromg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130345/1.0
+- name: tigerhmm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130346/1.0
+- name: tigerhug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130348/1.0
+- name: tigerlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130349/1.0
+- name: tigerlorf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130350/1.0
 - name: tigerblush
   src: https://static-cdn.jtvnw.net/emoticons/v1/121625/1.0
 - name: tigerrave

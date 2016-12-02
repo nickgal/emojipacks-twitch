@@ -1,7 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - noelbh
 emojis:
-- name: noeflag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123803/1.0
-- name: noefocus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123805/1.0
+- name: noefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130783/1.0
+- name: noechamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130784/1.0

@@ -9,3 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33674/1.0
 - name: m64sad
   src: https://static-cdn.jtvnw.net/emoticons/v1/33675/1.0
+- name: m64stocksdown
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126205/1.0
+- name: m64stocksup
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126204/1.0
+- name: m64grimreaper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126203/1.0
+- name: m64newshawn
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129127/1.0

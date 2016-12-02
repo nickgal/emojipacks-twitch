@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - maquannas
 emojis:
-- name: maqlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/16022/1.0
 - name: maqhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/44518/1.0
 - name: maqhi
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/109747/1.0
 - name: maqsenpai
   src: https://static-cdn.jtvnw.net/emoticons/v1/109748/1.0
+- name: maqlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130450/1.0

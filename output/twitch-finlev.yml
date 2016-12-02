@@ -1,9 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - finlev
 emojis:
+- name: finlevthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130083/1.0
+- name: finlevsleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130084/1.0
 - name: finlevluv
   src: https://static-cdn.jtvnw.net/emoticons/v1/125895/1.0
 - name: finlevevil
   src: https://static-cdn.jtvnw.net/emoticons/v1/125893/1.0
+- name: finlevelmo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126510/1.0
 - name: finlev360
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125894/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128704/1.0
+- name: finlevfish
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128703/1.0

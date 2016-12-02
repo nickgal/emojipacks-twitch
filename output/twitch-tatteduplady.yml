@@ -13,11 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110281/1.0
 - name: tattedtears
   src: https://static-cdn.jtvnw.net/emoticons/v1/112037/1.0
-- name: tattedpuff
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112038/1.0
 - name: tattedhug
   src: https://static-cdn.jtvnw.net/emoticons/v1/110788/1.0
 - name: tattedaim
   src: https://static-cdn.jtvnw.net/emoticons/v1/112326/1.0
 - name: tattedrip
   src: https://static-cdn.jtvnw.net/emoticons/v1/115765/1.0
+- name: tattedhello
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130461/1.0

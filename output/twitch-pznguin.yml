@@ -3,5 +3,13 @@ title: Twitch Subscriber Emotes - pznguin
 emojis:
 - name: pzngface
   src: https://static-cdn.jtvnw.net/emoticons/v1/105203/1.0
+- name: pznghype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129806/1.0
+- name: pzngkappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129824/1.0
 - name: pzngliquid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113158/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129825/1.0
+- name: pznggg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130194/1.0
+- name: pzngshook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130394/1.0

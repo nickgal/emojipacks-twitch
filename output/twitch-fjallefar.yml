@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - fjallefar
 emojis:
+- name: fjallelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130834/1.0
 - name: fjallekebab
   src: https://static-cdn.jtvnw.net/emoticons/v1/114286/1.0
 - name: fjallefail
@@ -15,3 +17,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113556/1.0
 - name: fjallekappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/115782/1.0
+- name: fjallepelikan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130540/1.0

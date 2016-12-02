@@ -11,8 +11,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/119149/1.0
 - name: ldrchimps
   src: https://static-cdn.jtvnw.net/emoticons/v1/120339/1.0
-- name: ldrbb
-  src: https://static-cdn.jtvnw.net/emoticons/v1/121475/1.0
 - name: ldrahh
   src: https://static-cdn.jtvnw.net/emoticons/v1/124767/1.0
 - name: ldrt
@@ -21,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125154/1.0
 - name: ldrlul
   src: https://static-cdn.jtvnw.net/emoticons/v1/125806/1.0
+- name: ldroops
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128895/1.0

@@ -9,15 +9,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/78749/1.0
 - name: brfrox
   src: https://static-cdn.jtvnw.net/emoticons/v1/80572/1.0
-- name: brfterrify
-  src: https://static-cdn.jtvnw.net/emoticons/v1/81601/1.0
 - name: brfhere
   src: https://static-cdn.jtvnw.net/emoticons/v1/84002/1.0
 - name: brf5
   src: https://static-cdn.jtvnw.net/emoticons/v1/90646/1.0
 - name: brfholy
   src: https://static-cdn.jtvnw.net/emoticons/v1/90647/1.0
-- name: brflay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/90648/1.0
-- name: brfgun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/101987/1.0
+- name: brfpotion
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127112/1.0

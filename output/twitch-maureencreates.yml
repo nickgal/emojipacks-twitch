@@ -1,11 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - maureencreates
 emojis:
-- name: createhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72042/1.0
 - name: createlove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72043/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126367/1.0
 - name: createnoodle
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72306/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126364/1.0
 - name: createarms
-  src: https://static-cdn.jtvnw.net/emoticons/v1/72307/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126365/1.0
+- name: createwaifu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126408/1.0

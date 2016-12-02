@@ -1,11 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - lynx_reviewer
 emojis:
+- name: maggielr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128067/1.0
 - name: maggietidus
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108695/1.0
-- name: maggiecute
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108676/1.0
-- name: maggielife
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108675/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128068/1.0
+- name: maggiebanhammer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128088/1.0
+- name: maggieplaton
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128084/1.0
 - name: maggieintensifies
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108674/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128069/1.0
+- name: maggierai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128071/1.0
+- name: maggiemogu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128098/1.0
+- name: maggietentacle
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128103/1.0

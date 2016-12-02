@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - colthavok
 emojis:
+- name: colthavokhot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129790/1.0
+- name: colthavokbackpack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129817/1.0
 - name: colthavokhubsype
   src: https://static-cdn.jtvnw.net/emoticons/v1/121537/1.0
 - name: colthavokwtf
@@ -15,3 +19,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/122863/1.0
 - name: colthavokopop
   src: https://static-cdn.jtvnw.net/emoticons/v1/122862/1.0
+- name: colthavokrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128983/1.0
+- name: colthavokround11
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128982/1.0
+- name: colthavokace
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128981/1.0

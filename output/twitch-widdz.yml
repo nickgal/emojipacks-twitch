@@ -3,13 +3,17 @@ title: Twitch Subscriber Emotes - widdz
 emojis:
 - name: widdzpika
   src: https://static-cdn.jtvnw.net/emoticons/v1/123093/1.0
-- name: widdzchar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123095/1.0
-- name: widdzgood
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123097/1.0
 - name: widdzrogue
   src: https://static-cdn.jtvnw.net/emoticons/v1/123248/1.0
 - name: widdzhacku
   src: https://static-cdn.jtvnw.net/emoticons/v1/123757/1.0
+- name: widdzh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126902/1.0
+- name: widdzlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126957/1.0
+- name: widdzfpf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127720/1.0
 - name: widdzclap
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124298/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127853/1.0
+- name: widdzhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127854/1.0

@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/33963/1.0
 - name: luckhow
   src: https://static-cdn.jtvnw.net/emoticons/v1/35194/1.0
-- name: luckh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/102959/1.0
 - name: luckaye
   src: https://static-cdn.jtvnw.net/emoticons/v1/102958/1.0
 - name: luckrage
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/117994/1.0
 - name: luckt
   src: https://static-cdn.jtvnw.net/emoticons/v1/117993/1.0
+- name: luckh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126825/1.0

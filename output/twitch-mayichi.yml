@@ -1,17 +1,17 @@
 ---
 title: Twitch Subscriber Emotes - mayichi
 emojis:
+- name: mayimappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129760/1.0
+- name: mayicobra
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129971/1.0
 - name: mayimayiface
   src: https://static-cdn.jtvnw.net/emoticons/v1/117162/1.0
-- name: mayimayifail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117166/1.0
-- name: mayimayihype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117145/1.0
-- name: mayimappahd
-  src: https://static-cdn.jtvnw.net/emoticons/v1/118594/1.0
 - name: mayicari
   src: https://static-cdn.jtvnw.net/emoticons/v1/124312/1.0
 - name: mayibaddy
   src: https://static-cdn.jtvnw.net/emoticons/v1/124525/1.0
 - name: mayirip
   src: https://static-cdn.jtvnw.net/emoticons/v1/124514/1.0
+- name: mayihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127867/1.0

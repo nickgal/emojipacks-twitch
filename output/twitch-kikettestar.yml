@@ -21,8 +21,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/66130/1.0
 - name: kikettetfou
   src: https://static-cdn.jtvnw.net/emoticons/v1/84487/1.0
-- name: kikettegun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/85959/1.0
 - name: kikettecor
   src: https://static-cdn.jtvnw.net/emoticons/v1/91114/1.0
 - name: kikettekev
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/124821/1.0
 - name: kikettewheel
   src: https://static-cdn.jtvnw.net/emoticons/v1/124819/1.0
+- name: kiketteazy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126999/1.0

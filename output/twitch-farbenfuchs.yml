@@ -1,8 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - farbenfuchs
 emojis:
-- name: calyburger
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99572/1.0
+- name: calysonne
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129254/1.0
 - name: calyfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/99573/1.0
 - name: calyblitz
@@ -11,11 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/99575/1.0
 - name: calykawaii
   src: https://static-cdn.jtvnw.net/emoticons/v1/99579/1.0
-- name: calyarm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99686/1.0
 - name: calypizza
   src: https://static-cdn.jtvnw.net/emoticons/v1/99640/1.0
 - name: calya
   src: https://static-cdn.jtvnw.net/emoticons/v1/111702/1.0
 - name: calytasha
   src: https://static-cdn.jtvnw.net/emoticons/v1/117848/1.0
+- name: calypuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128108/1.0
+- name: calygasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128107/1.0

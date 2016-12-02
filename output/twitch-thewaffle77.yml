@@ -1,10 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - thewaffle77
 emojis:
+- name: hmwpac
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129578/1.0
 - name: hmwlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/75622/1.0
 - name: hmwone
   src: https://static-cdn.jtvnw.net/emoticons/v1/75624/1.0
+- name: hmwthink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129579/1.0
 - name: hmwwombo
   src: https://static-cdn.jtvnw.net/emoticons/v1/117826/1.0
 - name: hmww

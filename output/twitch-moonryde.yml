@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - moonryde
 emojis:
-- name: mwtimetorgaz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/118365/1.0
 - name: mwtimemoon
   src: https://static-cdn.jtvnw.net/emoticons/v1/118367/1.0
 - name: mwtimewcar
@@ -11,5 +9,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/117687/1.0
 - name: mwtimewolf
   src: https://static-cdn.jtvnw.net/emoticons/v1/117362/1.0
-- name: mwtimemwarven
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120847/1.0
+- name: mwtimejack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126793/1.0
+- name: mwtimetorgaz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126783/1.0

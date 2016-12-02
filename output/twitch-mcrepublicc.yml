@@ -1,15 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - mcrepublicc
 emojis:
+- name: repugrr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130479/1.0
 - name: repulove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112979/1.0
-- name: repufacepalm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/115820/1.0
-- name: repupalabra
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112980/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130478/1.0
 - name: repusad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112981/1.0
-- name: repusenal
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112982/1.0
-- name: repushippeo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116528/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130480/1.0
+- name: repuwtf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130481/1.0
+- name: repurip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130482/1.0
+- name: repuhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130483/1.0

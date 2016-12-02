@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - thebakertwins
 emojis:
-- name: bakertwinswth
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122872/1.0
 - name: bakertwinsohno
   src: https://static-cdn.jtvnw.net/emoticons/v1/122871/1.0
 - name: bakertwinscaribou
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125299/1.0
 - name: bakertwinshype
   src: https://static-cdn.jtvnw.net/emoticons/v1/125657/1.0
+- name: bakertwinstroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127322/1.0

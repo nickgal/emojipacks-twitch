@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - westrice
 emojis:
+- name: stricekiki
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129478/1.0
 - name: stricerice
   src: https://static-cdn.jtvnw.net/emoticons/v1/78618/1.0
 - name: stricesleep
@@ -9,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82634/1.0
 - name: stricebeh
   src: https://static-cdn.jtvnw.net/emoticons/v1/82635/1.0
+- name: striceo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130391/1.0

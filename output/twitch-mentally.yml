@@ -3,15 +3,17 @@ title: Twitch Subscriber Emotes - mentally
 emojis:
 - name: mengg
   src: https://static-cdn.jtvnw.net/emoticons/v1/49080/1.0
-- name: menrekt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60924/1.0
-- name: mencock
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79790/1.0
-- name: menhh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/47675/1.0
 - name: menmlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/47676/1.0
-- name: menluck
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60860/1.0
-- name: menhey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92857/1.0
+- name: menhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126953/1.0
+- name: menlove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126952/1.0
+- name: menxray
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126954/1.0
+- name: menrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128221/1.0
+- name: menlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128220/1.0
+- name: menrekt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128222/1.0

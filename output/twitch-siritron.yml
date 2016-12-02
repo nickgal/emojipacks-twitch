@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - siritron
 emojis:
-- name: sirianhax
-  src: https://static-cdn.jtvnw.net/emoticons/v1/73214/1.0
 - name: siriangasm
   src: https://static-cdn.jtvnw.net/emoticons/v1/90260/1.0
 - name: sirianrage
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110499/1.0
 - name: sirianhi
   src: https://static-cdn.jtvnw.net/emoticons/v1/110500/1.0
+- name: siriangame
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126498/1.0

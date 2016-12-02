@@ -5,6 +5,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113837/1.0
 - name: crashleecry
   src: https://static-cdn.jtvnw.net/emoticons/v1/113838/1.0
+- name: crashleereindeer
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130905/1.0
+- name: crashleehohoho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130913/1.0
 - name: crashleehi
   src: https://static-cdn.jtvnw.net/emoticons/v1/113842/1.0
 - name: crashleecreep
@@ -13,11 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113943/1.0
 - name: crashleesuh
   src: https://static-cdn.jtvnw.net/emoticons/v1/115165/1.0
-- name: crashleebruh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114055/1.0
 - name: crashleewut
   src: https://static-cdn.jtvnw.net/emoticons/v1/115168/1.0
-- name: crashleefail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123230/1.0
-- name: crashleesexy
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123224/1.0
+- name: crashleesnowman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126225/1.0

@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - thepromotive
 emojis:
-- name: promobonj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84757/1.0
-- name: promovac
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84756/1.0
 - name: promogonj
   src: https://static-cdn.jtvnw.net/emoticons/v1/73424/1.0
 - name: promobrat
   src: https://static-cdn.jtvnw.net/emoticons/v1/81994/1.0
-- name: promokonchik
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82040/1.0
-- name: promojolg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/82217/1.0
+- name: promohand
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130195/1.0
+- name: promohand2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130196/1.0
+- name: promovah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126831/1.0
+- name: promokusok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126906/1.0
+- name: promohack
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126974/1.0
+- name: promoxuxu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126907/1.0

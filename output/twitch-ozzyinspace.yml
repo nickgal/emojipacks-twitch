@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ozzyinspace
 emojis:
-- name: spacesun
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79319/1.0
 - name: spacecool
   src: https://static-cdn.jtvnw.net/emoticons/v1/80676/1.0
 - name: spaceb
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82135/1.0
 - name: spacedude
   src: https://static-cdn.jtvnw.net/emoticons/v1/86829/1.0
+- name: spacetrigger
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127065/1.0

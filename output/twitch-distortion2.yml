@@ -5,8 +5,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/23777/1.0
 - name: distlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/23776/1.0
-- name: distrage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/23807/1.0
+- name: distgibe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129322/1.0
+- name: disto
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129323/1.0
 - name: distpls
   src: https://static-cdn.jtvnw.net/emoticons/v1/24041/1.0
 - name: distdog
@@ -31,3 +33,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116768/1.0
 - name: distglod
   src: https://static-cdn.jtvnw.net/emoticons/v1/116643/1.0
+- name: distrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130473/1.0
+- name: distsmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126694/1.0

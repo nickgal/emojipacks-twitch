@@ -29,12 +29,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/90117/1.0
 - name: avalonshy
   src: https://static-cdn.jtvnw.net/emoticons/v1/90118/1.0
-- name: avalonevil
-  src: https://static-cdn.jtvnw.net/emoticons/v1/102049/1.0
 - name: avalonbutter
   src: https://static-cdn.jtvnw.net/emoticons/v1/124881/1.0
-- name: avalonderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124882/1.0
 - name: avalondoot
   src: https://static-cdn.jtvnw.net/emoticons/v1/124883/1.0
 - name: avalonfiesta
@@ -45,3 +41,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/124889/1.0
 - name: avalonspike
   src: https://static-cdn.jtvnw.net/emoticons/v1/124891/1.0
+- name: avalonhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128568/1.0
+- name: avalondad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128569/1.0

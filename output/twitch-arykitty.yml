@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - arykitty
 emojis:
-- name: arysmile
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11940/1.0
-- name: aryuni
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11952/1.0
-- name: arybit
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12458/1.0
-- name: arytouch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/13797/1.0
 - name: aryhonk
   src: https://static-cdn.jtvnw.net/emoticons/v1/59092/1.0
 - name: arylove
   src: https://static-cdn.jtvnw.net/emoticons/v1/59093/1.0
-- name: arysleep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59094/1.0
 - name: arywand
   src: https://static-cdn.jtvnw.net/emoticons/v1/59095/1.0
+- name: arybit
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126378/1.0
+- name: arycry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127828/1.0
+- name: arythink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127827/1.0
+- name: aryblush
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128536/1.0
+- name: aryrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128523/1.0

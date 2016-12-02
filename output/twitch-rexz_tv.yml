@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - rexz_tv
 emojis:
+- name: rexzsafe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130854/1.0
+- name: rexzuwe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130324/1.0
 - name: rexzfeels
   src: https://static-cdn.jtvnw.net/emoticons/v1/124015/1.0
 - name: rexzmofa

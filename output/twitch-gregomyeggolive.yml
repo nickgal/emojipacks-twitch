@@ -5,9 +5,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/101604/1.0
 - name: gregoboop
   src: https://static-cdn.jtvnw.net/emoticons/v1/101595/1.0
-- name: gregoc9
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107906/1.0
 - name: gregotea
   src: https://static-cdn.jtvnw.net/emoticons/v1/108321/1.0
 - name: gregozen
   src: https://static-cdn.jtvnw.net/emoticons/v1/108322/1.0
+- name: gregofail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128048/1.0
+- name: gregosleeper
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128179/1.0

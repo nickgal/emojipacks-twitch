@@ -1,14 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - freya_chan
 emojis:
-- name: freyaharley
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21670/1.0
 - name: freyasub
   src: https://static-cdn.jtvnw.net/emoticons/v1/21700/1.0
-- name: freyapizza
-  src: https://static-cdn.jtvnw.net/emoticons/v1/21703/1.0
-- name: freyaspoon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/30187/1.0
 - name: freyacreep
   src: https://static-cdn.jtvnw.net/emoticons/v1/58249/1.0
 - name: freyarage
@@ -17,3 +11,9 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/121566/1.0
 - name: freyaderp
   src: https://static-cdn.jtvnw.net/emoticons/v1/121567/1.0
+- name: freyafoxy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128288/1.0
+- name: freyapizza
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128427/1.0
+- name: freyawut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128441/1.0

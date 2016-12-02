@@ -3,10 +3,14 @@ title: Twitch Subscriber Emotes - chrisop999
 emojis:
 - name: chrispwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/22064/1.0
+- name: chrispliar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129341/1.0
+- name: chrispnooo
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129359/1.0
 - name: chrispgo
   src: https://static-cdn.jtvnw.net/emoticons/v1/47157/1.0
-- name: chrisporz
-  src: https://static-cdn.jtvnw.net/emoticons/v1/69504/1.0
+- name: chrispgayy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129521/1.0
 - name: chrispcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/69640/1.0
 - name: chrispcc
@@ -15,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125421/1.0
 - name: chrispgay
   src: https://static-cdn.jtvnw.net/emoticons/v1/125419/1.0
+- name: chrispwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128954/1.0

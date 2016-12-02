@@ -3,14 +3,18 @@ title: Twitch Subscriber Emotes - stylishnoob4
 emojis:
 - name: sekidst
   src: https://static-cdn.jtvnw.net/emoticons/v1/61812/1.0
+- name: sekisom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129959/1.0
+- name: sekizar
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129961/1.0
+- name: sekigen
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129963/1.0
 - name: sekidva
   src: https://static-cdn.jtvnw.net/emoticons/v1/108127/1.0
 - name: sekipogh
   src: https://static-cdn.jtvnw.net/emoticons/v1/113333/1.0
 - name: sekigjz
   src: https://static-cdn.jtvnw.net/emoticons/v1/113334/1.0
-- name: sekicryr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/113335/1.0
 - name: sekihiw
   src: https://static-cdn.jtvnw.net/emoticons/v1/113336/1.0
 - name: sekisighw

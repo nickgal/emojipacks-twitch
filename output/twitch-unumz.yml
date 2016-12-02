@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - unumz
 emojis:
+- name: unumzg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129470/1.0
+- name: unumzp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129644/1.0
 - name: unumzl
   src: https://static-cdn.jtvnw.net/emoticons/v1/109868/1.0
 - name: unumzfdb
@@ -9,3 +13,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/110549/1.0
 - name: unumzh
   src: https://static-cdn.jtvnw.net/emoticons/v1/110784/1.0
+- name: unumzhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128138/1.0

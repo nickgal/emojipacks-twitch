@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - qwikerthanu
 emojis:
+- name: qwikerfatb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129264/1.0
+- name: qwikernessie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129265/1.0
 - name: qwikerswedishchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/100135/1.0
 - name: qwikernuke

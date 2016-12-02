@@ -1,5 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - notser
 emojis:
+- name: notserisland
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130096/1.0
+- name: notsersecure
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127811/1.0
+- name: notsersteal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127812/1.0
 - name: notserhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/121162/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127810/1.0

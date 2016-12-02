@@ -1,6 +1,10 @@
 ---
 title: Twitch Subscriber Emotes - emilycc
 emojis:
+- name: emilyccd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129837/1.0
+- name: emilyccthicc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130082/1.0
 - name: emilyccsleeper
   src: https://static-cdn.jtvnw.net/emoticons/v1/124462/1.0
 - name: emilyccw
@@ -9,7 +13,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/125117/1.0
 - name: emilyccchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/125217/1.0
-- name: emilyccthinking
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125145/1.0
 - name: emilycchype
   src: https://static-cdn.jtvnw.net/emoticons/v1/125562/1.0
+- name: emilyccthinking
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126126/1.0
+- name: emilycccringe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126125/1.0
+- name: emilycclove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126124/1.0

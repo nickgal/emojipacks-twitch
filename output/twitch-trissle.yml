@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - trissle
 emojis:
+- name: trissrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129831/1.0
+- name: trisst
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129832/1.0
 - name: trissfhm
   src: https://static-cdn.jtvnw.net/emoticons/v1/125464/1.0
 - name: trisslove
   src: https://static-cdn.jtvnw.net/emoticons/v1/125480/1.0
+- name: trisslul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127364/1.0
+- name: trissthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127362/1.0
+- name: trissboni
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127361/1.0
+- name: trissgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127397/1.0

@@ -1,28 +1,26 @@
 ---
 title: Twitch Subscriber Emotes - anthony_kongphan
 emojis:
-- name: ninjaanugget
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11338/1.0
-- name: ninjaaslug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11337/1.0
-- name: ninjaanjm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11233/1.0
-- name: ninjaaktn
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11236/1.0
-- name: ninjaashr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/11235/1.0
+- name: ninjaak
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129188/1.0
+- name: ninjaaj
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129189/1.0
+- name: ninjaal
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129190/1.0
+- name: ninjaaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129191/1.0
 - name: ninjaarage
   src: https://static-cdn.jtvnw.net/emoticons/v1/11920/1.0
-- name: ninjaarocks
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12505/1.0
-- name: ninjaashrimp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/12506/1.0
 - name: ninjaagg
   src: https://static-cdn.jtvnw.net/emoticons/v1/20687/1.0
+- name: ninjaas
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129187/1.0
 - name: ninjaapink
   src: https://static-cdn.jtvnw.net/emoticons/v1/35190/1.0
 - name: ninjaakappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/37535/1.0
+- name: ninjaah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129461/1.0
 - name: ninjaachunks
   src: https://static-cdn.jtvnw.net/emoticons/v1/38306/1.0
 - name: ninjaalove
@@ -39,3 +37,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50738/1.0
 - name: ninjaab
   src: https://static-cdn.jtvnw.net/emoticons/v1/50728/1.0
+- name: ninjaaninjaaa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128365/1.0
+- name: ninjaaninjaaw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128472/1.0

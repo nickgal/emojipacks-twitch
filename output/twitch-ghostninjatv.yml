@@ -1,13 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - ghostninjatv
 emojis:
+- name: ghostninjafeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130630/1.0
 - name: ghostninjaww
   src: https://static-cdn.jtvnw.net/emoticons/v1/124188/1.0
 - name: ghostninjasquiddab
   src: https://static-cdn.jtvnw.net/emoticons/v1/124185/1.0
 - name: ghostninjanuke
   src: https://static-cdn.jtvnw.net/emoticons/v1/124856/1.0
-- name: ghostninjahype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124855/1.0
 - name: ghostninjagunner
   src: https://static-cdn.jtvnw.net/emoticons/v1/125008/1.0
+- name: ghostninjachill
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126453/1.0
+- name: ghostninjahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129113/1.0
+- name: ghostninjasub
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129111/1.0

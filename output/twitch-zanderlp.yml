@@ -7,6 +7,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/27165/1.0
 - name: zanderkopf
   src: https://static-cdn.jtvnw.net/emoticons/v1/27168/1.0
+- name: zandermoney
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129681/1.0
+- name: zandergg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129682/1.0
+- name: zandertroll
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129683/1.0
 - name: zanderhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/81891/1.0
 - name: zanderstrange
@@ -19,5 +25,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82459/1.0
 - name: zandersmile
   src: https://static-cdn.jtvnw.net/emoticons/v1/82458/1.0
-- name: zandergg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120640/1.0
+- name: zanderrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128285/1.0

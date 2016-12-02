@@ -5,22 +5,20 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/92730/1.0
 - name: no1yee
   src: https://static-cdn.jtvnw.net/emoticons/v1/92740/1.0
-- name: no1wave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92739/1.0
 - name: no1what
   src: https://static-cdn.jtvnw.net/emoticons/v1/92738/1.0
 - name: no1rink
   src: https://static-cdn.jtvnw.net/emoticons/v1/92737/1.0
+- name: no1hype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129657/1.0
+- name: no1love
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129658/1.0
+- name: no1wave
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129659/1.0
 - name: no1pls
   src: https://static-cdn.jtvnw.net/emoticons/v1/92736/1.0
 - name: no1ooo
   src: https://static-cdn.jtvnw.net/emoticons/v1/92735/1.0
-- name: no1purr
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114217/1.0
-- name: no1love
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92733/1.0
-- name: no1hype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92732/1.0
 - name: no1blush
   src: https://static-cdn.jtvnw.net/emoticons/v1/118816/1.0
 - name: no1cry
@@ -31,3 +29,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/118819/1.0
 - name: no1meh
   src: https://static-cdn.jtvnw.net/emoticons/v1/118820/1.0
+- name: no1purr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130192/1.0
+- name: no1w
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130205/1.0

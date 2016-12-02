@@ -5,6 +5,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/90156/1.0
 - name: rallwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/108756/1.0
+- name: rallc
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129809/1.0
 - name: rallh
   src: https://static-cdn.jtvnw.net/emoticons/v1/89089/1.0
 - name: ralldank
@@ -15,5 +17,3 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/122427/1.0
 - name: rallw
   src: https://static-cdn.jtvnw.net/emoticons/v1/122426/1.0
-- name: rallc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/124404/1.0

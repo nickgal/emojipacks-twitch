@@ -1,11 +1,13 @@
 ---
 title: Twitch Subscriber Emotes - anti
 emojis:
-- name: sleeperlurk
+- name: imtantilurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/125689/1.0
-- name: sleeperfree
+- name: imtantifree
   src: https://static-cdn.jtvnw.net/emoticons/v1/125688/1.0
-- name: sleepercrisp
+- name: imtanticrisp
   src: https://static-cdn.jtvnw.net/emoticons/v1/125687/1.0
-- name: sleepersleeper
-  src: https://static-cdn.jtvnw.net/emoticons/v1/125686/1.0
+- name: imtantishleep
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127340/1.0
+- name: imtantidead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127337/1.0

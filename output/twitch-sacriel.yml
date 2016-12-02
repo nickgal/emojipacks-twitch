@@ -17,12 +17,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/2831/1.0
 - name: sac42pride
   src: https://static-cdn.jtvnw.net/emoticons/v1/2885/1.0
-- name: sacty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/4462/1.0
 - name: sactrain
   src: https://static-cdn.jtvnw.net/emoticons/v1/11985/1.0
-- name: sactwitch
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40602/1.0
 - name: sacawk
   src: https://static-cdn.jtvnw.net/emoticons/v1/40604/1.0
 - name: sacthug
@@ -51,3 +47,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/80544/1.0
 - name: sacboom
   src: https://static-cdn.jtvnw.net/emoticons/v1/120513/1.0
+- name: sacjeff
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128867/1.0
+- name: sacjukes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128868/1.0

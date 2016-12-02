@@ -1,12 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - pohx
 emojis:
-- name: pohxwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/10593/1.0
-- name: pohxwant
-  src: https://static-cdn.jtvnw.net/emoticons/v1/22302/1.0
-- name: pohxoscar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26493/1.0
 - name: pohxduck
   src: https://static-cdn.jtvnw.net/emoticons/v1/32839/1.0
 - name: pohxrng

@@ -1,14 +1,16 @@
 ---
 title: Twitch Subscriber Emotes - valkia
 emojis:
+- name: valkthump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129354/1.0
+- name: valksmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129405/1.0
 - name: valkmad
   src: https://static-cdn.jtvnw.net/emoticons/v1/60498/1.0
 - name: valksweg
   src: https://static-cdn.jtvnw.net/emoticons/v1/60480/1.0
 - name: valkrekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/60654/1.0
-- name: valkcreep
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89905/1.0
 - name: valkhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/67281/1.0
 - name: valkole
@@ -21,3 +23,11 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/86768/1.0
 - name: valkp
   src: https://static-cdn.jtvnw.net/emoticons/v1/86766/1.0
+- name: valklove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128676/1.0
+- name: valkhook
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128680/1.0
+- name: valkrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128674/1.0
+- name: valkrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128655/1.0

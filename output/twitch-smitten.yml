@@ -1,20 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - smitten
 emojis:
-- name: smitboop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/9595/1.0
 - name: smithype
   src: https://static-cdn.jtvnw.net/emoticons/v1/40744/1.0
 - name: smitslain
   src: https://static-cdn.jtvnw.net/emoticons/v1/40745/1.0
-- name: smitop
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40747/1.0
 - name: smitriha
   src: https://static-cdn.jtvnw.net/emoticons/v1/40750/1.0
 - name: smitplea
   src: https://static-cdn.jtvnw.net/emoticons/v1/40749/1.0
-- name: smitlappa
-  src: https://static-cdn.jtvnw.net/emoticons/v1/40746/1.0
 - name: smithi
   src: https://static-cdn.jtvnw.net/emoticons/v1/47476/1.0
 - name: smitlove
@@ -23,3 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/59367/1.0
 - name: smitbye
   src: https://static-cdn.jtvnw.net/emoticons/v1/82272/1.0
+- name: smitlewd
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127486/1.0
+- name: smitpuch
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127623/1.0

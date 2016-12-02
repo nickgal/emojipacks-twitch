@@ -1,20 +1,24 @@
 ---
 title: Twitch Subscriber Emotes - nickitaylor
 emojis:
+- name: nickicry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130631/1.0
+- name: nickivom
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130633/1.0
+- name: nickicheers
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130634/1.0
+- name: nickipika
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130648/1.0
 - name: nickinira
   src: https://static-cdn.jtvnw.net/emoticons/v1/17624/1.0
 - name: nickichu
   src: https://static-cdn.jtvnw.net/emoticons/v1/17644/1.0
+- name: nickihype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130658/1.0
 - name: nickilit
   src: https://static-cdn.jtvnw.net/emoticons/v1/103737/1.0
-- name: nickihype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/105450/1.0
-- name: nickiscarf
-  src: https://static-cdn.jtvnw.net/emoticons/v1/44134/1.0
 - name: nickiscuddle
   src: https://static-cdn.jtvnw.net/emoticons/v1/47197/1.0
-- name: nickihuo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/59149/1.0
 - name: nickidat
   src: https://static-cdn.jtvnw.net/emoticons/v1/79227/1.0
 - name: nickiheart
@@ -23,10 +27,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/77232/1.0
 - name: nickislurp
   src: https://static-cdn.jtvnw.net/emoticons/v1/77234/1.0
-- name: nickized
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79435/1.0
-- name: nickivi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79908/1.0
 - name: nickijinx
   src: https://static-cdn.jtvnw.net/emoticons/v1/80829/1.0
 - name: nickilux

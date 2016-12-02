@@ -7,8 +7,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106345/1.0
 - name: bronzesad
   src: https://static-cdn.jtvnw.net/emoticons/v1/106346/1.0
-- name: bronzesalt
-  src: https://static-cdn.jtvnw.net/emoticons/v1/106347/1.0
 - name: bronzerekt
   src: https://static-cdn.jtvnw.net/emoticons/v1/106344/1.0
 - name: bronzegasm
@@ -19,5 +17,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/106348/1.0
 - name: bronzerage
   src: https://static-cdn.jtvnw.net/emoticons/v1/115884/1.0
-- name: bronzefail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/118626/1.0
+- name: bronzehai
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127624/1.0
+- name: bronzef
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127622/1.0

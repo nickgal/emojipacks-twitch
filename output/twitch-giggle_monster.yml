@@ -9,6 +9,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/98846/1.0
 - name: gigzkfc
   src: https://static-cdn.jtvnw.net/emoticons/v1/35237/1.0
+- name: gigzho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130795/1.0
 - name: gigzmlg
   src: https://static-cdn.jtvnw.net/emoticons/v1/49380/1.0
 - name: gigzout
@@ -27,8 +29,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/57113/1.0
 - name: gigzhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/57544/1.0
-- name: gigzsame
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100427/1.0
 - name: gigzlurk
   src: https://static-cdn.jtvnw.net/emoticons/v1/98132/1.0
 - name: gigzwat

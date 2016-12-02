@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - slntprotagonist
 emojis:
+- name: protaghi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130725/1.0
+- name: protagl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130726/1.0
 - name: protaglol
   src: https://static-cdn.jtvnw.net/emoticons/v1/122825/1.0
 - name: protagfail
   src: https://static-cdn.jtvnw.net/emoticons/v1/122841/1.0
 - name: protagayy
   src: https://static-cdn.jtvnw.net/emoticons/v1/123010/1.0
-- name: protaggg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123109/1.0
-- name: protagshrug
-  src: https://static-cdn.jtvnw.net/emoticons/v1/123266/1.0
 - name: protagh
   src: https://static-cdn.jtvnw.net/emoticons/v1/123256/1.0
+- name: protagrage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127899/1.0
+- name: protagshrug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127898/1.0

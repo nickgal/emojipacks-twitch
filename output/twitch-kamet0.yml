@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - kamet0
 emojis:
+- name: kamelchinois
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129310/1.0
 - name: kamelglouglou
   src: https://static-cdn.jtvnw.net/emoticons/v1/96351/1.0
 - name: kamelmdr

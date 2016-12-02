@@ -1,14 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - suicidesixx
 emojis:
-- name: shizzynasty
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86286/1.0
-- name: shizzysens
-  src: https://static-cdn.jtvnw.net/emoticons/v1/86024/1.0
-- name: shizzywave
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88192/1.0
-- name: shizzyboi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88201/1.0
 - name: shizzywhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/92761/1.0
 - name: shizzybaby
@@ -19,5 +11,13 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/115433/1.0
 - name: shizzysleep
   src: https://static-cdn.jtvnw.net/emoticons/v1/116044/1.0
-- name: shizzypred
-  src: https://static-cdn.jtvnw.net/emoticons/v1/116046/1.0
+- name: shizzyfood
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126207/1.0
+- name: shizzysens
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126224/1.0
+- name: shizzyb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126200/1.0
+- name: shizzyhap
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126206/1.0
+- name: shizzymhm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126485/1.0

@@ -23,8 +23,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/89573/1.0
 - name: lupolove
   src: https://static-cdn.jtvnw.net/emoticons/v1/91247/1.0
-- name: lupobot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/92069/1.0
 - name: luporng
   src: https://static-cdn.jtvnw.net/emoticons/v1/92416/1.0
 - name: lupoye
@@ -41,3 +39,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/113961/1.0
 - name: luponinja
   src: https://static-cdn.jtvnw.net/emoticons/v1/116556/1.0
+- name: lupok
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128428/1.0

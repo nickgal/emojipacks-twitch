@@ -1,5 +1,15 @@
 ---
 title: Twitch Subscriber Emotes - rostyhs
 emojis:
+- name: rostyhoodie
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129297/1.0
 - name: rostypride
   src: https://static-cdn.jtvnw.net/emoticons/v1/124726/1.0
+- name: rostyfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126895/1.0
+- name: rostyw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127802/1.0
+- name: rostygainzl
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128333/1.0
+- name: rostygainzr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128334/1.0

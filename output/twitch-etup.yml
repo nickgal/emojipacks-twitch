@@ -3,17 +3,15 @@ title: Twitch Subscriber Emotes - etup
 emojis:
 - name: etuprmt
   src: https://static-cdn.jtvnw.net/emoticons/v1/25750/1.0
-- name: etup1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48106/1.0
-- name: etup2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/48107/1.0
 - name: etupchamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/68748/1.0
-- name: etupc2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99831/1.0
 - name: etupxd
   src: https://static-cdn.jtvnw.net/emoticons/v1/85011/1.0
-- name: etup3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100389/1.0
-- name: etup4
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100390/1.0
+- name: etupf
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128540/1.0
+- name: etupb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128945/1.0
+- name: etupw
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129059/1.0
+- name: etupt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129105/1.0

@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - 2ggaming
 emojis:
 - name: twoggbam
   src: https://static-cdn.jtvnw.net/emoticons/v1/81413/1.0
-- name: twoggvoid
-  src: https://static-cdn.jtvnw.net/emoticons/v1/79625/1.0
 - name: twoggk9
   src: https://static-cdn.jtvnw.net/emoticons/v1/78480/1.0
 - name: twoggstrides
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/116977/1.0
 - name: twoggrashido
   src: https://static-cdn.jtvnw.net/emoticons/v1/108071/1.0
+- name: twogggrin
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128515/1.0

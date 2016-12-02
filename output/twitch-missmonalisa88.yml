@@ -1,19 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - missmonalisa88
 emojis:
-- name: monacry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26265/1.0
-- name: monarage
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26267/1.0
-- name: monadrunk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27461/1.0
-- name: monahotdog
-  src: https://static-cdn.jtvnw.net/emoticons/v1/27460/1.0
 - name: monapoop
   src: https://static-cdn.jtvnw.net/emoticons/v1/26715/1.0
-- name: monalotion
-  src: https://static-cdn.jtvnw.net/emoticons/v1/26718/1.0
+- name: monacry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130303/1.0
+- name: monarage
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130304/1.0
 - name: monajames
-  src: https://static-cdn.jtvnw.net/emoticons/v1/41221/1.0
-- name: monahello
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78870/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130305/1.0
+- name: monahype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130306/1.0
+- name: monalove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130307/1.0
+- name: monarip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130308/1.0
+- name: monahi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130309/1.0

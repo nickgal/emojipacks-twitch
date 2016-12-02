@@ -3,21 +3,31 @@ title: Twitch Subscriber Emotes - melharucos
 emojis:
 - name: mellazuli
   src: https://static-cdn.jtvnw.net/emoticons/v1/6013/1.0
+- name: melhype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129269/1.0
 - name: melwtf
   src: https://static-cdn.jtvnw.net/emoticons/v1/74308/1.0
 - name: melyoba
   src: https://static-cdn.jtvnw.net/emoticons/v1/18975/1.0
-- name: melswag
-  src: https://static-cdn.jtvnw.net/emoticons/v1/61348/1.0
+- name: melpepe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129332/1.0
+- name: melmemes
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129334/1.0
+- name: melrabon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129670/1.0
+- name: melhey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129671/1.0
+- name: melminus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129672/1.0
 - name: melpride
   src: https://static-cdn.jtvnw.net/emoticons/v1/74845/1.0
 - name: mellove
   src: https://static-cdn.jtvnw.net/emoticons/v1/76292/1.0
-- name: melhype
-  src: https://static-cdn.jtvnw.net/emoticons/v1/84146/1.0
 - name: melj
   src: https://static-cdn.jtvnw.net/emoticons/v1/121618/1.0
 - name: melrak
   src: https://static-cdn.jtvnw.net/emoticons/v1/121619/1.0
 - name: melrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/122575/1.0
+- name: melz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129082/1.0

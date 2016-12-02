@@ -1,14 +1,14 @@
 ---
 title: Twitch Subscriber Emotes - flamuu
 emojis:
+- name: flamulul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129432/1.0
 - name: flamuop
   src: https://static-cdn.jtvnw.net/emoticons/v1/110739/1.0
 - name: flamub
   src: https://static-cdn.jtvnw.net/emoticons/v1/107011/1.0
 - name: flamurage
   src: https://static-cdn.jtvnw.net/emoticons/v1/108742/1.0
-- name: flamuc
-  src: https://static-cdn.jtvnw.net/emoticons/v1/107323/1.0
 - name: flamurng
   src: https://static-cdn.jtvnw.net/emoticons/v1/107055/1.0
 - name: flamurekt
@@ -19,3 +19,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/107437/1.0
 - name: flamuna
   src: https://static-cdn.jtvnw.net/emoticons/v1/124607/1.0
+- name: flamufan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126270/1.0

@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - zmcnikolaii
 emojis:
+- name: zmclouetime
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129702/1.0
 - name: zmcstats
   src: https://static-cdn.jtvnw.net/emoticons/v1/73311/1.0
 - name: zmcball

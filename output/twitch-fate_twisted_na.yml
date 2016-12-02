@@ -3,10 +3,18 @@ title: Twitch Subscriber Emotes - fate_twisted_na
 emojis:
 - name: ftnaok
   src: https://static-cdn.jtvnw.net/emoticons/v1/103983/1.0
+- name: ftnapride
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130772/1.0
 - name: ftnab
   src: https://static-cdn.jtvnw.net/emoticons/v1/108673/1.0
+- name: ftna1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130849/1.0
+- name: ftna3
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130851/1.0
 - name: ftnaurself
   src: https://static-cdn.jtvnw.net/emoticons/v1/108672/1.0
+- name: ftna4
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130852/1.0
 - name: ftnachamp
   src: https://static-cdn.jtvnw.net/emoticons/v1/108668/1.0
 - name: ftnahey
@@ -17,6 +25,8 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/108665/1.0
 - name: ftnawut
   src: https://static-cdn.jtvnw.net/emoticons/v1/108664/1.0
+- name: ftna2
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130850/1.0
 - name: ftnakkano
   src: https://static-cdn.jtvnw.net/emoticons/v1/105666/1.0
 - name: ftnagasm

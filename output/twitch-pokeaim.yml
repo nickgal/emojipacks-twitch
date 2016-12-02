@@ -1,6 +1,8 @@
 ---
 title: Twitch Subscriber Emotes - pokeaim
 emojis:
+- name: pkaimu
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130660/1.0
 - name: pkaimjaw
   src: https://static-cdn.jtvnw.net/emoticons/v1/53891/1.0
 - name: pkaimhlot

@@ -1,7 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - xekedeath
 emojis:
-- name: xekelove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120330/1.0
 - name: xekexeke
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120694/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129200/1.0
+- name: xekenuke
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129201/1.0
+- name: xekelurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129203/1.0
+- name: xekelove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129204/1.0
+- name: xekefyeah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129206/1.0
+- name: xekehey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129207/1.0
+- name: xekefail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129209/1.0
+- name: xekedead
+  src: https://static-cdn.jtvnw.net/emoticons/v1/129291/1.0

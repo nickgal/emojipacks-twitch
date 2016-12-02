@@ -1,19 +1,23 @@
 ---
 title: Twitch Subscriber Emotes - poseidon1990
 emojis:
-- name: fettmilch
+- name: psdnmilch
   src: https://static-cdn.jtvnw.net/emoticons/v1/113821/1.0
-- name: fettrasur
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103198/1.0
-- name: fetthacker
+- name: psdnhacker
   src: https://static-cdn.jtvnw.net/emoticons/v1/113848/1.0
-- name: fettfett
+- name: psdnfett
   src: https://static-cdn.jtvnw.net/emoticons/v1/103194/1.0
-- name: fettschande
+- name: psdnschande
   src: https://static-cdn.jtvnw.net/emoticons/v1/103192/1.0
-- name: fetthype
+- name: psdnhype
   src: https://static-cdn.jtvnw.net/emoticons/v1/103188/1.0
-- name: fettomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/103187/1.0
-- name: fettlove
+- name: psdnlove
   src: https://static-cdn.jtvnw.net/emoticons/v1/113849/1.0
+- name: psdnpacks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127053/1.0
+- name: psdntop
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127052/1.0
+- name: psdnbus
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128770/1.0
+- name: psdnomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128771/1.0

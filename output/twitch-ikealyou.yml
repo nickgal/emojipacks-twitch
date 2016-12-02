@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - ikealyou
 emojis:
-- name: ikealpride
-  src: https://static-cdn.jtvnw.net/emoticons/v1/65984/1.0
 - name: ikealw
   src: https://static-cdn.jtvnw.net/emoticons/v1/69617/1.0
 - name: ikealhype
@@ -17,3 +15,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/119122/1.0
 - name: ikealzolw
   src: https://static-cdn.jtvnw.net/emoticons/v1/122658/1.0
+- name: ikealboks
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126944/1.0

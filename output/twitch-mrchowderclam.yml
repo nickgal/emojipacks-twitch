@@ -1,42 +1,48 @@
 ---
 title: Twitch Subscriber Emotes - mrchowderclam
 emojis:
-- name: cclamturkey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93461/1.0
+- name: cclamhelp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130567/1.0
+- name: cclamcoon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130732/1.0
+- name: cclamcross
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130733/1.0
+- name: cclamheart
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130734/1.0
+- name: cclamhi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130735/1.0
+- name: cclamderp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130736/1.0
+- name: cclamheh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130737/1.0
+- name: cclambad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130738/1.0
+- name: cclamcry
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130744/1.0
+- name: cclamgasm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130741/1.0
+- name: cclamneko
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130742/1.0
+- name: cclamrip
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130743/1.0
+- name: cclamchamp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130745/1.0
+- name: cclamfail
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130746/1.0
+- name: cclamstare
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130747/1.0
+- name: cclamhoho
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130748/1.0
 - name: cclammei3
   src: https://static-cdn.jtvnw.net/emoticons/v1/104692/1.0
 - name: cclammei2
   src: https://static-cdn.jtvnw.net/emoticons/v1/104693/1.0
-- name: cclammei1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104694/1.0
-- name: cclamcoon
-  src: https://static-cdn.jtvnw.net/emoticons/v1/93619/1.0
 - name: cclamwut
   src: https://static-cdn.jtvnw.net/emoticons/v1/86938/1.0
-- name: cclamheart
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120579/1.0
-- name: cclamlol
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120581/1.0
-- name: cclamhi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120582/1.0
-- name: cclamderp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120583/1.0
-- name: cclamoh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120584/1.0
 - name: cclamq2
   src: https://static-cdn.jtvnw.net/emoticons/v1/120588/1.0
 - name: cclamq1
   src: https://static-cdn.jtvnw.net/emoticons/v1/120589/1.0
-- name: cclamheh
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120590/1.0
-- name: cclambad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120591/1.0
-- name: cclamfeels
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120593/1.0
-- name: cclamgasm
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120599/1.0
-- name: cclamneko
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120601/1.0
 - name: cclamten
   src: https://static-cdn.jtvnw.net/emoticons/v1/120602/1.0
 - name: cclamlink3
@@ -45,10 +51,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/120606/1.0
 - name: cclamlink1
   src: https://static-cdn.jtvnw.net/emoticons/v1/120607/1.0
-- name: cclamrip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120608/1.0
-- name: cclamcool
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120609/1.0
 - name: cclamswordr
   src: https://static-cdn.jtvnw.net/emoticons/v1/120613/1.0
 - name: cclamgenji
@@ -71,31 +73,29 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/120623/1.0
 - name: cclamwingl
   src: https://static-cdn.jtvnw.net/emoticons/v1/120624/1.0
-- name: cclambork
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120625/1.0
 - name: cclamtriggered
   src: https://static-cdn.jtvnw.net/emoticons/v1/120798/1.0
-- name: cclamboo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/121272/1.0
-- name: cclamfyes
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122579/1.0
-- name: cclamfno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122580/1.0
-- name: cclamfyay
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122581/1.0
-- name: cclamlurk
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122583/1.0
-- name: cclamno
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122584/1.0
-- name: cclamscared
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122585/1.0
-- name: cclamcry
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122586/1.0
-- name: cclamchamp
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122587/1.0
-- name: cclamfail
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122588/1.0
 - name: cclamyay
   src: https://static-cdn.jtvnw.net/emoticons/v1/122594/1.0
-- name: cclamstare
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122595/1.0
+- name: cclambork
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130553/1.0
+- name: cclamturkey
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130554/1.0
+- name: cclammei1
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130555/1.0
+- name: cclamlol
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130556/1.0
+- name: cclamoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130557/1.0
+- name: cclamfeels
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130558/1.0
+- name: cclamcool
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130559/1.0
+- name: cclamlurk
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130560/1.0
+- name: cclamno
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130561/1.0
+- name: cclamscared
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130562/1.0
+- name: cclamwoah
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130564/1.0

@@ -1,7 +1,11 @@
 ---
 title: Twitch Subscriber Emotes - eskhato
 emojis:
-- name: haha2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104817/1.0
-- name: haha1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/104816/1.0
+- name: hahaagr
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126647/1.0
+- name: hahalike
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126648/1.0
+- name: hahageralt
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127134/1.0
+- name: hahalove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127133/1.0

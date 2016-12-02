@@ -1,8 +1,6 @@
 ---
 title: Twitch Subscriber Emotes - cemantics
 emojis:
-- name: cemsack
-  src: https://static-cdn.jtvnw.net/emoticons/v1/37088/1.0
 - name: cemkappa
   src: https://static-cdn.jtvnw.net/emoticons/v1/36029/1.0
 - name: cemgasm
@@ -13,3 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/82294/1.0
 - name: cemflex
   src: https://static-cdn.jtvnw.net/emoticons/v1/82288/1.0
+- name: cemthink
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126664/1.0

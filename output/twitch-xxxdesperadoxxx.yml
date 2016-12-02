@@ -3,12 +3,8 @@ title: Twitch Subscriber Emotes - xxxdesperadoxxx
 emojis:
 - name: desphammer
   src: https://static-cdn.jtvnw.net/emoticons/v1/112484/1.0
-- name: desp1st
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114577/1.0
 - name: despflexl
   src: https://static-cdn.jtvnw.net/emoticons/v1/112121/1.0
-- name: desplove
-  src: https://static-cdn.jtvnw.net/emoticons/v1/112122/1.0
 - name: despflexr
   src: https://static-cdn.jtvnw.net/emoticons/v1/112143/1.0
 - name: despstar
@@ -17,3 +13,7 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/112686/1.0
 - name: desprage
   src: https://static-cdn.jtvnw.net/emoticons/v1/120159/1.0
+- name: desplove
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127288/1.0
+- name: despgg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128864/1.0

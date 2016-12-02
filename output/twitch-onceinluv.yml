@@ -1,8 +1,12 @@
 ---
 title: Twitch Subscriber Emotes - onceinluv
 emojis:
+- name: onceweeb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130215/1.0
 - name: onceluv
-  src: https://static-cdn.jtvnw.net/emoticons/v1/120313/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130216/1.0
+- name: oncethump
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130217/1.0
 - name: oncetilt
   src: https://static-cdn.jtvnw.net/emoticons/v1/120312/1.0
 - name: oncehype

@@ -1,33 +1,33 @@
 ---
 title: Twitch Subscriber Emotes - slyfoxhound
 emojis:
-- name: sfh3
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108879/1.0
-- name: sfh1
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108877/1.0
-- name: sfhsad
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100115/1.0
-- name: sfh2
-  src: https://static-cdn.jtvnw.net/emoticons/v1/108878/1.0
-- name: sfhlul
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110329/1.0
-- name: sfhbot
-  src: https://static-cdn.jtvnw.net/emoticons/v1/100531/1.0
-- name: sfhwut
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94093/1.0
-- name: sfhomg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89450/1.0
-- name: sfhmo
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89449/1.0
-- name: sfhhoi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/89443/1.0
-- name: sfhsora
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94140/1.0
-- name: sfhwow
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94440/1.0
-- name: sfhtrollan
-  src: https://static-cdn.jtvnw.net/emoticons/v1/99544/1.0
 - name: sfhat
   src: https://static-cdn.jtvnw.net/emoticons/v1/113899/1.0
 - name: sfhne
   src: https://static-cdn.jtvnw.net/emoticons/v1/113898/1.0
+- name: sfhmad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128029/1.0
+- name: sfhsad
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127836/1.0
+- name: sfhsmug
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127835/1.0
+- name: sfhwut
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127824/1.0
+- name: sfhtrollan
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127823/1.0
+- name: sfhsora
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127822/1.0
+- name: sfhpls
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127821/1.0
+- name: sfhomg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127882/1.0
+- name: sfhoh
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128015/1.0
+- name: sfhlul
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128011/1.0
+- name: sfhwow
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128099/1.0
+- name: sfhhm
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128109/1.0
+- name: sfhhoi
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128119/1.0

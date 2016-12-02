@@ -3,21 +3,21 @@ title: Twitch Subscriber Emotes - kevinho90
 emojis:
 - name: k90teufel
   src: https://static-cdn.jtvnw.net/emoticons/v1/35374/1.0
-- name: k90engel
-  src: https://static-cdn.jtvnw.net/emoticons/v1/35370/1.0
 - name: k90nutella
   src: https://static-cdn.jtvnw.net/emoticons/v1/29798/1.0
-- name: k90doe
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29799/1.0
 - name: k90traurig
   src: https://static-cdn.jtvnw.net/emoticons/v1/61421/1.0
-- name: k90dulli
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88680/1.0
 - name: k90hype
   src: https://static-cdn.jtvnw.net/emoticons/v1/88443/1.0
-- name: k90pink
-  src: https://static-cdn.jtvnw.net/emoticons/v1/117046/1.0
-- name: k90doof
-  src: https://static-cdn.jtvnw.net/emoticons/v1/118097/1.0
 - name: k90rage
   src: https://static-cdn.jtvnw.net/emoticons/v1/118098/1.0
+- name: k90smile
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126391/1.0
+- name: k90doe
+  src: https://static-cdn.jtvnw.net/emoticons/v1/127953/1.0
+- name: k90dulli
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128677/1.0
+- name: k90herz
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128662/1.0
+- name: k90doof
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128830/1.0

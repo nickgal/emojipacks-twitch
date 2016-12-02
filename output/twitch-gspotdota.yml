@@ -1,15 +1,19 @@
 ---
 title: Twitch Subscriber Emotes - gspotdota
 emojis:
-- name: gusczar
-  src: https://static-cdn.jtvnw.net/emoticons/v1/29898/1.0
 - name: gusgoose
   src: https://static-cdn.jtvnw.net/emoticons/v1/29032/1.0
-- name: gusbadman
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94869/1.0
-- name: gusshi
-  src: https://static-cdn.jtvnw.net/emoticons/v1/88505/1.0
+- name: gusmlg
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126135/1.0
+- name: gushype
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126134/1.0
+- name: gusshiriya
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126133/1.0
 - name: gusez
-  src: https://static-cdn.jtvnw.net/emoticons/v1/94868/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126131/1.0
+- name: gusbadman
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126130/1.0
 - name: gusornul
-  src: https://static-cdn.jtvnw.net/emoticons/v1/98783/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126129/1.0
+- name: guskappa
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126744/1.0

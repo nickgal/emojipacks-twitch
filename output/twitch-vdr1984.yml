@@ -1,5 +1,7 @@
 ---
 title: Twitch Subscriber Emotes - vdr1984
 emojis:
-- name: vdrrng
-  src: https://static-cdn.jtvnw.net/emoticons/v1/122789/1.0
+- name: vdrbot
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126259/1.0
+- name: vdrserb
+  src: https://static-cdn.jtvnw.net/emoticons/v1/126245/1.0

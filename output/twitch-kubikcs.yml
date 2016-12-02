@@ -3,8 +3,6 @@ title: Twitch Subscriber Emotes - kubikcs
 emojis:
 - name: kubikaha
   src: https://static-cdn.jtvnw.net/emoticons/v1/63780/1.0
-- name: kubikloj
-  src: https://static-cdn.jtvnw.net/emoticons/v1/60916/1.0
 - name: kubikszkoda
   src: https://static-cdn.jtvnw.net/emoticons/v1/60915/1.0
 - name: kubikkappa
@@ -13,11 +11,5 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/60486/1.0
 - name: kubikthrow
   src: https://static-cdn.jtvnw.net/emoticons/v1/61659/1.0
-- name: kubikzmie
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77122/1.0
-- name: kubiklony
-  src: https://static-cdn.jtvnw.net/emoticons/v1/77123/1.0
-- name: kubikskip
-  src: https://static-cdn.jtvnw.net/emoticons/v1/78347/1.0
 - name: kubikzelek
   src: https://static-cdn.jtvnw.net/emoticons/v1/81817/1.0
