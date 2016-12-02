@@ -17,8 +17,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/50/1.0
 - name: asianglow
   src: https://static-cdn.jtvnw.net/emoticons/v1/74/1.0
-- name: athenapms
-  src: https://static-cdn.jtvnw.net/emoticons/v1/32035/1.0
 - name: babyrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/22639/1.0
 - name: batchest
@@ -37,8 +35,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/62835/1.0
 - name: bloodtrail
   src: https://static-cdn.jtvnw.net/emoticons/v1/69/1.0
-- name: bort
-  src: https://static-cdn.jtvnw.net/emoticons/v1/243/1.0
 - name: brainslug
   src: https://static-cdn.jtvnw.net/emoticons/v1/115233/1.0
 - name: brokeback
@@ -51,10 +47,14 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/97856/1.0
 - name: cheffrank
   src: https://static-cdn.jtvnw.net/emoticons/v1/90129/1.0
+- name: clarmy
+  src: https://static-cdn.jtvnw.net/emoticons/v1/128886/1.0
 - name: cmonbruh
   src: https://static-cdn.jtvnw.net/emoticons/v1/84608/1.0
 - name: coolcat
   src: https://static-cdn.jtvnw.net/emoticons/v1/58127/1.0
+- name: coolstorybob
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123171/1.0
 - name: copythis
   src: https://static-cdn.jtvnw.net/emoticons/v1/112288/1.0
 - name: corgiderp
@@ -121,8 +121,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/46881/1.0
 - name: imglitch
   src: https://static-cdn.jtvnw.net/emoticons/v1/112290/1.0
-- name: itsboshytime
-  src: https://static-cdn.jtvnw.net/emoticons/v1/169/1.0
 - name: jebaited
   src: https://static-cdn.jtvnw.net/emoticons/v1/114836/1.0
 - name: jkanstyle
@@ -145,8 +143,6 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/1902/1.0
 - name: kevinturtle
   src: https://static-cdn.jtvnw.net/emoticons/v1/40/1.0
-- name: kingme
-  src: https://static-cdn.jtvnw.net/emoticons/v1/114025/1.0
 - name: kippa
   src: https://static-cdn.jtvnw.net/emoticons/v1/1901/1.0
 - name: kreygasm
@@ -163,8 +159,10 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/28/1.0
 - name: mvgame
   src: https://static-cdn.jtvnw.net/emoticons/v1/29/1.0
-- name: nervousmonkey
-  src: https://static-cdn.jtvnw.net/emoticons/v1/110009/1.0
+- name: nerfblueblaster
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124537/1.0
+- name: nerfredblaster
+  src: https://static-cdn.jtvnw.net/emoticons/v1/124535/1.0
 - name: ninjatroll
   src: https://static-cdn.jtvnw.net/emoticons/v1/45/1.0
 - name: nomnom
@@ -196,7 +194,7 @@ emojis:
 - name: panicvis
   src: https://static-cdn.jtvnw.net/emoticons/v1/3668/1.0
 - name: partytime
-  src: https://static-cdn.jtvnw.net/emoticons/v1/76171/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/130408/1.0
 - name: pastathat
   src: https://static-cdn.jtvnw.net/emoticons/v1/112289/1.0
 - name: peopleschamp
@@ -247,6 +245,12 @@ emojis:
   src: https://static-cdn.jtvnw.net/emoticons/v1/107030/1.0
 - name: seemsgood
   src: https://static-cdn.jtvnw.net/emoticons/v1/64138/1.0
+- name: sglemon
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123329/1.0
+- name: sgmouth
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123330/1.0
+- name: sgrasp
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123331/1.0
 - name: shadylulu
   src: https://static-cdn.jtvnw.net/emoticons/v1/52492/1.0
 - name: shazbotstix
@@ -268,7 +272,7 @@ emojis:
 - name: strawbeary
   src: https://static-cdn.jtvnw.net/emoticons/v1/114876/1.0
 - name: supervinlin
-  src: https://static-cdn.jtvnw.net/emoticons/v1/31/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/118772/1.0
 - name: swiftrage
   src: https://static-cdn.jtvnw.net/emoticons/v1/34/1.0
 - name: takenrg
@@ -294,13 +298,13 @@ emojis:
 - name: toospicy
   src: https://static-cdn.jtvnw.net/emoticons/v1/114846/1.0
 - name: trihard
-  src: https://static-cdn.jtvnw.net/emoticons/v1/171/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/120232/1.0
 - name: ttours
   src: https://static-cdn.jtvnw.net/emoticons/v1/38436/1.0
 - name: twitchraid
   src: https://static-cdn.jtvnw.net/emoticons/v1/62836/1.0
 - name: twitchrpg
-  src: https://static-cdn.jtvnw.net/emoticons/v1/118336/1.0
+  src: https://static-cdn.jtvnw.net/emoticons/v1/123669/1.0
 - name: uleetbackup
   src: https://static-cdn.jtvnw.net/emoticons/v1/49/1.0
 - name: unclenox
